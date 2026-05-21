@@ -1,42 +1,44 @@
 # Statistiques Zapper Bolloré
 
-|**Total**|**3044**|
+|**Total**|**3160**|
 |:-|-:|
-|Accessoiriste|[34](#accessoiriste)|
-|Acteurice,Comédien.ne|[286](#acteuricecomédienne)|
-|Cadreur|[17](#cadreur)|
-|Caméra|[70](#caméra)|
+|Accessoiriste|[35](#accessoiriste)|
+|Acteurice, Comédien.ne|[295](#acteurice-comédienne)|
+|Cadreureuse|[17](#cadreureuse)|
+|Caméra|[72](#caméra)|
 |Casting, Figuration|[32](#casting-figuration)|
-|Cinéaste|[80](#cinéaste)|
+|Cinéaste|[81](#cinéaste)|
 |Coiffeureuse|[6](#coiffeureuse)|
 |Compositeur|[27](#compositeur)|
-|Costumièr.e|[36](#costumière)|
-|Décorateurice|[57](#décorateurice)|
+|Costumièr.e|[38](#costumière)|
+|Décorateurice|[60](#décorateurice)|
 |Distributeur|[16](#distributeur)|
-|Électricien.ne|[128](#Électricienne)|
-|Habilleur|[16](#habilleur)|
+|Électricien.ne|[130](#Électricienne)|
+|Habilleur|[17](#habilleur)|
 |Lumière|[18](#lumière)|
-|Machiniste|[60](#machiniste)|
-|Maquilleureuse|[26](#maquilleureuse)|
+|Machiniste|[61](#machiniste)|
+|Maquilleureuse|[27](#maquilleureuse)|
 |Menuiserie|[1](#menuiserie)|
 |Metteureuse en Scène|[43](#metteureuse-en-scène)|
-|Monteurice|[208](#monteurice)|
-|Opérateur.ne|[100](#opérateurne)|
-|Peintre|[38](#peintre)|
-|Perchiste|[10](#perchiste)|
-|Photo|[65](#photo)|
-|Producteurice|[150](#producteurice)|
-|Production|[96](#production)|
-|Programmateurice|[91](#programmateurice)|
+|Monteurice|[215](#monteurice)|
+|Opérateureuse|[106](#opérateureuse)|
+|Peintre|[44](#peintre)|
+|Perchiste|[11](#perchiste)|
+|Photo|[66](#photo)|
+|Producteurice|[153](#producteurice)|
+|Production|[102](#production)|
+|Programmateurice|[92](#programmateurice)|
 |Projectionniste|[36](#projectionniste)|
-|Réalisateurice|[596](#réalisateurice)|
-|Régisseure.se|[99](#régisseurese)|
+|Réalisateurice|[617](#réalisateurice)|
+|Régisseure.se|[105](#régisseurese)|
 |Rippeureuse|[12](#rippeureuse)|
-|Scénariste|[179](#scénariste)|
-|Son|[172](#son)|
-|Autres|[543](#autres)|
+|Scénariste|[188](#scénariste)|
+|Son|[188](#son)|
+|Autres|[565](#autres)|
 
 ## Accessoiriste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Bailay Louise, graphiste déco, accessoiriste de plateau
 - Bonin Baptiste,  accessoiriste de plateau
@@ -63,6 +65,7 @@
 - Poncet Mathilde, accessoiriste
 - Proton Kilian, Accessoiriste de plateau
 - Reichenbach Pauline, Accessoiriste
+- Riou Mikael, Accessoiriste aux meubles
 - Roos Ambre, accessoiriste
 - Roudil Christian, Accessoiriste
 - Rovere Marc, Accessoiriste
@@ -75,7 +78,9 @@
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
-## Acteurice,Comédien.ne
+## Acteurice, Comédien.ne
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Agogué Raphaëlle, comédienne
 - Aiffe Ceccaldi Vanessa, Comédienne
@@ -97,6 +102,7 @@
 - Bellec Maëlle, comédienne
 - Bellone Valentine, Comédienne
 - Benedetti Christian, metteur en scène, comédien
+- Bensnoussi Tewfik, Comédien
 - Berling Charles, comédien
 - Bernard-Grison Flora, Comédienne
 - Bha Zbeida, comédienne
@@ -155,6 +161,7 @@
 - de Broissia Inès, Actrice
 - Delacour Michael, Comédien
 - Delamarlière Hugues, Acteur
+- de La Rochefoucauld Sophie, Comédienne
 - de Lencquesaing Alice, comédienne
 - de Mezamat Aliénor, Comédienne et réalisatrice
 - Denarnaud Marie, comédienne
@@ -165,6 +172,7 @@
 - Dolmaire Quentin, acteur
 - Du Bois Victoire, comédienne
 - Duguey Romain, comédien
+- Dujardin Caroline, Actrice et scénariste
 - Dumay Jean Charles,  acteur
 - Dumortier Gauthier, acteur
 - Duparc Sissi, Comédienne
@@ -230,9 +238,11 @@
 - Kraffe Colette, Comédienne
 - Labed Ariane, comédienne
 - Lacaille Xavier, auteur, acteur et réalisateur
+- Lachat Sylvie, Comédienne
 - Lacroix Nathalie, comédienne
 - Lagnié Jean-Baptiste, Acteur
 - Lamache Camille, Comédienne
+- Lama Schmit Clara, Comédienne
 - Lambouley Louis-Martin, comédien
 - Lamoitier Édouard, Acteur
 - Landon Barret Léo, actrice et autrice
@@ -315,8 +325,10 @@
 - Quinsac Léa, comédienne
 - Rabourdin Olivier, acteur   
 - Raoult Delphine, Comédienne
+- Renko Serge, Comédien
 - Renucci Robin, comédien et réalisateur
 - Riedler Martin, comédien
+- Rieger Louison, Comédien
 - Robic Xavier, comédien
 - Rodier Anne, Comédienne et autrice
 - Roth Julie Anne, comédienne
@@ -337,6 +349,7 @@
 - Slimani Missoum, Acteur
 - Sodupe Mar, comédienne
 - Solo Bruno, comédien
+- Sorlin Anne Élodie, Comédienne
 - Sulpice Édouard, comédien
 - Susini Marc, acteur
 - Tavella Lara, actrice   
@@ -348,6 +361,7 @@
 - Tual Maxence, comédien
 - Vachey Nadège, comédienne
 - Vadillo Carmen, comédienne
+- Varela Le jo, Comédien
 - Vaugeois Marc-Antoine, comédien et réalisateur
 - Verhagen Sara, actrice scénariste réalisatrice
 - Vernon Audrey, comédienne
@@ -370,7 +384,9 @@
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
-## Cadreur
+## Cadreureuse
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Alberts Manu, Cadreur
 - Benoit François, Cadreur
@@ -393,6 +409,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Caméra
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Aeschimann Noémi, 2eme assistante caméra
 - Attiave Hugo, Assistant caméra
@@ -429,6 +447,7 @@
 - Goupil Tierd Aloise, Assistante caméra
 - Goutin Antoinette, Assistante caméra
 - Graziani Léane, Assistante caméra
+- Grethen Valentin, Assistant caméra
 - Groscolas Lison, Assistante caméra
 - Huisse Eléonore, Assistante caméra-cinéaste
 - Kaminski Flora, 1ere assistante caméra
@@ -463,11 +482,14 @@
 - Surace Jeremy, 2nd Assistant Caméra
 - Temmerman Aurélie, assistante caméra
 - Thibault Garance, Assistante caméra
+- Tiger Anna, Assistante caméra
 - Vasseur Jaomin, 2ème assistante caméra
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Casting, Figuration
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Allione Julie, directrice de casting
 - Aubert Serfaty Lou, Assistante casting
@@ -505,6 +527,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Cinéaste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Abitbol Judith, cinéaste   
 - Arnoux Stéphane, cinéaste
@@ -577,6 +601,7 @@
 - Tamadon Mehran, cinéaste
 - Teichner Noah, cinéaste
 - Thuret Stan, Cineaste navigateur
+- Trinques Gilles, cinéaste, scénariste
 - Vanh Bouapha Sengthe, cinéaste
 - Varela Pamela, cinéaste
 - Verdet Florent, cinéaste
@@ -591,6 +616,8 @@
 
 ## Coiffeureuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Brizard Jane, cheffe coiffeuse cinéma
 - Del Frate Téo, Coiffeur
 - Hochet Adeline, Coiffeuse perruquière
@@ -601,6 +628,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Compositeur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Boghossian Lazare, compositeur
 - Boni Raymond Musicien, compositeur
@@ -634,13 +663,17 @@
 
 ## Costumièr.e
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Barchi Elodie, Costumière
 - Betrancourt Lucille, Costumière
 - Caravati Marilou, Costumière
+- Charchaude Laurent, Regisseur costume
 - Danglades Maë-Li, Costumière
 - Dian Claire, habilleuse, costumière
 - Diene Mossane, costumière
 - Durand Anais, costumière
+- Ferron Antoine, Costumier
 - Gérard Carole, cheffe costumière
 - Gérard Carole, créatrice de costumes
 - Gledhill Anne-Sophie, Créatrice de costumes
@@ -675,6 +708,8 @@
 
 ## Décorateurice
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Arlaud Yan, Chef décorateur
 - Assouline Sébastien, Assistant déco
 - Balland Théophile, Décorateur Film d’animation
@@ -689,6 +724,7 @@
 - Boiscuille Nicolas, décorateur
 - Bonetto Tom, Menuisier de décor
 - Bonjour Marion, assistante déco
+- Bossut Sylvain, Sculpteur décorateur
 - Bouchon Raphaël, décorateur
 - Bource Camille, peintre de décor
 - Brémont Marine, Assistante Ensemblière, 2nde assistante déco
@@ -723,10 +759,12 @@
 - Le Bacquer Adèle, Peintre déco
 - Ledrapier Xavier, Décorateur
 - Mentheour Dylan, Assistant décorateur
+- Millot Quentin, chef décorateur
 - Pernet Corentin, peintre décorateur de cinéma
 - Rabasse Jean, Chef Décorateur
 - Renault Denis, chef décorateur
 - Renault Denis, chef décorateur
+- Rivals Elise, Peintre en décor
 - Roth Arnaud, chef décorateur
 - Rousseau Lisa, Peintre en décor
 - Tramier Torea, Décorateur
@@ -737,6 +775,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Distributeur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Barrau Albane, distributrice
 - Beaufils Marie, Distributrice et médiatrice indépendante
@@ -758,6 +798,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Électricien.ne
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Ader Guillaume Chef, électricien
 - Andraud Antoine, Électricien / scénariste
@@ -872,6 +914,7 @@
 - Rivière Bruno, éléctricien
 - Rodet Mel, Electricien.ne de prise de vue
 - Rolot Didier, électricien
+- Roques Pierre, Électricien de plateau
 - Roux Antoine, Chef électricien de prises de vues
 - Schuster Camille,  électricienne
 - Schwartz Lucas, Chef électricien
@@ -883,6 +926,7 @@
 - Theo Farama, électricien de prise de vue
 - Thomas Pierre, Electricien
 - Trimaille Louis, Électricien
+- Vallette Clement, électricien
 - Valmy Mohan, chef electro
 - Varin Antoine, électricien éclairagiste
 - Villepelet Lucas, Chef électricien
@@ -892,9 +936,12 @@
 
 ## Habilleur
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Amagat Ambre, habilleuse
 - Blot Anne-Capucine, habilleuse
 - Dian Claire, habilleuse, costumière
+- Dollon Josepha, Habilleuse
 - Garcia Ines, Habilleuse
 - Koch Mathilde, Habilleuse/costumiere
 - Lacroix Lucie, habilleuse 
@@ -912,6 +959,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Lumière
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Babault Ludovic, Régisseur Lumière
 - Berteaux Gaétan, Électricien éclairagiste
@@ -935,6 +984,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Machiniste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Amouroux Yoan, Chef machiniste
 - Blanchard Agathe, Machiniste de prise de vue
@@ -985,6 +1036,7 @@
 - Moulin Sophie, Machiniste de prise de vues
 - Mourier Ludwig, machiniste
 - Perpina Juliette, cheffe machiniste
+- Petri Jean-Marc, Chef Machiniste
 - Quennec Nolan, Machiniste
 - Richarth Oliver, Machiniste construction décor cinéma
 - Roussel Laure, machiniste
@@ -1002,12 +1054,15 @@
 
 ## Maquilleureuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Allegatiere Sophie, Cheffe maquilleuse
 - Baboulenne Amélie, maquilleuse
 - Baradeau Aurélie, Maquilleuse
 - Barnes Nicolas Romy, Maquilleuse
 - Batteault Florence, Cheffe maquilleuse
 - Benamer Maya, Cheffe maquilleuse
+- Bernet Michelle, Maquilleuse
 - Boccia Elora, Maquilleuse
 - Braun Malka, Maquilleuse
 - Colet Marie, Maquilleuse
@@ -1033,11 +1088,15 @@
 
 ## Menuiserie
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Richard Elise, Menuiserie
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Metteureuse en Scène
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Allard Alice, Assistante Mise en scène
 - Bayiha Astrid Comédienne, autrice et metteuse en scène
@@ -1086,6 +1145,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Monteurice
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Angrand Emmanuel, monteur son
 - Araud Stephanie, Monteuse
@@ -1147,9 +1208,11 @@
 - de Lescure Jean-Baptiste, chef-monteur
 - Delom Laureline, monteuse
 - De Loof Valérie, Monteuse son
+- Denis Emilien, Monteur
 - Derail Jean-Philippe, Cinéaste et Monteur
 - Derail Jean-Philippe, cinéaste, monteur
 - Dessertine Cécille, Monteuse
+- Detournay Caroline, Monteuse
 - Diard Clémence, monteuse
 - Do Couto Yannis, monteur son
 - Doncker Thibaut, monteur
@@ -1192,6 +1255,7 @@
 - Joujou Gladys, Monteuse
 - Kaplan Simon, Monteur
 - Kergoat Yannick, monteur et réalisateur
+- Kharitonnoff Dimitri, Monteur son
 - Krebs Sébastien, monteur   
 - Lacheray Julien, monteur
 - Lapergue Cécile, monteuse
@@ -1212,6 +1276,7 @@
 - Martin Isabelle, Cheffe-monteuse
 - Massoutier Amélie, monteuse
 - Mathelier Apolline, Monteuse
+- Mathis Maxime, Monteur
 - Maunier Florence, Cheffe monteuse
 - Mellot, Jules Monteur
 - Mevel Lucie, monteuse
@@ -1219,6 +1284,7 @@
 - Molino Marie, monteuse     
 - Montagna Pascal, Responsable des formations, chef monteur
 - Mouterde Raphaël, monteur son
+- Munschy Julien, monteur
 - Nail Bertrand, monteur
 - Natarajan Surya, monteur
 - Nereau Romaric, Assistant monteur / DIT
@@ -1255,9 +1321,11 @@
 - Riesco Lena, Monteuse vidéo
 - Rima Munier Julie, monteuse
 - Rolland Arnaud, Monteur-son
+- Rozenberg Corinne, Cheffe monteuse
 - Ryon Pascal, Chef monteur
 - Saidi Zina, monteuse
 - Saint-Dizier Baptiste, Monteur
+- Saint-Marc Laure, Monteuse
 - Salem Sarah, cheffe monteuse
 - Sangla Anne-Marie, Chef monteuse
 - Sarfati Jeanne, monteuse
@@ -1298,7 +1366,9 @@
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
-## Opérateur.ne
+## Opérateureuse
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Alain Arnaud, Chef-opérateur et réalisateur
 - André Raphaël, 1er assistant opérateur
@@ -1306,6 +1376,7 @@
 - Aretino Pierre Chef opérateur du son, Mixeur
 - Atlan Marine, réalisatrice et cheffe opératrice
 - Attard Jérémie, chef opérateur
+- Audy jean-luc, chef operateur son
 - Aulnette Karine, Cheffe Opératrice
 - Aymes Adrien, Assistant caméra / chef opérateur
 - Balet Thomas, Assistant Opérateur
@@ -1315,6 +1386,7 @@
 - Borel Julien, Assistant caméra / chef opérateur
 - Bracquemont Lucie, première assistante OPV
 - Buchmann Sébastien, chef opérateur image
+- Burgess Ned, Chef operateur
 - Cadilhac Romain, chef opérateur du son
 - Caniaux Laure, 1e assistante opv
 - Cantin Nicolas, chef opérateur du son
@@ -1329,6 +1401,7 @@
 - Couillard François Xavier, chef opérateur son
 - Dabry Claire, 1ère assistante opérateur prises de vues
 - de Canson Cyrille Mixeur, Chef opérateur son
+- Decarsin Yolande, Cheffe opératrice du son
 - Decerle Mehdi, chef opérateur, assistant caméra
 - De gromard Paul, 1er assistant opérateur
 - De la Hautemaisn Julien, Chef Opérateur Son
@@ -1357,10 +1430,12 @@
 - Guilbert Philippe, Chef opérateur
 - Harari Tom, chef opérateur
 - Harold  Hennequin, chef opérateur son, perchman
+- Hernandez François, Chef opérateur
 - Herve-Mignucci Lancelot, Chef-opérateur du son
 - Hourant Timothé, Chef électricien, chef opérateur
 - Insel Utku, chef opérateur du son cinema
 - Joly Leo, 1er Assistant opérateur de prises de vue
+- Krzyzanowski Fabien, chef opérateur du son
 - Lab Balthazar, chef opérateur
 - Lacombe Quentin, chef opérateur
 - Lacour Dominique, chef opérateur son
@@ -1368,6 +1443,7 @@
 - Leclère Alexis, 2nd assistant OPV
 - Legros Lucie, Assistante opérateur·ice
 - Lorrain Pierre, Chef opérateur du son
+- Mantran Nicolas, Opérateur son
 - Mazet Remi, Chef opérateur
 - Mazoyer Pierre, cheffe opératrice
 - Mercier Antoine-Basile, chef opérateur du son
@@ -1405,6 +1481,9 @@
 
 ## Peintre
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
+- Alek Anouchka, Peintre
 - Arhex Suzanne, Peintre en décors
 - Arque Aurélie, peintre
 - Bayart Laurie, Peintre en décor
@@ -1416,6 +1495,7 @@
 - Champel Mathieu, Peintre décors
 - Charrié Nina, Peintre deco
 - Courtois Edouard, Peintre en lettres faux-bois
+- De Stoutz Caroline, Peintre Patineur
 - Edline Fabrice, Peintre déco
 - Ferrieux Anne, peintre deco
 - Fruhbrodt Veronica, Peintre
@@ -1425,16 +1505,20 @@
 - Gris Raphaëlle, Peintre
 - Guyot Virginie, peintre
 - Hager Aïna, Peintre de décors
+- Herve Christophe, Chef peintre
 - Imbert Arlaud Hélène, chef peintre
 - Jullien Corinne, peintre déco
 - Le Bacquer Adèle, Peintre déco
 - Lefevre Lucie, Peintre
 - Lemonnier Camille, Peintre
+- Muzzi Alain, Peintre
 - Pernet Corentin, peintre décorateur de cinéma
 - Phojo Fémi, Peintre
 - Pinguet Anne, Cheffe peintre
 - Pirim Veronica, peintre
+- Pujol Elofie, Peintre
 - Rekhamdji Karima, ensemblière, chef peintre
+- Rivals Elise, Peintre en décor
 - Ropert Amélie, Peintre
 - Rousseau Lisa, Peintre en décor
 - Soares Ana, Peintre en décors
@@ -1448,6 +1532,8 @@
 
 ## Perchiste
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - DanaisClément, perchman
 - Demoor Thibaut, Perchman
 - Deschamps Louis-Marie, perchman
@@ -1458,10 +1544,13 @@
 - Massiot Corentin,  perchman
 - Massiot Corentin, perchman
 - Van De Wiele Benjamin, Perchman
+- Varenne Olivier, Perchman
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Photo
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Attmane Amel, photographe   
 - Aumont Jean-Claude, Directeur de la photographie
@@ -1499,6 +1588,7 @@
 - Lechaptois George, directeur de la photographie
 - Louis Denis, éclairagiste / directeur de la photo / cadreur
 - Lubtchansky Irina, directrice photo
+- Maintigneux Sophie, Directrice de la photographie
 - Marti Pascal, directeur de la photo
 - Massis Stephan, Directeur photo
 - Mathon Claire, directrice de la photographie
@@ -1533,6 +1623,8 @@
 
 ## Producteurice
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Allaire Tom, producteur
 - Amiri Aïna, productrice d&
 - Armand Félix, Producteur, réalisateur, acteur
@@ -1555,11 +1647,13 @@
 - Bonnet Jean-Baptiste, Producteur
 - Bordier Aurélie, productrice
 - Boué Valérianne, Productrice
+- Bourgeois Albin, Producteur
 - Bouzom Annabelle, productrice
 - Cabut-Péré Damien, producteur
 - Carré Jean-Michel, auteur, réalisateur, producteur
 - Carriou Morgane, productrice
 - Casamayou Jean-François, producteur
+- Cavalier Laurent, Producteur exécutif Ciné / TV
 - Chapuis Ninon, productrice
 - Charrière Anna, productrice
 - Chaty Kevin, producteur
@@ -1680,6 +1774,7 @@
 - Vacheret Cécile, productrice
 - Vialaret Christophe, producteur
 - Vincent Bérénice, productrice
+- Vitel Christine, Productrice
 - Walter Cédric, producteur
 - Wisniewski Léa, productrice
 - Zaiti Ruelle Naël, producteur et réalisateur
@@ -1688,6 +1783,8 @@
 
 ## Production
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Amoureux Appoline, Post production
 - Arias Simon, directeur de production
 - Arradon Juliette, chargée de production
@@ -1695,6 +1792,7 @@
 - Azam Aurélie, Assistante de post production
 - Azzouzi Nora, Assistante de production
 - Baisadouli Philippe, directeur de production 
+- Bégéja Eponine, Directrice de production
 - Bercovitz Paul, Assistant de production
 - Besnier Julia, administratrice de production
 - Besnier Philippe, Directeur de production
@@ -1727,6 +1825,8 @@
 - Deschamps de Lepine Jeanne, Assistante de production
 - El Ouadie Oumeya, directrice de production
 - Ferali Laurence, Administratrice de production
+- Féry Robin, Chargé de production
+- Fuentes Marc, Directeur de production
 - Gaillardet Estelle, Directrice de production
 - Gazel Marion, Assistante de production
 - Grel Catherine, directrice de production
@@ -1740,6 +1840,7 @@
 - Hermann Alice, Administratrice de Production
 - Inocencio Tessa, Chargée de production
 - Koothan Clélia, Directrice de production
+- Kuroda Yuki, Directrice de production
 - Langmann Claire, directrice de production
 - Leskovec Lucka, directrice de post production
 - Lestoquoy Tim, Assistant de production
@@ -1763,6 +1864,7 @@
 - Prochaska Marta, secrétaire de production
 - Puisais Olivia, Assistante de production
 - Pulcini Lilou, assistante de production
+- Queney Marie, Assistante de production
 - Raevel Danaé, Directrice de production
 - Rezelman Victoria, Coordinatrice d’éco production
 - Riou Justine, Chargée de production
@@ -1773,6 +1875,7 @@
 - Salzer Hugo, Chargé de production
 - Sarrat-Rouch Marilou, Directrice de production - cinéma d&
 - Scarrone Jacques, ancien régisseur général et directeur de production
+- Servigne Alexandra, Administratrice de production
 - Taburiaux Maxime, assistant de production
 - Taillefer Lucas, Directeur d’ateliers de coproduction
 - Teillet Estelle, Administratrice de Production
@@ -1788,6 +1891,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Programmateurice
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Allonnes Judith, responsable de programmation
 - Amaudruz Samuel, programmateur
@@ -1851,6 +1956,7 @@
 - Munoz Antoine, programmateur
 - Muzy Agathe, programmatrice événementielle dans une salle de cinéma
 - Naim Antonia, programmatrice, directrice cinéma
+- Nicolas Pierre, Programmateur
 - Nizan Louise, Médiatrice programmatrice
 - Nuevo Roa Olga, Programmatrice
 - Olivi Théodora, Directrice-Programmatrice, cinéma indépendant Eldorado
@@ -1884,6 +1990,8 @@
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Projectionniste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Alazet Sébastien, projectionniste
 - Aubin Franck, projectionniste
@@ -1928,6 +2036,8 @@
 
 ## Réalisateurice
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Abadia Régine, Réalisatrice
 - Abbey Clément, Réalisateur
 - Achard Sébastien, 1er assistant réalisateur-trice
@@ -1946,6 +2056,7 @@
 - Antico Nine, Autrice de bd et Réalisatrice
 - Aplincourt Mathilde, réalisatrice
 - Armand Félix, Producteur, réalisateur, acteur
+- Arnold Rose, Assistante réalisation
 - Artiges Louis, vidéaste, réalisateur
 - Athané Nicolas, Réalisateur
 - Atlan Marine, réalisatrice et cheffe opératrice
@@ -1955,6 +2066,8 @@
 - Babin Erwann, réalisateur
 - Bailay Pauline, réalisatrice   
 - Baillot Gertrude, Réalisatrice
+- Balekdjian Anton, Réalisateur et scénariste
+- Balekdjian Anton, Réalisateur et scénariste
 - Ballyot Sylvie, réalisatrice
 - Barbé Ornella, Réalisatrice
 - Barbet Aurélia, réalisatrice 
@@ -1962,6 +2075,7 @@
 - Barché Loïc, réalisateur
 - Bareyre Matthieu, réalisateur
 - Baron Lise, Réalisatrice
+- Baron Tommy, Scénariste - réalisateur
 - Bator Etienne, Assistant Réalisateur
 - Batut Stéphane, réalisateur
 - Baudéan Romain, Réalisateur et chef-opérateur
@@ -1974,6 +2088,7 @@
 - Beauvais Maëlys, Actrice et Réalisatrice
 - Béhague Caroline, Réalisatrice
 - Belaloui Lina, assistante réalisateurices
+- Belen Jacquie, Réalisatrice
 - Belmessieri Max, assistant réalisateur
 - Benestan Emma, réalisatrice
 - Bensalah Karim, réalisateur
@@ -2015,6 +2130,7 @@
 - Bourdon Éli, réalisateur, scénariste
 - Bourgon Jeanne, réalisatrice documentaire
 - Boutet Antoine, réalisateur
+- Bouthors Benoit, Réalisteur
 - Bouzgarrou Diane Sara, réalisatrice
 - Boyer Angèle, apprentie réalisatrice/technicienne
 - Bressi Marianne, réalisatrice
@@ -2065,6 +2181,8 @@
 - Civeyrac Jean Paul, réalisateur
 - Clayssen Lucie, réalisatrice
 - Clément Anatole, réalisateur
+- Cohen Cleo, Réalisatrice
+- Cohen Grégory, Réalisateur
 - Cohen Hervé, Réalisateur
 - Coillard Mael, Réalisateur
 - Colineau Thomas, scénariste et réalisateur
@@ -2084,6 +2202,7 @@
 - Coulon Lorris, Réalisateur
 - Cousin Gilles, réalisateur
 - Cousin Orsa, Assistante Realisateur
+- Couture Léo, Réalisateur
 - Cristiani Jean-Noël, Réalisateur de films
 - Cuau Emmanuelle, réalisatrice, scénariste
 - Dacheux Michaël, réalisateur
@@ -2098,6 +2217,7 @@
 - De Butler Laure, réalisatrice
 - Decaster Laïs, réalisatrice
 - de Cointet Vincent, auteur-réalisateur
+- Defert Cédric, Réalisateur
 - Défossé Nicolas, réalisateur
 - Degeye Camille, réalisatrice
 - de Givry Félix, réalisateur et producteur
@@ -2128,16 +2248,19 @@
 - Ducastel Olivier, réalisateur
 - Duchemin Lucas, réalisateur
 - Dumont Patrick, réalisateur
+- Duprez Isabelle, Assistante Réalisateur
 - Duquenne Clément, réalisateur, photographe
 - Dury Pablo, réalisateur   
 - Dusfour Karine, réalisatrice
 - Dusséaux Jean-Baptiste , réalisateur et scripte
+- Duval Elsa, Réalisatrice
 - Ehouzan Bastien, réalisateur
 - Engasser Timothée, réalisateur
 - Epelboin Reno, Assistant Réalisateur
 - Esterez Arnaud, 1er Assistant Réalisateur
 - Estrade Catherine, réalisatrice
 - Estrade Laurine, Réalisatrice
+- Eustachon Mattéo, Réalisateur
 - Everaere Anouck, réalisatrice
 - Faligant Syl, auteur·rice, réalisateur·rice et acteur·rice
 - Fanara Lilian, Réalisateur
@@ -2169,6 +2292,7 @@
 - Garret Laurence, réalisatrice
 - Gaspar Mickaël acteur, réalisateur
 - Gaspar Mickaël, réalisateur
+- Gautier Mathéo, Auteur-réalisateur
 - Gavras Julie, réalisatrice
 - Gaye Dyana, réalisatrice
 - Genoudet Adrien, Écrivain, réalisateur
@@ -2220,6 +2344,7 @@
 - Heurtier Manzanares Lysa, réalisatrice et productrice
 - Hévin Salomé, réalisatrice
 - Hunzinger Robin, réalisateur
+- Iribarne Maia, Réalisatrice
 - Ivasco Tina, Monteureuse, réalisateurice et scénariste
 - Jakubowicz Sara, réalisatrice et assistante déco
 - Jenkoe Thomas, réalisateur
@@ -2280,6 +2405,7 @@
 - Le Guen Emeline, 2nde assistante réalisatrice
 - Lemée Nicolas, réalisateur
 - Lenoir Blandine, réalisatrice
+- Léon Vladimir, réalisateur
 - Lépingle Gaël, Réalisateur
 - Le Port Vincent, réalisateur
 - Leroux Christelle, Réalisatrice
@@ -2298,7 +2424,9 @@
 - Machard Thierry, acteur et réalisateur
 - Mahenc Isabelle, réalisatrice
 - Mahieu Chloé, Réalisatrice
+- Mahieu Chloé, Réalisatrice
 - Mainçon frédéric, réalisateur
+- Mak Anaïs, réalisatrice et graphiste générique
 - Malandrone Gaelle, réalisation   
 - Mallégol Sarah, réalisatrice 
 - Mallégol Sarah, réalisatrice   
@@ -2351,6 +2479,7 @@
 - Moshonas Loukianos, réalisateur, scénariste
 - Mourard Hugo, réalisateur
 - Moutout Jean-Marc, réalisateur
+- Mrejen Marcel, Réalisateur
 - Mréjen Valérie, réalisatrice
 - Namerla Tomasz, auteur réalisateur
 - Natarajan Surya, réalisateur
@@ -2367,6 +2496,7 @@
 - Nuguet Loanis, Réalisateur
 - Osouf Valérie, réalisatrice
 - Otero Mariana, réalisatrice
+- Ott Manon, Réalisatrice
 - Ouaret Karim, réalisateur  
 - Oustry Mia, réalisatrice
 - Paijens Eva, réalisatrice 
@@ -2422,6 +2552,7 @@
 - Ravizé Sébastien, Réalisateur
 - Redolfi Annick, Réalisatrice
 - Regales Marie, scénariste, réalisatrice
+- Reggiani Maria, Réalisatrice
 - Réglat Nicolas, réalisateur
 - Régnier Stéphanie, Réalisatrice
 - Renucci Robin, comédien et réalisateur
@@ -2443,6 +2574,7 @@
 - Ryngaert Mila, Réalisatrice
 - Salama Damien, réalisateur
 - Sallé Julien, réalisateur
+- Sallé Julien, Réalisateur
 - Salvert Thierry, réalisateur
 - Saubost Nicolas, assistant réalisateur
 - Sauder Régis, Réalisateur
@@ -2495,6 +2627,7 @@
 - Vaste Jurl, Réalisateur
 - Vaugeois Marc-Antoine, comédien et réalisateur
 - Vayssieres Lise, réalisatrice
+- Vazquez Antoine, Réalisateur
 - Verdet Martin, Réalisateur
 - Verhagen Sara, actrice scénariste réalisatrice
 - Vernoux Marion, réalisatrice
@@ -2532,21 +2665,27 @@
 
 ## Régisseure.se
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Ajello Bertille, Régisseuse
 - Alain Petiteau, réalisateur, scénariste, scripte, assistant régisseur adjoint
 - Albéri Samuel, régisseur   
 - Argant Basile, Régisseur
 - Arnaux Marylou, Régisseuse
 - Babault Ludovic, Régisseur Lumière
+- Bedouin Declan, Régisseur
 - Besse Simon, régisseur géneral
 - Beurrier Romain, Régisseur
 - Bordier Antoine, régisseur
 - Bouillot Jonathan, Régisseur d’extérieur
 - Boulis Valence Clara, régisseuse lumière
 - Brahim Sonia, régisseuse
+- Brugère Mariane, Régisseur
 - Buhl Fred, régisseur son
 - Cabanel Tatiana, régisseuse adjointe
+- Carteron Coline, Régisseuse d’extérieurs
 - Cathala Maurine, régisseuse
+- Charchaude Laurent, Regisseur costume
 - Cherdo Titi, Régisseur d&
 - Clauzier Benjamin, Repéreur de décors et régisseur général
 - Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
@@ -2609,6 +2748,7 @@
 - Perrier Marie, régisseuse adjointe
 - Pierre-Marc Dominique, régisseur Général
 - Protat Xavière, Régisseur d&
+- Provost Marin, Régisseur
 - Raymond Lou, régisseuse générale
 - Renet Jean Francois, régisseur son
 - Riccardi Mylène, régisseuse d’extérieurs
@@ -2631,10 +2771,13 @@
 - Trottin Tina, régisseuse d’extérieurs
 - Tsaconas Victor, régisseur général
 - Vattier Margaux, régisseuse
+- Vigliano Anatole, Régisseur
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Rippeureuse
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Badey Ghislain, rippeur
 - Baggio Jido, Rippeur
@@ -2653,6 +2796,8 @@
 
 ## Scénariste
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Agut Delphine, scénariste
 - Alain Petiteau, réalisateur, scénariste, scripte, assistant régisseur adjoint
 - Alloing Yasmine, scripte
@@ -2661,12 +2806,16 @@
 - Andrieux Maéva, Scripte
 - Aptekman Jeanne, scénariste
 - Arles Thibault, Scripte/assistant scripte
+- Balekdjian Anton, Réalisateur et scénariste
+- Balekdjian Anton, Réalisateur et scénariste
 - Bararuzunza Hélène, Scénariste
+- Baron Tommy, Scénariste - réalisateur
 - Beaudoin Arthur, scénariste
 - Beaumont Tarillon Élodie, réalisatrice, scénariste
 - Bedani Amel, scénariste
 - Belguermi Anna, Scénariste
 - Bernard Marion, scripte
+- Besse-Bourdier Renaud, Scénariste
 - Besse Stephanie, scripte
 - Billuart Lisa, Scripte
 - Birchler Sébastien, Scénariste
@@ -2703,6 +2852,7 @@
 - Corai-Lopez Aude, scripte
 - Cuau Emmanuelle, réalisatrice, scénariste
 - Darfeuil Julie, Scripte
+- Dauget Emma, Scripte
 - De Chassey Marie, scripte
 - de Givry Charlotte, scénariste
 - de Hillerin Marguerite, Scénariste et réalisatrice
@@ -2715,6 +2865,7 @@
 - Dobin Adèle, scénariste
 - Dozières Judith, Scripte
 - Drochon Aurélia, scripte
+- Dujardin Caroline, Actrice et scénariste
 - Dusséaux Jean-Baptiste , réalisateur et scripte
 - Dutheil Naïa, Scripte
 - Eminenti Licia, scénariste
@@ -2733,6 +2884,7 @@
 - Fontaine Jeanne, scripte
 - Franco Sonia, Réalisatrice, scénariste
 - Ganivet Camille, scripte
+- Gau Laetitia, Scénariste
 - Germaneau Sophie, scénariste
 - Girerd Stephanie, Scénariste et réalisatrice
 - Gouillon Jules Réalisateur, scénariste
@@ -2779,6 +2931,7 @@
 - Marmiesse Anna, scénariste, réalisatrice, journaliste
 - Martineau Jacques, scénariste, réalisateur et enseignant
 - Martin Nicolas, auteur, scénariste, réalisateur et critique 
+- Masson Lucile, Scénariste
 - Mathelier Elise, Scripte
 - Matignon Tanguy, scripte
 - Matraja Zelie, scripte
@@ -2799,6 +2952,7 @@
 - Piazzo Philippe, scénariste
 - Pieretti Frédéric, réalisateur et scénariste
 - Pittet Joséphine, scripte   
+- Ramier Max, Scénariste
 - Rastelli Lara, scripte, réalisatrice
 - Regales Marie, scénariste, réalisatrice
 - Regnaud Jean, scénariste
@@ -2824,6 +2978,7 @@
 - Thoubillon Lison, scripte
 - Thouet-Dauga Lola, scripte LSA
 - Torelli Caroline, scénariste
+- Trinques Gilles, cinéaste, scénariste
 - Trividic Anne-Louise, scénariste
 - Vagne Madeleine, Scripte
 - Van de Putte Christine, réalisatrice scénariste romancière
@@ -2838,6 +2993,8 @@
 
 ## Son
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 - Abdelnour François, preneur de son
 - Aïchoun Samuel, Mixeur son
 - André Etienne, Mixeur son
@@ -2846,6 +3003,8 @@
 - Apostolou Simon, Mixeur
 - Apostolou Simon, Mixeur
 - Aretino Pierre Chef opérateur du son, Mixeur
+- Armand Pierre, Ingénieur du son
+- Audy jean-luc, chef operateur son
 - Averty Marie, ingénieure du son
 - Avrillon Quentin, 1er assistant son
 - Bajeux Renaud, monteur son
@@ -2861,6 +3020,7 @@
 - Bouchateau Guillaume, chef monteur son
 - Bouchateau Guillaume, Chef Monteur Son
 - Bourdain Antoine, ingénieur du son
+- Bourdon Lucie, Ingénieure du son
 - Bourgin Kevin, premier assistant son
 - Broussegoutte Ivan, Monteur son
 - Brunhes Jean baptiste, ingénieur du son
@@ -2889,6 +3049,7 @@
 - Dancausse Christine, Ingénieure du son
 - Darras Laure-Anne, monteuse son
 - de Canson Cyrille Mixeur, Chef opérateur son
+- Decarsin Yolande, Cheffe opératrice du son
 - Dechaut Benoît, Ingénieur du son
 - De la Hautemaisn Julien, Chef Opérateur Son
 - Delasalle Patricia, chef opératrice son
@@ -2940,7 +3101,10 @@
 - Javelle Nikolas, monteur son/mixeur
 - Jousselin Paul, Mixeur, réalisateur
 - Jouvenet Elliot, Technicien son
+- Juillet Alexandre, Preneur son
 - Kartmann Brice, ingénieur du son, musicien et compositeur
+- Kharitonnoff Dimitri, Monteur son
+- Krzyzanowski Fabien, chef opérateur du son
 - Lacour Dominique, chef opérateur son
 - Ladeveze Frédéric, Ingénieur du son
 - Laforce Clément, mixeur
@@ -2951,8 +3115,10 @@
 - Lefranc Héloïse, Ingé son
 - Lefranc Thibault, Compositeur, monteur son
 - Lelu Sarah, Monteuse son
+- Le Vacon Olivier, Chef Op Son
 - Lorrain Pierre, Chef opérateur du son
 - Luces Simon, monteur son
+- Mantran Nicolas, Opérateur son
 - Marciszewer Sodi, compositeur, ingénieur son
 - Mauvezin Olivier, preneur de son
 - Mercier Antoine-Basile, chef opérateur du son
@@ -2977,6 +3143,7 @@
 - Perret Renaud, ingénieur du son
 - Perrier Geoffrey, Monteur Son
 - Perron Zoé, technicienne du son
+- Perrot Matthieu, Preneur de son
 - Pichon Thomas, Monteur Son
 - Poche Agathe, monteuse son
 - Pontécaille Tristan, Ingénieur du son
@@ -2987,11 +3154,13 @@
 - Ratinaud Eliot, Ingénieur du son
 - Reis--Amblard Hugo, Assistant Son
 - Renet Jean Francois, régisseur son
+- Rieger Louison, Comédien
 - Rigaut André, Chef opérateur du son
 - Rit David, Chef Opérateur Son
 - Rolland Arnaud, Monteur-son
 - Roy Maxime, mixeur
 - Sadoux Martin, preneur de son
+- Saubain Manu, preneur de son
 - Schaditzki Olivier, ingénieur du son
 - Schwob Olivier, Ingénieur du son
 - Serror Théo, Monteur Son
@@ -3007,15 +3176,21 @@
 - Thoubillon Lison, scripte
 - Tucat Pierre, Preneur de son
 - Umansky Jean, Ingénieur du son
+- Valeix Guillaume, Preneur de son
+- van Groeningen Seppe, son
 - Velay Jean-Barthélemy, ingénieur du son
+- Verhaeghe Nicolas, ingénieur du son
 - Vidal Nathalie, montage son, mixage
 - Villien Mathieu, chef opérateur du son
 - Vitté Camille, Concepteur son
 - Waschkowski Nicolas, Chef opérateur du son
+- Williamson Pierre-Marie, Mixeur
 
 [Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Autres
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 - Aggoun Oihana, artiste
 - Agier Mariana, critique de cinéma et directrice de publication
@@ -3072,9 +3247,11 @@
 - Blottière Mathilde, journaliste
 - Blove Eugene, Artiste
 - Bockel Sarah, Administratrice de prod
+- Bocquet Lila, Technicienne
 - Boiteux Chloé, technicienne
 - Bonnaud Julien, Assistant vidéo
 - Bonnefoi Stéphane, Documentariste
+- Bonnot Jules, Plasticien
 - Bonsergent Camille, Cheffe Décoratrice
 - Borca Cécile, Artiste
 - Borghino Christian, adjoint à la direction artistique
@@ -3139,6 +3316,7 @@
 - Dard Aurélie, Attachée de presse
 - Dartois Christophe, Agent de cinéma
 - De Bandt Benjamin, Auteur
+- Deboaisne Axel, chef constructeur
 - Deboaisne Daphné, ensemblière, décoratrice
 - De Bortoli Gabriel, Marketing Cinéma
 - Debus Émilie, graphiste décoration
@@ -3204,6 +3382,7 @@
 - Fontaine Gabin, critique cinéma
 - Foucard Anne-Thaïse, responsable RSE
 - Fouco Michel, directeur artistique
+- Franbourg Juliette, Danseuse
 - Fras Sophie, directrice de cinéma
 - Fraysse Romane, journaliste
 - Fréret Margot, technicienne 
@@ -3236,6 +3415,7 @@
 - Gipoulou Jonathan, exploitant
 - Girardot Chevaucheur Pauline, déléguée générale
 - Giraud Catherine, attachée de presse
+- Girola Nina, Infographiste
 - Gizzi Nando, coordinateur national - éducation aux images
 - Gobin Gautier, enseignant
 - Goudet Stéphane, directeur artistique
@@ -3257,9 +3437,11 @@
 - Guilhem Chloé, Exploitante
 - Guirec Alex, Auteur
 - Guthmann Léo, membre du collectif Sous les écrans la dèche
+- Guthmann Victor, Etalonneur
 - Haëtty Cléo, responsable technique
 - Hallet Arnaud, Journaliste
 - Hamburger Maya, Marionnettiste
+- Hanclot Fabienne, Directrice artistique
 - Hatton Mateo, agent de cinéma
 - Hazé Bénédicte, Exploitante
 - Henno Laura, artiste
@@ -3332,6 +3514,7 @@
 - Lesny Magali, flûtiste
 - Lestage Diane, journaliste
 - Levacher Stéphane Slem, Artiste auteur
+- Levy Alain, Post-synchronisation
 - Libs Stéphane, gérant de cinéma
 - Liébard Xavier, Documentariste
 - Liebaut Frédérique, Directrice de plateau
@@ -3346,9 +3529,11 @@
 - Magalhaes Raquele, musicienne
 - Maggio Luna, community manager
 - Magrit Caroline, administratrice CGT Spectacle
+- Mahé Antonin, Musicien
 - Mahieu Martin, musicien
 - Maindon Laurent, Auteur
 - Maino Sylvain, documentariste
+- Majchrzak Max, Technicien vidéo
 - Malherbe Louise, déléguée générale
 - Manach Kenza, académie des César
 - Marcadé Coralie, chargée de communication digitale dans le cinéma
@@ -3367,6 +3552,7 @@
 - Mathys Bellamy, artiste, auteur
 - Matthias Chouquer, gérant du Cinéma Eldorado
 - Maunoury Jean, affichiste
+- Mauny-Levy Françoise, Détectrice postsynchro
 - Maurette Annie, attachée de presse
 - Maurette Annie, attachée de presse
 - Mayeur Christian, Artiste auteur
@@ -3412,8 +3598,11 @@
 - Noirault Lucie, traiteure pour des salles de spectacles et événements culturels
 - Nouailhat Frédérique, Ensemblière
 - Nougarede Ulysse, exploitant
+- Nouri Bastien, musicien
 - Ollé Emmanuelle, Ensemblière
+- Outin Adèle, 2eme assistante MES
 - Pain Céline, Directrice du festival Hors Cadres
+- Paquelier Armand, Modeliste
 - Paquin Cesar, Médiateur Cinéma
 - Parai Marjolaine, Assistante ensemblière
 - Paravel Verena, ciné-astre
@@ -3435,6 +3624,7 @@
 - Pierre dit Lemarquand Maud, médiatrice culturelle
 - Pineau Afonso Christophe, Repéreur de décors
 - Piras Silvia, Bénévole festival documentaire
+- Plagnol Pauline, Exploitante
 - Plumecocq Dominique, président d&
 - Poënces Saoirse, administratrice
 - Pogu Camille, artiste
@@ -3444,6 +3634,7 @@
 - Pottier-Grosman Jérémie, exploitant
 - Pouet-Bocard Yoann, Intermittent du spectacle
 - Pouillot Charlotte, Assistante de distribution
+- Poulain Luna, Festival - Médiation culturelle
 - Pouzet Chani, directrice artistique
 - Proctor Molly, Coordinatrice dans un réseau de salles de cinéma
 - Proust Julien, responsable jeunes publics cinéma
@@ -3452,10 +3643,12 @@
 - Rachline Nicole, cheffe décoratrice
 - Rachman Anastasia, Directrice d&
 - Ragaigne Mathis, assistant administratif
+- Ragueneau-Stroom, Elsa Cheffe décoratrice
 - Rambaud Emilie, Musicienne
 - Rauch Léonie, Prod
 - Raulin Mathias, Artiste
 - Redobana Aolizée, membre du collectif Sous les écrans la dèche
+- Régimbeau Paul, Musicien
 - Reibel Nicolas, Architecte
 - Reiffers Pauline, secrétaire générale
 - Remaury Margaux, décoratrice
@@ -3485,6 +3678,7 @@
 - Roussel David, ingénieur   
 - Russu Leonie, Animatrice 2D
 - Saladin Agathe, Artiste
+- Salamon-Bertozzi Lucas, Directeur de Post-Synchronisations
 - Salvignol Claire, Coordinatrice d&
 - Samour Nadège, exploitation cinématographique
 - Sansano Bruno, technicien vidéo
@@ -3498,6 +3692,7 @@
 - Scherer Raphaël, Administrateur
 - Schmidtmer Leonie, administratrice Cinéma
 - Schnitzler Pauline, Architecte
+- Schramm Elisa, Autrice
 - Scoupe Martine, directrice adjointe de cinéma
 - Sebastia Marie, directrice de cinéma
 - Segard Xiral, journaliste
@@ -3512,6 +3707,7 @@
 - Sidaine Isa, vidéaste
 - Sié Mélina, Chargée de projet européen
 - Siffert Guillaume, artiste plasticien
+- Simon Maïa, Directrice de cinéma
 - Solal Claudia, musicienne
 - Somda Marie-Anne, co-directrice d’association
 - Sommermeyer Marion, exploitant de cinéma
@@ -3537,6 +3733,7 @@
 - Tissot Léa, artiste
 - Toulat Dominique, exploitant
 - Trad Laura, chargé de communication
+- Travers Zoé, Architecte
 - Trombetta Miya, administratrice adjointe
 - Troudet Patrick, Cinéma Utopia Bordeaux
 - Tsakaiev Leïla, diffusion
