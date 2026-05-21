@@ -54,7 +54,14 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
   echo "[Retourner au début de la page](#haut)" >> README.md
   echo >> README.md
-  cat "$file" | sed 's/^/- /' >> README.md
+  echo '```diff' >> README.md
+  echo '@@Dernier signataire' >> README.md
+  join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
+  echo '```' >> README.md
+  echo >> README.md
+  echo '```' >> README.md
+  cat "$file" | sed 's/^//' >> README.md
+  echo '```' >> README.md
   echo >> README.md
   echo "[Retourner au début de la page](#haut)" >> README.md
 done
