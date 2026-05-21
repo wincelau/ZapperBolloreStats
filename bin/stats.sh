@@ -25,6 +25,8 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
   echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
+  echo "[Retourner au début de la page](#statstiques-zapper-bolloré)" >> README.md
+  echo >> README.md
   cat "$file" | sed 's/^/- /' >> README.md
   echo >> README.md
   echo "[Retourner au début de la page](#statstiques-zapper-bolloré)" >> README.md
