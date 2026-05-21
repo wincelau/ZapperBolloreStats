@@ -1,42 +1,40 @@
-# Zapper Bollore
+# Statistiques Zapper Bolloré
 
-Métier|Nombre de personnes
--|-
-Accessoiriste|34
-Acteurice,Comédien.ne|286
-Cadreur|17
-Caméra|70
-Casting, Figuration|32
-Cinéaste|81
-Coiffeureuse|6
-Compositeur|27
-Costumièr.e|36
-Décor|86
-Décorateurice|45
-Distributeur|16
-Électricien.ne|128
-Habilleur|16
-Ingénieur Son|159
-Lumière|18
-Machiniste|60
-Maquilleureuse|26
-Menuiserie|1
-Metteureuse en Scène|43
-Mixeur|19
-Monteurice|208
-Opérateur.ne|100
-Peintre|38
-Perchiste|10
-Photo|65
-Producteurice|151
-Production|96
-Programmateurice|91
-Projectionniste|36
-Réalisateurice|597
-Régisseure.se|99
-Rippeureuse|12
-Scénariste|179
-Autres|504
+|**Total**|**3044**|
+|:-|-:|
+|Accessoiriste|[34](#accessoiriste)|
+|Acteurice,Comédien.ne|[286](#acteuricecomédienne)|
+|Cadreur|[17](#cadreur)|
+|Caméra|[70](#caméra)|
+|Casting, Figuration|[32](#casting-figuration)|
+|Cinéaste|[80](#cinéaste)|
+|Coiffeureuse|[6](#coiffeureuse)|
+|Compositeur|[27](#compositeur)|
+|Costumièr.e|[36](#costumière)|
+|Décorateurice|[57](#décorateurice)|
+|Distributeur|[16](#distributeur)|
+|Électricien.ne|[128](#Électricienne)|
+|Habilleur|[16](#habilleur)|
+|Lumière|[18](#lumière)|
+|Machiniste|[60](#machiniste)|
+|Maquilleureuse|[26](#maquilleureuse)|
+|Menuiserie|[1](#menuiserie)|
+|Metteureuse en Scène|[43](#metteureuse-en-scène)|
+|Monteurice|[208](#monteurice)|
+|Opérateur.ne|[100](#opérateurne)|
+|Peintre|[38](#peintre)|
+|Perchiste|[10](#perchiste)|
+|Photo|[65](#photo)|
+|Producteurice|[150](#producteurice)|
+|Production|[96](#production)|
+|Programmateurice|[91](#programmateurice)|
+|Projectionniste|[36](#projectionniste)|
+|Réalisateurice|[596](#réalisateurice)|
+|Régisseure.se|[99](#régisseurese)|
+|Rippeureuse|[12](#rippeureuse)|
+|Scénariste|[179](#scénariste)|
+|Son|[172](#son)|
+|Autres|[543](#autres)|
 
 ## Accessoiriste
 
@@ -74,6 +72,8 @@ Autres|504
 - Stern Ophélie, Assistante accessoiriste
 - Vallin Corentin, accessoiriste plateau
 - Vincensini Jean-Noël, accessoiriste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Acteurice,Comédien.ne
 
@@ -368,6 +368,8 @@ Autres|504
 - Zahonero Coraly, comédienne
 - Zimmer Yoann, Acteur/ réalisateur
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Cadreur
 
 - Alberts Manu, Cadreur
@@ -387,6 +389,8 @@ Autres|504
 - Setton Nicolas, Cadreur - Monteur
 - Tesson Sophie, réalisatrice, cadreuse
 - Vigneres Cédric, Cadreur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Caméra
 
@@ -461,6 +465,8 @@ Autres|504
 - Thibault Garance, Assistante caméra
 - Vasseur Jaomin, 2ème assistante caméra
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Casting, Figuration
 
 - Allione Julie, directrice de casting
@@ -496,11 +502,12 @@ Autres|504
 - Touzet Clémence, assistante de Casting
 - Wormser Caroline, Directrice de casting
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Cinéaste
 
 - Abitbol Judith, cinéaste   
 - Arnoux Stéphane, cinéaste
-- Audiard Jacques, cinéaste
 - Balit Mokrane, Cinéaste
 - Benhaïem Anne, cinéaste
 - Béot Ludovic, cinéaste et critique 
@@ -580,6 +587,8 @@ Autres|504
 - Walther Alexia, cinéaste
 - Zuchuat Olivier, cinéaste
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Coiffeureuse
 
 - Brizard Jane, cheffe coiffeuse cinéma
@@ -588,6 +597,8 @@ Autres|504
 - Mauri Aurélie, Perruquière maquilleuse coiffeuse
 - Paquier Kristin, cheffe coiffeuse
 - Sphabmixay Eléonore, maquilleuse et Coiffeuse
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Compositeur
 
@@ -618,6 +629,8 @@ Autres|504
 - Prieto Botella Irina, Compositrice
 - Rebut-Minotti Sylvain, compositeur
 - Tronchot Damien, Monteur son &amp; compositeur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Costumièr.e
 
@@ -658,95 +671,7 @@ Autres|504
 - Thobie Aela, costumière
 - Vilain Gosselin Elise, Costumière
 
-## Décor
-
-- Allais Raphaël, artisan décors
-- Anziani Pascale, Repéreuse de décors
-- Arhex Suzanne, Peintre en décors
-- Arlaud Yan, Chef décorateur
-- Arnaud Lucas, premier assistant décoration
-- Audouard Ariane, Décoratrice ensemblière
-- Balland Théophile, Décorateur Film d’animation
-- Baqueni Toma, Chef Décorateur
-- Barouh Benoît, chef décorateur
-- Barouh Teddy, assistant décorateur
-- Bassin Ingrid, ensemblière décoratrice
-- Bayart Laurie, Peintre en décor
-- Becimol Gaspard, Assistant décorateur
-- Bescond Gwendal, Chef Décorateur
-- Blard Petitgas Cassandre, Peintre en décor
-- Bocquier Achille, décorateur et cinéaste
-- Boiscuille Nicolas, décorateur
-- Bonetto Tom, Menuisier de décor
-- Bonsergent Camille, Cheffe Décoratrice
-- Bouchon Raphaël, décorateur
-- Bource Camille, peintre de décor
-- Champel Mathieu, Peintre décors
-- Clauzier Benjamin, Repéreur de décors et régisseur général
-- Combemale Solène, Repéreuse de décor
-- Combemale Solene, repéreuse de décor cinéma
-- Consigny Pascale, cheffe décoratrice
-- Deboaisne Daphné, ensemblière, décoratrice
-- Debus Émilie, graphiste décoration
-- Delbos Gomez Léa, décoratrice
-- Deleu Arthur, chef décorateur, accessoiriste
-- De Leu Françoise, chef décoratrice
-- Delis Emmanuel, Ensemblier Décorateur
-- Desvigne Lena, Décoration
-- Diaz Auguste, chef décorateur
-- Dorado Olivia, Enseignante-chercheuse en cinéma, décoratrice
-- Doriane Fréreau, décoratrice
-- D’ovidio Catherine, Cheffe décoratrice
-- Dufour Néhémie, Décorateur
-- Dupire-Clément riton, chef décorateur
-- Filler Charlotte, cheffe décoratrice, ensemblière
-- Fronty Marine, décoratrice
-- Gallet Hervé, Chef Décorateur
-- Garot Gladys, cheffe décoratrice
-- Gauthier Valentine,  assistante décoration
-- Gila Girard François, Chef décorateur
-- Grall Valerie, cheffe décoratrice
-- Guicheneuy Fabienne, repréreuse de décors
-- Guyot Théry, constructeur de décor
-- Hager Aïna, Peintre de décors
-- Hauteville Barnabé, chef décorateur
-- Henriot Matthieu, Chef décorateur
-- Journo Norbert, Chef décorateur
-- Laading Camille, Décoratrice
-- Lacoue-Labarthe Izaac, chef décorateur
-- Langelin Clément, menuisier, traceur de décors
-- Ledrapier Xavier, Décorateur
-- Lemarchand Léa, Cheffe décoratrice
-- Le Mouël Anna, cheffe décoratrice
-- Manseau Juliann, machiniste de décors
-- Mehl Ophélie, décoratrice
-- Mentheour Dylan, Assistant décorateur
-- Mercier Mona, Assistante décoratrice
-- Migne Sandrine, Décoratrice
-- Pavloff Marie, Décoratrice
-- Pernet Corentin, peintre décorateur de cinéma
-- Pezet Camille, assistante décoratrice
-- Pineau Afonso Christophe, Repéreur de décors
-- Rabasse Jean, Chef Décorateur
-- Rabaté Armelle, décoratrice
-- Rachline Nicole, cheffe décoratrice
-- Remaury Margaux, décoratrice
-- Renault Denis, chef décorateur
-- Renault Denis, chef décorateur
-- Rey Hélène, Ensemblière décoratrice
-- Richarth Oliver, Machiniste construction décor cinéma
-- Rotbart Tania, Cheffe décoratrice
-- Roth Arnaud, chef décorateur
-- Rousseau Lisa, Peintre en décor
-- Schaeffer Mana, assistante décoratrice
-- Senegats-Vescia Dorian, accessoiriste meublage décoration 
-- Soares Ana, Peintre en décors
-- Spahis Zoé, Assistante décoration
-- Thibault Marion, Peintre en décors
-- Tramier Torea, Décorateur
-- Vannier Lauriane, Assistante décoration
-- Veissier Alain, Décorateur
-- Vercheval Florence, chef décoratrice
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Décorateurice
 
@@ -756,13 +681,19 @@ Autres|504
 - Baqueni Toma, Chef Décorateur
 - Barouh Benoît, chef décorateur
 - Barouh Teddy, assistant décorateur
+- Bayart Laurie, Peintre en décor
 - Becimol Gaspard, Assistant décorateur
 - Bescond Gwendal, Chef Décorateur
+- Blard Petitgas Cassandre, Peintre en décor
 - Bocquier Achille, décorateur et cinéaste
 - Boiscuille Nicolas, décorateur
+- Bonetto Tom, Menuisier de décor
 - Bonjour Marion, assistante déco
 - Bouchon Raphaël, décorateur
+- Bource Camille, peintre de décor
 - Brémont Marine, Assistante Ensemblière, 2nde assistante déco
+- Charrié Nina, Peintre deco
+- Combemale Solène, Repéreuse de décor
 - Courreau Nelly, Assistante déco
 - Deleu Arthur, chef décorateur, accessoiriste
 - Delis Emmanuel, Ensemblier Décorateur
@@ -773,10 +704,14 @@ Autres|504
 - Dupire-Clément riton, chef décorateur
 - Edline Fabrice, Peintre déco
 - Emilie Debus, graphiste déco
+- Ferrieux Anne, peintre deco
+- Festa Anaïs, 1ere assistante deco
 - Gallet Hervé, Chef Décorateur
+- Gauttier Pauline, Graphiste decor
 - Gila Girard François, Chef décorateur
 - Glaymann Baptiste, chef decorateur
 - Gulino Jeremy, Decorateur cinema
+- Guyot Théry, constructeur de décor
 - Hauteville Barnabé, chef décorateur
 - Henriot Matthieu, Chef décorateur
 - Irribarria Julia, Cheffe decoratrice
@@ -793,9 +728,13 @@ Autres|504
 - Renault Denis, chef décorateur
 - Renault Denis, chef décorateur
 - Roth Arnaud, chef décorateur
+- Rousseau Lisa, Peintre en décor
 - Tramier Torea, Décorateur
 - Veissier Alain, Décorateur
+- Vellard Isabelle, peintre en decor
 - Vendroux Laurence, ensembliere decoratrice
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Distributeur
 
@@ -815,6 +754,8 @@ Autres|504
 - Richard Pauline, distributrice et enseignante de cinéma 
 - Théo  Ponthieu, distributeur
 - Zekri Jean-Marc, distributeur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Électricien.ne
 
@@ -947,6 +888,8 @@ Autres|504
 - Villepelet Lucas, Chef électricien
 - Zimmer Gaspard, électricien de plateau
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Habilleur
 
 - Amagat Ambre, habilleuse
@@ -966,167 +909,7 @@ Autres|504
 - Veyrat-Parisien Théo, Habilleur
 - Zegre-Real Miguel, Habilleur
 
-## Ingénieur Son
-
-- Abdelnour François, preneur de son
-- Aïchoun Samuel, Mixeur son
-- André Etienne, Mixeur son
-- Andrieux Leny, Chef opérateur son
-- Angrand Emmanuel, monteur son
-- Aretino Pierre Chef opérateur du son, Mixeur
-- Averty Marie, ingénieure du son
-- Avrillon Quentin, 1er assistant son
-- Bajeux Renaud, monteur son
-- Balibar Lucien, ingénieur du son
-- Bariaud Pierre, monteur son
-- Beillevaire Fabien, monteur Son
-- Berliner Thomas, Son
-- Berthou Clément, Monteur son
-- Billot Samuel, Prise de son
-- Boissau Martin, ingénieur du son
-- Boisteau Eric, chef opérateur du son
-- Bonnefoy Loryne, 1ere assistante son
-- Bouchateau Guillaume, chef monteur son
-- Bouchateau Guillaume, Chef Monteur Son
-- Bourdain Antoine, ingénieur du son
-- Bourgin Kevin, premier assistant son
-- Broussegoutte Ivan, Monteur son
-- Brunhes Jean baptiste, ingénieur du son
-- Buhl Fred, régisseur son
-- Bultel Margot, Monteuse son
-- Butrak Charlotte, monteuse son
-- Buttaud-Gallot-Lavallée Yvan, Assistant son
-- Byl Jeanne, Ingénieur du son
-- Cabanillas Silvia, Assistante son
-- Cadilhac Romain, chef opérateur du son
-- Cancelli Théo, Monteur son, Mixeur
-- Cannepin Adrien, ingénieur du son
-- Cantin Nicolas, chef opérateur du son
-- Carval Jules, technicien son
-- Casang Michel, Chef operateur du son
-- Cercleux Laurent, Chef opérateur du son
-- Chambrun Arthur, monteur, ingénieur du son
-- Chandon Pénélope, Ingénieur du son
-- Chapelle Boris, monteur son
-- Chauchat Théophile, assistant son
-- Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
-- Collot Jean, Chef opérateur du son
-- Comte Charlotte, ingénieure du son
-- Costes Lauréna, assistante son
-- Couillard François Xavier, chef opérateur son
-- Dancausse Christine, Ingénieure du son
-- Darras Laure-Anne, monteuse son
-- de Canson Cyrille Mixeur, Chef opérateur son
-- Dechaut Benoît, Ingénieur du son
-- De la Hautemaisn Julien, Chef Opérateur Son
-- Delasalle Patricia, chef opératrice son
-- Delaunay Margot, Assistante son
-- De Loof Valérie, Monteuse son
-- De Ravignan Frédéric, ingénieur du son
-- Deshays Daniel, technicien son
-- Desreumaux Maël, ingénieur du son
-- Divoux Didier, chef opérateur son
-- Do Couto Yannis, monteur son
-- Doméjean Lucas, ingénieur du son
-- Domercq Guilhem, chef opérateur de prise de son
-- Ducourau Anne, Chef opératrice son
-- Dufait Thibaut, Technicien son
-- Dufour Renaud, Ingénieur du son
-- Dujardin Jules, Ingénieur du son
-- Dumesnil Titouan, Monteur son
-- Dupouy Anne, Opératrice son
-- Duret Jean-Pierre, preneur de son
-- El Ouadie Thouraya, Assistante Son
-- Enderlen Ludovic, Ingenieur du son
-- Esposito Julien, Ingénieur du son
-- Farkas Guillaume, Chef Opérateur Son
-- Fleurant Léo, Ingénieur du son
-- Fournier Nicolas, premier assistant opérateur du son
-- Fresneau Pierréloi, ingénieur du Son
-- Gastinel Thomas, chef opérateur son
-- Gastinel Thomas, opérateur son
-- Gorans Yann-Elie, opérateur du son
-- Gouret Sarah, Réalisatrice/ingénieur du son
-- Greda Sylvie, technicienne son
-- Groscolas Lison, Assistante caméra
-- Guerineau Benoit, ingénieur du son
-- Guilloteau Paul, ingénieur du son
-- Hand Abadou Djezairi, monteur son
-- Harold  Hennequin, chef opérateur son, perchman
-- Héraud Christophe, Monteur son, Bruiteur, Sound-Designer, Compositeur
-- Herve-Mignucci Lancelot, Chef-opérateur du son
-- Hespel Olivier, Homme de son
-- Huby Kaewsiri Valentin, technicien son
-- Imbault Edgar, ingénieur du son
-- Insel Utku, ingénieur du son
-- Isam Baptiste, Assistant son
-- Jammes Patrick, ingénieur du son
-- Jouvenet Elliot, Technicien son
-- Kartmann Brice, ingénieur du son, musicien et compositeur
-- Lacour Dominique, chef opérateur son
-- Ladeveze Frédéric, Ingénieur du son
-- Lagabbe Louise, Ingénieure du son
-- Lardiere Audrey, assistante son
-- Launay Aloyse, monteuse son
-- Lecoeur Philippe, ingénieur du son
-- Lefranc Héloïse, Ingé son
-- Lefranc Thibault, Compositeur, monteur son
-- Lelu Sarah, Monteuse son
-- Lorrain Pierre, Chef opérateur du son
-- Luces Simon, monteur son
-- Marciszewer Sodi, compositeur, ingénieur son
-- Mauvezin Olivier, preneur de son
-- Mercier Antoine-Basile, chef opérateur du son
-- Mergot Vivien, ingénieur du son
-- Mikoff Sacha, Ingénieur du son
-- Momenceau Julien, Chef Opérateur du Son
-- Monny-Helwig Nicolas, Assistant son
-- Mouterde Raphaël, monteur son
-- Nicolas Clara, Ingénieure du son, perchwoman
-- Oraison Noëmy, Monteuse son
-- Orantin Jonas, Monteur Son
-- Paget Guilhem, Assistant son
-- Parazon Marc, preneur de son
-- Peixoto Lucie, preneuse de son
-- Pelletier Olivier, preneur de son
-- Peron Marco, ingenieur du son
-- Peron Marco, Ingénieur du son
-- Perret Renaud, ingénieur du son
-- Perrier Geoffrey, Monteur Son
-- Perron Zoé, technicienne du son
-- Pichon Thomas, Monteur Son
-- Poche Agathe, monteuse son
-- Pontécaille Tristan, Ingénieur du son
-- Poupard Simon, Monteur Son
-- Prian Loïc, Monteur son
-- Quoidbach Arthur, ingénieur du son
-- Raffier Anna, Première assistante son
-- Ratinaud Eliot, Ingénieur du son
-- Reis--Amblard Hugo, Assistant Son
-- Renet Jean Francois, régisseur son
-- Rigaut André, Chef opérateur du son
-- Rit David, Chef Opérateur Son
-- Rolland Arnaud, Monteur-son
-- Sadoux Martin, preneur de son
-- Schaditzki Olivier, ingénieur du son
-- Schwob Olivier, Ingénieur du son
-- Serror Théo, Monteur Son
-- Sichet Thibaut Ingénieur du son, monteur son
-- Silvestre Benjamin, chef opérateur du son
-- Si tahar Alison, Cheffe opv
-- Sobrino Daniel, ingénieur du son
-- Sohier Raphaël, monteur son
-- Soral Julien, Opérateur du son
-- Squire Joseph, Ingénieur du son, monteur son
-- Taillandier Brigitte, Chef Opératrice du Son
-- Thoubillon Lison, scripte
-- Tucat Pierre, Preneur de son
-- Umansky Jean, Ingénieur du son
-- Velay Jean-Barthélemy, ingénieur du son
-- Vidal Nathalie, montage son, mixage
-- Villien Mathieu, chef opérateur du son
-- Vitté Camille, Concepteur son
-- Waschkowski Nicolas, Chef opérateur du son
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Lumière
 
@@ -1148,6 +931,8 @@ Autres|504
 - Rossero Marc, éclairagiste de prise de vues cinéma
 - Varin Antoine, électricien éclairagiste
 - Veyrier Bruno, Technicien plateau/lumières
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Machiniste
 
@@ -1213,6 +998,8 @@ Autres|504
 - Vannier Cyril, Machiniste
 - Viveiros Adail, Machiniste déco - Cinéma
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Maquilleureuse
 
 - Allegatiere Sophie, Cheffe maquilleuse
@@ -1242,9 +1029,13 @@ Autres|504
 - Thiollier Pascal, Chef maquilleur
 - Tran-Ras Mélodie, Cheffe maquilleuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Menuiserie
 
 - Richard Elise, Menuiserie
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Metteureuse en Scène
 
@@ -1292,29 +1083,7 @@ Autres|504
 - Vexler Stéphane, Comédien et metteur en scène
 - Watkins Gérard, acteur auteur metteur en scène
 
-## Mixeur
-
-- Aïchoun Samuel, Mixeur son
-- André Etienne, Mixeur son
-- Apostolou Simon, Mixeur
-- Apostolou Simon, Mixeur
-- Aretino Pierre Chef opérateur du son, Mixeur
-- Cancelli Théo, Monteur son, Mixeur
-- Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
-- de Canson Cyrille Mixeur, Chef opérateur son
-- Dymny Roman, monteur son et mixeur
-- Goinard Olivier, Mixeur
-- Hubert Ange, Mixeur
-- Jasko Jules, mixeur
-- Javelle Nikolas, monteur son/mixeur
-- Jousselin Paul, Mixeur, réalisateur
-- Laforce Clément, mixeur
-- Mundi Chris, Mixeur, Sound-Designer, Compositeur à l&
-- Ozanne Romain, mixeur
-- Ozanne Romain, mixeur
-- Pateau Vincent, Mixeur
-- Roy Maxime, mixeur
-- Soland Emmanuel, monteur son/ mixeur/ créateur sonore
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Monteurice
 
@@ -1527,6 +1296,8 @@ Autres|504
 - Wisshaupt-Claudel Lydie, réalisatrice et monteuse
 - Zaanoun Sarah, Monteuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Opérateur.ne
 
 - Alain Arnaud, Chef-opérateur et réalisateur
@@ -1630,6 +1401,8 @@ Autres|504
 - Waschkowski Nicolas, Chef opérateur du son
 - Weinzaepflen Fanny, Cheffe opératrice du son et mixeuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Peintre
 
 - Arhex Suzanne, Peintre en décors
@@ -1671,6 +1444,8 @@ Autres|504
 - Vincent Sophie, Peintre
 - Weiss Larcher Pépite, Peintre matiériste
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Perchiste
 
 - DanaisClément, perchman
@@ -1683,6 +1458,8 @@ Autres|504
 - Massiot Corentin,  perchman
 - Massiot Corentin, perchman
 - Van De Wiele Benjamin, Perchman
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Photo
 
@@ -1751,6 +1528,8 @@ Autres|504
 - Vanderwaeren Michel, Photographe
 - Watterlot William, Directeur de la photographie
 - Zynski Victor, Directeur de la photographie
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Producteurice
 
@@ -1835,7 +1614,6 @@ Autres|504
 - Guidicelli Ambre Critique, productrice, distributrice
 - Guidoni Marc, producteur et auteur
 - Gygax Pauline, productrice de télévision
-- Hamich Said, producteur et réalisateur
 - Hentgen Louise, Productrice
 - Heurtier Manzanares Lysa, réalisatrice et productrice
 - Houzel Rebecca, productrice
@@ -1905,6 +1683,8 @@ Autres|504
 - Walter Cédric, producteur
 - Wisniewski Léa, productrice
 - Zaiti Ruelle Naël, producteur et réalisateur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Production
 
@@ -2005,6 +1785,8 @@ Autres|504
 - Weeger Marion, Directrice de production
 - Zimmermann Patricia, Directrice de production
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Programmateurice
 
 - Allonnes Judith, responsable de programmation
@@ -2099,6 +1881,8 @@ Autres|504
 - Vurpillot Chloé, programmatrice
 - Weidmann Fabienne, programmatrice exploitation
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Projectionniste
 
 - Alazet Sébastien, projectionniste
@@ -2139,6 +1923,8 @@ Autres|504
 - Sudres Yann, projectionniste
 - Viale Lorenzo, Projectionniste
 - Yven Myriam, Projectionniste
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Réalisateurice
 
@@ -2419,7 +2205,6 @@ Autres|504
 - Guillamot Liza, Réalisatrice
 - Guillaud Véronique, Réalisatrice
 - Gunjak Una, réalisatrice
-- Hamich Said, producteur et réalisateur
 - Hanader Oumnia, actrice et réalisatrice
 - Hapiot Froissart Aurore, réalisatrice
 - Harari Arthur, réalisateur
@@ -2738,10 +2523,12 @@ Autres|504
 - Zadi Jean-Pascal, réalisateur et comédien
 - Zagurovska Aliona, réalisatrice
 - Zaiti Ruelle Naël, producteur et réalisateur
-- Zajdermann Jérome, 1er assistant réalisateur
+- Zajdermann Jérôme, 1er assistant réalisateur
 - Zimmer Yoann, Acteur/ réalisateur
 - Zoubian Marie, assistant·e réalisateur·rice
 - Zylberman Ruth, réalisatrice
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Régisseure.se
 
@@ -2845,6 +2632,8 @@ Autres|504
 - Tsaconas Victor, régisseur général
 - Vattier Margaux, régisseuse
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Rippeureuse
 
 - Badey Ghislain, rippeur
@@ -2859,6 +2648,8 @@ Autres|504
 - Petit Baptiste, Ripper
 - Verano Martin, Ripper
 - Vibert Vincent, Rippeur
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
 
 ## Scénariste
 
@@ -3043,6 +2834,187 @@ Autres|504
 - Yates Christopher, Réalisateur et scénariste
 - Zebboudj Idir, Journaliste, scénariste
 
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
+## Son
+
+- Abdelnour François, preneur de son
+- Aïchoun Samuel, Mixeur son
+- André Etienne, Mixeur son
+- Andrieux Leny, Chef opérateur son
+- Angrand Emmanuel, monteur son
+- Apostolou Simon, Mixeur
+- Apostolou Simon, Mixeur
+- Aretino Pierre Chef opérateur du son, Mixeur
+- Averty Marie, ingénieure du son
+- Avrillon Quentin, 1er assistant son
+- Bajeux Renaud, monteur son
+- Balibar Lucien, ingénieur du son
+- Bariaud Pierre, monteur son
+- Beillevaire Fabien, monteur Son
+- Berliner Thomas, Son
+- Berthou Clément, Monteur son
+- Billot Samuel, Prise de son
+- Boissau Martin, ingénieur du son
+- Boisteau Eric, chef opérateur du son
+- Bonnefoy Loryne, 1ere assistante son
+- Bouchateau Guillaume, chef monteur son
+- Bouchateau Guillaume, Chef Monteur Son
+- Bourdain Antoine, ingénieur du son
+- Bourgin Kevin, premier assistant son
+- Broussegoutte Ivan, Monteur son
+- Brunhes Jean baptiste, ingénieur du son
+- Buhl Fred, régisseur son
+- Bultel Margot, Monteuse son
+- Butrak Charlotte, monteuse son
+- Buttaud-Gallot-Lavallée Yvan, Assistant son
+- Byl Jeanne, Ingénieur du son
+- Cabanillas Silvia, Assistante son
+- Cadilhac Romain, chef opérateur du son
+- Cancelli Théo, Monteur son, Mixeur
+- Cannepin Adrien, ingénieur du son
+- Cantin Nicolas, chef opérateur du son
+- Carval Jules, technicien son
+- Casang Michel, Chef operateur du son
+- Cercleux Laurent, Chef opérateur du son
+- Chambrun Arthur, monteur, ingénieur du son
+- Chandon Pénélope, Ingénieur du son
+- Chapelle Boris, monteur son
+- Chauchat Théophile, assistant son
+- Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
+- Collot Jean, Chef opérateur du son
+- Comte Charlotte, ingénieure du son
+- Costes Lauréna, assistante son
+- Couillard François Xavier, chef opérateur son
+- Dancausse Christine, Ingénieure du son
+- Darras Laure-Anne, monteuse son
+- de Canson Cyrille Mixeur, Chef opérateur son
+- Dechaut Benoît, Ingénieur du son
+- De la Hautemaisn Julien, Chef Opérateur Son
+- Delasalle Patricia, chef opératrice son
+- Delaunay Margot, Assistante son
+- De Loof Valérie, Monteuse son
+- De Ravignan Frédéric, ingénieur du son
+- Deshays Daniel, technicien son
+- Desreumaux Maël, ingénieur du son
+- Divoux Didier, chef opérateur son
+- Do Couto Yannis, monteur son
+- Doméjean Lucas, ingénieur du son
+- Domercq Guilhem, chef opérateur de prise de son
+- Ducourau Anne, Chef opératrice son
+- Dufait Thibaut, Technicien son
+- Dufour Renaud, Ingénieur du son
+- Dujardin Jules, Ingénieur du son
+- Dumesnil Titouan, Monteur son
+- Dupouy Anne, Opératrice son
+- Duret Jean-Pierre, preneur de son
+- Dymny Roman, monteur son et mixeur
+- El Ouadie Thouraya, Assistante Son
+- Enderlen Ludovic, Ingenieur du son
+- Esposito Julien, Ingénieur du son
+- Farkas Guillaume, Chef Opérateur Son
+- Fleurant Léo, Ingénieur du son
+- Fournier Nicolas, premier assistant opérateur du son
+- Fresneau Pierréloi, ingénieur du Son
+- Gastinel Thomas, chef opérateur son
+- Gastinel Thomas, opérateur son
+- Goinard Olivier, Mixeur
+- Gorans Yann-Elie, opérateur du son
+- Gouret Sarah, Réalisatrice/ingénieur du son
+- Greda Sylvie, technicienne son
+- Groscolas Lison, Assistante caméra
+- Guerineau Benoit, ingénieur du son
+- Guilloteau Paul, ingénieur du son
+- Hand Abadou Djezairi, monteur son
+- Harold  Hennequin, chef opérateur son, perchman
+- Héraud Christophe, Monteur son, Bruiteur, Sound-Designer, Compositeur
+- Herve-Mignucci Lancelot, Chef-opérateur du son
+- Hespel Olivier, Homme de son
+- Hubert Ange, Mixeur
+- Huby Kaewsiri Valentin, technicien son
+- Imbault Edgar, ingénieur du son
+- Insel Utku, ingénieur du son
+- Isam Baptiste, Assistant son
+- Jammes Patrick, ingénieur du son
+- Jasko Jules, mixeur
+- Javelle Nikolas, monteur son/mixeur
+- Jousselin Paul, Mixeur, réalisateur
+- Jouvenet Elliot, Technicien son
+- Kartmann Brice, ingénieur du son, musicien et compositeur
+- Lacour Dominique, chef opérateur son
+- Ladeveze Frédéric, Ingénieur du son
+- Laforce Clément, mixeur
+- Lagabbe Louise, Ingénieure du son
+- Lardiere Audrey, assistante son
+- Launay Aloyse, monteuse son
+- Lecoeur Philippe, ingénieur du son
+- Lefranc Héloïse, Ingé son
+- Lefranc Thibault, Compositeur, monteur son
+- Lelu Sarah, Monteuse son
+- Lorrain Pierre, Chef opérateur du son
+- Luces Simon, monteur son
+- Marciszewer Sodi, compositeur, ingénieur son
+- Mauvezin Olivier, preneur de son
+- Mercier Antoine-Basile, chef opérateur du son
+- Mergot Vivien, ingénieur du son
+- Mikoff Sacha, Ingénieur du son
+- Momenceau Julien, Chef Opérateur du Son
+- Monny-Helwig Nicolas, Assistant son
+- Mouterde Raphaël, monteur son
+- Mundi Chris, Mixeur, Sound-Designer, Compositeur à l&
+- Nicolas Clara, Ingénieure du son, perchwoman
+- Oraison Noëmy, Monteuse son
+- Orantin Jonas, Monteur Son
+- Ozanne Romain, mixeur
+- Ozanne Romain, mixeur
+- Paget Guilhem, Assistant son
+- Parazon Marc, preneur de son
+- Pateau Vincent, Mixeur
+- Peixoto Lucie, preneuse de son
+- Pelletier Olivier, preneur de son
+- Peron Marco, ingenieur du son
+- Peron Marco, Ingénieur du son
+- Perret Renaud, ingénieur du son
+- Perrier Geoffrey, Monteur Son
+- Perron Zoé, technicienne du son
+- Pichon Thomas, Monteur Son
+- Poche Agathe, monteuse son
+- Pontécaille Tristan, Ingénieur du son
+- Poupard Simon, Monteur Son
+- Prian Loïc, Monteur son
+- Quoidbach Arthur, ingénieur du son
+- Raffier Anna, Première assistante son
+- Ratinaud Eliot, Ingénieur du son
+- Reis--Amblard Hugo, Assistant Son
+- Renet Jean Francois, régisseur son
+- Rigaut André, Chef opérateur du son
+- Rit David, Chef Opérateur Son
+- Rolland Arnaud, Monteur-son
+- Roy Maxime, mixeur
+- Sadoux Martin, preneur de son
+- Schaditzki Olivier, ingénieur du son
+- Schwob Olivier, Ingénieur du son
+- Serror Théo, Monteur Son
+- Sichet Thibaut Ingénieur du son, monteur son
+- Silvestre Benjamin, chef opérateur du son
+- Si tahar Alison, Cheffe opv
+- Sobrino Daniel, ingénieur du son
+- Sohier Raphaël, monteur son
+- Soland Emmanuel, monteur son/ mixeur/ créateur sonore
+- Soral Julien, Opérateur du son
+- Squire Joseph, Ingénieur du son, monteur son
+- Taillandier Brigitte, Chef Opératrice du Son
+- Thoubillon Lison, scripte
+- Tucat Pierre, Preneur de son
+- Umansky Jean, Ingénieur du son
+- Velay Jean-Barthélemy, ingénieur du son
+- Vidal Nathalie, montage son, mixage
+- Villien Mathieu, chef opérateur du son
+- Vitté Camille, Concepteur son
+- Waschkowski Nicolas, Chef opérateur du son
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
+
 ## Autres
 
 - Aggoun Oihana, artiste
@@ -3050,15 +3022,19 @@ Autres|504
 - Alisinani Sonja, Musicienne
 - Alix Sophie, Directrice de la communication
 - Alizée Romy, artiste 
+- Allais Raphaël, artisan décors
 - Alloing Clara, ingénieure son  
 - Allouche Claire, enseignante-chercheuse et critique
 - Andalian Kaloust, enseignant cinéma
+- Anziani Pascale, Repéreuse de décors
+- Arnaud Lucas, premier assistant décoration
 - Arriaga Karine, Adjointe culture
 - Arrivé Guezengar Clémence, Sélectionneuse en festival
 - Artozqui Margot, Direction Artistique
 - Attal Frederic, sound Designer retraité
 - Auclaire Philippe, chef constructeur
 - Audétat Gabriel, Artiste
+- Audouard Ariane, Décoratrice ensemblière
 - Aymé François, exploitant
 - Aymé Juliette, chargée de communication
 - Bacon Evelyne, comptable
@@ -3068,6 +3044,7 @@ Autres|504
 - Baron Jérôme, directeur artistique, Festival des 3 Continents
 - Barrouillet Adrien, ACE Studies Manager
 - Barrouillet Adrien, directeur d&
+- Bassin Ingrid, ensemblière décoratrice
 - Battini Marie, designer
 - Battiston Luc, exploitant
 - Bauhain Garance, chanteuse
@@ -3098,6 +3075,7 @@ Autres|504
 - Boiteux Chloé, technicienne
 - Bonnaud Julien, Assistant vidéo
 - Bonnefoi Stéphane, Documentariste
+- Bonsergent Camille, Cheffe Décoratrice
 - Borca Cécile, Artiste
 - Borghino Christian, adjoint à la direction artistique
 - Bories Benoit, artiste sonore
@@ -3146,6 +3124,8 @@ Autres|504
 - Cohen Almog, Festival de cinéma
 - Cohen Michaël, graphiste
 - Collette Jérôme, Narrative Designer
+- Combemale Solene, repéreuse de décor cinéma
+- Consigny Pascale, cheffe décoratrice
 - Cooper-Hadjian Olivia, critique de cinéma
 - Coquillaud-Coudreau Philippe, Exploitant
 - Coquille-Chambel Marie, Doctorante, intermittente du spectacle
@@ -3159,7 +3139,9 @@ Autres|504
 - Dard Aurélie, Attachée de presse
 - Dartois Christophe, Agent de cinéma
 - De Bandt Benjamin, Auteur
+- Deboaisne Daphné, ensemblière, décoratrice
 - De Bortoli Gabriel, Marketing Cinéma
+- Debus Émilie, graphiste décoration
 - December, musicien
 - De Garidel Valentine, Ensemblière
 - Degorce Emmanuelle, senior synch licensing manager
@@ -3167,19 +3149,25 @@ Autres|504
 - de Lacotte Marguerite, exploitante
 - De la Noche Julio, artiste
 - Delassis Nathalie, Artiste chorégraphique
+- Delbos Gomez Léa, décoratrice
 - Deledicq Jeanne-sarah, Chanteuse
 - Deleu Cécile, Ensemblière
+- De Leu Françoise, chef décoratrice
 - Delilez Manuel, Auteur/Adaptateur
 - Derouard Ninon, responsable administrative et financière
 - Deschamps Nathalie, ensemblière
+- Desvigne Lena, Décoration
 - Dethoury Benoît, Exploitant et médiateur jeune public et scolaire
 - Di Bennardo Salvatore, humoriste-auteur
 - Dieu Babette, salariée de festivals de cinéma
 - Dimachkie Lina, producer JV
 - Domenet Mathis, Technicien cinéma
+- Dorado Olivia, Enseignante-chercheuse en cinéma, décoratrice
+- Doriane Fréreau, décoratrice
 - Dorville Romain, Assistant directeur
 - Douarche Fanny, Documentariste
 - Doury Simon, développeur
+- D’ovidio Catherine, Cheffe décoratrice
 - Doze Matthieu, danseur
 - Drot Nathan, Ensemblier
 - Drouin Maeva, D.I.T
@@ -3206,9 +3194,9 @@ Autres|504
 - Faure Julia, cheffe d’entreprise 
 - Feldman Vincent, Exploitant
 - Fernández Ferrer Nicole, archiviste audiovisuel
-- Festa Anaïs, 1ere assistante deco
 - Fichelle Louis, Assistant son / Assistant régie
 - Filho Eugénie, administratrice
+- Filler Charlotte, cheffe décoratrice, ensemblière
 - Filleul de Brohy Isabelle, Ensemblière
 - Fivel Marc, Chef constructeur
 - Folens Chloé, traductrice
@@ -3221,18 +3209,20 @@ Autres|504
 - Fréret Margot, technicienne 
 - Friceau Tara, Agent d’accueil de cinéma UGC
 - Frizat Dominique, repéreuse
+- Fronty Marine, décoratrice
 - Gaillot Ulysse, étalonneur
 - Gallon Thomas, attaché de presse
 - Garay Aurélia, ensemblière
 - García Martens Paloma, Coordinatrice d’intimité
 - Garcia Pablo, Assistant video
 - Garçon Lucie, critique
+- Garot Gladys, cheffe décoratrice
 - Gastaldi Thomas, acquisitions
 - Gaudin Laurence, Commerçante
 - Gausse Claire, autrice
 - Gauthier Fabienne, Artiste
 - Gauthier Ghislain, SG CGT Spectacle
-- Gauttier Pauline, Graphiste decor
+- Gauthier Valentine,  assistante décoration
 - Gavelle Francis, Critique de cinéma
 - Gay Eurydice, Autrice
 - Gely Lucas, Juriste
@@ -3251,6 +3241,7 @@ Autres|504
 - Goudet Stéphane, directeur artistique
 - Gourdin Sophie, artiste
 - Gouzannet Eric, retraité exploitant
+- Grall Valerie, cheffe décoratrice
 - Grand Mahi, ensemblier
 - Grassin Corentin, membre du collectif Sous les écrans la dèche
 - Gresard Victor, administrateur
@@ -3260,6 +3251,7 @@ Autres|504
 - Guerraz Mathis, Journaliste
 - Guibert Nicolas, Cinéma Utopia Bordeaux
 - Guichard Juliette , architecte
+- Guicheneuy Fabienne, repréreuse de décors
 - Guiguer Lotte, Autrice
 - Guilbaud Elise, Graphiste
 - Guilhem Chloé, Exploitante
@@ -3311,10 +3303,12 @@ Autres|504
 - Konsler Clément, étudiant, assistant acquisition
 - Kovacic Katia, documentariste
 - Krgovic Tiago, artiste
+- Laading Camille, Décoratrice
 - Labrusse Gautier, directeur de salle de cinéma
 - Lacarra Jean-Louis, Chef-constructeur
 - Lacurie Occitane, critique
 - Lahbabi Caroline, Exploitante
+- Langelin Clément, menuisier, traceur de décors
 - Laraison Katya, membre du collectif Sous les écrans la dèche
 - Larivet Karine, Musicienne
 - Larue Amandine, déléguée générale
@@ -3330,6 +3324,8 @@ Autres|504
 - Legay Louise, salariée de festivals de cinéma
 - Legrand Chloé, Musicienne
 - Legros Lola, film commission
+- Lemarchand Léa, Cheffe décoratrice
+- Le Mouël Anna, cheffe décoratrice
 - Lenoir Christophe, ensemblier
 - Lépine Cédric, critique de cinéma
 - Leroyer Théo, chargé des activités éducatives
@@ -3376,13 +3372,16 @@ Autres|504
 - Mayeur Christian, Artiste auteur
 - Mayniel Marylou, musicienne
 - Mazzacavallo Simon, Assistant Directeur Cinéma
+- Mehl Ophélie, décoratrice
 - Melaragni Margaux, Historienne du cinéma
 - Mêmeteau Saul, étalonneur
 - Ménager Camille, documentariste
+- Mercier Mona, Assistante décoratrice
 - Mestre Ariane, Directrice artistique
 - Meyer Cindy, Trafic manager
 - Mfaddel Soumia, Coordinateur
 - Michon Victor, responsable technique  
+- Migne Sandrine, Décoratrice
 - Mignot Elise, exploitante
 - Mignot Elodie, danseuse
 - Miranda das Neves Robin, membre du collectif Sous les écrans la dèche
@@ -3419,6 +3418,7 @@ Autres|504
 - Parai Marjolaine, Assistante ensemblière
 - Paravel Verena, ciné-astre
 - Parot Déborah, Coordinatrice d&
+- Pavloff Marie, Décoratrice
 - Pavoine Ananda, Menuisière
 - Paysant Cécile, marionnettiste
 - Peduzzi Richard, scénographe
@@ -3430,8 +3430,10 @@ Autres|504
 - Petisoff Nicolas, Artiste dramatique / auteur
 - Petit Matthieu, Graphiste
 - Petri Julien, étalonneur
+- Pezet Camille, assistante décoratrice
 - Pichon Sylvain, directeur de salle de cinéma 
 - Pierre dit Lemarquand Maud, médiatrice culturelle
+- Pineau Afonso Christophe, Repéreur de décors
 - Piras Silvia, Bénévole festival documentaire
 - Plumecocq Dominique, président d&
 - Poënces Saoirse, administratrice
@@ -3446,6 +3448,8 @@ Autres|504
 - Proctor Molly, Coordinatrice dans un réseau de salles de cinéma
 - Proust Julien, responsable jeunes publics cinéma
 - Quattrone Antonino, technicien du cinéma
+- Rabaté Armelle, décoratrice
+- Rachline Nicole, cheffe décoratrice
 - Rachman Anastasia, Directrice d&
 - Ragaigne Mathis, assistant administratif
 - Rambaud Emilie, Musicienne
@@ -3454,7 +3458,9 @@ Autres|504
 - Redobana Aolizée, membre du collectif Sous les écrans la dèche
 - Reibel Nicolas, Architecte
 - Reiffers Pauline, secrétaire générale
+- Remaury Margaux, décoratrice
 - Renaudeau Mily, chargée de communication
+- Rey Hélène, Ensemblière décoratrice
 - Rieunier Loïc, délégué général
 - Ringoot Pauline, Graphiste
 - Riou Marine, directrice de salle de cinéma
@@ -3473,6 +3479,7 @@ Autres|504
 - Roman Joseph Affichiste, illustrateur
 - Rondeau Clémence, coordinatrice d&
 - Rosso Raphaël, Vidéaste
+- Rotbart Tania, Cheffe décoratrice
 - Roubaud Tommy, artiste
 - Rouffio Jérémie, Assistant
 - Roussel David, ingénieur   
@@ -3486,6 +3493,7 @@ Autres|504
 - Sarfati Elsa, exploitante
 - Saubole Mathilde, coach d’acteur, coordinatrice d’intimité
 - Savdié Joël, Artiste auteur
+- Schaeffer Mana, assistante décoratrice
 - Schaeffer Marion, Architecte
 - Scherer Raphaël, Administrateur
 - Schmidtmer Leonie, administratrice Cinéma
@@ -3509,6 +3517,7 @@ Autres|504
 - Sommermeyer Marion, exploitant de cinéma
 - Sorel Dimitri, technicien cinema
 - Soulier-Nguyen Véronique, Maquillage
+- Spahis Zoé, Assistante décoration
 - Steinberg Chantal, auteure
 - Stephane Sanseverino, Musicien chanteur
 - Stephan Serge, Sculpteur
@@ -3536,8 +3545,10 @@ Autres|504
 - Vallet Peggy, directrice de salle
 - Vallois Pierre, Graphiste
 - Van Der Gucht Flora, salariée de festivals de cinéma
+- Vannier Lauriane, Assistante décoration
 - Vanot Félix, Animateur 2D
 - Venissac Clara, ouvreuse
+- Vercheval Florence, chef décoratrice
 - Villa Julien, Musicien
 - Villa Vieille Pascal, ancien journaliste et attaché de presse cinéma
 - Vincent Auguste, Animateur 2d
@@ -3551,3 +3562,5 @@ Autres|504
 - Yassinski Nicolas, Co-délégué général du SPIAC-CGT
 - Yen Tracy, assistant des festivals
 - Zamichiei Sophie, Utopia
+
+[Retourner au début de la page](#statstiques-zapper-bolloré)
