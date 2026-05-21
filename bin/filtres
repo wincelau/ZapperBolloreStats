@@ -1,20 +1,15 @@
-Acting;(com[eéd]|acteur|actrice|acteurice)
-HMC;(costum|habilleu|maquilleu|coiffeu)
-Production;(producteur|productrice|production)
-Réalisation;(sc[eé]nariste|scripte|r[ée]alis|réal|sc[ène])
-Post production;(monteur|monteus)
-Exploitation;(projectionniste)
-Régie;(r[ée]gisseu)
-Électricien.ne;([éeè]l[éeè]ctricien|[éeè]l[éeè]ctro)
-Image;(op[ée]rateu|opératrice|opv|cadreu|photo|cam[ée]ra)
-Casting;(casting)
-Lumière;(lumi[èeé]re|éclairagiste)
-Exploitation;(programma)
-Son;(son$|son,|mixeur|perchman|perchiste)
-Décor;(d[eé]corateur|decoratrice|d[eé]co$|d[eé]cor$|accessoir)
-Machiniste;(machiniste)
-Cinéaste;(cin[eé]aste)
-Distributeur;(distributeur|distributrice)
-Peintre;(peintre)
-Rippeureuse;(ripper|rippeur)
-Menuiserie;(menuiserie)
+Acting;(com[eéd]|acteur|actrice|acteurice);(coach)
+Habillage, maquillage, coiffure;(costum|habilleu|maquilleu|coiffeu|maquillage);zzzzzzz
+Production;(producteur|productrice|production|animatrice);(post prod)
+Réalisation;(scripte|r[ée]alis|réal|sc[ène]|cin[eé]aste|scénographe);zzzzzzz
+Scénariste;(sc[eé]nariste|sc[ène]);zzzzzzz
+Post production;(monteur|monteus|VFX|animateur|post prod);zzzzzzz
+Exploitation;(projectionniste|programma|Directeur Cinéma|gérant de cinéma|exploitante|directrice de salle|directeur de salle);zzzzzzz
+Régie;(r[ée]gisseu|Régie);zzzzzzz
+Électricien.ne;([éeè]l[éeè]ctricien|[éeè]l[éeè]ctro);zzzzzzz
+Image;(op[ée]rateu|opératrice|opv|cadreu|photo|cam[ée]ra|lumi[èeé]re|[ée]clairagiste|image);zzzzzzz
+Casting;(casting);zzzzzzz
+Son;(son$|son,|mixeur|perchman|perchiste,ingénieure? son|Composit|musicien);zzzzzzz
+Décor;(d[eé]corateur|d[eé]coratrice|d[eé]co$|d[eé]cor|accessoir|menuiserie|peintre|ripp?er|ripp?eur);zzzzzzz
+Machiniste;(machiniste);zzzzzzz
+Distribution;(distributeur|distributrice|distribution);zzzzzzz
