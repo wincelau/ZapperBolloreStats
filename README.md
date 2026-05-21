@@ -1,28 +1,228 @@
+<a name='haut'></a>
 # Statistiques des signataires de la tribune Zapper Bolloré
 
-<a name='haut'></a>
 Cette page est générée automatiquement par un robot, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires à la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic)
 
-Le regroupement des signataires par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
+## Regroument des signataires par catégorie de métier
 
-|**Total**|**3160**|
-|:-|-:|
-|Acting|[293](#acting)|
-|Casting|[31](#casting)|
-|Décor|[185](#décor)|
-|Distribution|[21](#distribution)|
-|Électricien.ne|[130](#Électricienne)|
-|Exploitation|[155](#exploitation)|
-|Habillage, maquillage, coiffure|[84](#habillage-maquillage-coiffure)|
-|Image|[270](#image)|
-|Machiniste|[61](#machiniste)|
-|Post production|[223](#post-production)|
-|Production|[252](#production)|
-|Réalisation|[814](#réalisation)|
-|Régie|[113](#régie)|
-|Scénariste|[158](#scénariste)|
-|Son|[241](#son)|
-|Autres|[452](#autres)|
+Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
+
+| **Nombre de signataires total** |                             **3160** |
+|:--------------------------------|-------------------------------------:|
+| Acting                          |                       [293](#acting) |
+| Casting                         |                       [31](#casting) |
+| Décor                           |                        [185](#décor) |
+| Distribution                    |                  [21](#distribution) |
+| Électricien.ne                  |                [130](#Électricienne) |
+| Exploitation                    |                 [155](#exploitation) |
+| Habillage, maquillage, coiffure | [84](#habillage-maquillage-coiffure) |
+| Image                           |                        [270](#image) |
+| Machiniste                      |                    [61](#machiniste) |
+| Post production                 |              [223](#post-production) |
+| Production                      |                   [252](#production) |
+| Réalisation                     |                  [814](#réalisation) |
+| Régie                           |                        [113](#régie) |
+| Scénariste                      |                   [158](#scénariste) |
+| Son                             |                          [241](#son) |
+| Autres                          |                       [452](#autres) |
+
+## Derniers signataires du jour
+
+```diff
++ Abitbol Judith, cinéaste  
++ Albéri Samuel, régisseur  
++ Alek Anouchka, Peintre
++ Alizée Romy, artiste
++ Armand Pierre, Ingénieur du son
++ Arnold Rose, Assistante réalisation
++ Audy jean-luc, chef operateur son
++ Bailay Pauline, réalisatrice  
++ Baisadouli Philippe, directeur de production
++ Balekdjian Anton, Réalisateur et scénariste
++ Balekdjian Anton, Réalisateur et scénariste
++ Barbet Aurélia, réalisatrice
++ Baron Tommy, Scénariste - réalisateur
++ Beau Adrien, réalisateur  
++ Bedouin Declan, Régisseur
++ Bégéja Eponine, Directrice de production
++ Belen Jacquie, Réalisatrice
++ Bensnoussi Tewfik, Comédien
++ Béot Ludovic, cinéaste et critique
++ Bernard Antoine, coordinateur d’un réseau de salles
++ Bernard Frédéric, réalisateur et producteur
++ Bernet Michelle, Maquilleuse
++ Besse-Bourdier Renaud, Scénariste
++ Bocquet Lila, Technicienne
++ Bonnot Jules, Plasticien
++ Bossut Sylvain, Sculpteur décorateur
++ Bottinelli Romano, réalisateur
++ Bourdon Lucie, Ingénieure du son
++ Bourgeois Albin, Producteur
++ Bouthors Benoit, Réalisteur
++ Brody Cyril, réalisateur et scénariste
++ Brugère Mariane, Régisseur
++ Burgess Ned, Chef operateur
++ Callonnec Laurent, programmateur
++ Cantineau Anne, actrice  
++ Carteron Coline, Régisseuse d’extérieurs
++ Castaing Thomas, réalisateur
++ Cavalier Laurent, Producteur exécutif Ciné / TV
++ Charchaude Laurent, Regisseur costume
++ Charlet Mathilde, coordinatrice de projets
++ Choukroun Jacques, distributeur et Maître de conférence cinéma
++ Cohen Cleo, Réalisatrice
++ Cohen Grégory, Réalisateur
++ Couture Léo, Réalisateur
++ Dabirand Ronan, électro
++ Dauget Emma, Scripte
++ Deboaisne Axel, chef constructeur
++ Decarsin Yolande, Cheffe opératrice du son
++ Defert Cédric, Réalisateur
++ de La Rochefoucauld Sophie, Comédienne
++ Denis Emilien, Monteur
++ Deschambres Maud, productrice  
++ De Stoutz Caroline, Peintre Patineur
++ Detournay Caroline, Monteuse
++ Dollon Josepha, Habilleuse
++ Dujardin Caroline, Actrice et scénariste
++ Duprez Isabelle, Assistante Réalisateur
++ Dury Pablo, réalisateur  
++ Duval Elsa, Réalisatrice
++ Esselinck Hélène, ensemblière
++ Eustachon Mattéo, Réalisateur
++ Fariñas Emma, réalisatrice et productrice
++ Faure Julia, cheffe d’entreprise
++ Fernandez Jean-Manuel, projectionniste
++ Ferron Antoine, Costumier
++ Féry Robin, Chargé de production
++ Franbourg Juliette, Danseuse
++ Fréret Margot, technicienne
++ Fuentes Marc, Directeur de production
++ Garcia Annabelle, comédienne
++ Gau Laetitia, Scénariste
++ Gautier Mathéo, Auteur-réalisateur
++ Gérardin Irène, actrice
++ Gerbelle Louise, chargée de diffusion
++ Girola Nina, Infographiste
++ Gouin Lucas, programmateur
++ Grethen Valentin, Assistant caméra
++ Grimault Florette, chargée de communication
++ Guthmann Victor, Etalonneur
++ Haenel Adèle, comédienne
++ Hanclot Fabienne, Directrice artistique
++ Hernandez François, Chef opérateur
++ Herve Christophe, Chef peintre
++ Hiet Sophie, scénariste.
++ Hirgorom Rose, programmatrice
++ Hirsch Claude, documentariste
++ Honliasso Corinne, exploitante
++ Iribarne Maia, Réalisatrice
++ Joyeux Laurine, scripte  
++ Juillet Alexandre, Preneur son
++ Julier Pauline, cinéaste  
++ Kharitonnoff Dimitri, Monteur son
++ Kira Simon-Kennedy, productrice
++ Krebs Sébastien, monteur  
++ Krzyzanowski Fabien, chef opérateur du son
++ Kuroda Yuki, Directrice de production
++ Lachat Sylvie, Comédienne
++ Lacroix Lucie, habilleuse
++ Lama Schmit Clara, Comédienne
++ Lapid Nadav, réalisateur
++ Lefevre Mona Maud, réalisatrice
++ Léon Vladimir, réalisateur
++ Le Roux Maëlis, scripte  
++ Le Vacon Olivier, Chef Op Son
++ Levy Alain, Post-synchronisation
++ Lhermite Laurent, réalisateur et producteur
++ Linh Maï, membre du collectif Sous les écrans la dèche
++ Livecchi Nicolas, scénariste
++ Mahé Antonin, Musicien
++ Maintigneux Sophie, Directrice de la photographie
++ Majchrzak Max, Technicien vidéo
++ Mak Anaïs, réalisatrice et graphiste générique
++ Malandrone Gaelle, réalisation  
++ Mallégol Sarah, réalisatrice
++ Mallégol Sarah, réalisatrice  
++ Mantran Nicolas, Opérateur son
++ Martin Nicolas, auteur, scénariste, réalisateur et critique
++ Masson Lucile, Scénariste
++ Mathis Maxime, Monteur
++ Mauny-Levy Françoise, Détectrice postsynchro
++ Millot Quentin, chef décorateur
++ Minster Joseph, réalisateur  
++ Molino Marie, monteuse    
++ Morgane Vie, image
++ Mrejen Marcel, Réalisateur
++ Munschy Julien, monteur
++ Muzzi Alain, Peintre
++ Nicolas Pierre, Programmateur
++ Ninet Vic, scripte  
++ Nouri Bastien, musicien
++ Ott Manon, Réalisatrice
++ Outin Adèle, 2eme assistante MES
++ Paijens Eva, réalisatrice
++ Papillon Ariane, réalisatrice et chercheuse
++ Paquelier Armand, Modeliste
++ Perrot Matthieu, Preneur de son
++ Petri Jean-Marc, Chef Machiniste
++ Pichon Sylvain, directeur de salle de cinéma
++ Pittet Joséphine, scripte  
++ Plagnol Pauline, Exploitante
++ Poeydomenge Hervé, Créateur de costumes
++ Poulain Luna, Festival - Médiation culturelle
++ Provost Marin, Régisseur
++ Pujol Elofie, Peintre
++ Queney Marie, Assistante de production
++ Rabhi Mériem, programmatrice
++ Rabourdin Olivier, acteur  
++ Ragueneau-Stroom, Elsa Cheffe décoratrice
++ Ramier Max, Scénariste
++ Reggiani Maria, Réalisatrice
++ Régimbeau Paul, Musicien
++ Renko Serge, Comédien
++ Richard Pauline, distributrice et enseignante de cinéma
++ Rieger Louison, Comédien
++ Riou Mikael, Accessoiriste aux meubles
++ Rivals Elise, Peintre en décor
++ Roques Pierre, Électricien de plateau
++ Roullier Cécile, assistante mise en scène
++ Roussel David, ingénieur  
++ Rozenberg Corinne, Cheffe monteuse
++ Saint-Marc Laure, Monteuse
++ Salamon-Bertozzi Lucas, Directeur de Post-Synchronisations
++ Salem Castaing Amina, productrice
++ Sallé Julien, Réalisateur
++ Sanz Camille, déléguée générale de festival
++ Saubain Manu, preneur de son
++ Schramm Elisa, Autrice
++ Senegats-Vescia Dorian, accessoiriste meublage décoration
++ Servigne Alexandra, Administratrice de production
++ Simon Maïa, Directrice de cinéma
++ Sorlin Anne Élodie, Comédienne
++ Tabareau Suzanne, costumière
++ Tarantino Nina, 1ere assistante OPV et directrice de la photographie
++ Tavella Lara, actrice  
++ Tiger Anna, Assistante caméra
++ Tille François, chef machiniste de prise de vue cinéma
++ Travers Zoé, Architecte
++ Trinques Gilles, cinéaste, scénariste
++ Truchaud Marion, réalisatrice
++ Valeix Guillaume, Preneur de son
++ Vallette Clement, électricien
++ van Groeningen Seppe, son
++ Varela Le jo, Comédien
++ Varenne Olivier, Perchman
++ Vazquez Antoine, Réalisateur
++ Verhaeghe Nicolas, ingénieur du son
++ Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
++ Vigliano Anatole, Régisseur
++ Vitel Christine, Productrice
++ Voslion Amaury, auteur-réalisateur
++ Williamson Pierre-Marie, Mixeur
++ Zajdermann Jérôme, 1er assistant réalisateur
+```
+
 
 ## Acting
 
@@ -79,7 +279,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Candellier Anthony, Comédien
 - Candellier Anthony, Comédien
 - Candore Marco, Vidéaste, comédien, auteur
-- Cantineau Anne, actrice   
+- Cantineau Anne, actrice  
 - Capelle Blanche, Comédienne
 - Cargueray Lile, Comédienne
 - Caron Laurent, Comédien
@@ -135,14 +335,14 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Fouque Dimitri, comédien
 - Frin Jean-Marie, acteur  
 - Fuze Alexis, Acteur
-- Garcia Annabelle, comédienne 
+- Garcia Annabelle, comédienne
 - Gardel Lisa, Actrice et réalisatrice
 - Gardin Blanche, comédienne
 - Garrel Lena, comédienne
 - Gaspar Mickaël acteur, réalisateur
 - Gaspar Nicolas, acteur
 - Gaumont Esther, Comédienne
-- Gérardin Irène, actrice 
+- Gérardin Irène, actrice
 - Gillet Andy, Comédien
 - Girard Voss Lex, Acteur•ice
 - Gobion Léonie, Comédienne
@@ -152,7 +352,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Greggory Pascal, Acteur
 - Grudzinska Joanna, autrice réalisatrice directrice de casting actrice enseignante
 - Guyon Alban, acteur
-- Haenel Adèle, comédienne 
+- Haenel Adèle, comédienne
 - Hammadi Chassin Ahmed, Comédien
 - Hanader Oumnia, actrice et réalisatrice
 - Hanrot Zita, comédienne
@@ -267,7 +467,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Quelquejay Nicolas, comédien
 - Quinsac Léa, comédienne
 - Quinsac Léa, comédienne
-- Rabourdin Olivier, acteur   
+- Rabourdin Olivier, acteur  
 - Raoult Delphine, Comédienne
 - Renko Serge, Comédien
 - Renucci Robin, comédien et réalisateur
@@ -296,7 +496,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Sorlin Anne Élodie, Comédienne
 - Sulpice Édouard, comédien
 - Susini Marc, acteur
-- Tavella Lara, actrice   
+- Tavella Lara, actrice  
 - Terlin Maxime, Comédien
 - Thiam Jenna, actrice
 - Timsit Roland, comédien
@@ -537,7 +737,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Rovere Marc, Accessoiriste
 - Sayah Camille, Accessoiriste
 - Schaeffer Mana, assistante décoratrice
-- Senegats-Vescia Dorian, accessoiriste meublage décoration 
+- Senegats-Vescia Dorian, accessoiriste meublage décoration
 - Sitruk Jérôme, Accessoiriste aux meubles
 - Soares Ana, Peintre en décors
 - Spahis Zoé, Assistante décoration
@@ -565,7 +765,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 
 - Barrau Albane, distributrice
 - Beaufils Marie, Distributrice et médiatrice indépendante
-- Choukroun Jacques, distributeur et Maître de conférence cinéma 
+- Choukroun Jacques, distributeur et Maître de conférence cinéma
 - de Lestapis Lillou, distributrice
 - Deveau Jean-François, distributeur cinéma
 - Dommerc, producteur et distributeur
@@ -580,7 +780,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Novati Valentina, productrice et distributrice
 - Oddon Romane, distributrice
 - Pouillot Charlotte, Assistante de distribution
-- Richard Pauline, distributrice et enseignante de cinéma 
+- Richard Pauline, distributrice et enseignante de cinéma
 - Théo  Ponthieu, distributeur
 - Thiebot Lucas, Programmateur (distribution)
 - Zekri Jean-Marc, distributeur
@@ -621,7 +821,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Corone Manon, cheffe électricienne
 - Cras Leo, électricien de prise de vue
 - Curt Nathan, Électricien
-- Dabirand Ronan, électro 
+- Dabirand Ronan, électro
 - Da Costa pais Lucilio, chef électricien
 - Dardelet Hugo,  électricien
 - Davy Charlotte, électricienne de prises de vue
@@ -751,7 +951,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Bracq Thibaut, programmateur
 - Buscail Sylvie, exploitante
 - Cadoux Cécile, programmatrice
-- Callonnec Laurent, programmateur 
+- Callonnec Laurent, programmateur
 - Cals Jeanne, projectionniste
 - Chalon Cassarino Julien, projectionniste
 - Chalu Marie-Julie, comédienne et programmatrice
@@ -772,7 +972,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Euzen Gwenael, projectionniste
 - Faucher-Derocles Aymerick, Programmateur
 - Faucon Anne, Exploitante Cinéma Utopia Pont-Sainte-Marie
-- Fernandez Jean-Manuel, projectionniste 
+- Fernandez Jean-Manuel, projectionniste
 - Firoaguer-Pelc Norah, programmatrice (artiste-auteur)
 - Fras Mathilde, programmatrice cinéma
 - Frommer Jeanne, Programmatrice de festival
@@ -784,7 +984,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Geneste Laurine, Programmatrice
 - Germain-Thomas Elisa, exploitante
 - Gilson Nicolas, programmateur
-- Gouin Lucas, programmateur 
+- Gouin Lucas, programmateur
 - Grimont Juliette, programmatrice
 - Groffe Arlène, programmatrice
 - Grosjean Romain, directeur et programmateur de salle de cinéma
@@ -795,9 +995,9 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Herby-Funfschilling Charles, programmateur
 - Heridel Florent, directeur de Programmation
 - Hirayama Jimmy, Projectionniste
-- Hirgorom Rose, programmatrice 
+- Hirgorom Rose, programmatrice
 - HO Eden, projectionniste
-- Honliasso Corinne, exploitante 
+- Honliasso Corinne, exploitante
 - Jouvenaux Zeynep, programmatrice
 - Jubert Anne, Exploitante
 - Jumai Laguna, programmatrice
@@ -849,12 +1049,12 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Pelle Jean-François, co-programmateur
 - Perrinet Lucas, projectionniste
 - Pertuy Laura, journaliste et programmatrice
-- Pichon Sylvain, directeur de salle de cinéma 
+- Pichon Sylvain, directeur de salle de cinéma
 - Pireyre Raphaëlle, critique et programmatrice
 - Plagnol Pauline, Exploitante
 - Pokée Morgan, Programmateur
 - Poli Vincent, programmateur
-- Rabhi Mériem, programmatrice 
+- Rabhi Mériem, programmatrice
 - Raclet Christophe, Projectionniste
 - Rastello Stéphane, programmateur
 - Régnard Casanova Zoé, programmatrice
@@ -933,7 +1133,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Kieffer Pauline, Costumière
 - Kinebanyan Alexis, Maquilleur, sculpteur
 - Koch Mathilde, Habilleuse/costumiere
-- Lacroix Lucie, habilleuse 
+- Lacroix Lucie, habilleuse
 - Lamazère Perrine, costumière, styliste
 - Laskar Sylvie, chef costumière
 - Le Boeuf Nolwenn, Cheffe costumière
@@ -955,7 +1155,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Paquier Kristin, cheffe coiffeuse
 - Pariset Sarah, maquilleuse
 - Pocobene Jenn, Cheffe costumière
-- Poeydomenge Hervé, Créateur de costumes 
+- Poeydomenge Hervé, Créateur de costumes
 - Ramos Lina, Habilleuse
 - Raoult Rachèle, cheffe costumière
 - Rieu Chloé, Habilleuse
@@ -965,7 +1165,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Soulier-Nguyen Véronique, Maquillage
 - Sphabmixay Eléonore, maquilleuse et Coiffeuse
 - Sylla Indiana, costumière
-- Tabareau Suzanne, costumière 
+- Tabareau Suzanne, costumière
 - Tabareau-Vieuille Natali, Cheffe maquilleuse
 - Terver Marie-Lola, costumière, réalisatrice
 - Tesseyre Clara, habilleuse
@@ -1171,7 +1371,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Monteau Alexandre, Cadreur
 - Monteil Célestin, Caméraman
 - Moreau Edwige, cheffe opératrice
-- Morgane Vie, image 
+- Morgane Vie, image
 - Morin Paul, directeur de la photographie  
 - Moulhac Louise, Assistante caméra
 - Munier Alain, assistant caméra
@@ -1232,7 +1432,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Surace Jeremy, 2nd Assistant Caméra
 - Taillandier Brigitte, Chef Opératrice du Son
 - Tarantino Nina, 1ere assistante OPV et directrice de la photographie
-- Tarantino Nina, 1ere assistante OPV et directrice de la photographie 
+- Tarantino Nina, 1ere assistante OPV et directrice de la photographie
 - Temmerman Aurélie, assistante caméra
 - Tesson Sophie, réalisatrice, cadreuse
 - Thibault Garance, Assistante caméra
@@ -1245,7 +1445,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Varin Antoine, électricien éclairagiste
 - Vasseur Jaomin, 2ème assistante caméra
 - Veillaux Alexandra, technicienne de post production image
-- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice 
+- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
 - Veyrier Bruno, Technicien plateau/lumières
 - Vigneres Cédric, Cadreur
 - Villien Mathieu, chef opérateur du son
@@ -1317,7 +1517,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Ruet Lola, Machiniste
 - Souël Peter, Machiniste
 - Souël Peter, Machiniste
-- Tille François, chef machiniste de prise de vue cinéma 
+- Tille François, chef machiniste de prise de vue cinéma
 - Tran Tan Ba Louis, Machiniste de construction
 - Trouillot Eddy, Machiniste
 - Vannier Cyril, Machiniste
@@ -1440,7 +1640,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Kaplan Simon, Monteur
 - Kergoat Yannick, monteur et réalisateur
 - Kharitonnoff Dimitri, Monteur son
-- Krebs Sébastien, monteur   
+- Krebs Sébastien, monteur  
 - Lacheray Julien, monteur
 - Lapergue Cécile, monteuse
 - Lary Alice, Monteuse
@@ -1466,7 +1666,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Mellot, Jules Monteur
 - Mevel Lucie, monteuse
 - Milliès-Lacroix Etienne, monteur documentaire
-- Molino Marie, monteuse     
+- Molino Marie, monteuse    
 - Montagna Pascal, Responsable des formations, chef monteur
 - Mouterde Raphaël, monteur son
 - Munschy Julien, monteur
@@ -1543,7 +1743,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Veillaux Alexandra, technicienne de post production image
 - Vergez Marylou, Monteuse
 - Verroust Gilles, Chef Monteur
-- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice 
+- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
 - Vidal Baptiste, monteur
 - Villa Giorgia, monteuse
 - Villon Rémi, Monteur
@@ -1569,7 +1769,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Ayraud Benoît, producteur
 - Azzouzi Nora, Assistante de production
 - Badinter Hélène, productrice
-- Baisadouli Philippe, directeur de production 
+- Baisadouli Philippe, directeur de production
 - Barat Frank, producteur
 - Bayssiere Gaëlle, productrice
 - Bégéja Eponine, Directrice de production
@@ -1577,7 +1777,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Benouataf Khadidja, productrice d’impact  
 - Bercovitz Paul, Assistant de production
 - Bergeron Julie, productrice
-- Bernard Frédéric, réalisateur et producteur 
+- Bernard Frédéric, réalisateur et producteur
 - Bernard Frédéric, réalisateur Producteur
 - Besnier Julia, administratrice de production
 - Besnier Philippe, Directeur de production
@@ -1644,7 +1844,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Defosse Noémie, chargée de production
 - Defossez Nathalie ,Productrice
 - de Givry Félix, réalisateur et producteur
-- Deschambres Maud, productrice   
+- Deschambres Maud, productrice  
 - Deschamps de Lepine Jeanne, Assistante de production
 - Deschamps Jean, Producteur
 - Deseez Aurélien, producteur
@@ -1660,7 +1860,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Dumas Raphaèle, productrice
 - Dupeyron Léa, productrice
 - El Ouadie Oumeya, directrice de production
-- Fariñas Emma, réalisatrice et productrice 
+- Fariñas Emma, réalisatrice et productrice
 - Farine Edith, Autrice et productrice de documentaires
 - Favillier Kévin, producteur
 - Ferali Laurence, Administratrice de production
@@ -1706,7 +1906,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Just Quentin, Producteur
 - Karli Max, Producteur
 - Khalili Romeo Marianne, productrice
-- Kira Simon-Kennedy, productrice 
+- Kira Simon-Kennedy, productrice
 - Kohen Igal, producteur
 - Koothan Clélia, Directrice de production
 - Kuroda Yuki, Directrice de production
@@ -1722,7 +1922,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Lestoquoy Tim, Assistant de production
 - Lestrade Cécile, productrice
 - Levesque Dorothée, productrice
-- Lhermite Laurent, réalisateur et producteur 
+- Lhermite Laurent, réalisateur et producteur
 - Luquet Manon, Directrice de production
 - Magnien Richard, producteur
 - Maillé Pauline, assistante de production adjointe
@@ -1780,7 +1980,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Rosenzweig Lou-Ann, coordinatrice d’éco production, régisseuse
 - Roucher Valérie, Directrice de production
 - Russu Leonie, Animatrice 2D
-- Salem Castaing Amina, productrice 
+- Salem Castaing Amina, productrice
 - Salzer Hugo, Chargé de production
 - Samie Jean-Frédéric, producteur.
 - Sandoz Gilles, Producteur
@@ -1820,7 +2020,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 
 - Abadia Régine, Réalisatrice
 - Abbey Clément, Réalisateur
-- Abitbol Judith, cinéaste   
+- Abitbol Judith, cinéaste  
 - Achard Sébastien, 1er assistant réalisateur-trice
 - Alain Arnaud, Chef-opérateur et réalisateur
 - Alain Petiteau, réalisateur, scénariste, scripte, assistant régisseur adjoint
@@ -1851,14 +2051,14 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Attali Laurence, Réalisatrice
 - Aznar Thomas, assistant réalisateur
 - Babin Erwann, réalisateur
-- Bailay Pauline, réalisatrice   
+- Bailay Pauline, réalisatrice  
 - Baillot Gertrude, Réalisatrice
 - Balekdjian Anton, Réalisateur et scénariste
 - Balekdjian Anton, Réalisateur et scénariste
 - Balit Mokrane, Cinéaste
 - Ballyot Sylvie, réalisatrice
 - Barbé Ornella, Réalisatrice
-- Barbet Aurélia, réalisatrice 
+- Barbet Aurélia, réalisatrice
 - Barché Loïc, réalisateur
 - Barché Loïc, réalisateur
 - Bareyre Matthieu, réalisateur
@@ -1871,7 +2071,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Baudu Christian, réalisateur
 - Bauer Mona, réalisatrice
 - Bayiha Astrid Comédienne, autrice et metteuse en scène
-- Beau Adrien, réalisateur   
+- Beau Adrien, réalisateur  
 - Beaumont Tarillon Élodie, réalisatrice, scénariste
 - Beauvais Frank, Réalisateur
 - Beauvais Maëlys, Actrice et Réalisatrice
@@ -1885,10 +2085,10 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Bensalah Karim, réalisateur
 - Ben Slama Sonia, réalisatrice
 - Bensoussan Elli, Réalisatrice
-- Béot Ludovic, cinéaste et critique 
+- Béot Ludovic, cinéaste et critique
 - Berlier Yann, Réalisateur
 - Bernanos Yves, réalisateur
-- Bernard Frédéric, réalisateur et producteur 
+- Bernard Frédéric, réalisateur et producteur
 - Bernard Frédéric, réalisateur Producteur
 - Bernard Marion, scripte
 - Berthereau Donatienne, réalisatrice
@@ -1920,7 +2120,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Bories Claudine, Cinéaste
 - Borleteau Lucie, réalisatrice
 - Borrel Philippe, auteur et réalisateur
-- Bottinelli Romano, réalisateur 
+- Bottinelli Romano, réalisateur
 - Bottois Marie, réalisatrice et monteuse
 - Boudot Hector, Réalisateur
 - Bougy Hélène, réalisatrice
@@ -1943,7 +2143,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Brincard Marie-Violaine, réalisatrice
 - Brining Anthony, réalisateur
 - Brisavoine Emilie, actrice, autrice et réalisatrice
-- Brody Cyril, réalisateur et scénariste 
+- Brody Cyril, réalisateur et scénariste
 - Brügger Mégane, Réalisatrice
 - Brun Dorine, réalisatrice
 - Brunet Léo, Réalisateur
@@ -1963,7 +2163,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Carré Jean-Michel, auteur, réalisateur, producteur
 - Carrette Valentine, réalisatrice et actrice
 - Casanova Yannick, réalisateur
-- Castaing Thomas, réalisateur 
+- Castaing Thomas, réalisateur
 - Cattinari Damien, Réalisateur
 - Cauwet Zoé, cinéaste
 - Cayron Sandrine, scripte
@@ -2095,7 +2295,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Duprez Isabelle, Assistante Réalisateur
 - Duquenne Clément, réalisateur, photographe
 - Dury Olivier, cinéaste
-- Dury Pablo, réalisateur   
+- Dury Pablo, réalisateur  
 - Dusfour Karine, réalisatrice
 - Dusséaux Jean-Baptiste , réalisateur et scripte
 - Dutheil Naïa, Scripte
@@ -2115,7 +2315,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Faligant Syl, auteur·rice, réalisateur·rice et acteur·rice
 - Fanara Lilian, Réalisateur
 - Fargier Alice, réalisatrice
-- Fariñas Emma, réalisatrice et productrice 
+- Fariñas Emma, réalisatrice et productrice
 - Farsi Sepideh, réalisatrice
 - Faure Maxime, Réalisateur
 - Fazendeiro Maureen, scénariste et réalisatrice
@@ -2230,8 +2430,8 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Jousselin Paul, Mixeur, réalisateur
 - Jouvin Nicolas, réalisateur
 - Jouzeau Esther, Réalisatrice
-- Joyeux Laurine, scripte   
-- Julier Pauline, cinéaste   
+- Joyeux Laurine, scripte  
+- Julier Pauline, cinéaste  
 - Kaklea Lenio Metteuse en scène, chorégraphe
 - Kaplan de Macedo Naruna, réalisatrice
 - Karras Audrey, Assistante réalisatrice
@@ -2266,7 +2466,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Lancry Camille, Réalisatrice
 - Lange Rémi, Réalisateur
 - Langlois Alexis, cinéaste
-- Lapid Nadav, réalisateur 
+- Lapid Nadav, réalisateur
 - Laporal-Trésor Jimmy, scénariste et réalisateur
 - Larue Sonia, réalisatrice
 - Larue Sonia, Réalisatrice
@@ -2289,7 +2489,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Lecoq Catherine, comédienne, cinéaste
 - Lecoustre Julie, réalisatrice
 - Ledoux Léonard, réalisateur
-- Lefevre Mona Maud, réalisatrice 
+- Lefevre Mona Maud, réalisatrice
 - Lefèvre Raphaël, Monteur, réalisateur
 - Le Gall Pierre, réalisateur
 - Le Gourrierec Hugo, auteur réalisateur
@@ -2302,11 +2502,11 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Le Roux Arthur, metteur en scène
 - Leroux Christelle, Réalisatrice
 - Leroux Cidjy, Scripte
-- Le Roux Maëlis, scripte   
+- Le Roux Maëlis, scripte  
 - Leroyer Madeleine, Réalisatrice
 - Leroy Matteo, Réalisateur
 - Levéel Marine, Réalisatrice
-- Lhermite Laurent, réalisateur et producteur 
+- Lhermite Laurent, réalisateur et producteur
 - Libert Catherine, cinéaste
 - Lincy Morgane, Réalisatrice
 - Loiseau Nadège, réalisatrice
@@ -2324,9 +2524,9 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Mahieu Chloé, Réalisatrice
 - Mainçon frédéric, réalisateur
 - Mak Anaïs, réalisatrice et graphiste générique
-- Malandrone Gaelle, réalisation   
-- Mallégol Sarah, réalisatrice 
-- Mallégol Sarah, réalisatrice   
+- Malandrone Gaelle, réalisation  
+- Mallégol Sarah, réalisatrice
+- Mallégol Sarah, réalisatrice  
 - Malle Justine, cinéaste
 - Malta Chiara, réalisatrice
 - Ma Mia réalisatrice, technicienne doublage
@@ -2347,7 +2547,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Martin cédric, auteur réalisateur  
 - Martin Coralie, réalisatrice
 - Martineau Jacques, scénariste, réalisateur et enseignant
-- Martin Nicolas, auteur, scénariste, réalisateur et critique 
+- Martin Nicolas, auteur, scénariste, réalisateur et critique
 - Martinot Maxime, réalisateur
 - Massadian Valérie, cinéaste
 - Massart Guillaume, réalisateur, producteur
@@ -2375,7 +2575,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Milano Hélène, réalisatrice
 - Millot Sara, réalisatrice
 - Mills-Affif Ed, réalisateur
-- Minster Joseph, réalisateur   
+- Minster Joseph, réalisateur  
 - Miské Karim, réalisateur
 - Moja Rosalie, Scénariste, assistante mise en scène
 - Molins Fanny, réalisatrice
@@ -2403,7 +2603,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Nevers Camille, Cinéaste et critique
 - Nguyen Long Tuong Vi, Monteuse et Réalisatrice
 - Nina Cholet, réalisatrice
-- Ninet Vic, scripte   
+- Ninet Vic, scripte  
 - Noblet David, réalisateur
 - Nolf Aurélie, scripte
 - Normand Margot, assistante scripte
@@ -2419,9 +2619,9 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Ottobah Angela, cinéaste
 - Ouaret Karim, réalisateur  
 - Oustry Mia, réalisatrice
-- Paijens Eva, réalisatrice 
+- Paijens Eva, réalisatrice
 - Panayotova Bojina, cinéaste
-- Papillon Ariane, réalisatrice et chercheuse 
+- Papillon Ariane, réalisatrice et chercheuse
 - Parisius Moritz, réalisateur et assistant réalisateur
 - Pascal Caroline, comédienne, autrice, réalisatrice
 - Pasquier Arnold, réalisateur et enseignant
@@ -2450,7 +2650,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Pierre Boulanger, comédien, réalisateur
 - Pinell Lila, réalisatrice
 - Pinoit Eric, Monteur réalisateur
-- Pittet Joséphine, scripte   
+- Pittet Joséphine, scripte  
 - Place Marine, réalisatrice
 - Plagnet Camille, réalisateur
 - Planckaert Anaelle, réalisatrice
@@ -2506,7 +2706,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Rouaix Paul réalisateur, scénariste
 - Rouan Brigitte, réalisatrice
 - Rouet Anne, scripte
-- Roullier Cécile, assistante mise en scène 
+- Roullier Cécile, assistante mise en scène
 - Rousst Émilie, metteuse en scène
 - Roy Emmanuel, Réalisateur
 - Rubini Colombe, réalisatrice et scripte
@@ -2577,7 +2777,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Tréhin-Lalanne Ninon, 2nde assistante à la réalisation
 - Trinques Gilles, cinéaste, scénariste
 - Trouillet Basile, réalisateur et monteur
-- Truchaud Marion, réalisatrice 
+- Truchaud Marion, réalisatrice
 - Tuillier Laura, réalisatrice
 - Tulli Houzet Romane, Réalisatrice de films d&
 - Usannaz-joris Marie, Assistante realisateur.ice
@@ -2603,7 +2803,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Vermillard Marie, Cinéaste
 - Vernon Coline, Cinéaste/Scripte
 - Vernoux Marion, réalisatrice
-- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice 
+- Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
 - Vexler Stéphane, Comédien et metteur en scène
 - Victor Jean-Christophe, Réalisateur
 - Vierny Vladilen, réalisateur
@@ -2617,7 +2817,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Vincent Théo, réalisateur
 - Voignier Marie, réalisatrice et actrice
 - Voiseux Maxence, réalisateur
-- Voslion Amaury, auteur-réalisateur 
+- Voslion Amaury, auteur-réalisateur
 - Walther Alexia, cinéaste
 - Wasp Chloé, Réalisatrice
 - Watkins Gérard, acteur auteur metteur en scène
@@ -2646,7 +2846,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 
 - Ajello Bertille, Régisseuse
 - Alain Petiteau, réalisateur, scénariste, scripte, assistant régisseur adjoint
-- Albéri Samuel, régisseur   
+- Albéri Samuel, régisseur  
 - Argant Basile, Régisseur
 - Arnaux Marylou, Régisseuse
 - Babault Ludovic, Régisseur Lumière
@@ -2788,7 +2988,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Bourdon Éli, réalisateur, scénariste
 - Bourquin Zelda, Dramaturge, comédienne et metteure en scène
 - Briere Bordier Margo, Réalisatrice, scénariste
-- Brody Cyril, réalisateur et scénariste 
+- Brody Cyril, réalisateur et scénariste
 - Broudic Maïa, Assistante de production / Scénariste
 - Brouillet Anne, scénariste
 - Brouillet Anne, scénariste
@@ -2853,7 +3053,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Herbulot Antoine, Acteur, scénariste
 - Herbulot Bruno, Réalisateur, scénariste.
 - Hertzberg Nathalie, Scénariste
-- Hiet Sophie, scénariste. 
+- Hiet Sophie, scénariste.
 - Hill-Chouaki Florent, comédien, scénariste
 - Hirel Antoine, assistant mise en scène
 - Ivasco Tina, Monteureuse, réalisateurice et scénariste
@@ -2871,7 +3071,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Léridon Pablo, scénariste
 - Le Roux Arthur, metteur en scène
 - Likiernik Anton, scénariste
-- Livecchi Nicolas, scénariste 
+- Livecchi Nicolas, scénariste
 - Lodwitz Sophie, Scénariste
 - Loncin Julie, Scénariste et critique
 - Lopez Jane-Gail, comédienne et metteuse en scène
@@ -2884,7 +3084,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Marrel Charlotte, 1ère Assistante Mise en Scène
 - Marthouret François, comédien, metteur en scène, réalisateur
 - Martineau Jacques, scénariste, réalisateur et enseignant
-- Martin Nicolas, auteur, scénariste, réalisateur et critique 
+- Martin Nicolas, auteur, scénariste, réalisateur et critique
 - Masson Lucile, Scénariste
 - Maugendre Claire, scénariste et réalisatrice
 - Moja Rosalie, Scénariste, assistante mise en scène
@@ -2905,7 +3105,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Richard Franck, Réalisateur Scénariste
 - Robert Pawula Maëlle, Assistante mise en scène
 - Rouaix Paul réalisateur, scénariste
-- Roullier Cécile, assistante mise en scène 
+- Roullier Cécile, assistante mise en scène
 - Rousst Émilie, metteuse en scène
 - Salinger Emmanuel, comédien et scénariste
 - Sandt Alix, metteuse en scène
@@ -3184,7 +3384,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Aggoun Oihana, artiste
 - Agier Mariana, critique de cinéma et directrice de publication
 - Alix Sophie, Directrice de la communication
-- Alizée Romy, artiste 
+- Alizée Romy, artiste
 - Alloing Clara, ingénieure son  
 - Allouche Claire, enseignante-chercheuse et critique
 - Andalian Kaloust, enseignant cinéma
@@ -3212,7 +3412,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Benzazon Noa, styliste
 - Bérard Emmanuelle, Juriste
 - Berger Sèverine, Attachée de presse Musique
-- Bernard Antoine, coordinateur d’un réseau de salles 
+- Bernard Antoine, coordinateur d’un réseau de salles
 - Berthelot Margaux, salariée de festivals de cinéma
 - Bertocchi Davide, Artiste
 - Bertrand Camille, responsable éducation dans un cinéma
@@ -3256,7 +3456,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Chamblay Lucile, chargée de mission pour des festivals de cinéma
 - Chaouih Dounia, Music Supervisor
 - Chapellier Maxime, Chargé de Projets
-- Charlet Mathilde, coordinatrice de projets 
+- Charlet Mathilde, coordinatrice de projets
 - Charrier Fanette, Chargée de communication
 - Charrier Maxime, Etalonneur
 - Chatelard Aurélie, membre du collectif Sous les écrans la dèche
@@ -3320,11 +3520,11 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Emeriau Maxime, Recorder bruitage
 - Erlenbach Vincent, Exploitant Utopia Bordeaux
 - Esnault Carole, ensemblière
-- Esselinck Hélène, ensemblière 
+- Esselinck Hélène, ensemblière
 - Ezan David, critique de cinéma
 - Fabre Raphaël, Artiste
 - Fassio Chloé, médiatrice en salle de cinéma
-- Faure Julia, cheffe d’entreprise 
+- Faure Julia, cheffe d’entreprise
 - Feldman Vincent, Exploitant
 - Fernández Ferrer Nicole, archiviste audiovisuel
 - Filho Eugénie, administratrice
@@ -3337,7 +3537,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Franbourg Juliette, Danseuse
 - Fras Sophie, directrice de cinéma
 - Fraysse Romane, journaliste
-- Fréret Margot, technicienne 
+- Fréret Margot, technicienne
 - Friceau Tara, Agent d’accueil de cinéma UGC
 - Frizat Dominique, repéreuse
 - Gaillot Ulysse, étalonneur
@@ -3355,7 +3555,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Gay Eurydice, Autrice
 - Gely Lucas, Juriste
 - Genty Roy, Directeur artistique
-- Gerbelle Louise, chargée de diffusion 
+- Gerbelle Louise, chargée de diffusion
 - Ghazi Stéphanie, Assistante administratif
 - Gibouleau Emmanuel, Directeur de cinéma
 - Gillet Colombe, Ensemblière
@@ -3371,7 +3571,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Grand Mahi, ensemblier
 - Grassin Corentin, membre du collectif Sous les écrans la dèche
 - Gresard Victor, administrateur
-- Grimault Florette, chargée de communication 
+- Grimault Florette, chargée de communication
 - Gros Nathanaël, Critique cinéma
 - Grothe Martin, technicien
 - Guerraz Mathis, Journaliste
@@ -3393,7 +3593,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Herr Sophie, agent
 - Heude Antoine, directeur d&
 - Hincelin Leila, documentaliste
-- Hirsch Claude, documentariste 
+- Hirsch Claude, documentariste
 - Houdas Delphine, cheffe constructrice
 - Hua Lucie, administratrice de festival
 - Husakovic Edo, Menuisier traceur
@@ -3450,7 +3650,7 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Levy Alain, Post-synchronisation
 - Liébard Xavier, Documentariste
 - Liebaut Frédérique, Directrice de plateau
-- Linh Maï, membre du collectif Sous les écrans la dèche 
+- Linh Maï, membre du collectif Sous les écrans la dèche
 - Lizot Delphine, déléguée générale d&
 - Loez Jules, architecte
 - Lorenzi Chloé, attachée de presse
@@ -3564,14 +3764,14 @@ Le regroupement des signataires par catégorie s'appuie sur des [règles de filt
 - Rosso Raphaël, Vidéaste
 - Roubaud Tommy, artiste
 - Rouffio Jérémie, Assistant
-- Roussel David, ingénieur   
+- Roussel David, ingénieur  
 - Saladin Agathe, Artiste
 - Salamon-Bertozzi Lucas, Directeur de Post-Synchronisations
 - Salvignol Claire, Coordinatrice d&
 - Samour Nadège, exploitation cinématographique
 - Sansano Bruno, technicien vidéo
 - Santander Corvalan Marcela, artiste chorégraphique
-- Sanz Camille, déléguée générale de festival 
+- Sanz Camille, déléguée générale de festival
 - Saubole Mathilde, coach d’acteur, coordinatrice d’intimité
 - Savdié Joël, Artiste auteur
 - Schaeffer Marion, Architecte
