@@ -64,9 +64,13 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
 done
 
+echo >> README.md
+echo "## Liste complète" >> README.md
+echo >> README.md
+
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
-  echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
+  echo "### $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```' >> README.md
   cat "$file" | sed 's/^//' >> README.md
