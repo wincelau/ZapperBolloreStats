@@ -1,6 +1,3 @@
-0b57d0))}.docs-ml-promotion-action-button.docs-ml-promotion-no-button{background-color:var(--gm3-sys-color-surface-container-low,
-0b57d0)}.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed{background:var(--gm3-sys-color-primary,
-1f1f1f) 10%,var(--gm3-sys-color-surface-container-low,
 Abadia Régine, Réalisatrice
 Abbey Clément, Réalisateur
 Abdelnour François, preneur de son
@@ -271,6 +268,7 @@ Bertrand Camille, responsable éducation dans un cinéma
 Bertrand David, directeur de casting
 Bertrand Maëlle, peintre
 Bertrand Noémie, cadreuse, monteuse
+Bertrand Olivier, 1er assistant caméra &amp; chef-opérateur de prises de vues
 Bert Valérie, Cinéaste
 Bescond Gwendal, Chef Décorateur
 Bescond Matthieu, Journaliste
@@ -481,6 +479,7 @@ Brisavoine Emilie, actrice, autrice et réalisatrice
 Brision Estelle, Accessoiriste de cinéma
 Brison Lionel, décorateur
 Brisset Nicolas, Décorateur
+Brisson William, Acteur &amp; Violoniste
 Brizard Jane, cheffe coiffeuse cinéma
 Brody Cyril, réalisateur et scénariste
 Brossard Hugo, Chef électricien
@@ -518,8 +517,6 @@ Butrak Charlotte, monteuse son
 Butstraen Lola, réalisatrice
 Buttaud-Gallot-Lavallée Yvan, Assistant son
 Byl Jeanne, Ingénieur du son
-c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active{background-color:color-mix(in srgb,var(--gm3-sys-color-on-surface,
-c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-yes-button{background-color:var(--gm3-sys-color-primary,
 Cabanel Tatiana, régisseuse adjointe
 Cabanillas Silvia, Assistante son
 Cabaret-Loux Lola, Directrice de Casting
@@ -1219,7 +1216,6 @@ Ferrus Caroline, actrice
 Féry Robin, Chargé de production
 Festa Anaïs, 1ere assistante deco
 Feytis Pierre Réalisateur, monteur
-fff) 10%,var(--gm3-sys-color-primary,
 Fialon Estelle, Productrice
 Fiard-Cherifi Mickaël, Scénariste
 Fichelle Louis, Assistant son / Assistant régie
@@ -1292,6 +1288,7 @@ Frontin Valentin, Machiniste
 Fronty Marine, décoratrice
 Fruhbrodt Veronica, Peintre
 Fuentes Marc, Directeur de production
+function n(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}q("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});q("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}function v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__("__proto__"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__("__proto__"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}var D="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),E=D.concat,F=navigator.userAgent.match(/Firefox\/([0-9]+)\./),G=(!F||F.length<2?0:Number(F[1])<75)?["toSource"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];function C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?h:"unknown",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:v(),set:z()})}catch(a){}}(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?B(b,a):document.addEventListener("DOMContentLoaded",function(){B(b,a)})))})();}).call(this);Pour signer la tribune, vous pouvez écrire à zapperbollore@protonhtml { overflow: auto;}body { margin: 0; overflow: hidden; word-wrap: break-word;}.app-container { height: 100%; /* Height of mobileweb header + 1 px vertical shadow. */ margin-top: 57px; overflow: auto;}.doc { padding: 20px 12px 0 12px; position: relative;}.doc .doc-content { margin: auto; /* Override the inline style that is set on the .doc-content div, which is used to store layout data for roundtripping. */ padding: 24px 0 !important; max-width: 770px !important;}Pour signer la tribune
 Furton Julie, Actrice
 Fustec Sophie, Musicienne compositrice pianiste chanteuse
 Fuze Alexis, Acteur
@@ -1916,6 +1913,7 @@ Lazic Manuela, comédienne
 Le Bacquer Adèle, Peintre déco
 Le Bars Alain, Comédien
 Lebecque Nicolas, Producteur
+Le Bellec Nathalie, correctrice &amp; secrétaire de rédaction
 Le Berre Sandrine, Actrice
 Le Berrigaud Hervé, Chef machiniste
 Lebghil William, comédien
@@ -2437,6 +2435,7 @@ Noujaïm Valentin, réalisateur
 Nouri Bastien, musicien
 Noury Ophélie, Monteuse et réalisatrice
 Novais Teles Marcelo, réalisateur
+Nova Nicolas, Photographe &amp; Comédien
 Novati Valentina, productrice et distributrice
 Noyau Mickaël, Auteur et réalisateur
 Ntambwe Berry, Scénariste
@@ -3216,6 +3215,7 @@ Trinquet Claire, Directrice de production
 Tristram Charles, monteur
 Trividic Anne-Louise, scénariste
 Trombetta Miya, administratrice adjointe
+Tronchot Damien, Monteur son &amp; compositeur
 Trotel Fabien, Monteur
 Trotta Noam,  régisseur
 Trottin Tina, régisseuse d’extérieurs

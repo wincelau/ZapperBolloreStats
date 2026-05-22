@@ -3,7 +3,7 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 19:36:17
+Dernière mis à jour le 2026-05-22 21:52:22
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,37 +11,38 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|
 |:-|-:|-:|
-|**Tous les signataires**|**3412**|**+288**
-|Acting|[327](#acting-1)|[+36](#acting)
+|**Tous les signataires**|**3412**|**+285**
+|Acting|[329](#acting-1)|[+38](#acting)
 |Casting|[33](#casting-1)|[+2](#casting)
 |Décor|[222](#décor-1)|[+38](#décor)
 |Distribution|[22](#distribution-1)|[+2](#distribution)
 |Électricien.ne|[132](#Électricienne-1)|[+3](#Électricienne)
 |Exploitation|[163](#exploitation-1)|[+9](#exploitation)
 |Habillage, maquillage, coiffure|[86](#habillage-maquillage-coiffure-1)|[+4](#habillage-maquillage-coiffure)
-|Image|[287](#image-1)|[+22](#image)
+|Image|[289](#image-1)|[+23](#image)
 |Machiniste|[64](#machiniste-1)|[+4](#machiniste)
-|Post production|[235](#post-production-1)|[+15](#post-production)
+|Post production|[236](#post-production-1)|[+15](#post-production)
 |Production|[267](#production-1)|[+16](#production)
 |Réalisation|[885](#réalisation-1)|[+81](#réalisation)
 |Régie|[117](#régie-1)|[+4](#régie)
 |Scénariste|[165](#scénariste-1)|[+9](#scénariste)
-|Son|[256](#son-1)|[+24](#son)
-|Autres|[493](#autres-1)|[+47](#autres)
+|Son|[257](#son-1)|[+24](#son)
+|Autres|[489](#autres-1)|[+42](#autres)
 
 ## Derniers signataires 
 
-288 nouveau(x) signataire(s) aujourd'hui
+285 nouveau(x) signataire(s) aujourd'hui
 
 ### Acting
 
 ```diff
-# 36 nouveau(x) signataire(s) aujourd'hui
+# 38 nouveau(x) signataire(s) aujourd'hui
 
 + Azoulay Anne, comédienne
 + Bakri Saleh, acteur
 + Bardem Javier, acteur
 + Breurec Ana, Actrice
++ Brisson William, Acteur &amp; Violoniste; Violoniste
 + Cartellier Serge, Acteur
 + Chapelot Benjamin, Comédien
 + Comby Lemaitre, Théo Réalisateur et acteur
@@ -60,6 +61,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Medhem Aissam, Acteur
 + Moore Indya, acteurice
 + Morante Laura, actrice
++ Nova Nicolas, Photographe &amp; Comédien; Comédien
 + Oldani Simon, Acteur
 + Orhan Sylviane, Actrice
 + Paysant Agathe, Actrice
@@ -179,7 +181,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Image
 
 ```diff
-# 22 nouveau(x) signataire(s) aujourd'hui
+# 23 nouveau(x) signataire(s) aujourd'hui
 
 + Attmane Amel, photographe  
 + Ballié Harald Chef, opérateur son
@@ -196,6 +198,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Legaye Brajtman Louise, 1ère assistante caméra
 + Mancel Neto Margot, Assistante caméra / cheffe opératrice
 + Mocquet Antoine directeur de la photographie, enseignant
++ Nova Nicolas, Photographe &amp; Comédien; Comédien
 + Potonniée Valérie, Directrice photo - réalisatrice de documentaire
 + Pradel Guillaume, Assistant caméra
 + Salmon Morgane, 2nd assistante OPV
@@ -410,11 +413,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-# 47 nouveau(x) signataire(s) aujourd'hui
+# 42 nouveau(x) signataire(s) aujourd'hui
 
-+ 0b57d0))}.docs-ml-promotion-action-button.docs-ml-promotion-no-button{background-color:var(--gm3-sys-color-surface-container-low,
-+ 0b57d0)}.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed{background:var(--gm3-sys-color-primary,
-+ 1f1f1f) 10%,var(--gm3-sys-color-surface-container-low,
 + Adam Luc, Attaché de presse
 + Alabau Audrey, Serrurière
 + Barroso Alexis, traducteur, adaptateur, auteur
@@ -422,15 +422,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Blondel Jean Marie, ingénieur du son cinéma
 + Boiteux Remi Critique, auteur, modérateur, enseignant
 + Brunel Camille, Auteur
-+ c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active{background-color:color-mix(in srgb,var(--gm3-sys-color-on-surface,
-+ c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-yes-button{background-color:var(--gm3-sys-color-primary,
 + Capello Benoît, Exploitant de cinéma indépendant
 + Carrier jean Pierre, Critique de cinéma
 + Chevalier Guillaume, assistant effets physiques
 + De chaumont Benoît, Exploitant
 + Devos Zelie, Artiste plasticienne
 + Favier Olivier, Journaliste
-+ fff) 10%,var(--gm3-sys-color-primary,
++ function n(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}q("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});q("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}function v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__("__proto__"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__("__proto__"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}var D="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),E=D.concat,F=navigator.userAgent.match(/Firefox\/([0-9]+)\./),G=(!F||F.length<2?0:Number(F[1])<75)?["toSource"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];function C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?h:"unknown",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:v(),set:z()})}catch(a){}}(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?B(b,a):document.addEventListener("DOMContentLoaded",function(){B(b,a)})))})();}).call(this);Pour signer la tribune, vous pouvez écrire à zapperbollore@protonhtml { overflow: auto;}body { margin: 0; overflow: hidden; word-wrap: break-word;}.app-container { height: 100%; /* Height of mobileweb header + 1 px vertical shadow. */ margin-top: 57px; overflow: auto;}.doc { padding: 20px 12px 0 12px; position: relative;}.doc .doc-content { margin: auto; /* Override the inline style that is set on the .doc-content div, which is used to store layout data for roundtripping. */ padding: 24px 0 !important; max-width: 770px !important;}Pour signer la tribune;for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}q("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});q("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}function v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__("__proto__"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__("__proto__"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}var D="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),E=D.concat,F=navigator.userAgent.match(/Firefox\/([0-9]+)\./),G=(!F||F.length<2?0:Number(F[1])<75)?["toSource"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];function C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?h:"unknown",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:v(),set:z()})}catch(a){}}(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?B(b,a):document.addEventListener("DOMContentLoaded",function(){B(b,a)})))})();}).call(this);Pour signer la tribune, vous pouvez écrire à zapperbollore@protonhtml { overflow: auto;}body { margin: 0; overflow: hidden; word-wrap: break-word;}.app-container { height: 100%; /* Height of mobileweb header + 1 px vertical shadow. */ margin-top: 57px; overflow: auto;}.doc { padding: 20px 12px 0 12px; position: relative;}.doc .doc-content { margin: auto; /* Override the inline style that is set on the .doc-content div, which is used to store layout data for roundtripping. */ padding: 24px 0 !important; max-width: 770px !important;}Pour signer la tribune
 + Gantzer Camille, Journaliste
 + Gomes de Almeida Natasha, Superviseure de la continuité
 + Grosos Mathis, Journaliste et créateur de contenu
@@ -516,6 +514,7 @@ Brenichot Nicolas, comédien
 Bressiant Hélène, actrice
 Breurec Ana, Actrice
 Brisavoine Emilie, actrice, autrice et réalisatrice
+Brisson William, Acteur &amp; Violoniste
 Broussous Delphine, actrice
 Brunnquell Céleste, actrice
 Caillaud Simon, Comédien
@@ -694,6 +693,7 @@ Mounicot Sophie, Comédienne
 Muller Pierre, Acteur
 Navis Juliette, actrice
 Nedeleg Lukaz, Acteur
+Nova Nicolas, Photographe &amp; Comédien
 Oldani Simon, Acteur
 Oppenheim Antoine, Comédien
 Orhan Sylviane, Actrice
@@ -1528,6 +1528,7 @@ Benoit François, Cadreur
 Berteaux Gaétan, Électricien éclairagiste
 Berthellot Florian, Cadreur steadicam
 Bertrand Noémie, cadreuse, monteuse
+Bertrand Olivier, 1er assistant caméra &amp; chef-opérateur de prises de vues
 Besnard Colas, 1st ass camera
 Besson Margot, directrice de la photographie
 Boichon Juliette, assistante caméra
@@ -1708,6 +1709,7 @@ Munier Alain, assistant caméra
 Neal Raphaël, réalisateur, photographe
 Nigentz Gumuschian Stéphane, Directeur de la photo
 Nony Fred, Directeur de la photo
+Nova Nicolas, Photographe &amp; Comédien
 O’Byrne Raphaël, Directeur photo
 Ortiz Galdon Maria, Photographe
 Ougier Celeste, 1ère assistante opérateur
@@ -2084,6 +2086,7 @@ Teiger Bénédicte, scripte, monteuse
 Tintané-Ducharme, Milan Réalisateur et monteur
 Trillo Julie, Monteuse
 Tristram Charles, monteur
+Tronchot Damien, Monteur son &amp; compositeur
 Trotel Fabien, Monteur
 Trouillet Basile, réalisateur et monteur
 Urdy Axel, Monteur
@@ -3811,6 +3814,7 @@ Stephane Sanseverino, Musicien chanteur
 Taillandier Brigitte, Chef Opératrice du Son
 Thépault Avran, Compositeur
 Trahard Clément, Assistant son
+Tronchot Damien, Monteur son &amp; compositeur
 Tucat Pierre, Preneur de son
 Umansky Jean, Ingénieur du son
 Valeix Guillaume, Preneur de son
@@ -3834,9 +3838,6 @@ Zeilig Arnold, Ingénieur du son
 ## Autres
 
 ```
-0b57d0))}.docs-ml-promotion-action-button.docs-ml-promotion-no-button{background-color:var(--gm3-sys-color-surface-container-low,
-0b57d0)}.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed{background:var(--gm3-sys-color-primary,
-1f1f1f) 10%,var(--gm3-sys-color-surface-container-low,
 Adam Luc, Attaché de presse
 Aggoun Oihana, artiste
 Agier Mariana, critique de cinéma et directrice de publication
@@ -3905,8 +3906,6 @@ Bucher Quentin, Chargé de projets audiovisuels
 Bui Camille, chercheuse et critique de cinéma
 Bulin Marie Nadia, artiste chorégraphe
 Buron Isabelle, Attachée de presse
-c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active{background-color:color-mix(in srgb,var(--gm3-sys-color-on-surface,
-c4c7c5)}.docs-ml-promotion-action-button.docs-ml-promotion-yes-button{background-color:var(--gm3-sys-color-primary,
 Canu Jean-Charles, attaché de presse
 Capello Benoît, Exploitant de cinéma indépendant
 Caraire Johanna, directrice artistique
@@ -3994,7 +3993,6 @@ Faure Julia, cheffe d’entreprise
 Favier Olivier, Journaliste
 Feldman Vincent, Exploitant
 Fernández Ferrer Nicole, archiviste audiovisuel
-fff) 10%,var(--gm3-sys-color-primary,
 Filho Eugénie, administratrice
 Filleul de Brohy Isabelle, Ensemblière
 Fivel Marc, Chef constructeur
@@ -4008,6 +4006,7 @@ Fraysse Romane, journaliste
 Fréret Margot, technicienne
 Friceau Tara, Agent d’accueil de cinéma UGC
 Frizat Dominique, repéreuse
+function n(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}q("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});q("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}function v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__("__proto__"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__("__proto__"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}var D="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),E=D.concat,F=navigator.userAgent.match(/Firefox\/([0-9]+)\./),G=(!F||F.length<2?0:Number(F[1])<75)?["toSource"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];function C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?h:"unknown",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:v(),set:z()})}catch(a){}}(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?B(b,a):document.addEventListener("DOMContentLoaded",function(){B(b,a)})))})();}).call(this);Pour signer la tribune, vous pouvez écrire à zapperbollore@protonhtml { overflow: auto;}body { margin: 0; overflow: hidden; word-wrap: break-word;}.app-container { height: 100%; /* Height of mobileweb header + 1 px vertical shadow. */ margin-top: 57px; overflow: auto;}.doc { padding: 20px 12px 0 12px; position: relative;}.doc .doc-content { margin: auto; /* Override the inline style that is set on the .doc-content div, which is used to store layout data for roundtripping. */ padding: 24px 0 !important; max-width: 770px !important;}Pour signer la tribune
 Gaillot Ulysse, étalonneur
 Gallon Thomas, attaché de presse
 Gantzer Camille, Journaliste
@@ -4109,6 +4108,7 @@ Lasserre Isabelle, Chorégraphe
 Lasverne Alain, auteur
 Laveder Fuentes Belén, assistante à la coordination générale
 Lavigne Julie, salariée de festivals de cinéma
+Le Bellec Nathalie, correctrice &amp; secrétaire de rédaction
 Lebouq Léa, responsable des actions culturelles en festival
 Le Bruno Maeva, Figurante
 Lebrun Vincent, Journaliste de cinéma
