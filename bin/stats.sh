@@ -47,25 +47,26 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))|" >> README.md
 done
 
-echo "## Derniers signataires" >> README.md
-
 echo >> README.md
-echo '```diff' >> README.md
-echo "# $(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
+echo "## Derniers signataires " >> README.md
 echo >> README.md
-cat /tmp/newsignataires | sed 's/^/+ /' >> README.md
-echo '```' >> README.md
+echo "$(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
 echo >> README.md
 
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
-  echo >> README.md
-  echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
+  echo "### $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```diff' >> README.md
   echo "# $(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
   echo >> README.md
   join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
   echo '```' >> README.md
+  echo >> README.md
+done
+
+ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
+  echo >> README.md
+  echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```' >> README.md
   cat "$file" | sed 's/^//' >> README.md
