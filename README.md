@@ -9,7 +9,7 @@ Dernière mis à jour le 2026-05-22 08:37:27
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
-|**Nombre de signataires total**|**3250**|
+|**Nombre de signataires totals**|**3250**|
 |:-|-:|
 |Acting|[304](#acting)|
 |Casting|[32](#casting)|
