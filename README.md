@@ -3,7 +3,7 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 15:41:00
+Dernière mis à jour le 2026-05-22 16:42:34
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -24,7 +24,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Production|[268](#production-1)|
 |Réalisation|[896](#réalisation-1)|
 |Régie|[118](#régie-1)|
-|Scénariste|[169](#scénariste-1)|
+|Scénariste|[168](#scénariste-1)|
 |Son|[260](#son-1)|
 |Autres|[492](#autres-1)|
 
@@ -47,7 +47,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Comby Lemaitre, Théo Réalisateur et acteur
 + Di Domenico Fabio, Comédien
 + Dubois Clément, Comédien / figurant
-+ Dujardin Jean, Comédien &amp; scénariste; scénariste
 + Durand Keriako Amelie, musicienne comédienne
 + Fieschi Marthe, Actrice
 + Fournier Isabelle, comédienne
@@ -57,6 +56,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Héron Julien, Acteur
 + Lavalou Virginie, Comédienne
 + Le Noan Marjorie, comédienne
++ Lompret Aymeric, comédien
 + Medhem Aissam, Acteur
 + Moore Indya, acteurice
 + Morante Laura, actrice
@@ -367,11 +367,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Scénariste
 
 ```diff
-# 11 nouveau(x) signataire(s) aujourd'hui
+# 10 nouveau(x) signataire(s) aujourd'hui
 
 + Baudin Roxane, Assistante mise en scène
 + Connor Keri, Assistante mise en scène
-+ Dujardin Jean, Comédien &amp; scénariste; scénariste
 + Gilles Thibault, Scénariste et réalisateur
 + Hallot Virginie Comédienne, metteure en scène scénariste
 + Laverty Paul, scénariste
@@ -565,7 +564,6 @@ Dubois Clément, Comédien / figurant
 Du Bois Victoire, comédienne
 Duguey Romain, comédien
 Dujardin Caroline, Actrice et scénariste
-Dujardin Jean, Comédien &amp; scénariste
 Dumay Jean Charles,  acteur
 Dumortier Gauthier, acteur
 Duparc Sissi, Comédienne
@@ -660,6 +658,7 @@ Leytier Natacha, comédienne
 Liu Feng, actrice
 Lizana Ana, Comédienne
 Loiret Caille Florence, comédienne
+Lompret Aymeric, comédien
 Lopez Jane-Gail, comédienne et metteuse en scène
 López Sergi, acteur
 Loupiac Gildas, comédien et metteur en scène
@@ -3484,7 +3483,6 @@ De Vliegen Madie, assistante mise en scène
 Dobin Adèle, scénariste
 Doumbia Eva, autrice et metteuse en scène
 Dujardin Caroline, Actrice et scénariste
-Dujardin Jean, Comédien &amp; scénariste
 Eminenti Licia, scénariste
 Ernest Maya, metteuse en scène
 Escalante Tadeo, scénariste
