@@ -7,11 +7,9 @@ cat liste_complete.html | grep -v "DOCTYPE" | tr -d "\n" | sed 's|</p>|#|g' | se
 if [ "$(md5sum /tmp/liste_complete.txt.tmp | cut -d " " -f 1)" != "$(md5sum liste_complete.txt | cut -d " " -f 1)" ]
 then
   mv /tmp/liste_complete.txt.tmp liste_complete.txt
+  bash bin/stats.sh
+  git add liste_complete.html liste_complete.txt README.md
+  git commit liste_complete.html liste_complete.txt README.md -m "Mise à jour de la liste"
 else
   rm /tmp/liste_complete.txt.tmp;
 fi
-
-bash bin/stats.sh
-
-git add liste_complete.html liste_complete.txt README.md
-git commit liste_complete.html liste_complete.txt README.md -m "Mise à jour de la liste"
