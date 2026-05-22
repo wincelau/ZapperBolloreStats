@@ -3,7 +3,7 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 14:32:34
+Dernière mis à jour le 2026-05-22 14:41:02
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,22 +11,22 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 |**Nombre de signataires totals**|**3443**|
 |:-|-:|
-|Acting|[331](#acting)|
-|Casting|[34](#casting)|
-|Décor|[224](#décor)|
-|Distribution|[23](#distribution)|
-|Électricien.ne|[133](#Électricienne)|
-|Exploitation|[163](#exploitation)|
-|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure)|
-|Image|[291](#image)|
-|Machiniste|[65](#machiniste)|
-|Post production|[238](#post-production)|
-|Production|[268](#production)|
-|Réalisation|[895](#réalisation)|
-|Régie|[118](#régie)|
-|Scénariste|[169](#scénariste)|
-|Son|[260](#son)|
-|Autres|[492](#autres)|
+|Acting|[331](#acting-1)|
+|Casting|[34](#casting-1)|
+|Décor|[224](#décor-1)|
+|Distribution|[23](#distribution-1)|
+|Électricien.ne|[133](#Électricienne-1)|
+|Exploitation|[163](#exploitation-1)|
+|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure-1)|
+|Image|[291](#image-1)|
+|Machiniste|[65](#machiniste-1)|
+|Post production|[238](#post-production-1)|
+|Production|[268](#production-1)|
+|Réalisation|[895](#réalisation-1)|
+|Régie|[118](#régie-1)|
+|Scénariste|[169](#scénariste-1)|
+|Son|[260](#son-1)|
+|Autres|[492](#autres-1)|
 
 ## Derniers signataires 
 
@@ -462,7 +462,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Liste complète
 
 
-### Acting
+## Acting
 
 ```
 Agogué Raphaëlle, comédienne
@@ -800,7 +800,7 @@ Zimmer Yoann, Acteur/ réalisateur
 
 [Retourner au début de la page](#haut)
 
-### Casting
+## Casting
 
 ```
 Allione Julie, directrice de casting
@@ -841,7 +841,7 @@ Wormser Caroline, Directrice de casting
 
 [Retourner au début de la page](#haut)
 
-### Décor
+## Décor
 
 ```
 Alek Anouchka, Peintre
@@ -1072,7 +1072,7 @@ Weiss Larcher Pépite, Peintre matiériste
 
 [Retourner au début de la page](#haut)
 
-### Distribution
+## Distribution
 
 ```
 Barrau Albane, distributrice
@@ -1102,7 +1102,7 @@ Zekri Jean-Marc, distributeur
 
 [Retourner au début de la page](#haut)
 
-### Électricien.ne
+## Électricien.ne
 
 ```
 Ader Guillaume Chef, électricien
@@ -1242,7 +1242,7 @@ Zimmer Gaspard, électricien de plateau
 
 [Retourner au début de la page](#haut)
 
-### Exploitation
+## Exploitation
 
 ```
 Alazet Sébastien, projectionniste
@@ -1412,7 +1412,7 @@ Yven Myriam, Projectionniste
 
 [Retourner au début de la page](#haut)
 
-### Habillage, maquillage, coiffure
+## Habillage, maquillage, coiffure
 
 ```
 Allegatiere Sophie, Cheffe maquilleuse
@@ -1507,7 +1507,7 @@ Zegre-Real Miguel, Habilleur
 
 [Retourner au début de la page](#haut)
 
-### Image
+## Image
 
 ```
 Aeschimann Noémi, 2eme assistante caméra
@@ -1805,7 +1805,7 @@ Zynski Victor, Directeur de la photographie
 
 [Retourner au début de la page](#haut)
 
-### Machiniste
+## Machiniste
 
 ```
 Amouroux Yoan, Chef machiniste
@@ -1877,7 +1877,7 @@ Viveiros Adail, Machiniste déco - Cinéma
 
 [Retourner au début de la page](#haut)
 
-### Post production
+## Post production
 
 ```
 Amoureux Appoline, Post production
@@ -2122,7 +2122,7 @@ Zaanoun Sarah, Monteuse
 
 [Retourner au début de la page](#haut)
 
-### Production
+## Production
 
 ```
 Allaire Tom, producteur
@@ -2397,7 +2397,7 @@ Zimmermann Patricia, Directrice de production
 
 [Retourner au début de la page](#haut)
 
-### Réalisation
+## Réalisation
 
 ```
 Abadia Régine, Réalisatrice
@@ -3299,7 +3299,7 @@ Zylberman Ruth, réalisatrice
 
 [Retourner au début de la page](#haut)
 
-### Régie
+## Régie
 
 ```
 Ajello Bertille, Régisseuse
@@ -3424,7 +3424,7 @@ Vigliano Anatole, Régisseur
 
 [Retourner au début de la page](#haut)
 
-### Scénariste
+## Scénariste
 
 ```
 Agut Delphine, scénariste
@@ -3600,7 +3600,7 @@ Zebboudj Idir, Journaliste, scénariste
 
 [Retourner au début de la page](#haut)
 
-### Son
+## Son
 
 ```
 Abdelnour François, preneur de son
@@ -3867,7 +3867,7 @@ Zeilig Arnold, Ingénieur du son
 
 [Retourner au début de la page](#haut)
 
-### Autres
+## Autres
 
 ```
 Adam Luc, Attaché de presse
