@@ -2,9 +2,8 @@ echo -n > README.md
 
 echo "<a name='haut'></a>" >> README.md
 
-echo "# Statistiques des signataires de la tribune Zapper Bolloré" >> README.md
+echo "# Suivi statistique de la tribune Zapper Bolloré" >> README.md
 echo >> README.md
-
 
 echo "Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic)." >> README.md
 
@@ -20,7 +19,10 @@ rm /tmp/zapperbollore_*
 
 cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
 
-git cat-file -p ff4bc834eebc3b96b23edd2153eb61bb07209345 | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
+PREVIOUSCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
+PREVIOUSHASH=$(git cat-file -p $(git cat-file -p $PREVIOUSCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
+
+git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
 
