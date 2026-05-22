@@ -3,13 +3,13 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 15:09:48
+Dernière mis à jour le 2026-05-22 15:41:00
 
 ## Regroument des signataires par catégorie de métiers
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
-|**Nombre de signataires totals**|**3443**|
+|**Nombre de signataires totals**|**3444**|
 |:-|-:|
 |Acting|[331](#acting-1)|
 |Casting|[34](#casting-1)|
@@ -22,7 +22,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Machiniste|[65](#machiniste-1)|
 |Post production|[238](#post-production-1)|
 |Production|[268](#production-1)|
-|Réalisation|[895](#réalisation-1)|
+|Réalisation|[896](#réalisation-1)|
 |Régie|[118](#régie-1)|
 |Scénariste|[169](#scénariste-1)|
 |Son|[260](#son-1)|
@@ -30,7 +30,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-284 nouveau(x) signataire(s) aujourd'hui
+285 nouveau(x) signataire(s) aujourd'hui
 
 ### Acting
 
@@ -266,7 +266,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-# 81 nouveau(x) signataire(s) aujourd'hui
+# 82 nouveau(x) signataire(s) aujourd'hui
 
 + Abu Assad Hany, réalisateur
 + Alanou Tanguy, Réalisateur
@@ -319,6 +319,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Latouche Bertrand, réalisateur
 + Loach Ken, réalisateur
 + Louf Frédéric, réalisateur
++ Maïga Aïssa, réalisatrice
 + Martin Papasian Louise, Programmatrice et réalisatrice
 + Montineri Giulia, Réalisatrice
 + Neplaz Marianne, Assistante de réalisation
@@ -2952,6 +2953,7 @@ Loupiac Gildas, comédien et metteur en scène
 Machard Thierry, acteur et réalisateur
 Mahenc Isabelle, réalisatrice
 Mahieu Chloé, Réalisatrice
+Maïga Aïssa, réalisatrice
 Mainçon frédéric, réalisateur
 Mak Anaïs, réalisatrice et graphiste générique
 Malandrone Gaelle, réalisation  
