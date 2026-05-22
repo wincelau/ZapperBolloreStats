@@ -3,7 +3,7 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour le 2026-05-22 21:56:47
+Dernière mis à jour le 2026-05-22 22:43:31
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,7 +11,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|
 |:-|-:|-:|
-|**Tous les signataires**|**3411**|**+284**
+|**Tous les signataires**|**3412**|**+285**
 |Acteur.ice, Comédien.ne|[329](#acteurice-comédienne-1)|[+38](#acteurice-comédienne)
 |Casting|[33](#casting-1)|[+2](#casting)
 |Décor|[222](#décor-1)|[+38](#décor)
@@ -27,11 +27,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Régie|[117](#régie-1)|[+4](#régie)
 |Scénariste|[165](#scénariste-1)|[+9](#scénariste)
 |Son|[257](#son-1)|[+24](#son)
-|Autres|[488](#autres-1)|[+41](#autres)
+|Autres|[489](#autres-1)|[+42](#autres)
 
 ## Derniers signataires 
 
-284 nouveau(x) signataire(s) aujourd'hui
+285 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -413,7 +413,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-# 41 nouveau(x) signataire(s) aujourd'hui
+# 42 nouveau(x) signataire(s) aujourd'hui
 
 + Adam Luc, Attaché de presse
 + Alabau Audrey, Serrurière
@@ -433,6 +433,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Grosos Mathis, Journaliste et créateur de contenu
 + Grynagier Alexandre, Dessinateur d&
 + Ibourk Adam, Ventes Internationales
++ Intent;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );Pour signer la tribune;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );Pour signer la tribune
 + Jahan Marylou, Assistant communication
 + Lafaye Louna, Serrurier
 + Lagrange Aimée, Artiste chorégraphique
@@ -4068,6 +4069,7 @@ Husakovic Edo, Menuisier traceur
 Ibourk Adam, Ventes Internationales
 Ihne Tristan, Danseur
 Ingrand-Consigny Céleste, Chanteuse
+Intent;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );Pour signer la tribune
 Issalene Baptiste, chargé d’accompagnement des activités éducatives
 Jahan Marylou, Assistant communication
 Jammot Florence, Journaliste retraitée
