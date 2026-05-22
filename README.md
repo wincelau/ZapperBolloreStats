@@ -3,30 +3,31 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 16:42:34
+Dernière mis à jour le 2026-05-22 19:28:14
 
 ## Regroument des signataires par catégorie de métiers
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
-|**Nombre de signataires totals**|**3444**|
-|:-|-:|
-|Acting|[331](#acting-1)|
-|Casting|[34](#casting-1)|
-|Décor|[224](#décor-1)|
-|Distribution|[23](#distribution-1)|
-|Électricien.ne|[133](#Électricienne-1)|
-|Exploitation|[163](#exploitation-1)|
-|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure-1)|
-|Image|[291](#image-1)|
-|Machiniste|[65](#machiniste-1)|
-|Post production|[238](#post-production-1)|
-|Production|[268](#production-1)|
-|Réalisation|[896](#réalisation-1)|
-|Régie|[118](#régie-1)|
-|Scénariste|[168](#scénariste-1)|
-|Son|[260](#son-1)|
-|Autres|[492](#autres-1)|
+||Total|Aujourd'hui|
+|:-|-:|-:|
+|**Tous les signataires**|**3444**|**+285**
+|Acting|[331](#acting-1)|[+38]((#acting)
+|Casting|[34](#casting-1)|[+3]((#casting)
+|Décor|[224](#décor-1)|[+39]((#décor)
+|Distribution|[23](#distribution-1)|[+2]((#distribution)
+|Électricien.ne|[133](#Électricienne-1)|[+3]((#Électricienne)
+|Exploitation|[163](#exploitation-1)|[+8]((#exploitation)
+|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure-1)|[+4]((#habillage-maquillage-coiffure)
+|Image|[291](#image-1)|[+22]((#image)
+|Machiniste|[65](#machiniste-1)|[+4]((#machiniste)
+|Post production|[238](#post-production-1)|[+15]((#post-production)
+|Production|[268](#production-1)|[+16]((#production)
+|Réalisation|[896](#réalisation-1)|[+82]((#réalisation)
+|Régie|[118](#régie-1)|[+5]((#régie)
+|Scénariste|[168](#scénariste-1)|[+10]((#scénariste)
+|Son|[260](#son-1)|[+23]((#son)
+|Autres|[492](#autres-1)|[+40]((#autres)
 
 ## Derniers signataires 
 
