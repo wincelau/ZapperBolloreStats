@@ -47,7 +47,7 @@ echo "||Total|Aujourd'hui|" >> README.md
 echo "|:-|-:|-:|" >> README.md
 echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$(cat /tmp/newsignataires | wc -l)**" >> README.md
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
-  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)]((#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))" >> README.md
+  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))" >> README.md
 done
 
 echo >> README.md

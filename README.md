@@ -12,22 +12,22 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ||Total|Aujourd'hui|
 |:-|-:|-:|
 |**Tous les signataires**|**3444**|**+285**
-|Acting|[331](#acting-1)|[+38]((#acting)
-|Casting|[34](#casting-1)|[+3]((#casting)
-|Décor|[224](#décor-1)|[+39]((#décor)
-|Distribution|[23](#distribution-1)|[+2]((#distribution)
-|Électricien.ne|[133](#Électricienne-1)|[+3]((#Électricienne)
-|Exploitation|[163](#exploitation-1)|[+8]((#exploitation)
-|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure-1)|[+4]((#habillage-maquillage-coiffure)
-|Image|[291](#image-1)|[+22]((#image)
-|Machiniste|[65](#machiniste-1)|[+4]((#machiniste)
-|Post production|[238](#post-production-1)|[+15]((#post-production)
-|Production|[268](#production-1)|[+16]((#production)
-|Réalisation|[896](#réalisation-1)|[+82]((#réalisation)
-|Régie|[118](#régie-1)|[+5]((#régie)
-|Scénariste|[168](#scénariste-1)|[+10]((#scénariste)
-|Son|[260](#son-1)|[+23]((#son)
-|Autres|[492](#autres-1)|[+40]((#autres)
+|Acting|[331](#acting-1)|[+38](#acting)
+|Casting|[34](#casting-1)|[+3](#casting)
+|Décor|[224](#décor-1)|[+39](#décor)
+|Distribution|[23](#distribution-1)|[+2](#distribution)
+|Électricien.ne|[133](#Électricienne-1)|[+3](#Électricienne)
+|Exploitation|[163](#exploitation-1)|[+8](#exploitation)
+|Habillage, maquillage, coiffure|[88](#habillage-maquillage-coiffure-1)|[+4](#habillage-maquillage-coiffure)
+|Image|[291](#image-1)|[+22](#image)
+|Machiniste|[65](#machiniste-1)|[+4](#machiniste)
+|Post production|[238](#post-production-1)|[+15](#post-production)
+|Production|[268](#production-1)|[+16](#production)
+|Réalisation|[896](#réalisation-1)|[+82](#réalisation)
+|Régie|[118](#régie-1)|[+5](#régie)
+|Scénariste|[168](#scénariste-1)|[+10](#scénariste)
+|Son|[260](#son-1)|[+23](#son)
+|Autres|[492](#autres-1)|[+40](#autres)
 
 ## Derniers signataires 
 
