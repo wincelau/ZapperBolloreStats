@@ -1,9 +1,11 @@
 <a name='haut'></a>
 # Statistiques des signataires de la tribune Zapper Bolloré
 
-Cette page est générée automatiquement par un robot, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires à la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic)
+Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-## Regroument des signataires par catégorie de métier
+Dernière mis à jour le 2026-05-22 08:37:27
+
+## Regroument des signataires par catégorie de métiers
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
@@ -28,7 +30,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Derniers signataires
 
 ```diff
-# 91 nouveau(x) signataire(s)
+# 91 nouveau(x) signataire(s) aujourd'hui
 
 + Abu Assad Hany, réalisateur
 + Alcala José, Réalisateur
@@ -127,7 +129,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Acting
 
 ```diff
-# 11 nouveau(x) signataire(s)
+# 11 nouveau(x) signataire(s) aujourd'hui
 
 + Azoulay Anne, comédienne
 + Bakri Saleh, acteur
@@ -454,7 +456,7 @@ Zimmer Yoann, Acteur/ réalisateur
 ## Casting
 
 ```diff
-# 1 nouveau(x) signataire(s)
+# 1 nouveau(x) signataire(s) aujourd'hui
 
 + Lainé Diodovic Sophie, Directrice de casting
 ```
@@ -499,7 +501,7 @@ Wormser Caroline, Directrice de casting
 ## Décor
 
 ```diff
-# 8 nouveau(x) signataire(s)
+# 8 nouveau(x) signataire(s) aujourd'hui
 
 + Brison Lionel, décorateur
 + Coleman Elio, Assistant décorateur
@@ -712,7 +714,7 @@ Weiss Larcher Pépite, Peintre matiériste
 ## Distribution
 
 ```diff
-# 0 nouveau(x) signataire(s)
+# 0 nouveau(x) signataire(s) aujourd'hui
 
 ```
 
@@ -745,7 +747,7 @@ Zekri Jean-Marc, distributeur
 ## Électricien.ne
 
 ```diff
-# 2 nouveau(x) signataire(s)
+# 2 nouveau(x) signataire(s) aujourd'hui
 
 + Fromage Papazian Nilda, électricien
 + Salesses Emilie, Électricienne de cinéma
@@ -891,7 +893,7 @@ Zimmer Gaspard, électricien de plateau
 ## Exploitation
 
 ```diff
-# 5 nouveau(x) signataire(s)
+# 5 nouveau(x) signataire(s) aujourd'hui
 
 + de Calan Louise, programmatrice
 + Flavier Thomas, Médiateur culturel, programmateur de films pour le jeune public
@@ -1068,7 +1070,7 @@ Yven Myriam, Projectionniste
 ## Habillage, maquillage, coiffure
 
 ```diff
-# 1 nouveau(x) signataire(s)
+# 1 nouveau(x) signataire(s) aujourd'hui
 
 + Richard Charlotte, Cheffe costumière
 ```
@@ -1166,7 +1168,7 @@ Zegre-Real Miguel, Habilleur
 ## Image
 
 ```diff
-# 3 nouveau(x) signataire(s)
+# 3 nouveau(x) signataire(s) aujourd'hui
 
 + Grandperret Julia, Photographe
 + Mancel Neto Margot, Assistante caméra / cheffe opératrice
@@ -1453,7 +1455,7 @@ Zynski Victor, Directeur de la photographie
 ## Machiniste
 
 ```diff
-# 2 nouveau(x) signataire(s)
+# 2 nouveau(x) signataire(s) aujourd'hui
 
 + Chaudagne Benjamin, Machiniste
 + Issaly Thibault, Machiniste
@@ -1530,7 +1532,7 @@ Viveiros Adail, Machiniste déco - Cinéma
 ## Post production
 
 ```diff
-# 6 nouveau(x) signataire(s)
+# 6 nouveau(x) signataire(s) aujourd'hui
 
 + Depret Tiphaine, Monteuse son
 + Fayard Francois, Chef Monteur Son
@@ -1777,7 +1779,7 @@ Zaanoun Sarah, Monteuse
 ## Production
 
 ```diff
-# 7 nouveau(x) signataire(s)
+# 7 nouveau(x) signataire(s) aujourd'hui
 
 + Arhex Jacques, Directeur de production
 + Bidnic Lamiel, Chargée de production
@@ -2055,7 +2057,7 @@ Zimmermann Patricia, Directrice de production
 ## Réalisation
 
 ```diff
-# 28 nouveau(x) signataire(s)
+# 28 nouveau(x) signataire(s) aujourd'hui
 
 + Abu Assad Hany, réalisateur
 + Alcala José, Réalisateur
@@ -2937,7 +2939,7 @@ Zylberman Ruth, réalisatrice
 ## Régie
 
 ```diff
-# 3 nouveau(x) signataire(s)
+# 3 nouveau(x) signataire(s) aujourd'hui
 
 + Gil José, Régisseur
 + Moquet Valentin, Régisseur
@@ -3068,7 +3070,7 @@ Vigliano Anatole, Régisseur
 ## Scénariste
 
 ```diff
-# 3 nouveau(x) signataire(s)
+# 3 nouveau(x) signataire(s) aujourd'hui
 
 + Baudin Roxane, Assistante mise en scène
 + Laverty Paul, scénariste
@@ -3244,7 +3246,7 @@ Zebboudj Idir, Journaliste, scénariste
 ## Son
 
 ```diff
-# 12 nouveau(x) signataire(s)
+# 12 nouveau(x) signataire(s) aujourd'hui
 
 + Darscotte Thibaut, Ingenieur du son
 + Depret Tiphaine, Monteuse son
@@ -3521,7 +3523,7 @@ Zeilig Arnold, Ingénieur du son
 ## Autres
 
 ```diff
-# 6 nouveau(x) signataire(s)
+# 6 nouveau(x) signataire(s) aujourd'hui
 
 + Barthélemy Pierre, Éditeur
 + Grosos Mathis, Journaliste et créateur de contenu

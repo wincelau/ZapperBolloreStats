@@ -6,7 +6,13 @@ echo "# Statistiques des signataires de la tribune Zapper Bolloré" >> README.md
 echo >> README.md
 
 
-echo "Cette page est générée automatiquement par un robot, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires à la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic)" >> README.md
+echo "Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic)." >> README.md
+
+
+echo >> README.md
+
+echo "Dernière mis à jour le $(stat liste_complete.txt | grep Modif | cut -d " " -f 2,3 | cut -d "." -f 1
+)" >> README.md
 
 echo >> README.md
 
@@ -14,7 +20,7 @@ rm /tmp/zapperbollore_*
 
 cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
 
-git cat-file -p 42c7f118af896be237575b4e30ce0766b424892 | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
+git cat-file -p ff4bc834eebc3b96b23edd2153eb61bb07209345 | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
 
@@ -27,7 +33,7 @@ done
 cat /tmp/zapperbollore_* | sort > /tmp/zapperbollore_tous
 join -t ";" -v 1 /tmp/zapperbollore /tmp/zapperbollore_tous > /tmp/zapperbollore_ZZZZAutres
 
-echo "## Regroument des signataires par catégorie de métier" >> README.md
+echo "## Regroument des signataires par catégorie de métiers" >> README.md
 
 echo >> README.md
 
@@ -45,7 +51,7 @@ echo "## Derniers signataires" >> README.md
 
 echo >> README.md
 echo '```diff' >> README.md
-echo "# $(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s)" >> README.md
+echo "# $(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
 echo >> README.md
 cat /tmp/newsignataires | sed 's/^/+ /' >> README.md
 echo '```' >> README.md
@@ -56,7 +62,7 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```diff' >> README.md
-  echo "# $(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l) nouveau(x) signataire(s)" >> README.md
+  echo "# $(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
   echo >> README.md
   join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
   echo '```' >> README.md
