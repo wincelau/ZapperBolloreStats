@@ -18,12 +18,42 @@ rm /tmp/zapperbollore_*
 
 cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
 
+# Récupére les nouveaux signataires du jour
+
 PREVIOUSCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 PREVIOUSHASH=$(git cat-file -p $(git cat-file -p $PREVIOUSCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
 
 git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
+
+# Récupére les nouveaux signataires de la veille
+
+YESTERDAYFIRSTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date=yesterday) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
+YESTERDAYFIRSTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYFIRSTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
+
+git cat-file -p $YESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/yesterdayfirstzapperbollore
+
+YESTERDAYLASTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date=yesterday) 23:59:59" liste_complete.txt | head -n 1 | cut -d " " -f 1)
+YESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYLASTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
+git cat-file -p $YESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/yesterdaylastzapperbollore
+
+join -t ";" -j 1 /tmp/yesterdaylastzapperbollore /tmp/yesterdayfirstzapperbollore -v 1 > /tmp/yesterday_newsignataires
+
+# Récupére les nouveaux signataires de l'avant veille
+
+BEFOREYESTERDAYFIRSTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date="- 2 day") 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
+BEFOREYESTERDAYFIRSTHASH=$(git cat-file -p $(git cat-file -p $BEFOREYESTERDAYFIRSTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
+
+git cat-file -p $BEFOREYESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/beforeyesterdayfirstzapperbollore
+
+BEFOREYESTERDAYLASTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date="- 2 day") 23:59:59" liste_complete.txt | head -n 1 | cut -d " " -f 1)
+BEFOREYESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $BEFOREYESTERDAYLASTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
+git cat-file -p $BEFOREYESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/beforeyesterdaylastzapperbollore
+
+join -t ";" -j 1 /tmp/beforeyesterdaylastzapperbollore /tmp/beforeyesterdayfirstzapperbollore -v 1 > /tmp/beforeyesterday_newsignataires
+
+# Récupère les signataire par catégorie
 
 cat bin/filtres | while read ligne; do
   TITRE=$(echo -n $ligne | cut -d ";" -f 1);
@@ -42,11 +72,11 @@ echo "Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/f
 
 echo >> README.md
 
-echo "||Total|Aujourd'hui|" >> README.md
-echo "|:-|-:|-:|" >> README.md
-echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$(cat /tmp/newsignataires | wc -l)**" >> README.md
+echo "||Total|Aujourd'hui|Hier|Avant-hier|" >> README.md
+echo "|:-|-:|-:|-:|-:|" >> README.md
+echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$(cat /tmp/newsignataires | wc -l)**|**+$(cat /tmp/yesterday_newsignataires | wc -l)**|**+$(cat /tmp/beforeyesterday_newsignataires | wc -l)**|" >> README.md
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
-  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))" >> README.md
+  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))|||" >> README.md
 done
 
 echo >> README.md
