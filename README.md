@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-23 13:36:46
+Dernière mis à jour : 2026-05-23 18:07:54
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,8 +11,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|
 |:-|-:|-:|
-|**Tous les signataires**|**3686**|**+286**
-|Acteur.ice, Comédien.ne|[371](#acteurice-comédienne-1)|[+43](#acteurice-comédienne)
+|**Tous les signataires**|**3692**|**+296**
+|Acteur.ice, Comédien.ne|[374](#acteurice-comédienne-1)|[+46](#acteurice-comédienne)
 |Casting|[35](#casting-1)|[+3](#casting)
 |Décor|[242](#décor-1)|[+20](#décor)
 |Distribution|[22](#distribution-1)|[+0](#distribution)
@@ -21,22 +21,22 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Habillage, maquillage, coiffure|[93](#habillage-maquillage-coiffure-1)|[+7](#habillage-maquillage-coiffure)
 |Image|[323](#image-1)|[+38](#image)
 |Machiniste|[70](#machiniste-1)|[+6](#machiniste)
-|Post production|[260](#post-production-1)|[+24](#post-production)
+|Post production|[263](#post-production-1)|[+27](#post-production)
 |Production|[287](#production-1)|[+21](#production)
-|Réalisation|[927](#réalisation-1)|[+43](#réalisation)
+|Réalisation|[927](#réalisation-1)|[+45](#réalisation)
 |Régie|[129](#régie-1)|[+12](#régie)
 |Scénariste|[177](#scénariste-1)|[+12](#scénariste)
-|Son|[288](#son-1)|[+32](#son)
-|Autres|[531](#autres-1)|[+46](#autres)
+|Son|[288](#son-1)|[+33](#son)
+|Autres|[531](#autres-1)|[+47](#autres)
 
 ## Derniers signataires 
 
-286 nouveau(x) signataire(s) aujourd'hui
+296 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-# 43 nouveau(x) signataire(s) aujourd'hui
+# 46 nouveau(x) signataire(s) aujourd'hui
 
 + Barbeau Marion, Comédienne
 + Bedel Loïc, Comédien
@@ -60,6 +60,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Gourdan Clémentine, Comédienne
 + Grudzinska Joanna, autrice réalisatrice directrice de casting actrice
 + Guillot Isabelle, comédienne
++ h Gwenn, Acteur
 + Jeannot Mathis, Comédien
 + Joubert Axel, Comédien
 + Kern Hervé, comédien
@@ -80,7 +81,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Pujol Benjamin, Comédien
 + Renaud Suzon, Comédienne
 + Richier Le Moan, César Comédien
++ Roussineau Damien, Comédien
 + Salachas Anton, Acteur
++ Worthalter Arieh, Acteur
 ```
 
 ### Casting
@@ -230,7 +233,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-# 24 nouveau(x) signataire(s) aujourd'hui
+# 27 nouveau(x) signataire(s) aujourd'hui
 
 + Akkari Danae, Monteuse
 + Baudry Anne, Monteuse
@@ -255,7 +258,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Rossi Mona, Monteuse
 + Ryon Laurence, Chef monteuse
 + Schwab Agnès, Cheffe monteuse
++ Sotto Arthur, Animateur 2d
++ Tourtelier Thomas, assistant monteur
 + Vidal Cyprien, Monteur son
++ Weber Florian, Monteur
 ```
 
 ### Production
@@ -289,7 +295,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-# 43 nouveau(x) signataire(s) aujourd'hui
+# 45 nouveau(x) signataire(s) aujourd'hui
 
 + Amaral Antonio, Cinéaste
 + Bazile Annouk, Assistante de production - réalisatrice
@@ -332,6 +338,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Poisson Tommy, Photographe et réalisateur
 + Pontois-Blachère Arnaud, Comédien, auteur, metteur en scène
 + Sarasin Jacques, Réalisateur
++ Schaeffer Clémentine, Scripte
++ Thuret Stan, Cinéaste navigateur
 + Turpin Béatrice, réalisatrice
 + Wind Mathilde, Metteure en scène
 ```
@@ -377,7 +385,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Son
 
 ```diff
-# 32 nouveau(x) signataire(s) aujourd'hui
+# 33 nouveau(x) signataire(s) aujourd'hui
 
 + Berger Cédric, Chef operateur du son
 + Bernot Loris, Ingénieur du son
@@ -408,6 +416,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Roué Julie, compositrice
 + Tijou Clément, Chef opérateur du son
 + Turpin Damien, Ingenieur du son
++ Van Groeningen Seppe, son
 + Varrenne Olivier, Ingénieur du son
 + Vidal Cyprien, Monteur son
 + Waledisch François, Chef opérateur son
@@ -416,7 +425,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-# 46 nouveau(x) signataire(s) aujourd'hui
+# 47 nouveau(x) signataire(s) aujourd'hui
 
 + Albert Elisha, Perchwoman
 + Alberti Nicolas, Graphiste
@@ -455,6 +464,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Reot Amaury, Artiste chorégraphe
 + Rostagnat Thibaut, Artiste 3D
 + Rousselle Rémy, Ingénieur
++ Schmidtmer Léonie, administratrice Cinéma
 + Silly Pélissier Léo, Directeur d&
 + Stevens Salomé, recherches visuelles &amp; historiques; historiques
 + Teixeira Nell, Médiatrice en salle de cinéma
@@ -642,6 +652,7 @@ Héritier Louise, Comédienne
 Hermant Loan, Comédien
 Héron Julien, Acteur
 Hesme Clotilde, comédienne
+h Gwenn, Acteur
 Hill-Chouaki Florent, comédien, scénariste
 Hiron Emmanuelle, Actrice
 h Morgan, Comédienne
@@ -785,6 +796,7 @@ Rieger Louison, Comédien
 Robic Xavier, comédien
 Rodier Anne, Comédienne et autrice
 Roth Julie Anne, comédienne
+Roussineau Damien, Comédien
 Rowe Jim, Comédien
 Ruffalo Mark, acteur
 Rumpf Ella, comédienne
@@ -839,6 +851,7 @@ Vonthron Stéphane, Comédien
 Watkins Gérard, acteur auteur metteur en scène
 Weil Mathilde, Comédienne
 Werner Olivier, comédien  
+Worthalter Arieh, Acteur
 Wyler Maud, comédienne
 Yermak Aleksandra, Comédienne, scénariste, réalisatrice
 Zadi Jean-Pascal, réalisateur et comédien
@@ -2230,12 +2243,14 @@ Sinquin Ronan, monteur
 Sirven Xavier, monteur
 Sohier Raphaël, monteur son
 Soland Emmanuel, monteur son/ mixeur/ créateur sonore
+Sotto Arthur, Animateur 2d
 Soudet Julien, monteur
 Squire Joseph, Ingénieur du son, monteur son
 Stemmer Gabrielle, réalisatrice et monteuse
 Tavernier marie Réalisatrice, Monteuse
 Teiger Bénédicte, scripte, monteuse
 Tintané-Ducharme, Milan Réalisateur et monteur
+Tourtelier Thomas, assistant monteur
 Trillo Julie, Monteuse
 Tristram Charles, monteur
 Tronchot Damien, Monteur son &amp; compositeur
@@ -2256,6 +2271,7 @@ Vincent Auguste, Animateur 2d
 Voisin Olivier, Monteur Son
 Volpelière Flora, Monteuse
 Volta Gilles, monteur
+Weber Florian, Monteur
 Wisshaupt-Claudel Lydie, réalisatrice et monteuse
 Zaanoun Sarah, Monteuse
 ```
@@ -3347,7 +3363,6 @@ Saba Daniella, cinéaste
 Safo Ananda, Cinéaste
 Saint-Cricq Pauline, scripte
 Salama Damien, réalisateur
-Sallé Julien, réalisateur
 Sallé Julien, Réalisateur
 Salles Walter, réalisateur
 Salvert Thierry, réalisateur
@@ -3356,6 +3371,7 @@ Sarasin Jacques, Réalisateur
 Saubost Nicolas, assistant réalisateur
 Sauder Régis, Réalisateur
 Sauzeau Camille, scripte
+Schaeffer Clémentine, Scripte
 Schmitz Claude, réalisateur
 Schneider Clément, réalisateur
 Schoeller Pierre, cinéaste
@@ -3411,7 +3427,7 @@ Thomas Corentin, Assistant réalisateur
 Thomas-Pavlowsky Arthur, réalisateur
 Thoubillon Lison, scripte
 Thouet-Dauga Lola, scripte LSA
-Thuret Stan, Cineaste navigateur
+Thuret Stan, Cinéaste navigateur
 Tilhou Nadejda, Réalisatrice
 Tintané-Ducharme, Milan Réalisateur et monteur
 Tissot Rodolphe, réalisateur
@@ -4086,7 +4102,7 @@ Turpin Damien, Ingenieur du son
 Umansky Jean, Ingénieur du son
 Valeix Guillaume, Preneur de son
 Van De Wiele Benjamin, Perchman
-van Groeningen Seppe, son
+Van Groeningen Seppe, son
 Varenne Olivier, Perchman
 Varrenne Olivier, Ingénieur du son
 Velay Jean-Barthélemy, ingénieur du son
@@ -4563,7 +4579,7 @@ Saubole Mathilde, coach d’acteur, coordinatrice d’intimité
 Savdié Joël, Artiste auteur
 Schaeffer Marion, Architecte
 Scherer Raphaël, Administrateur
-Schmidtmer Leonie, administratrice Cinéma
+Schmidtmer Léonie, administratrice Cinéma
 Schnitzler Pauline, Architecte
 Schramm Elisa, Autrice
 Scoupe Martine, directrice adjointe de cinéma

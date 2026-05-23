@@ -1763,6 +1763,7 @@ Hespel Olivier, Homme de son
 Heude Antoine, directeur d&
 Heurtier Manzanares Lysa, réalisatrice et productrice
 Hévin Salomé, réalisatrice
+h Gwenn, Acteur
 Hiet Sophie, scénariste.
 Hill-Chouaki Florent, comédien, scénariste
 Hincelin Leila, documentaliste
@@ -3133,6 +3134,7 @@ Roussel Eden, Assistante de post-production
 Roussel Laure, machiniste
 Roussel Leo, Chef opérateur
 Rousselle Rémy, Ingénieur
+Roussineau Damien, Comédien
 Rousst Émilie, metteuse en scène
 Route Émilie, régisseuse
 Roux Antoine, Chef électricien de prises de vues
@@ -3186,7 +3188,6 @@ Salesses Emilie, Électricienne de cinéma
 Salinas Gwendoline, Assistante caméra
 Salinger Emmanuel, comédien et scénariste
 Salinger Joachim, comédien
-Sallé Julien, réalisateur
 Sallé Julien, Réalisateur
 Salles Walter, réalisateur
 Salmon-Legagneur Sophia, Assistante régisseuse adjointe
@@ -3226,13 +3227,14 @@ Scaringella Gautier, Responsable de production audiovisuelle
 Scarrone Jacques, ancien régisseur général et directeur de production
 Scaviner Alan, Régisseur
 Schaditzki Olivier, ingénieur du son
+Schaeffer Clémentine, Scripte
 Schaeffer Mana, assistante décoratrice
 Schaeffer Marion, Architecte
 Schall Aurélien, régisseur cinéma
 Schall Jonathan, directeur de casting
 Scharf Garance, Monteuse
 Scherer Raphaël, Administrateur
-Schmidtmer Leonie, administratrice Cinéma
+Schmidtmer Léonie, administratrice Cinéma
 Schmitz Claude, réalisateur
 Schneider Clément, réalisateur
 Schnitzler Pauline, Architecte
@@ -3328,8 +3330,8 @@ Soral Julien, Opérateur du son
 Sorel Dimitri, technicien cinema
 Sorel Ysé, Réalisatrice, scénariste
 Sorlin Anne Élodie, Comédienne
+Sotto Arthur, Animateur 2d
 Soudet Julien, monteur
-Souël Peter, Machiniste
 Souël Peter, Machiniste
 Soulabaille Fanny, assistante caméra
 Soulier-Nguyen Véronique, Maquillage
@@ -3432,7 +3434,7 @@ Thomas Simon, exploitant de salle de cinéma
 Thommen Suzon, directrice de production de films publicitaires
 Thoubillon Lison, scripte
 Thouet-Dauga Lola, scripte LSA
-Thuret Stan, Cineaste navigateur
+Thuret Stan, Cinéaste navigateur
 Tiger Anna, Assistante caméra
 Tijou Clément, Chef opérateur du son
 Tilhou Nadejda, Réalisatrice
@@ -3452,6 +3454,7 @@ Toulat Dominique, exploitant
 Toupet Suzanne, Décoratrice
 Touré Manda, actrice
 Tourenne Frédérique, Comptable festival de cinéma
+Tourtelier Thomas, assistant monteur
 Touzet Clémence, assistante de Casting
 Trably Oriane, Cheffe opératrice
 Trad Laura, chargé de communication
@@ -3524,7 +3527,7 @@ Vanderwaeren Michel, Photographe
 Van De Wiele Benjamin, Perchman
 Van Eeckhout Madhuri, Assistant OPV Adjoint
 Vanessa Le Reste, autrice-réalisatrice
-van Groeningen Seppe, son
+Van Groeningen Seppe, son
 Vanh Bouapha Sengthe, cinéaste
 Vanhelst Thomas, 1er Assistant OPV
 Vannier Cyril, Machiniste
@@ -3638,6 +3641,7 @@ Wasp Chloé, Réalisatrice
 Watkins Gérard, acteur auteur metteur en scène
 Watterlot William, Directeur de la photographie
 Weber Eléonore, réalisatrice
+Weber Florian, Monteur
 Weeger Marion, Directrice de production
 Weidmann Fabienne, programmatrice exploitation
 Weil Mathilde, Comédienne
@@ -3654,6 +3658,7 @@ Wisniewski Léa, productrice
 Wisshaupt-Claudel Lydie, réalisatrice et monteuse
 Wormser Caroline, Directrice de casting
 Worms Philippe, réalisateur
+Worthalter Arieh, Acteur
 Worthington Quentin, réalisateur
 Woshe Thomas, Graffiti Writer
 Wouters Luc, réalisateur
