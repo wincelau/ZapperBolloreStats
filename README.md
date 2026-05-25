@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-24 21:56:51
+Dernière mis à jour : 2026-05-25 10:28:30
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,55 +11,133 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**3699**|**+0**|**+335**|**+284**|
-|Acteur.ice, Comédien.ne|[377](#acteurice-comédienne-1)|[+0](#acteurice-comédienne)|||
-|Animation|[13](#animation-1)|[+0](#animation)|||
-|Casting|[35](#casting-1)|[+0](#casting)|||
-|Décor|[246](#décor-1)|[+0](#décor)|||
+|**Tous les signataires**|**4046**|**+350**|**+0**|**+335**|
+|Acteur.ice, Comédien.ne|[418](#acteurice-comédienne-1)|[+42](#acteurice-comédienne)|||
+|Animation|[18](#animation-1)|[+5](#animation)|||
+|Casting|[38](#casting-1)|[+3](#casting)|||
+|Décor|[274](#décor-1)|[+28](#décor)|||
 |Distribution|[24](#distribution-1)|[+0](#distribution)|||
-|Électricien.ne|[139](#Électricienne-1)|[+0](#Électricienne)|||
-|Exploitation|[199](#exploitation-1)|[+0](#exploitation)|||
-|Habillage, maquillage, coiffure|[94](#habillage-maquillage-coiffure-1)|[+0](#habillage-maquillage-coiffure)|||
-|Image|[340](#image-1)|[+0](#image)|||
-|Machiniste|[70](#machiniste-1)|[+0](#machiniste)|||
-|Post production|[268](#post-production-1)|[+0](#post-production)|||
-|Production|[284](#production-1)|[+0](#production)|||
-|Réalisation|[929](#réalisation-1)|[+0](#réalisation)|||
-|Régie|[132](#régie-1)|[+0](#régie)|||
-|Scénariste|[178](#scénariste-1)|[+0](#scénariste)|||
-|Son|[291](#son-1)|[+0](#son)|||
-|Autres|[459](#autres-1)|[+0](#autres)|||
+|Électricien.ne|[145](#Électricienne-1)|[+6](#Électricienne)|||
+|Exploitation|[208](#exploitation-1)|[+10](#exploitation)|||
+|Habillage, maquillage, coiffure|[112](#habillage-maquillage-coiffure-1)|[+18](#habillage-maquillage-coiffure)|||
+|Image|[375](#image-1)|[+35](#image)|||
+|Machiniste|[76](#machiniste-1)|[+6](#machiniste)|||
+|Post production|[292](#post-production-1)|[+24](#post-production)|||
+|Production|[310](#production-1)|[+26](#production)|||
+|Réalisation|[1010](#réalisation-1)|[+81](#réalisation)|||
+|Régie|[144](#régie-1)|[+12](#régie)|||
+|Scénariste|[201](#scénariste-1)|[+23](#scénariste)|||
+|Son|[313](#son-1)|[+23](#son)|||
+|Autres|[503](#autres-1)|[+45](#autres)|||
 
 ## Derniers signataires 
 
-0 nouveau(x) signataire(s) aujourd'hui
+350 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+42 nouveau(x) signataire(s) aujourd'hui
 
++ Béja Xavier, Comédien
++ Blasquez Rémi, Comédien
++ Carpintieri Aude Comédienne, Metteuse en scène
++ Charretier Eloïse, Actrice
++ Constant Marie, comédienne
++ Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
++ De Caro Alexandre, Comédien
++ de Foucauld Antoine, Acteur
++ Dupraz Gaspard, Comédien
++ Duval Julien, acteur
++ Gbaguidi Ysee, Actrice
++ Gendre Marceau, Comédien
++ Gournay Anaïs, Actrice
++ Grinberg Louise, Comédienne
++ Guiraudon Stephanie, Comédienne
++ Jrd Ghizlane, Actrice
++ Kamilindi Gaël, Acteur / Réalisateur
++ Kerdellant Camille, comédienne
++ Lintonen Salla, Actrice
++ Loeb Louise, Comédienne
++ Luciani Jean-Baptiste, Acteur
++ Meteau Mathis, Comédien - auteur - metteur en scène
++ Noble Raphaël, Comédien
++ Papot Laurent, Acteur
++ Péault Sophie, Comédienne
++ Pehlivanyan Alice, Comédienne
++ Peki Cameron, Comédien
++ Proriol Pierre-Hugo, Comédien
++ Qiao Vimenet Amélie, Comédienne
++ Rammant Isa, Comédienne, Metteuse en scène
++ Recoing Aurélien, Acteur, réalisateur
++ Repain Alex, Comédien
++ Rosenbeck Alma, Comédienne
++ Rosset Yannick, Acteur
++ Sauton Annie claude, Comédienne
++ Segarra Marie-José, comédienne
++ Serre Alexandrine, Comédienne
++ Serre Léopoldine, Comédienne
++ Simon Quentin, Comédien
++ Tucat Mischa, Comédienne
++ Villa Vieille Villanova Nina, comédienne
++ Zumkeller Louis, Comédien
 ```
 
 ### Animation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 
++ Cortier Marine, Animatrice 2D
++ Créhange Joseph, Animateur
++ Leclerc Maxime, Animateur 3D
++ Mariet Arthus, Cinéma d’animation
++ Outin Pierre, Infographiste 3D
 ```
 
 ### Casting
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+3 nouveau(x) signataire(s) aujourd'hui
 
++ de Donceel Fanny, Directrice de casting
++ Escribano Durand Florence, Assistante de casting
++ Fournier Leila, Directrice de casting
 ```
 
 ### Décor
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+28 nouveau(x) signataire(s) aujourd'hui
 
++ Arlet Cécile, 1 assistant décorateur
++ Bayle Alix, Décoration
++ Berthe Adrien, Décorateur
++ Clercq-Roques Bertrand, Assistant décorateur Cinéma
++ Coudurier Pauline, décoratrice
++ Couzon Christophe, Chef décorateur
++ Deweppe Sarah, 1ère assistante décoratrice
++ Dore Antoine, Décorateur
++ Frizat Dominique, Repéreuse décors
++ Guichard Sophie, Cheffe décoratrice
++ Jouars François, Rippeur, accessoiriste aux meubles
++ Jouet Hélène, Accessoiriste
++ Kubler Morgane, Accessoiriste plateau
++ Lecomte Célia, Peintre
++ Le Garrec Marie, cheffe décoratrice
++ Le Hingrat Marc, Assistant décorateur
++ Michalet Pauline, Troisième assistante déco
++ Monguillon Chloé, Cheffe décoratrice
++ Ntokou Stavy, Chef décoratrice
++ Papaphotiou Jérôme, Assistant décorateur
++ Phojo Soukaïna, Première Assistante Décoratrice
++ Rouch Mathilde, Assistante décoratrice
++ Sanson Florian, Chef décorateur
++ Schulz Marion, Assistante décoration
++ Sibieude David, Peintre
++ Teixeira Anthony, accessoiriste de plateau
++ Ventos Emmanuelle, Décoratrice sur costumes
++ Verdon Emma, Peintre de décor
 ```
 
 ### Distribution
@@ -72,85 +150,394 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+6 nouveau(x) signataire(s) aujourd'hui
 
++ Bénariac Camille, électricienne
++ Brumpter Nathan, Électricien
++ Garnier Maylis, électricienne de prises de vues
++ Guibert Maxime, Électricien de prise de vue
++ Hiter-Benisty Elias, Assistant electro (junior)
++ Porte Tom, Chef électricien
 ```
 
 ### Exploitation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+10 nouveau(x) signataire(s) aujourd'hui
 
++ Briot Laurence, Programmatrice cinéma
++ Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
++ Denzler Claire, Programmation
++ Feodoroff Nicolas, Programmateur
++ Germe Michel, Opérateur Projectionniste
++ Guerre Axel, Projectionniste
++ Heyart Sylvie, Exploitante
++ Pain Stéphanie, Exploitante
++ Rahim Aisha, Programmatrice
++ Wozniak Rémy, Exploitant
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+18 nouveau(x) signataire(s) aujourd'hui
 
++ Bernet Michelle, Maquilleuse
++ Chemtov Bastien, Régisseur costume
++ Collobert Céline, Costumière
++ Delabrière Selma, Costumière
++ Faget Patricia, costumière
++ Fontaine Madeline, Créatrice de costumes
++ Gombeaud-Antoine Marie, Cheffe maquilleuse
++ Groc Emma, Auxiliaire costume
++ Guermonprez Aurélie, Costumière
++ Huet Simon, Costumier
++ Jean Pauline, Costumière / Habilleuse
++ Mielle Julie, Costumière Habilleuse
++ Morlhigem Agnès, Cheffe maquilleuse
++ Ney Frédérique, Cheffe maquilleuse
++ Perros Aline, Costumière
++ Ramedhan-Levi Maïra, Costumes
++ Rivage Elodie, Maquilleuse cinema
++ Ventos Emmanuelle, Décoratrice sur costumes
 ```
 
 ### Image
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+35 nouveau(x) signataire(s) aujourd'hui
 
++ Anfossi Marc, Cadreur
++ Beruel Arnaud Chef, opérateur son
++ Blossier Patrick, Directeur Photo
++ Bortolotti Raphaël, Assistant opérateur.ice
++ Brezot Léo, Assistant caméra
++ Cardot Floriane, Réalisatrice, scénariste, photographe
++ Catonné François, Directeur de la photo
++ Cherix Pepita, cheffe opératrice/réalisatrice
++ Colomer Pierre, Photographe et éclairagiste
++ Crinquette-Yonnet Thomas, Cadreur / réalisateur
++ Darnet Muriel, Operateur de prises de vues
++ Deblonde Nicolas, Cadreur
++ Dessal Mathis, Assistant caméra
++ Garcia Mélissa, Assistante opératrice
++ Germe Michel, Opérateur Projectionniste
++ Griette Xavier, chef opérateur du son
++ Grizard Lily, Assistante Caméra
++ Gurrieri Michele, Chef opérateur
++ Jacobson-Roques Emmanuelle, photographe de plateau
++ Kavyrchine Alexis, chef opérateur image
++ Laporte Olivier, Chef opérateur son
++ Lefebvre Julian, Assistant Caméra
++ Lejosne Damien, Chef opérateur image
++ Leloup Thomas, Chef opérateur
++ Letessier Selvon Agnes, assistante caméra
++ Leveque Colin, Chef opérateur
++ Marini Livio, Cadreur
++ Nativel Pierre, Chef Operateur
++ Pineda Paloma, Directrice de la photographie
++ Pithois Denez, Assistant Caméra
++ Rebetez Alice, Assistante OPV cinéma
++ Rousselot Philippe, Directeur de la Photographie
++ Stramboli Florent, Assistant caméra, chef opérateur
++ Struye Gaston Pépin, Directeur de la photographie
++ Vinrich Thomas, Directeur de la photographie
 ```
 
 ### Machiniste
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+6 nouveau(x) signataire(s) aujourd'hui
 
++ Darvogne Margot, Machiniste de construction
++ David Thibault, Machiniste
++ Derriks Fleur, Machiniste
++ Hernandez Robin, Machiniste
++ Salamon Aude, Machiniste
++ Verhaeghe Félix, Machiniste
 ```
 
 ### Post production
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+24 nouveau(x) signataire(s) aujourd'hui
 
++ Abeillon Eve, Monteuse
++ Ackermann Mahee, Monteuse
++ Allais Gabrielle, Monteuse
++ Ayral Quentin, monteur
++ Barriga Calcaño Valentina, réalisatrice et monteuse
++ Beaune Marie, monteuse
++ Béreau-Baumann Naéva, Réalisatrice et monteuse son
++ Berthod Saskian, Monteuse
++ Blasco Ludovic, Monteur
++ Chantraine Timéon, Monteur
++ Destrez Zoe, Assistante-monteuse
++ Gallice Clément, Ingénieur du son, monteur son
++ Garault Maxime, Monteur
++ Jacques Valentin, VFX Artist
++ Le Gal Rémi, Étalonneur de rushes
++ Mirguet Benjamin, Monteur
++ Noël Régis, Chef monteur
++ Pontécaille Grégoire, Monteur
++ Pontoizeau Sylvie, Monteuse
++ Quenan Marina, Monteuse
++ Tijou Brigitte Réalisatrice, monteuse
++ Villy Agathe, Monteuse
++ Weil Matthieu, étalonneur
++ Zipper Garance, Monteuse
 ```
 
 ### Production
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+26 nouveau(x) signataire(s) aujourd'hui
 
++ Aduaka Newton, Screenwriter, Producer and Director
++ Bouanich Yael, Assistante de production
++ Boutault-Caradec, Elsa Directrice de production
++ Clément Vanessa, Productrice
++ Cohen Fiona, Productrice
++ Delluc Noélène, Directrice de production
++ Engel Nina, Productrice, autrice, réalisatrice
++ Estèves Catherine, Productrice
++ Feminier Perrine, Productrice
++ Ferdinand Jeanette, Productrice
++ Fessol Marie, Directrice de production
++ Gans Lola, productrice
++ Houard Lucie, Productrice - Directrice de production
++ Kawczak Clara, Productrice
++ Lemoalle Thomas, Assistant de production
++ Lespagnol François-Olivier, producteur
++ Lévy Gaétan, Chargé de production
++ Parent Lola, Assistante de production
++ Rebours Valentin, Post-production
++ Remy Marion, Assistante de production
++ Rothstein Daniel, Producteur
++ Schmuziger Thomas, Producer
++ Sebile Maxime, Technicien de post-production / réalisateur
++ Suivre Marie, Assistante de production
++ Tollu-Polonowski Cécile, productrice
++ Welinski Dominique, Productrice
 ```
 
 ### Réalisation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+81 nouveau(x) signataire(s) aujourd'hui
 
++ Baraud Anthony, Réalisateur / Assistant mise en scène
++ Barriga Calcaño Valentina, réalisatrice et monteuse
++ Barrois Anaelle, Assistante réalisatrice
++ Benhamou El Madani Rahma, Réalisatrice
++ Béreau-Baumann Naéva, Réalisatrice et monteuse son
++ Blanchard daroch Charlie, Réalisatrice documentaire
++ Boulanger Nathalie, 1 ère assistante réalisateur
++ Bousquet Hugo, réalisateur
++ Bousquet Hugo, Réalisateur
++ Brésard Thomas, Réalisateur
++ Broch Mathieu, Réalisateur
++ Bugeon Pauline, autrice réalisatrice
++ Cardot Floriane, Réalisatrice, scénariste, photographe
++ Carpintieri Aude Comédienne, Metteuse en scène
++ Cherix Pepita, cheffe opératrice/réalisatrice
++ Chour David, Assistant-réalisateur
++ Cochinaire Célia, Scripte
++ Couchard Fabrice, assistant réalisateur
++ Creutz Barbara, Scénographe, realisatrice
++ Crinquette-Yonnet Thomas, Cadreur / réalisateur
++ Daigné Nadine, Assistante de réalisation
++ Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
++ David Pascal, auteur-réalisateur
++ Debaty Martine, Réalisatrice
++ de Hasque Jean-Frédéric, réalisateur
++ Delvaux Ellie, Réalisatrice
++ Denolly Margot, Assistante réalisatrice
++ Deyres Martine, réalisatrice
++ Engel Nina, Productrice, autrice, réalisatrice
++ Fasse Samuel, Metteur en scène
++ Faubert Meline,  Scénographe
++ Gauthier Vaiana, Réalisatrice
++ Geddes Odile, Scripte
++ Gérard Marin, Cinéaste et critique de cinéma
++ Grossmann Giulia, Réalisatrice
++ Gutherz Mariette, Réalisatrice
++ Haffner Claude, réalisatrice
++ Herpe Noël, Réalisateur et historien du cinéma
++ Hoinard Céline, Metteuse en scène
++ Jaburek Lucien, Assistant mise en scène
++ Kamilindi Gaël, Acteur / Réalisateur
++ Khatami Sima, Cinéaste, plasticien
++ Konstantinou Léa, Réalisatrice
++ Lemaire Hugo, Réalisateur
++ Lorthiois Carole, Réalisatrice
++ Mangiante Bernard, Réalisateur
++ Matigot Pénélope, Scripte
++ Meteau Mathis, Comédien - auteur - metteur en scène
++ Mirguet Olivier, Réalisateur
++ Morvan Chanelle, Réalisatrice
++ Musichini Delphine, Scripte
++ Pagès Lucie Scénariste, réalisatrice
++ Parraud Emmanuel, réalisateur
++ Poggi Caroline, Cinéaste
++ Pommier Justine, Réalisatrice
++ Porte Gilles, Cinéaste
++ Pressmann Frédérique, Réalisatrice
++ Rais Anjely, Réalisateur
++ Rammant Isa, Comédienne, Metteuse en scène
++ Raut-Sieuzac Natalys, Réalisatrice
++ Recoing Aurélien, Acteur, réalisateur
++ Remaury Basile, Auteur-réalisateur
++ Reyes Hernández Janis, Réalisatrice
++ Rossini Axelle, Assistante mise en scène
++ Rouaud Christian, Réalisateur
++ Sanchez Jules, Réalisateur
++ Seban Margot, Scripte
++ Sebile Maxime, Technicien de post-production / réalisateur
++ Sendijarevic Ena, réalisatrice
++ Senez Guillaume, Cinéaste
++ Serre Vladimir, Metteur en scène
++ Sobel Bernard, Metteur en scène
++ Stiegler Julien, Réalisateur
++ Thomas Romaric, Premier assistant Réalisateur
++ Tijou Brigitte Réalisatrice, monteuse
++ Tripod Noam, Réalisateur
++ Van Praet Maxime, Réalisation
++ Verchain Sofi, Metteur en scène
++ Veysset Sandrine, Réalisatrice
++ Waks Karen, Scripte
++ Zahar Julia, Réalisatrice
 ```
 
 ### Régie
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+12 nouveau(x) signataire(s) aujourd'hui
 
++ Amir Lise, Régisseuse d’extérieurs
++ Aubret Enzo, Régisseur
++ Blery Isabelle, Régisseuse adjointe
++ Carlat Chloé, Régisseuse
++ Chemtov Bastien, Régisseur costume
++ Chotard Antoine, Régisseur
++ Di Sturco Laureen, Régisseuse
++ Fanget Agnes, Régisseuse d’extérieurs
++ Faucheux Mathias, Régisseur
++ Fiognon Kodjo, Régisseur
++ Fracchiolla Kevin, Régisseur adjoint
++ Guibert Clément, Regisseur
 ```
 
 ### Scénariste
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+23 nouveau(x) signataire(s) aujourd'hui
 
++ Baraud Anthony, Réalisateur / Assistant mise en scène
++ Cardot Floriane, Réalisatrice, scénariste, photographe
++ Carpentier Alice, Scénariste
++ Carpintieri Aude Comédienne, Metteuse en scène
++ Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
++ de Banville Marie, Scénariste
++ De Catalogne Isabelle, Scénariste
++ Espagno Claire, Scénariste
++ Fasse Samuel, Metteur en scène
++ Foulatier Amélie, Scénariste et lectrice
++ Gerin Loïs, Scénariste
++ Hoinard Céline, Metteuse en scène
++ Jaburek Lucien, Assistant mise en scène
++ Lecerf Diane, Scénariste
++ Meteau Mathis, Comédien - auteur - metteur en scène
++ Ortega Leyna, scénariste
++ Pagès Lucie Scénariste, réalisatrice
++ Rammant Isa, Comédienne, Metteuse en scène
++ Rossini Axelle, Assistante mise en scène
++ Serre Vladimir, Metteur en scène
++ Simard Alexandre, Scénariste
++ Sobel Bernard, Metteur en scène
++ Verchain Sofi, Metteur en scène
 ```
 
 ### Son
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+23 nouveau(x) signataire(s) aujourd'hui
 
++ Albrespy Barnabé, Technicien Son
++ Béreau-Baumann Naéva, Réalisatrice et monteuse son
++ Beruel Arnaud Chef, opérateur son
++ Bochard Lucas, Perchman
++ Bourget Augustin, Assistant son
++ Casassus Olivier, Compositeur
++ Chu Arno, Perchman
++ Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
++ Delobel Adrien, Ingénieur du son
++ Delplanque David, Musicien
++ Gallice Clément, Ingénieur du son, monteur son
++ Griette Xavier, chef opérateur du son
++ Hidalgo Ruiz Arturo, Ingénieur du son/ Perchman
++ Hubert Juliette, Compositrice
++ Kerouanton Tom, technicien Son
++ Laporte Olivier, Chef opérateur son
++ Lestien Thierry, Musicien
++ Marlet Morgan, Musicien
++ Martens Noé, Ingénieur du son
++ Merlaud Delphine, Technicienne son
++ Robert Etienne, Mixeur son
++ Roth Félix, Musicien
++ Trullier Léna, Ingénieure du son
 ```
 
 ### Autres
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+45 nouveau(x) signataire(s) aujourd'hui
 
++ Andriani Viviana, Attachée de presse
++ Arto Laure, Mixeuse
++ Bille Valérien, Ensemblière
++ Bonnafous Théo, Plaquiste
++ Bouffier Frédéric, Projection à Utopia
++ Burgy Xavier, Directeur Technique
++ Calpe Solène, Salariée à Tënk
++ Carpentier Muriel, Traductrice interprète
++ Carretero Alexandre, Agent polyvalent de cinéma
++ Castells Frederic, Auteur
++ Chabot Eric, Cascadeur
++ Chatenet Alexandra, Plasticienne
++ Chauprade-Ricard Emma, Conceptrice éditoriale
++ Chavance Pascale, Montage Films
++ Collard Gérald, Technicien de maintenance
++ Colou François, Graphiste, designer d&
++ Delvigne Nathalie, Graphiste
++ Deruisseau Bruno, Critique de cinéma
++ Droeven Lily, Chercheuse, essayiste et critíque de cinéma
++ Dumeilleur Theo, employé de cinema
++ Flodrops Morgane, Graphiste
++ Follmer Camille, Montage
++ Fonck Nicolas, Designer
++ Gelas Laureline, chorégraphe
++ Giraud Nina, Assistante déco cinéma
++ Gonay Cléa, Directrice Technique
++ Gréban Milo, Cinéma
++ Guilbaud Séverine, Ensemblière
++ Jean Diane, Journaliste
++ Kupperman Jessy, Ensemblière
++ Lafond Melodie, Dessinatrice
++ Levacher alias Slem Stéphane, Artiste auteur
++ Lumbi Marie, Graphiste
++ Mercier Aude, Graphiste
++ Moissonnier Laurent, salarié d’une école de cinéma
++ Pain Jean-Baptiste, Assistant technique (service informatique)
++ Pigeron-Fargeau, Hugo Etudiant
++ Pilorge Jules, Journaliste
++ Richier Pascal, Figurant
++ Robert Emma, Chorégraphe
++ Roche Céline, Festival
++ Sapin Yacine, Directeur de programmes IT
++ Sébillet Clémentine, Graphiste
++ Wartel Nathalie, ensemblière
++ Wood Anouchka, Ensemblière
 ```
 
 
@@ -182,6 +569,7 @@ Bayiha Astrid Comédienne, autrice et metteuse en scène
 Beauvais Maëlys, Actrice et Réalisatrice
 Beauvieux Jean-Louis, comédien
 Bedel Loïc, Comédien
+Béja Xavier, Comédien
 Bellec Maëlle, comédienne
 Bellone Valentine, Comédienne
 Benedetti Christian, metteur en scène, comédien
@@ -191,6 +579,7 @@ Bernard-Grison Flora, Comédienne
 Bha Zbeida, comédienne
 Binoche Juliette, actrice et réalisatrice
 Bisson Mathieu, comédien
+Blasquez Rémi, Comédien
 Blossom Baril Nola, réalisatrice, actrice
 Boimare Charlotte, Comédienne
 Boluda Aslan, Comédien
@@ -226,6 +615,7 @@ Cantineau Anne, actrice  
 Capelle Blanche, Comédienne
 Cargueray Lile, Comédienne
 Caron Laurent, Comédien
+Carpintieri Aude Comédienne, Metteuse en scène
 Carrette Valentine, réalisatrice et actrice
 Cartellier Serge, Acteur
 Cashman Natasha, Comédienne
@@ -235,6 +625,7 @@ Chalu Marie-Julie, comédienne et programmatrice
 Chapelot Benjamin, Comédien
 Charasson Olivier, Acteur
 Charleux Amélie, autrice et comédienne
+Charretier Eloïse, Actrice
 Chartier Maxime, Acteur
 Chaton Félicité, Comédienne et metteuse en scène
 Chevillotte Louise, comédienne, metteuse en scène
@@ -244,15 +635,19 @@ Christin Thomas, Comédien
 Comar Esther, actrice
 Comby Lemaitre, Théo Réalisateur et acteur
 Consigny Anne, actrice
+Constant Marie, comédienne
 Córdova Paola, Comédienne
 Cornu Solene, Comédienne
 Cottu Delphine, comédienne
 Dalric Olivia, actrice
+Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 Daniel Lola, Actrice
 Dazi Slimane, comédien
 de beauvais nina, comédienne
 Deblock Francois, comédien  
 de Broissia Inès, Actrice
+De Caro Alexandre, Comédien
+de Foucauld Antoine, Acteur
 Delacour Michael, Comédien
 Delahousse Floriane, Comédienne
 Delamarlière Hugues, Acteur
@@ -275,8 +670,10 @@ Dujardin Caroline, Actrice et scénariste
 Dumay Jean Charles,  acteur
 Dumortier Gauthier, acteur
 Duparc Sissi, Comédienne
+Dupraz Gaspard, Comédien
 Dupuis Robin, comédien, technicien
 Durand Keriako Amelie, musicienne comédienne
+Duval Julien, acteur
 Escourtou Emmanuelle, Comédienne
 Facerias Benoît, Comédien
 Falbriard Camille, Comédienne
@@ -304,6 +701,8 @@ Garrel Lena, comédienne
 Gaspar Mickaël acteur, réalisateur
 Gaspar Nicolas, acteur
 Gaumont Esther, Comédienne
+Gbaguidi Ysee, Actrice
+Gendre Marceau, Comédien
 Gérardin Irène, actrice
 Gillet Andy, Comédien
 Girard Jules, Acteur
@@ -311,12 +710,15 @@ Girard Voss Lex, Acteur•ice
 Gobion Léonie, Comédienne
 Gough Denise, comédienne
 Gourdan Clémentine, Comédienne
+Gournay Anaïs, Actrice
 Graine Jérémie, Comédien
 Grandjean Morgane, Comédienne
 Grasmug Lilith, actrice, réalisatrice
 Greggory Pascal, Acteur
+Grinberg Louise, Comédienne
 Grudzinska Joanna, autrice réalisatrice directrice de casting actrice
 Guillot Isabelle, comédienne
+Guiraudon Stephanie, Comédienne
 Guyon Alban, acteur
 Haenel Adèle, comédienne
 Hallot Virginie Comédienne, metteure en scène scénariste
@@ -342,11 +744,14 @@ Jean-Elie Roman, comédien
 Jeannot Mathis, Comédien
 Jodorowsky Alma, comédienne et réalisatrice
 Joubert Axel, Comédien
+Jrd Ghizlane, Actrice
 Jubin Olivia, actrice
 Jullia Maxime, Acteur
 Kallouchi Ayoub, comédien
+Kamilindi Gaël, Acteur / Réalisateur
 Kechiouche Salim, comédien
 Keltchewsky Marina, actrice
+Kerdellant Camille, comédienne
 Kern Hervé, comédien
 Kidouchim William, Acteur
 Kircher Samuel, comédien
@@ -380,13 +785,16 @@ Leplay Francis, comédien
 Leshin Lory, Comédienne
 Levy Elios, Comédien
 Leytier Natacha, comédienne
+Lintonen Salla, Actrice
 Liu Feng, actrice
 Lizana Ana, Comédienne
+Loeb Louise, Comédienne
 Loiret Caille Florence, comédienne
 Lompret Aymeric, comédien
 Lopez Jane-Gail, comédienne et metteuse en scène
 López Sergi, acteur
 Loupiac Gildas, comédien et metteur en scène
+Luciani Jean-Baptiste, Acteur
 Machard Thierry, acteur et réalisateur
 Madec Blandine, Comédienne
 Maîtreau Clément, Acteur
@@ -405,6 +813,7 @@ Mathieu Xavier, Acteur
 Medhem Aissam, Acteur
 Mendez Florence, Comédienne, chroniqueuse
 Mesnard Remi, Acteur
+Meteau Mathis, Comédien - auteur - metteur en scène
 Metzler Gaia, Comédienne
 Meurisse Nina, comédienne
 Mihalcea Anna, Comedienne
@@ -422,6 +831,7 @@ Mounicot Sophie, Comédienne
 Muller Pierre, Acteur
 Navis Juliette, actrice
 Nedeleg Lukaz, Acteur
+Noble Raphaël, Comédien
 Noël Isabelle, Comédienne musicienne
 Nova Nicolas, Photographe &amp; Comédien
 Oldani Simon, Acteur
@@ -431,11 +841,15 @@ Orvelin Anne-Hélène, Comédienne
 Ouadhi Kevin, Comédien
 Ouchani Farida, Comédienne
 Ozenne Romain, Comédien
+Papot Laurent, Acteur
 Parić Vanessa, comédienne  
 Pascal Caroline, comédienne, autrice, réalisatrice
 Pauly Pablo, comédien
 Payen Marie, comédienne
 Paysant Agathe, Actrice
+Péault Sophie, Comédienne
+Pehlivanyan Alice, Comédienne
+Peki Cameron, Comédien
 Pekmezian Patricia, Comédienne
 Peleyrol Anais, Réalisatrice scénariste Actrice
 Perez Biscayart Nahuel, acteur
@@ -457,24 +871,31 @@ Poupard Anthony, acteur
 Praud François, comédien
 Prea Yvon, Comédien
 Prevost Thibault, comédien
+Proriol Pierre-Hugo, Comédien
 Proust Edith, Comédienne
 Pucheu Eric, comédien
 Pudlo Amandine, comédienne
 Pujol Benjamin, Comédien
+Qiao Vimenet Amélie, Comédienne
 Quaireau Inès, Actrice
 Quelquejay Nicolas, comédien
 Quinsac Léa, comédienne
 Rabourdin Olivier, acteur  
+Rammant Isa, Comédienne, Metteuse en scène
 Raoult Delphine, Comédienne
+Recoing Aurélien, Acteur, réalisateur
 Recoquillon Eva, comédienne
 Renaud Suzon, Comédienne
 Renko Serge, Comédien
 Renucci Robin, comédien et réalisateur
+Repain Alex, Comédien
 Richier Le Moan, César Comédien
 Riedler Martin, comédien
 Rieger Louison, Comédien
 Robic Xavier, comédien
 Rodier Anne, Comédienne et autrice
+Rosenbeck Alma, Comédienne
+Rosset Yannick, Acteur
 Roth Julie Anne, comédienne
 Roussineau Damien, Comédien
 Rowe Jim, Comédien
@@ -488,11 +909,16 @@ Sagot Jules, comédien
 Salachas Anton, Acteur
 Salinger Emmanuel, comédien et scénariste
 Salinger Joachim, comédien
+Sauton Annie claude, Comédienne
 Schulz-Richard Frédéric, acteur, réalisateur
 Sebastian Micky, comédienne
+Segarra Marie-José, comédienne
+Serre Alexandrine, Comédienne
+Serre Léopoldine, Comédienne
 Seval Nils, acteur  
 Sichov Dounia, comédienne, réalisatrice et productrice
 Simon Laure Lucile, comédienne
+Simon Quentin, Comédien
 Sinet Fleur, comédienne
 Sissoko Emma, comédienne et chanteuse
 Skarsgård Stellan, comédien
@@ -513,6 +939,7 @@ Touré Manda, actrice
 Tran Claire, autrice et comédienne
 Trinca Jasmine, actrice
 Tual Maxence, comédien
+Tucat Mischa, Comédienne
 Vachey Nadège, comédienne
 Vadillo Carmen, comédienne
 Varela Le jo, Comédien
@@ -522,7 +949,7 @@ Vernon Audrey, comédienne
 Vexler Stéphane, Comédien et metteur en scène
 Vidal Agathe, comédienne
 Viera Bastien, Comédien
-Villanova Nina, comédienne
+Villa Vieille Villanova Nina, comédienne
 Vinatier Catherine, comédienne
 Vincent Elodie, comédienne
 Voignier Marie, réalisatrice et actrice
@@ -537,6 +964,7 @@ Yermak Aleksandra, Comédienne, scénariste, réalisatrice
 Zadi Jean-Pascal, réalisateur et comédien
 Zahonero Coraly, comédienne
 Zimmer Yoann, Acteur/ réalisateur
+Zumkeller Louis, Comédien
 ```
 
 [Retourner au début de la page](#haut)
@@ -547,9 +975,14 @@ Zimmer Yoann, Acteur/ réalisateur
 Balland Théophile, Décorateur Film d’animation
 Bautista Damien, Dessinateur 3D Graphiste
 Castelli Nicolas, graphiste 3D
+Cortier Marine, Animatrice 2D
+Créhange Joseph, Animateur
 Dorey Camille, Animatrice 2d
 Lainé Audrey, Animatrice 3D
+Leclerc Maxime, Animateur 3D
 Longuet Emma, Dessinatrice d’animation
+Mariet Arthus, Cinéma d’animation
+Outin Pierre, Infographiste 3D
 Roguier Guillaume, Animateur 3D
 Rostagnat Thibaut, Artiste 3D
 Russu Leonie, Animatrice 2D
@@ -576,7 +1009,10 @@ Cantet Marie, Directrice de casting
 Chaillat Morgane, Directrice de casting
 Cheron Nathalie, directrice de casting
 De Becdelievre Mahaut, Casting
+de Donceel Fanny, Directrice de casting
 de Laubier Marie, réalisatrice - directrice de casting
+Escribano Durand Florence, Assistante de casting
+Fournier Leila, Directrice de casting
 Fraggi Judith, Directrice Casting
 François Camille, Directrice de casting
 Fritsch Clémentine, Directrice de casting (ARDA)
@@ -612,6 +1048,7 @@ Andreys Camille, Rippeur
 Anziani Pascale, Repéreuse de décors
 Arhex Suzanne, Peintre en décors
 Arlaud Yan, Chef décorateur
+Arlet Cécile, 1 assistant décorateur
 Arnaud Lucas, premier assistant décoration
 Arque Aurélie, peintre
 Assouline Sébastien, Assistant déco
@@ -626,8 +1063,10 @@ Barouh Benoît, chef décorateur
 Barouh Teddy, assistant décorateur
 Bassin Ingrid, ensemblière décoratrice
 Bayart Laurie, Peintre en décor
+Bayle Alix, Décoration
 Becimol Gaspard, Assistant décorateur
 Bellot Alicia, Première assistante décoratrice
+Berthe Adrien, Décorateur
 Bertrand Maëlle, peintre
 Bescond Gwendal, Chef Décorateur
 Bicanin Milan, Assistant décorateur
@@ -659,14 +1098,17 @@ Champel Mathieu, Peintre décors
 Charrié Nina, Peintre deco
 Ciavaldini Marjolaine, Cheffe décoratrice
 Clauzier Benjamin, Repéreur de décors et régisseur général
+Clercq-Roques Bertrand, Assistant décorateur Cinéma
 Cohen Pierre, accessoiriste de plateau
 Coleman Elio, Assistant décorateur
 Combemale Solène, Repéreuse de décor
 Combemale Solene, repéreuse de décor cinéma
 Combémorel-Bluntz Fanny, Décoratrice
 Consigny Pascale, cheffe décoratrice
+Coudurier Pauline, décoratrice
 Courreau Nelly, Assistante déco
 Courtois Edouard, Peintre en lettres faux-bois
+Couzon Christophe, Chef décorateur
 Creuzet Valérie, Peintre
 Daculsi Estelle, Assistante Accessoiriste
 Dagnas Axel,  accessoiriste plateau
@@ -685,8 +1127,10 @@ Delorme Hugues, Machiniste déco
 Demarle Yannick, Rippeur
 De Stoutz Caroline, Peintre Patineur
 Desvigne Lena, Décoration
+Deweppe Sarah, 1ère assistante décoratrice
 Diaz Auguste, chef décorateur
 Dorado Olivia, Enseignante-chercheuse en cinéma, décoratrice
+Dore Antoine, Décorateur
 Doriane Fréreau, décoratrice
 D’ovidio Catherine, Cheffe décoratrice
 Drouhot Vincent, Peintre décorateur
@@ -706,6 +1150,7 @@ Fimat Julia, Accessoiriste
 Foort Fabia, ripper
 Fournier Gregory, 1er assistant décoration
 Frion Charles, Menuisier de décors
+Frizat Dominique, Repéreuse décors
 Fronty Marine, décoratrice
 Fruhbrodt Veronica, Peintre
 Gache Sébastien, Peintre
@@ -727,6 +1172,7 @@ Grandclere Fred, Chef décorateur
 Gratton Justine, Assistante accessoiriste
 Grellier Laurent, Accessoiriste plateau
 Gris Raphaëlle, Peintre
+Guichard Sophie, Cheffe décoratrice
 Guicheneuy Fabienne, repéreuse de décors
 Gulino Jeremy, Décorateur cinéma
 Guyot Théry, constructeur de décor
@@ -742,8 +1188,11 @@ Imbert Arlaud Hélène, chef peintre
 Irribarria Julia, Cheffe decoratrice
 Jacquier Adèle, technicienne déco
 Jakubowicz Sara, réalisatrice et assistante déco
+Jouars François, Rippeur, accessoiriste aux meubles
+Jouet Hélène, Accessoiriste
 Journo Norbert, Chef décorateur
 Jullien Corinne, peintre déco
+Kubler Morgane, Accessoiriste plateau
 Laading Camille, Décoratrice
 Lacoue-Labarthe Izaac, chef décorateur
 Lamy Camille, Assistante accessoiriste
@@ -754,9 +1203,12 @@ Lautout Thierry, chef décorateur
 Lavedrine Berengere, 1er assistant décorateur.rice
 Le Bacquer Adèle, Peintre déco
 Leclerc Jonathan, Ripper
+Lecomte Célia, Peintre
 Ledrapier Xavier, Décorateur
 Lefevre Lucie, Peintre
+Le Garrec Marie, cheffe décoratrice
 Leger Cédric, Rippeur
+Le Hingrat Marc, Assistant décorateur
 Lemaire Romane, Assistante accessoiriste
 Lemarchand Léa, Cheffe décoratrice
 Lemonnier Camille, Peintre
@@ -770,9 +1222,11 @@ Martinez Jean Manuel, Sculpteur déco
 Mehl Ophélie, décoratrice
 Mentheour Dylan, Assistant décorateur
 Mercier Mona, Assistante décoratrice
+Michalet Pauline, Troisième assistante déco
 Migne Sandrine, Décoratrice
 Millot Quentin, chef décorateur
 Moja Celeste, Peintre
+Monguillon Chloé, Cheffe décoratrice
 Mouchès Agathe, accessoiriste
 Moundy Samir, Rippeur URCA
 Muzzi Alain, Peintre
@@ -780,11 +1234,13 @@ Nicolas Girault, Chef Décorateur
 Nicole Marius, 1er assistant décorateur
 Nicol Jerome, décorateur
 Nollet Fred, peintre
+Ntokou Stavy, Chef décoratrice
 Odic Dominique, Accessoiriste aux meubles
 Offret Christophe, Accessoiriste de plateau cinéma
 Ouali Dalil, Accessoiriste Plateau
 Paduch Cécile, Assistante décoration
 Pantin Capucine, régisseuse d’extérieur déco
+Papaphotiou Jérôme, Assistant décorateur
 Paraponaris Hugo, Accessoiriste meuble
 Pastrovits Canu, Caroline Assistante décoration
 Pavloff Marie, Décoratrice
@@ -793,6 +1249,7 @@ Petit Baptiste, Ripper
 Pezet Camille, assistante décoratrice
 Phojo Alakija, Rippeur cinéma
 Phojo Fémi, Peintre
+Phojo Soukaïna, Première Assistante Décoratrice
 Piffaut Thomas, accessoiriste de plateau
 Pinard Marion 2nd assistante décorateur, graphiste
 Pineau Afonso Christophe, Repéreur de décors
@@ -821,18 +1278,23 @@ Roos Ambre, accessoiriste
 Ropert Amélie, Peintre
 Rotbart Tania, Cheffe décoratrice
 Roth Arnaud, chef décorateur
+Rouch Mathilde, Assistante décoratrice
 Roudil Christian, Accessoiriste
 Rousseau Lisa, Peintre en décor
 Rovere Marc, Accessoiriste
 Sabatier Aurélie, peintre de décors
 Sackur Théo, Accessoiriste
+Sanson Florian, Chef décorateur
 Sayah Camille, Accessoiriste
 Schaeffer Mana, assistante décoratrice
+Schulz Marion, Assistante décoration
 Sery Agnès, Ensemblière décoratrice
+Sibieude David, Peintre
 Sitruk Jérôme, Accessoiriste aux meubles
 Soares Ana, Peintre en décors
 Spahis Zoé, Assistante décoration
 Stern Ophélie, Assistante accessoiriste
+Teixeira Anthony, accessoiriste de plateau
 Tertrais Flavie, peintre
 Thibault Marion, Peintre en décors
 Toupet Suzanne, Décoratrice
@@ -843,8 +1305,10 @@ Vdr Justine, Accessoiriste
 Veissier Alain, Décorateur
 Vellard Isabelle, peintre en decor
 Vendroux Laurence, ensembliere decoratrice
+Ventos Emmanuelle, Décoratrice sur costumes
 Verano Martin, Ripper
 Vercheval Florence, chef décoratrice
+Verdon Emma, Peintre de décor
 Vibert Vincent, Rippeur
 Vincensini Jean-Noël, accessoiriste
 Vincent Sophie, Peintre
@@ -898,6 +1362,7 @@ Barrault Franck, Chef électricien
 Beaufils Thaïs, électricienne de prise de vue
 Belleil Clovis, Électro
 Belyakov Anton, électricien.ne de prise de vues
+Bénariac Camille, électricienne
 Bernard Camille, Électricienne
 Bernard Sophie, Electricienne
 Berteaux Gaétan, Électricien éclairagiste
@@ -914,6 +1379,7 @@ Bour Antoine, Électricien
 Branquet Nino, Électricien
 Bretagne Benoit, Chef électricien
 Brossard Hugo, Chef électricien
+Brumpter Nathan, Électricien
 Cadot Nicolas, électricien
 Caillat-Grenier Flore, Électricienne
 Chaude Jonathan, Electricien
@@ -943,6 +1409,7 @@ Fouant Mathilde, électricienne
 Foubert Maxence,  alternant, projeteur DAO, électricien
 Fromage Papazian Nilda, électricien
 Garin Olivier, chef électricien
+Garnier Maylis, électricienne de prises de vues
 Gaucher Titouan, électricien de prises de vues
 Gélis Victor Electricien, de prises de vue
 Godard Ferdinand, Électricien de plateau
@@ -954,8 +1421,10 @@ Greveldinger Sébastien, Chef électricien
 Grosdemange Thibaut, électricien de prises de vues
 Guellier Lou, électricienne de prises de vue
 Guénard Lily, Électricienne de prise de vues cinéma
+Guibert Maxime, Électricien de prise de vue
 Guillaumot Treppoz Tom, électricien
 Haution Zéphyr, électricien
+Hiter-Benisty Elias, Assistant electro (junior)
 Hourant Timothé, Chef électricien, chef opérateur
 Ilhan Cafer, Chef électricien
 Jean Riou, chef électricien
@@ -998,6 +1467,7 @@ Pigeon Marceau, électricien en prise de vu cinéma
 Piroddi Balthazar, chef électricien
 Pirot Jeanne, Électricienne
 Ponge Léo, réalisateur et chef électricien
+Porte Tom, Chef électricien
 Pujervie Gustave, électricien
 Quéhec Antoine, électricien de plateau et cadreur
 Quintard Victor, Électricien prise de vues
@@ -1059,6 +1529,7 @@ Bournerias Victor, programmateur
 Bouteboul Frédéric, projectionniste
 Bouvard Mathieu, Directeur de cinéma
 Bracq Thibaut, programmateur
+Briot Laurence, Programmatrice cinéma
 Buscail Sylvie, exploitante
 Cadoux Cécile, programmatrice
 Callonnec Laurent, programmateur
@@ -1071,7 +1542,7 @@ Cheyrouze Martin, projectionniste
 Chomard Perrine, programmatrice cinéma
 Choury-Magnol Thomas, programmateur et doctorant
 Claret Paul-Marie, Exploitant
-Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
+Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
 Cogan Emma, Projectionniste
 Coquillaud-Coudreau Philippe, Exploitant
 Cordier Virginie, Programmatrice spectacle
@@ -1083,6 +1554,7 @@ De chaumont Benoît, Exploitant
 de Lacotte Marguerite, directrice salle de cinéma
 de Lacotte Marguerite, exploitante
 Delaisse Else, Projectionniste
+Denzler Claire, Programmation
 Depardon Amélie, programmatrice
 Dethoury Benoît, Exploitant et médiateur jeune public et scolaire
 Detrain Lucie, programmatrice
@@ -1095,6 +1567,7 @@ Euzen Gwenael, projectionniste
 Faucher-Derocles Aymerick, Programmateur
 Faucon Anne, Exploitante Cinéma Utopia Pont-Sainte-Marie
 Feldman Vincent, Exploitant
+Feodoroff Nicolas, Programmateur
 Fernandez Jean-Manuel, projectionniste
 Firoaguer-Pelc Norah, programmatrice (artiste-auteur)
 Flavier Thomas, Médiateur culturel, programmateur de films pour le jeune public
@@ -1110,6 +1583,7 @@ Garel Sylvain, programmateur et historien du cinema
 Garin-Davet Amélie, programmatrice
 Geneste Laurine, Programmatrice
 Germain-Thomas Elisa, exploitante
+Germe Michel, Opérateur Projectionniste
 Gibouleau Emmanuel, Directeur de cinéma
 Gilson Nicolas, programmateur
 Gipoulou Jonathan, exploitant
@@ -1118,6 +1592,7 @@ Gouzannet Eric, retraité exploitant
 Grimont Juliette, programmatrice
 Groffe Arlène, programmatrice
 Grosjean Romain, directeur et programmateur de salle de cinéma
+Guerre Axel, Projectionniste
 Gueunet Maureen, programmatrice
 Guilbot Antoine, projectionniste
 Guilhem Chloé, Exploitante
@@ -1125,6 +1600,7 @@ Hagege Fabien, Programmateur
 Hazé Bénédicte, Exploitante
 Herby-Funfschilling Charles, programmateur
 Heridel Florent, directeur de Programmation
+Heyart Sylvie, Exploitante
 Hirayama Jimmy, Projectionniste
 Hirgorom Rose, programmatrice
 Ho Eden, projectionniste
@@ -1181,6 +1657,7 @@ Olry Romane, Programmation / Coordination Festivals de films
 Oria-Badoc, programmatrice et médiatrice
 Ortiz Amaya Justine, projectionniste
 Ortuno Léo, journaliste et programmateur
+Pain Stéphanie, Exploitante
 Parrot Antoine, projectionniste
 Pelle Jean-François, co-programmateur
 Perrinet Lucas, projectionniste
@@ -1193,6 +1670,7 @@ Poli Vincent, programmateur
 Pottier-Grosman Jérémie, exploitant
 Rabhi Mériem, programmatrice
 Raclet Christophe, Projectionniste
+Rahim Aisha, Programmatrice
 Rastello Stéphane, programmateur
 Régnard Casanova Zoé, programmatrice
 Reymond Laurence, programmatrice
@@ -1234,6 +1712,7 @@ Viale Lorenzo, Projectionniste
 Villeneuve Magali, Écrivaine et programmation festival cinéma
 Vurpillot Chloé, programmatrice
 Weidmann Fabienne, programmatrice exploitation
+Wozniak Rémy, Exploitant
 Yven Myriam, Projectionniste
 ```
 
@@ -1251,6 +1730,7 @@ Barchi Elodie, Costumière
 Barnes Nicolas Romy, Maquilleuse
 Batteault Florence, Cheffe maquilleuse
 Benamer Maya, Cheffe maquilleuse
+Bernet Michelle, Maquilleuse
 Betrancourt Lucille, Costumière
 Blaudeau Valentin, Costumier
 Blot Anne-Capucine, habilleuse
@@ -1260,13 +1740,16 @@ Brizard Jane, cheffe coiffeuse cinéma
 Brossard Ghénaelle, Costumière
 Caravati Marilou, Costumière
 Charchaude Laurent, Regisseur costume
+Chemtov Bastien, Régisseur costume
 Colet Marie, Maquilleuse
 Colin Florence, Maquilleuse
+Collobert Céline, Costumière
 Constantinides Michelle, chef maquilleuse
 Danglades Maë-Li, Costumière
 De Balthasar Albane, Maquilleuse
 De Beco Edith, Costumière
 Dehee Jeanne, Maquilleuse
+Delabrière Selma, Costumière
 Del Frate Téo, Coiffeur
 De Neve Guerrero Wendy, Maquilleuse
 Dian Claire, habilleuse, costumière
@@ -1275,15 +1758,22 @@ Di Paolo Caroline, Costumière
 Dollon Josepha, Habilleuse
 Durand Anais, costumière
 Durand Karelle, Assistante costume
+Faget Patricia, costumière
 Ferron Antoine, Costumier
+Fontaine Madeline, Créatrice de costumes
 Garcia Ines, Habilleuse
 Gérard Carole, cheffe costumière
 Gledhill Anne-Sophie, Créatrice de costumes
+Gombeaud-Antoine Marie, Cheffe maquilleuse
+Groc Emma, Auxiliaire costume
 Guegan Pascale, Cheffe maquilleuse
+Guermonprez Aurélie, Costumière
 Heinz Birgitta, Costumière
 Hochet Adeline, Coiffeuse perruquière
+Huet Simon, Costumier
 Jamet-Rosier Laure, Costumière
 Javaux Joséphine, Costumière
+Jean Pauline, Costumière / Habilleuse
 Kieffer Pauline, Costumière
 Kinebanyan Alexis, Maquilleur, sculpteur
 Koch Mathilde, Habilleuse/costumiere
@@ -1303,20 +1793,26 @@ Mauri Aurélie, Perruquière maquilleuse coiffeuse
 Mazuel Jacques, Chef costumier
 Melza Tiburce Annie, Cheffe costumière
 Mendes Mathilde, Maquilleuse
+Mielle Julie, Costumière Habilleuse
 Miquet Sophie, Habilleuse
 Morel Zoé, Costumière
+Morlhigem Agnès, Cheffe maquilleuse
+Ney Frédérique, Cheffe maquilleuse
 Niquet-Rioux Mariette, Cheffe costumière
 Nogues Oriol, Costumier
 Ohlmann Magali, Cheffe maquilleuse
 Otteny Laurence, Cheffe maquilleuse
 Paquier Kristin, cheffe coiffeuse
 Pariset Sarah, maquilleuse
+Perros Aline, Costumière
 Pocobene Jenn, Cheffe costumière
 Poeydomenge Hervé, Créateur de costumes
+Ramedhan-Levi Maïra, Costumes
 Ramos Lina, Habilleuse
 Raoult Rachèle, cheffe costumière
 Richard Charlotte, Cheffe costumière
 Rieu Chloé, Habilleuse
+Rivage Elodie, Maquilleuse cinema
 Roman Sarah, Maquilleuse
 Rovere Tina, Maquilleuse
 Sabin Aurore, habilleuse
@@ -1332,6 +1828,7 @@ Tesseyre Clara, habilleuse
 Thiollier Pascal, Chef maquilleur
 Thobie Aela, costumière
 Tran-Ras Mélodie, Cheffe maquilleuse
+Ventos Emmanuelle, Décoratrice sur costumes
 Verani Emmanuelle, habilleuse
 Veyrat-Parisien Théo, Habilleur
 Vilain Gosselin Elise, Costumière
@@ -1349,6 +1846,7 @@ Alain Arnaud, Chef-opérateur et réalisateur
 Alberts Manu, Cadreur
 André Raphaël, 1er assistant opérateur
 Andrieux Leny, Chef opérateur son
+Anfossi Marc, Cadreur
 Aretino Pierre Chef opérateur du son, Mixeur
 Arhab Amar, Chef-opérateur prises de vues
 Artozqui Margot, Direction Artistique
@@ -1375,15 +1873,18 @@ Berteaux Gaétan, Électricien éclairagiste
 Berthellot Florian, Cadreur steadicam
 Bertrand Noémie, cadreuse, monteuse
 Bertrand Olivier, 1er assistant caméra &amp; chef-opérateur de prises de vues
+Beruel Arnaud Chef, opérateur son
 Besnard Colas, 1st ass camera
 Besson Margot, directrice de la photographie
 Bizern Catherine, directrice artistique
+Blossier Patrick, Directeur Photo
 Boichon Juliette, assistante caméra
 Boissau Rémi, auteur, photographe
 Boisteau Eric, chef opérateur du son
 Bolinois Yvana, technicien lumière
 Bollègue Anaïs, Assistante Caméra
 Borel Julien, Assistant caméra / chef opérateur
+Bortolotti Raphaël, Assistant opérateur.ice
 Bouillleret Dominique, Directeur de la Photographie
 Boulic Nicolas, Assistant caméra
 Boulis Valence Clara, régisseuse lumière
@@ -1392,6 +1893,7 @@ Bracquemont Lucie, première assistante OPV
 Braillon Fiona, Directrice de la photographie
 Brault Guillaume, Directeur de la Photographie
 Braun Noé, Assistant caméra
+Brezot Léo, Assistant caméra
 Brouillard Erwan, Chef opérateur du son
 Brousse Juliana, Opératrice - réalisatrice
 Brunet Laure, Assistante caméra
@@ -1408,10 +1910,12 @@ Cantat Xavier, Photographe
 Cantin Nicolas, chef opérateur du son
 Cape Yves, directeur de la photographie
 Caraire Johanna, directrice artistique
+Cardot Floriane, Réalisatrice, scénariste, photographe
 Carles Jérôme, Directeur de la photographie
 Carrion Benjamin, Chef opérateur de prises de vues
 Casang Michel, Chef operateur du son
 Castelnot Frédéric, Photographe de plateau
+Catonné François, Directeur de la photo
 Cercleux Laurent, Chef opérateur du son
 Chambe François, chef opérateur
 Chambon Olivier, Directeur photo, étalonneur
@@ -1421,15 +1925,20 @@ Chanu Clara, Assistante caméra
 Chareyre Marie, Seconde assistante opv
 Chauvin Christophe, Chef opérateur
 Chénieux Louis, Assistant caméra
+Cherix Pepita, cheffe opératrice/réalisatrice
 Chevrin Remy, directeur de la photographie
 Clément Aurélia, assistante caméra
 Cognet Paul, Assistant-opérateur
 Collot Jean, Chef opérateur du son
+Colomer Pierre, Photographe et éclairagiste
 Conduché Yanis, 3ème assistant caméra
 Couillard François Xavier, chef opérateur son
 Cravatte Muriel, directrice de la photo, réalisatrice
+Crinquette-Yonnet Thomas, Cadreur / réalisateur
 Dabry Claire, 1ère assistante opérateur prises de vues
+Darnet Muriel, Operateur de prises de vues
 Dean Erwan, Directeur de la Photographie
+Deblonde Nicolas, Cadreur
 de Canson Cyrille Mixeur, Chef opérateur son
 Decarsin Yolande, Cheffe opératrice du son
 Decerle Mehdi, chef opérateur, assistant caméra
@@ -1446,6 +1955,7 @@ Desaunay Henri, chef opérateur
 Descamps Mathieu, opérateur son cinéma
 Desnoyelles Arthur, Assistant Caméra
 Desprez Bertrand, Photographe
+Dessal Mathis, Assistant caméra
 Divoux Didier, chef opérateur son
 Djellouli Lorenzo, Opérateur de prise de vue
 Doméjean Pauline, directrice de la photographie
@@ -1487,10 +1997,12 @@ Gaffier Raimon, directeur de la photographie
 Gaffric Aurélia, assistante OPV
 Gaillard Marion, cadreuse de fiction
 Garcia Alba, Technicienne Lumière
+Garcia Mélissa, Assistante opératrice
 Gastinel Thomas, chef opérateur son
 Gayraud Jonas, assistant caméra
 Genty Roy, Directeur artistique
 Georges Catherine Cadreuse, cheffe opératrice
+Germe Michel, Opérateur Projectionniste
 Gessat Stéphane, Chef opérateur du son
 Gidoin Julien, Chef opérateur image / photographe
 Gizzi Nando, coordinateur national - éducation aux images
@@ -1503,11 +2015,14 @@ Grandperret Julia, Photographe
 Grange Loann, Assistant caméra
 Graziani Léane, Assistante caméra
 Grethen Valentin, Assistant caméra
+Griette Xavier, chef opérateur du son
+Grizard Lily, Assistante Caméra
 Groscolas Lison, Assistante caméra
 Guérinoni Léo, Assistant opérateur
 Guerre Colin, opérateur steadicam
 Gueye Thierry, Photographe
 Guilbert Philippe, Chef opérateur
+Gurrieri Michele, Chef opérateur
 Hanclot Fabienne, Directrice artistique
 Harari Tom, chef opérateur
 Harold  Hennequin, chef opérateur son, perchman
@@ -1522,12 +2037,14 @@ Hudelot Benjamin, Directeur de la photographie
 Huisse Eléonore, Assistante caméra-cinéaste
 Inno Quentin, Photographe
 Ivanovic Milan, Directeur artistique
+Jacobson-Roques Emmanuelle, photographe de plateau
 Jolivet Benoît, chef éclairagiste
 Joly Leo, 1er Assistant opérateur de prises de vue
 Journé Phi,l Photographe
 Juniot Barbara, Cheffe opératrice du Son, Perchewoman
 Kaminski Flora, 1ere assistante caméra
 Kassis Anaëlle, technicienne lumière
+Kavyrchine Alexis, chef opérateur image
 Krzyzanowski Fabien, chef opérateur du son
 Lab Balthazar, chef opérateur
 Lacombe Quentin, chef opérateur
@@ -1536,16 +2053,22 @@ Lagriffoul Pascal, Directeur de la photographie
 Landais Anne, photographe
 Langlais Martin, Assistant Caméra
 Lapoirie Jeanne, cheffe opératrice
+Laporte Olivier, Chef opérateur son
 Laurent Eoline, 3e assistante caméra
 Lavanant Wilfried, responsable département lumière cinéma
 Lechaptois George, directeur de la photographie
 Leclère Alexis, 2nd assistant OPV
 Leconte Janick, directeur artistique
+Lefebvre Julian, Assistant Caméra
 Legal Christophe, Directeur de la photographie
 Legaye Brajtman Louise, 1ère assistante caméra
 Legros Lucie, Assistante opérateur·ice
 Leguillette Louis, 1er Assistant Caméra
+Lejosne Damien, Chef opérateur image
+Leloup Thomas, Chef opérateur
 Lesage Anaïs, assistante caméra
+Letessier Selvon Agnes, assistante caméra
+Leveque Colin, Chef opérateur
 Lévêque Sacha, Cheffe opératrice
 Lévy Adrien, Assistant caméra
 Loisy Dorian, Assistant caméra
@@ -1559,6 +2082,7 @@ Mancel Neto Margot, Assistante caméra / cheffe opératrice
 Manriquez Flavio, assistant caméra
 Mantran Nicolas, Opérateur son
 Marie Nicolas, créateur lumière
+Marini Livio, Cadreur
 Martin Olivier, Assistant caméra
 Marti Pascal, directeur de la photo
 Martorell Etienne , Éclairagiste
@@ -1583,6 +2107,7 @@ Morin Paul, directeur de la photographie  
 Moulhac Louise, Assistante caméra
 Munier Alain, assistant caméra
 Mzayek Lara, Assistante caméra
+Nativel Pierre, Chef Operateur
 Neal Raphaël, réalisateur, photographe
 Neyrat Cyril, critique et directeur artistique de festival
 Nigentz Gumuschian Stéphane, Directeur de la photo
@@ -1600,9 +2125,11 @@ Personnaz Renaud, Directeur de la photographie
 Peyron Line, Directrice artistique
 Philippo Sören, 1er assistant opérateur de prises de vues
 Picard Arthur, Photographe, réalisateur
+Pineda Paloma, Directrice de la photographie
 Pineda Paloma, Directrice de la Photographie
 Piras Valentin, Assistant caméra
 Pirotte Antoine, directeur de la photographie
+Pithois Denez, Assistant Caméra
 Pittillioen Clémence, cheffe opératrice et cadreuse
 Plançon Lucas, Chef opérateur
 Poisson Tommy, Photographe et réalisateur
@@ -1618,6 +2145,7 @@ Quéhec Antoine, électricien de plateau et cadreur
 Quesemand David, directeur de la photographie
 Quilichini Guillaume, Cadreur Steadicam
 Radke Michaël, Chef éclairagiste
+Rebetez Alice, Assistante OPV cinéma
 Rener Léa, photographe
 Revois Antoine, Chef éclairagiste
 Rey Florian, Assistant caméra
@@ -1637,6 +2165,7 @@ Rosia Caroline, Technicienne lumière
 Ros Philippe, directeur de la photo
 Rossero Marc, éclairagiste de prise de vues cinéma
 Roussel Leo, Chef opérateur
+Rousselot Philippe, Directeur de la Photographie
 Rudloff Rachel, Assistant Caméra
 Ruiz Dz Somocurcio Pukyo, Directeur de la photographie
 Sabouraud Paolo, Second Assistant Caméra
@@ -1651,6 +2180,8 @@ Si tahar Alison, Cheffe opv
 Soral Julien, Opérateur du son
 Soulabaille Fanny, assistante caméra
 Spooner Gordon, Directeur de la Photographie
+Stramboli Florent, Assistant caméra, chef opérateur
+Struye Gaston Pépin, Directeur de la photographie
 Suignard-Bouliou Garvan, Assistant OPV adjoint
 Sulejmanoski Felix, 1er assistant caméra
 Surace Jeremy, 2nd Assistant Caméra
@@ -1676,6 +2207,7 @@ Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
 Veyrier Bruno, Technicien plateau/lumières
 Vigneres Cédric, Cadreur
 Villien Mathieu, chef opérateur du son
+Vinrich Thomas, Directeur de la photographie
 Waledisch François, Chef opérateur son
 Waschkowski Nicolas, Chef opérateur du son
 Watterlot William, Directeur de la photographie
@@ -1696,12 +2228,15 @@ Broyer Edwin, chef machiniste
 Cantier Clément, machiniste de prise de vue
 Chaudagne Benjamin, Machiniste
 Cointre Charlie, Machiniste
+Darvogne Margot, Machiniste de construction
+David Thibault, Machiniste
 Defline Hélène, machiniste
 de Gramont Guilhem, Machiniste
 Delmotte Morgane, Machiniste prise de vue
 Delorme Hugues, Machiniste déco
 Demaille Carl, Chef-machiniste
 Dépée Johanne, Machiniste de prise de vue
+Derriks Fleur, Machiniste
 Desrieux Diocles, machiniste
 Dhorne Wilfried, Machiniste
 Dumasy Axel, Chef machiniste
@@ -1724,6 +2259,7 @@ Halhoute Luc, Machiniste
 Hausherr Maikä, Machiniste
 Hausséguy Raphaël, Machiniste
 Hernandez Lilian, Machiniste
+Hernandez Robin, Machiniste
 Hervouet Clément, machiniste
 Honoré Jordi, chef machiniste de prise de vues
 Issaly Thibault, Machiniste
@@ -1751,6 +2287,7 @@ Richarth Oliver, Machiniste construction décor cinéma
 Roussel Laure, machiniste
 Roux Mathéo, Machiniste
 Ruet Lola, Machiniste
+Salamon Aude, Machiniste
 Souël Peter, Machiniste
 Tille François, chef machiniste de prise de vue cinéma
 Toracca Ugo, Machiniste de cinéma
@@ -1758,6 +2295,7 @@ Tran Tan Ba Louis, Machiniste de construction
 Trividic Vincent, Chef Machiniste
 Trouillot Eddy, Machiniste
 Vannier Cyril, Machiniste
+Verhaeghe Félix, Machiniste
 Viveiros Adail, Machiniste déco - Cinéma
 Vodoz Jean mary, Machiniste
 ```
@@ -1767,7 +2305,10 @@ Vodoz Jean mary, Machiniste
 ### Post production
 
 ```
+Abeillon Eve, Monteuse
+Ackermann Mahee, Monteuse
 Akkari Danae, Monteuse
+Allais Gabrielle, Monteuse
 Amoureux Appoline, Post production
 Angrand Emmanuel, monteur son
 Araud Stéphanie, Monteuse
@@ -1776,21 +2317,27 @@ Atherton Claire, monteuse
 Atmore Jack, Monteur
 Augier Emma, Monteuse
 Auguste-Dormeuil Ysé, monteuse
+Ayral Quentin, monteur
 Azam Aurélie, Assistante de post production
 Bajeux Renaud, monteur son
 Bancilhon Nicolas, monteur
 Bariaud Pierre, monteur son
+Barriga Calcaño Valentina, réalisatrice et monteuse
 Baudillon Christine, Réalisatrice, monteuse
 Baudry Anne, Monteuse
 Bauduin Audrey, Monteuse
 Bawedin Laurence, Cheffe monteuse
 Beaulieu Lise, monteuse
+Beaune Marie, monteuse
 Beillevaire Fabien, monteur Son
+Béreau-Baumann Naéva, Réalisatrice et monteuse son
+Berthod Saskian, Monteuse
 Berthou Clément, Monteur son
 Bertrand Noémie, cadreuse, monteuse
 Beugnot Lola, Monteuse
 Biancucci Mattia, Monteur/assistant
 Bier Nicolas, Monteur
+Blasco Ludovic, Monteur
 Bloc Jean-Pierre, réalisateur, monteur
 Bogdanovsky Sonia, Monteuse
 Bonnet Quentin, Monteur
@@ -1820,6 +2367,7 @@ Chagnaud Cécile, Monteuse
 Chambon Olivier, Directeur photo, étalonneur
 Chambrun Arthur, monteur, ingénieur du son
 Chanteux Enzo, monteur
+Chantraine Timéon, Monteur
 Chapelle Boris, monteur son
 Charrier Maxime, Etalonneur
 Chigot Julien, Monteur
@@ -1845,6 +2393,7 @@ Derail Jean-Philippe, Cinéaste et Monteur
 Derail Jean-Philippe, cinéaste, monteur
 Descannevelle Adrien, Chargé•e de Post Production
 Dessertine Cécille, Monteuse
+Destrez Zoe, Assistante-monteuse
 Detournay Caroline, Monteuse
 Diard Clémence, monteuse
 Do Couto Yannis, monteur son
@@ -1872,6 +2421,8 @@ Fougere Camille, Monteuse
 Fy Ciesielski Noémie, Monteuse
 Gaillard-Damian, Loïc Monteur
 Gaillot Ulysse, étalonneur
+Gallice Clément, Ingénieur du son, monteur son
+Garault Maxime, Monteur
 Garcia Hervé, Monteur
 Gay-Mazas Théophile, monteur
 Geley Martin, Monteur vidéo
@@ -1893,6 +2444,7 @@ Hurst Annik, Monteuse Film
 Ignazi Liza, Monteuse
 Ivasco Tina, Monteureuse, réalisateurice et scénariste
 Jaafri Yasmina, monteuse
+Jacques Valentin, VFX Artist
 Jacquet Florence, Chef monteuse
 Javelle Nikolas, monteur son/mixeur
 Joujou Gladys, Monteuse
@@ -1908,6 +2460,7 @@ Launay Aloyse, monteuse son
 Laurin Jules, Monteur son
 Lefèvre Raphaël, Monteur, réalisateur
 Lefranc Thibault, Compositeur, monteur son
+Le Gal Rémi, Étalonneur de rushes
 Lelu Sarah, Monteuse son
 Le Peutrec Françoise, chef monteuse.
 Leroux-Gipouloux, Joran Monteur
@@ -1930,6 +2483,7 @@ Mellot, Jules Monteur
 Mêmeteau Saul, étalonneur
 Mevel Lucie, monteuse
 Milliès-Lacroix Etienne, monteur documentaire
+Mirguet Benjamin, Monteur
 Molino Marie, monteuse    
 Montagna Pascal, Responsable des formations, chef monteur
 Mouterde Raphaël, monteur son
@@ -1939,6 +2493,7 @@ Natarajan Surya, monteur
 Nereau Romaric, Assistant monteur / DIT
 Nguyen Long Tuong Vi, Monteuse et Réalisatrice
 Noël Alexis, Monteur
+Noël Régis, Chef monteur
 Noh Young Sun, Monteuse / réalisatrice
 Nouhet Paul, Monteur
 Noury Ophélie, Monteuse et réalisatrice
@@ -1961,10 +2516,13 @@ Pinoit Eric, Monteur réalisateur
 Pinteaux Clément, monteur
 Pobel Marin, Réalisateur, Monteur
 Poche Agathe, monteuse son
+Pontécaille Grégoire, Monteur
+Pontoizeau Sylvie, Monteuse
 Poupard Simon, Monteur Son
 Pradels Léa, assistante monteuse
 Préhembaud Séverine, Monteuse
 Prian Loïc, Monteur son
+Quenan Marina, Monteuse
 Quettier Nelly, monteuse
 Quiqueré François, monteur
 Rascon Catherine, Cheffe monteuse
@@ -2011,6 +2569,7 @@ Stemmer Gabrielle, réalisatrice et monteuse
 Tavernier marie Réalisatrice, Monteuse
 Teiger Bénédicte, scripte, monteuse
 Tellier Maxime, étalonneur
+Tijou Brigitte Réalisatrice, monteuse
 Tintané-Ducharme, Milan Réalisateur et monteur
 Tourtelier Thomas, assistant monteur
 Trillo Julie, Monteuse
@@ -2029,12 +2588,15 @@ Vidal Baptiste, monteur
 Vidal Cyprien, Monteur son
 Villa Giorgia, monteuse
 Villon Rémi, Monteur
+Villy Agathe, Monteuse
 Voisin Olivier, Monteur Son
 Volpelière Flora, Monteuse
 Volta Gilles, monteur
 Weber Florian, Monteur
+Weil Matthieu, étalonneur
 Wisshaupt-Claudel Lydie, réalisatrice et monteuse
 Zaanoun Sarah, Monteuse
+Zipper Garance, Monteuse
 ```
 
 [Retourner au début de la page](#haut)
@@ -2042,6 +2604,7 @@ Zaanoun Sarah, Monteuse
 ### Production
 
 ```
+Aduaka Newton, Screenwriter, Producer and Director
 Aït-Sidhoum Naïm, Producteur
 Allaire Tom, producteur
 Amiri Aïna, productrice d&
@@ -2079,10 +2642,12 @@ Bonhomme Rémi, producteur
 Bonmarchand Caroline, productrice
 Bonnet Jean-Baptiste, Producteur
 Bordier Aurélie, productrice
+Bouanich Yael, Assistante de production
 Bouchareb Malya, directrice de production
 Boué Valérianne, Productrice
 Bouillin-Pacheco Gwladys, coordination d’éco-production
 Bourgeois Albin, Producteur
+Boutault-Caradec, Elsa Directrice de production
 Bouzom Annabelle, productrice
 Boyé Adèle, Coordinatrice d eco-production
 Boyer Victor, Réalisateur, producteur
@@ -2111,7 +2676,9 @@ Chretien Maitena, Directrice de production
 Cittanova Raphaëlle, productrice
 Clairet Sara, Directrice de production
 Claisse Ilya, Directeur de Production
+Clément Vanessa, Productrice
 Cohen Dan, technicien de post-production
+Cohen Fiona, Productrice
 Cohen-Solal Anne, directrice de production
 Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
 Copans Richard, producteur
@@ -2133,6 +2700,7 @@ de Fonseca Sébastien, secrétaire général, producteur
 Defosse Noémie, chargée de production
 Defossez Nathalie ,Productrice
 de Givry Félix, réalisateur et producteur
+Delluc Noélène, Directrice de production
 Deschambres Maud, productrice  
 Deschamps de Lepine Jeanne, Assistante de production
 Deschamps Jean, Producteur
@@ -2151,12 +2719,17 @@ Dumas Raphaèle, productrice
 Dupeyron Léa, productrice
 Ede Victor, Producteur
 El Ouadie Oumeya, directrice de production
+Engel Nina, Productrice, autrice, réalisatrice
+Estèves Catherine, Productrice
 Fariñas Emma, réalisatrice et productrice
 Farine Edith, Autrice et productrice de documentaires
 Favillier Kévin, producteur
+Feminier Perrine, Productrice
 Ferali Laurence, Administratrice de production
+Ferdinand Jeanette, Productrice
 Ferreira Virginie, productrice
 Féry Robin, Chargé de production
+Fessol Marie, Directrice de production
 Festaz Alexandre, Chargé de production
 Fialon Estelle, Productrice
 Fleisher Heidi, productrice
@@ -2166,6 +2739,7 @@ Fuentes Marc, Directeur de production
 Gagnaire Max, producteur
 Gaillardet Estelle, Directrice de production
 Gallot Adèle, Productrice
+Gans Lola, productrice
 Gaullier Vincent, Producteur et réalisateur
 Gazel Marion, Assistante de production
 Gerin Mélanie, productrice
@@ -2193,6 +2767,7 @@ Henriques Emilio, Chargé de production
 Hentgen Louise, Productrice
 Hermann Alice, Administratrice de Production
 Heurtier Manzanares Lysa, réalisatrice et productrice
+Houard Lucie, Productrice - Directrice de production
 Houzel Rebecca, productrice
 Hug Elise, productrice
 Hurst David, producteur
@@ -2205,6 +2780,7 @@ Jones Gaëlle, productrice
 Just Quentin, Producteur
 Kachoutina Tatiana, productrice
 Karli Max, Producteur
+Kawczak Clara, Productrice
 Khalili Romeo Marianne, productrice
 Kira Simon-Kennedy, productrice
 Kohen Igal, producteur
@@ -2219,9 +2795,12 @@ Lajoumard Claire-Agnès, Productrice
 Langmann Claire, directrice de production
 Lebecque Nicolas, Producteur
 Le Dantec Adeline, productrice
+Lemoalle Thomas, Assistant de production
+Lespagnol François-Olivier, producteur
 Lestoquoy Tim, Assistant de production
 Lestrade Cécile, productrice
 Levesque Dorothée, productrice
+Lévy Gaétan, Chargé de production
 Lhermite Laurent, réalisateur et producteur
 Luquet Manon, Directrice de production
 Magnien Richard, producteur
@@ -2257,6 +2836,7 @@ Nougaret Claudine, productrice
 Novati Valentina, productrice et distributrice
 Ohayon Annie, productrice
 Paratian Julie, productrice
+Parent Lola, Assistante de production
 Payet Ulysse, producteur
 Perrottet Angèle, Productrice
 Petret Jessie, Productrice d&
@@ -2275,8 +2855,10 @@ Raevel Danaé, Directrice de production
 Raillard Jules, Producteur
 Raspillere Christine, Productrice Executive AV
 Reboullet Remy, producteur
+Rebours Valentin, Post-production
 Rego Lucie, Productrice
 Reinartz Jules, producteur
+Remy Marion, Assistante de production
 Rezelman Victoria, Coordinatrice d’éco production
 Rigou Malo, Assistant de production/ monteur
 Riou Justine, Chargée de production
@@ -2286,6 +2868,7 @@ Roblin Félicie, productrice
 Roger Felicie, Productrice
 Rose Cécilia, Coordinatrice de production
 Rosenzweig Lou-Ann, coordinatrice d’éco production, régisseuse
+Rothstein Daniel, Producteur
 Roucher Valérie, Directrice de production
 Roussel Eden, Assistante de post-production
 Salafa Pascal, Producteur
@@ -2296,12 +2879,15 @@ Sandoz Gilles, Producteur
 Sarrat-Rouch Marilou, Directrice de production - cinéma d&
 Scaringella Gautier, Responsable de production audiovisuelle
 Scarrone Jacques, ancien régisseur général et directeur de production
+Schmuziger Thomas, Producer
+Sebile Maxime, Technicien de post-production / réalisateur
 Servigne Alexandra, Administratrice de production
 Sichov Dounia, comédienne, réalisatrice et productrice
 Simkine Antoine, producteur
 Slovo Robyn, productrice
 Soulignac Michèle, productrice
 Subramaniyam Virginia, Productrice
+Suivre Marie, Assistante de production
 Suter Louis, producteur
 Taburiaux Maxime, assistant de production
 Taillefer Lucas, Directeur d’ateliers de coproduction
@@ -2310,6 +2896,7 @@ Tanis Guillaume, producteur
 Tavanti—Geuzimian Violette, Chargée de production
 Teillet Estelle, Administratrice de Production
 Thommen Suzon, directrice de production de films publicitaires
+Tollu-Polonowski Cécile, productrice
 Tran Van Lieu Pauline, productrice
 Trinquet Claire, Directrice de production
 Urtado Marc, directeur de post-production
@@ -2322,6 +2909,7 @@ Viret Marion, Chargée de production
 Vitel Christine, Productrice
 Walter Cédric, producteur
 Weeger Marion, Directrice de production
+Welinski Dominique, Productrice
 Willink Joram, filmproducer
 Wisniewski Léa, productrice
 Zaiti Ruelle Naël, producteur et réalisateur
@@ -2374,12 +2962,15 @@ Baillot Gertrude, Réalisatrice
 Balekdjian Anton, Réalisateur et scénariste
 Balit Mokrane, Cinéaste
 Ballyot Sylvie, réalisatrice
+Baraud Anthony, Réalisateur / Assistant mise en scène
 Barbé Ornella, Réalisatrice
 Barbet Aurélia, réalisatrice
 Barché Loïc, réalisateur
 Bareyre Matthieu, réalisateur
 Baron Lise, Réalisatrice
 Baron Tommy, Scénariste - réalisateur
+Barriga Calcaño Valentina, réalisatrice et monteuse
+Barrois Anaelle, Assistante réalisatrice
 Bator Etienne, Assistant Réalisateur
 Batut Stéphane, réalisateur
 Baudéan Romain, Réalisateur et chef-opérateur
@@ -2399,10 +2990,12 @@ Belmessieri Max, assistant réalisateur
 Benedetti Christian, metteur en scène, comédien
 Benestan Emma, réalisatrice
 Benhaïem Anne, cinéaste
+Benhamou El Madani Rahma, Réalisatrice
 Bensalah Karim, réalisateur
 Ben Slama Sonia, réalisatrice
 Bensoussan Elli, Réalisatrice
 Béot Ludovic, cinéaste et critique
+Béreau-Baumann Naéva, Réalisatrice et monteuse son
 Bergès Cécile, Scripte
 Berlier Yann, Réalisateur
 Bernanos Yves, réalisateur
@@ -2426,6 +3019,7 @@ Biton Sacha, Assistant réalisateur
 Bitton Simone, Réalisatrice
 Blachère Louise, Assistante réalisatrice
 Blagny Julia, Réalisatrice
+Blanchard daroch Charlie, Réalisatrice documentaire
 Blanchard Régis, Réalisateur
 Blanc Isabelle, scénariste, réalisatrice
 Blanc Zéphir, réalisateur et directeur de production
@@ -2447,16 +3041,20 @@ Boudot Hector, Réalisateur
 Bougy Hélène, réalisatrice
 Bouhélier Laetitia, réalisateur·ice
 Bouisset Doriane, monteuse, réalisatrice  
+Boulanger Nathalie, 1 ère assistante réalisateur
 Bourachot Corentin, Assistant réalisateur
 Bourdon Éli, réalisateur, scénariste
 Bourgon Jeanne, réalisatrice documentaire
 Bourquin Zelda, Dramaturge, comédienne et metteure en scène
+Bousquet Hugo, réalisateur
+Bousquet Hugo, Réalisateur
 Bouteiller Sophie, Scripte
 Boutet Antoine, réalisateur
 Bouthors Benoit, Réalisteur
 Bouzgarrou Diane Sara, réalisatrice
 Boyer Angèle, apprentie réalisatrice/technicienne
 Boyer Victor, Réalisateur, producteur
+Brésard Thomas, Réalisateur
 Bressi Marianne, réalisatrice
 Brêtas Marie-Pierre, réalisatrice
 Bretaudeau, Alice Scripte
@@ -2466,6 +3064,7 @@ Briet Chantal, réalisatrice
 Brincard Marie-Violaine, réalisatrice
 Brining Anthony, réalisateur
 Brisavoine Emilie, actrice, autrice et réalisatrice
+Broch Mathieu, Réalisateur
 Brody Cyril, réalisateur et scénariste
 Brousse Juliana, Opératrice - réalisatrice
 Brügger Mégane, Réalisatrice
@@ -2473,6 +3072,7 @@ Brun Dorine, réalisatrice
 Brunet Léo, Réalisateur
 Bruyas Raphaëlle, Réalisatrice
 Budor Hubert, Réalisateur
+Bugeon Pauline, autrice réalisatrice
 Butstraen Lola, réalisatrice
 Cabrera Dominique, réalisatrice
 Cadic Valentine, réalisatrice
@@ -2484,6 +3084,8 @@ Campillo Robin, cinéaste
 Capeĺle Aline, Réalisatrice
 Carax Leos, cinéaste
 Carcedo Zazie, 1ère assistante à la réalisation
+Cardot Floriane, Réalisatrice, scénariste, photographe
+Carpintieri Aude Comédienne, Metteuse en scène
 Carquille Emmanuel, Cinéaste
 Carré Alexandre, Cinéaste
 Carré Jean-Michel, auteur, réalisateur, producteur
@@ -2517,6 +3119,7 @@ Chawki Jim, réalisateur·rice
 Chazot Rémi, travailleur festivals, cinéaste
 Chbani Ismaël, réalisateur  
 Cheramy Lana, réalisatrice
+Cherix Pepita, cheffe opératrice/réalisatrice
 Cherri Ali, cinéaste
 Cherti Khalil, réalisateur
 Cheval Nina, réalisatrice
@@ -2527,12 +3130,14 @@ Chevillotte Louise, comédienne, metteuse en scène
 Chiha Patric, réalisateur
 Choquart Alain, scénariste et réalisateur
 Chou Davy, réalisateur
+Chour David, Assistant-réalisateur
 Ciccolella Claude, Réalisateur
 Civeyrac Jean Paul, réalisateur
 Claret Boris, Réalisateur
 Clayssen Lucie, réalisatrice
 Clément Anatole, réalisateur
 Coché Adrien, Assistant mise en scène
+Cochinaire Célia, Scripte
 Cohen Cleo, Réalisatrice
 Cohendet Paul, Scripte
 Cohen Grégory, Réalisateur
@@ -2557,6 +3162,7 @@ Corai-Lopez Aude, scripte
 Correa Stéphane, Réalisateur de documentaire
 Coss Simon, Auteur, Réalisateur
 Costes Coline, réalisatrice
+Couchard Fabrice, assistant réalisateur
 Couette Anaïs, Assistante réalisatrice
 Coulon Lorris, Réalisateur
 Courcier Emeline, Réalisatrice
@@ -2564,12 +3170,16 @@ Cousin Gilles, réalisateur
 Cousin Orsa, Assistante mise en scène
 Couture Léo, Réalisateur
 Cravatte Muriel, directrice de la photo, réalisatrice
+Creutz Barbara, Scénographe, realisatrice
+Crinquette-Yonnet Thomas, Cadreur / réalisateur
 Cristiani Jean-Noël, Réalisateur de films
 Cuau Emmanuelle, réalisatrice, scénariste
 Dacheux Michaël, réalisateur
 Da costa David, auteur, réalisateur
 Dahmani Valentin, Assistant mise en scène
+Daigné Nadine, Assistante de réalisation
 Dampierre Sylvaine, Réalisatrice
+Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 Darfeuil Julie, Scripte
 Dario Isabelle, Réalisatrice - Monteuse
 Dartigue Maylis, Auteure-réalisatrice
@@ -2578,9 +3188,11 @@ Dauget Emma, Scripte
 Daurier David, Réalisateur, sound designer
 Dautrey Marianne, réalisatrice
 David Marie,  assistante réalisatrice
+David Pascal, auteur-réalisateur
 Davis Judith, Cinéaste
 Davisse Françoise, réalisatrice
 Deak Marina, réalisatrice
+Debaty Martine, Réalisatrice
 De Butler Laure, réalisatrice
 Decaster Laïs, réalisatrice
 De Chassey Marie, scripte
@@ -2590,6 +3202,7 @@ Défossé Nicolas, réalisateur
 Degen Théo, Cineaste
 Degeye Camille, réalisatrice
 de Givry Félix, réalisateur et producteur
+de Hasque Jean-Frédéric, réalisateur
 de Hillerin Marguerite, Scénariste et réalisatrice
 Delaage Sofi, monteuse, réalisatrice
 Delage Hélène, réalisatrice
@@ -2597,9 +3210,11 @@ Delangle Lucas, réalisateur
 Delattre Benjamin, cinéaste
 de Laubier Marie, réalisatrice - directrice de casting
 Del Pino Sarah, réalisatrice
+Delvaux Ellie, Réalisatrice
 Dementhon Clémence, Assistante mise en scène
 de Mezamat Aliénor, Comédienne et réalisatrice
 Démoris Emmanuelle, Réalisatrice
+Denolly Margot, Assistante réalisatrice
 Depardon Raymond, réalisateur
 De Peretti Yves, réalisateur
 Depeyre Marine, Comédienne, metteuse en scène
@@ -2619,6 +3234,7 @@ Deux Pascal, réalisateur
 de Vitry Camille, réalisatrice
 De Vliegen Madie, assistante mise en scène
 Devos Sarah, scripte
+Deyres Martine, réalisatrice
 Dhalli Marie, Assistant à la réalisation
 Di Giovanni Clio, réalisatrice
 Dion Cyril Auteur, réalisateur
@@ -2648,6 +3264,7 @@ Duval Elsa, Réalisatrice
 Duvivier Rose, Réalisatrice de courts-métrages
 Ehouzan Bastien, réalisateur
 Engasser Timothée, réalisateur
+Engel Nina, Productrice, autrice, réalisatrice
 Epelboin Reno, Assistant Réalisateur
 Ernest Maya, metteuse en scène
 Esterez Arnaud, 1er Assistant Réalisateur
@@ -2663,6 +3280,8 @@ Fanara Lilian, Réalisateur
 Fargier Alice, réalisatrice
 Fariñas Emma, réalisatrice et productrice
 Farsi Sepideh, réalisatrice
+Fasse Samuel, Metteur en scène
+Faubert Meline,  Scénographe
 Faulkner Morgane, Réalisatrice
 Faure Maxime, Réalisateur
 Fave Anne, Cinéaste
@@ -2706,12 +3325,15 @@ Garret Laurence, réalisatrice
 Gaspar Mickaël acteur, réalisateur
 Gaudier Céline, assistante à la mise en scène
 Gaullier Vincent, Producteur et réalisateur
+Gauthier Vaiana, Réalisatrice
 Gautier Mathéo, Auteur-réalisateur
 Gavras Julie, réalisatrice
 Gaye Dyana, réalisatrice
+Geddes Odile, Scripte
 Genoudet Adrien, Écrivain, réalisateur
 George Camio, Régisseur et metteur en scène
 George Sylvain, réalisateur
+Gérard Marin, Cinéaste et critique de cinéma
 Gérard Stéphane, cinéaste
 Gerifaud Nicolas, réalisateur
 Gianelli-Meriano Raphaël, Réalisateur
@@ -2748,6 +3370,7 @@ Gravayat Jeremy, Cinéaste, Monteur
 Greffet Royo Betty, Scripte
 Gresset Chantal, auteure réalisatrice
 Grisey Raphaël, réalisateur, artiste, enseignant chercheur
+Grossmann Giulia, Réalisatrice
 Grudzinska Joanna, autrice réalisatrice directrice de casting actrice
 Gueorguiva Elitza, réalisatrice et autrice
 Guerin José-Luis, réalisateur
@@ -2761,7 +3384,9 @@ Guillin Clemence, Realisatrice et diffusion
 Guisset Anne, Réalisatrice
 Guit Lenny, réalisateur
 Gunjak Una, réalisatrice
+Gutherz Mariette, Réalisatrice
 Hadoux Sidonie, Réalisatrice indépendante
+Haffner Claude, réalisatrice
 Halifa-Legrand Lola, Autrice, réalisatrice
 Hallot Virginie Comédienne, metteure en scène scénariste
 Hanader Oumnia, actrice et réalisatrice
@@ -2776,17 +3401,20 @@ Hémon Louise, réalisatrice
 Henno Laura, Réalisatrice
 Herbiet Laurent, réalisateur
 Herbulot Bruno, Réalisateur, scénariste.
+Herpe Noël, Réalisateur et historien du cinéma
 Herreman Cécile, cinéaste
 Heurtier Manzanares Lysa, réalisatrice et productrice
 Hévin Salomé, réalisatrice
 Hirel Antoine, assistant mise en scène
 Hoch Théo, cinéaste
+Hoinard Céline, Metteuse en scène
 Horackova Bojena, cinéaste
 Hugues Nathalie, Cinéaste
 Huisse Eléonore, Assistante caméra-cinéaste
 Hunzinger Robin, réalisateur
 Iribarne Maia, Réalisatrice
 Ivasco Tina, Monteureuse, réalisateurice et scénariste
+Jaburek Lucien, Assistant mise en scène
 Jacir Anne-Marie, réalisatrice
 Jacquin Thibault, cinéaste
 Jaffré lena, assistante à la mise en scène
@@ -2809,6 +3437,7 @@ Juin Anne, Assistante à la Réalisation
 Julier Pauline, cinéaste  
 Kadapia Asif, cinéaste
 Kaklea Lenio Metteuse en scène, chorégraphe
+Kamilindi Gaël, Acteur / Réalisateur
 Kaplan de Macedo Naruna, réalisatrice
 Karras Audrey, Assistante réalisatrice
 Kaurismaki Aki, réalisateur
@@ -2817,6 +3446,7 @@ Keller Benoit, réalisateur
 Kellou Luka, réalisateur
 Kergoat Yannick, monteur et réalisateur
 Kerkour Maïa, scripte
+Khatami Sima, Cinéaste, plasticien
 Khleifi Nael, réalisateur
 Khoshnoudi Bani, scénariste, réalisatrice
 Klein Astrid S. réalisatrice, artiste
@@ -2827,6 +3457,7 @@ Koechlin Sylvie, Scripte
 Koenig Baudouin, Auteur-réalisateur
 Kohen Abel, Réalisateur
 Kohler Marjorie, assistante mise en scène
+Konstantinou Léa, Réalisatrice
 Kowalski Julia, réalisatrice
 Kronlund Sonia, réalisatrice
 Labasse Zoé, réalisatrice
@@ -2878,6 +3509,7 @@ Lefèvre Raphaël, Monteur, réalisateur
 Le Gall Pierre, réalisateur
 Le Gourrierec Hugo, auteur réalisateur
 Le Guen Emeline, 2nde assistante réalisatrice
+Lemaire Hugo, Réalisateur
 Lemée Nicolas, réalisateur
 Lemetayer Le Brize, Corentin Réalisateur
 Lenoir Blandine, réalisatrice
@@ -2904,6 +3536,7 @@ Longuet Marine, première assistante réalisatrice
 Lonni Jean-Jacques, Réalisateur
 Lopes-Curval Julie, réalisatrice
 Lopez Jane-Gail, comédienne et metteuse en scène
+Lorthiois Carole, Réalisatrice
 Louf Frédéric, réalisateur
 Louise Victor, Réalisateur
 Loupiac Gildas, comédien et metteur en scène
@@ -2919,6 +3552,7 @@ Malle Justine, cinéaste
 Malta Chiara, réalisatrice
 Ma Mia réalisatrice, technicienne doublage
 Mandico Bertrand, réalisateur
+Mangiante Bernard, Réalisateur
 Mardi Léna, Scénariste et réalisatrice
 Mardon Regis, réalisateur, coach d’acteurs
 Marié Félix, Assistant réalisateur
@@ -2944,6 +3578,7 @@ Mathelier Elise, Scripte
 Mathieu Severine, réalisatrice
 Mati Bacelar Neoma, Réalisatrice
 Matignon Tanguy, scripte
+Matigot Pénélope, Scripte
 Matraja Zelie, scripte
 Matray Maxime, cinéaste
 Matteudi Bériou Jean-François, réalisateur
@@ -2960,6 +3595,7 @@ Menahem Pierre, réalisateur
 Menant Frédérique, cinéaste
 Mercurio Stéphane, Cinéaste
 Merlin Hélène, Réalisatrice
+Meteau Mathis, Comédien - auteur - metteur en scène
 Meunier Julien, réalisateur
 Michel Ariane, réalisatrice
 Michelet Antoine, Réalisateur
@@ -2968,6 +3604,7 @@ Milano Hélène, réalisatrice
 Millot Sara, réalisatrice
 Mills-Affif Ed, réalisateur
 Minster Joseph, réalisateur  
+Mirguet Olivier, Réalisateur
 Miské Karim, réalisateur
 Moja Rosalie, Scénariste, assistante mise en scène
 Molins Fanny, réalisatrice
@@ -2981,12 +3618,14 @@ Montineri Giulia, Réalisatrice
 Mordillat Gérard, réalisateur
 Moreau-Boiteau Charles, réalisateur
 Moreau Julien, cinéaste
+Morvan Chanelle, Réalisatrice
 Moshonas Loukianos, réalisateur, scénariste
 Mourard Hugo, réalisateur
 Moutout Jean-Marc, réalisateur
 Mrejen Marcel, Réalisateur
 Mréjen Valérie, réalisatrice
 Mulot Alexandra, Scripte
+Musichini Delphine, Scripte
 Namerla Tomasz, auteur réalisateur
 Neal Raphaël, réalisateur, photographe
 Negro Marylène, Artiste et Réalisatrice
@@ -3016,10 +3655,12 @@ Ottobah Angela, cinéaste
 Ouaret Karim, réalisateur  
 Oustry Mia, réalisatrice
 Pages Louise, Assistante mise en scène
+Pagès Lucie Scénariste, réalisatrice
 Paijens Eva, réalisatrice
 Panayotova Bojina, cinéaste
 Papillon Ariane, réalisatrice et chercheuse
 Parisius Moritz, réalisateur et assistant réalisateur
+Parraud Emmanuel, réalisateur
 Pascal Caroline, comédienne, autrice, réalisatrice
 Pasquier Arnold, réalisateur et enseignant
 Pastier Pierre-Yves, Assistant réalisateur
@@ -3060,18 +3701,22 @@ Planckaert Anaelle, réalisatrice
 Plassard Hugo, Acteur / metteur en scène
 Plumet Lucie, Réalisatrice
 Pobel Marin, Réalisateur, Monteur
+Poggi Caroline, Cinéaste
 Poisson Tommy, Photographe et réalisateur
 Poitevain Marie, réalisatrice
+Pommier Justine, Réalisatrice
 Ponchel Matthieu, Réalisateur
 Ponge Léo, réalisateur et chef électricien
 Ponson Cyprien, cinéaste
 Pontois-Blachère Arnaud, Comédien, auteur, metteur en scène
+Porte Gilles, Cinéaste
 Potonniée Valérie, Directrice photo - réalisatrice de documentaire
 Pou Alex, Cinéaste
 Poukine Alexe, réalisatrice
 Poulain Hélène, Comédienne et réalisatrice
 Pouplard Vincent, cinéaste
 Premel Eric, réalisateur
+Pressmann Frédérique, Réalisatrice
 Prévost Sidonie, assistante réalisation
 Prin Lucile, réalisatrice
 Prost Lucie, réalisatrice
@@ -3081,20 +3726,26 @@ Puybaret Véronique, cinéaste
 Quinonero Pauline, réalisatrice
 Rabaté Pascal, Auteur réalisateur
 Raccah Myriam, réalisatrice
+Rais Anjely, Réalisateur
 Rakotoarisoa  Joanne, réalisatrice
 Rambaud Ambre, Assistante réal
+Rammant Isa, Comédienne, Metteuse en scène
 Rapin Aude Léa, réalisatrice
 Rastegar Sara, réalisatrice
 Rastelli Lara, scripte, réalisatrice
+Raut-Sieuzac Natalys, Réalisatrice
 Ravizé Sébastien, Réalisateur
+Recoing Aurélien, Acteur, réalisateur
 Redolfi Annick, Réalisatrice
 Regales Marie, scénariste, réalisatrice
 Reggiani Maria, Réalisatrice
 Réglat Nicolas, réalisateur
 Régnier Stéphanie, Réalisatrice
 Regol Alexandre, Assistant mise-en-scène
+Remaury Basile, Auteur-réalisateur
 Renucci Robin, comédien et réalisateur
 Renzi Thibaud, cinéaste
+Reyes Hernández Janis, Réalisatrice
 Ribot Jean-Christophe, Auteur Réalisateur
 Ricard Colas réalisateur, éditeur
 Richard Chantal, cinéaste
@@ -3111,8 +3762,10 @@ Robic François, réalisateur
 Romand Françoise, cinéaste
 Roncayolo Marie-Florence, Scripte
 Rosselet-Ruiz Marie, réalisatrice
+Rossini Axelle, Assistante mise en scène
 Rouaix Paul réalisateur, scénariste
 Rouan Brigitte, réalisatrice
+Rouaud Christian, Réalisateur
 Rouet Anne, scripte
 Roullier Cécile, assistante mise en scène
 Rousst Émilie, metteuse en scène
@@ -3126,6 +3779,7 @@ Salama Damien, réalisateur
 Sallé Julien, Réalisateur
 Salles Walter, réalisateur
 Salvert Thierry, réalisateur
+Sanchez Jules, Réalisateur
 Sandt Alix, metteuse en scène
 Sarasin Jacques, Réalisateur
 Saubost Nicolas, assistant réalisateur
@@ -3138,7 +3792,9 @@ Schoeller Pierre, cinéaste
 Schulz-Richard Frédéric, acteur, réalisateur
 Scott Lulu, réalisatrice
 Sctrick Ariel Scripte, assistante mise en scène
+Seban Margot, Scripte
 Sebbagh Dorothée, Cinéaste
+Sebile Maxime, Technicien de post-production / réalisateur
 Sébille Marthe, Cinéaste
 Sechaud Jacques, Réalisateur
 Ségal Abraham, Cinéaste
@@ -3147,8 +3803,11 @@ Seguin Christelle, réalisatrice
 Séguin Louis, réalisateur et critique
 Seiller Benoît, Assistant Réalisation
 Sé Louis, scripte
+Sendijarevic Ena, réalisatrice
+Senez Guillaume, Cinéaste
 Sergeant Anaïs, scripte
 Seror Olivier, réalisateur
+Serre Vladimir, Metteur en scène
 Serrut Louis-Albert, Auteur réalisateur
 Servignat Camille, 1ère assistante mise en scène
 Seyroux Aude, scripte
@@ -3160,11 +3819,13 @@ Simon Ugo, réalisateur
 Sitta Jan, Réalisateur
 Six Malou, Chercheuse, réalisatrice, programmatrice
 Slama Laurent, réalisateur
+Sobel Bernard, Metteur en scène
 Sorel Ysé, Réalisatrice, scénariste
 Speno Joffrey, artiste, cinéaste et programmateur
 Stamatiadis Maxence, réalisateur
 Steff Caroline, Scripte
 Stemmer Gabrielle, réalisatrice et monteuse
+Stiegler Julien, Réalisateur
 Stucki-Darsch Jean-Pierre, auteur, réalisateur
 Sztanke Michael, réalisateur
 Tadount Lyna Scénariste, réalisatrice
@@ -3185,9 +3846,11 @@ Tesson Sophie, réalisatrice, cadreuse
 Testud Manon, Réalisatrice
 Thomas Corentin, Assistant réalisateur
 Thomas-Pavlowsky Arthur, réalisateur
+Thomas Romaric, Premier assistant Réalisateur
 Thoubillon Lison, scripte
 Thouet-Dauga Lola, scripte LSA
 Thuret Stan, Cinéaste navigateur
+Tijou Brigitte Réalisatrice, monteuse
 Tilhou Nadejda, Réalisatrice
 Tintané-Ducharme, Milan Réalisateur et monteur
 Tissot Rodolphe, réalisateur
@@ -3195,6 +3858,7 @@ Torun Nedim, réalisateur
 Tréhin-Lalanne Ninon, 2nde assistante à la réalisation
 Treilhou Marie-Claude, Cinéaste
 Trinques Gilles, cinéaste, scénariste
+Tripod Noam, Réalisateur
 Trouillet Basile, réalisateur et monteur
 Trouvé Tristan, Réalisateur
 Truchaud Marion, réalisatrice
@@ -3210,12 +3874,14 @@ Vandeginste Louise, Assistante mise en scène
 Van de Putte Christine, réalisatrice scénariste romancière
 Vanessa Le Reste, autrice-réalisatrice
 Vanh Bouapha Sengthe, cinéaste
+Van Praet Maxime, Réalisation
 Varela Pamela, cinéaste
 Vassilyevitch Maxence, réalisateur
 Vaste Jurl, Réalisateur
 Vaugeois Marc-Antoine, comédien et réalisateur
 Vayssieres Lise, réalisatrice
 Vazquez Antoine, Réalisateur
+Verchain Sofi, Metteur en scène
 Verdeil Manon, scripte
 Verdet Florent, cinéaste
 Verdet Martin, Réalisateur
@@ -3226,6 +3892,7 @@ Vernon Coline, Cinéaste/Scripte
 Vernoux Marion, réalisatrice
 Versaveau Sofia, réalisatrice, monteuse, cheffe opératrice
 Vexler Stéphane, Comédien et metteur en scène
+Veysset Sandrine, Réalisatrice
 Victor Jean-Christophe, Réalisateur
 Vierny Vladilen, réalisateur
 Vieuille Ludovic, Réalisateur
@@ -3239,6 +3906,7 @@ Voignier Marie, réalisatrice et actrice
 Voiseux Maxence, réalisateur
 Voslion Amaury, auteur-réalisateur
 Vray Nicolas, réalisateur
+Waks Karen, Scripte
 Walther Alexia, cinéaste
 Wasp Chloé, Réalisatrice
 Watkins Gérard, acteur auteur metteur en scène
@@ -3254,6 +3922,7 @@ Yermak Aleksandra, Comédienne, scénariste, réalisatrice
 Yon David, réalisateur
 Zadi Jean-Pascal, réalisateur et comédien
 Zagurovska Aliona, réalisatrice
+Zahar Julia, Réalisatrice
 Zaiti Ruelle Naël, producteur et réalisateur
 Zajdermann Jérôme, 1er assistant réalisateur
 Zharaya Aleksandre Artiste, réalisateur
@@ -3272,13 +3941,16 @@ Zylberman Ruth, réalisatrice
 Ajello Bertille, Régisseuse
 Alain Petiteau, réalisateur, scénariste, scripte, assistant régisseur adjoint
 Albéri Samuel, régisseur  
+Amir Lise, Régisseuse d’extérieurs
 Argant Basile, Régisseur
 Arnaux Marylou, Régisseuse
+Aubret Enzo, Régisseur
 Babault Ludovic, Régisseur Lumière
 Bedouin Declan, Régisseur
 Berenguier Fanny, Régisseuse
 Besse Simon, régisseur géneral
 Beurrier Romain, Régisseur
+Blery Isabelle, Régisseuse adjointe
 Boichut Emeline, Régisseuse cinéma
 Bordier Antoine, régisseur
 Bouillot Jonathan, Régisseur d’extérieur
@@ -3290,10 +3962,13 @@ Buhl Fred, régisseur son
 Cabanel Tatiana, régisseuse adjointe
 Caillibot Stan, Régisseur
 Camus Sophie, Régisseuse accessoires
+Carlat Chloé, Régisseuse
 Carteron Coline, Régisseuse d’extérieurs
 Cathala Maurine, régisseuse
 Charchaude Laurent, Regisseur costume
+Chemtov Bastien, Régisseur costume
 Cherdo Titi, Régisseur d&
+Chotard Antoine, Régisseur
 Cittone Claire , auxiliaire Régie Cinéma
 Clauzier Benjamin, Repéreur de décors et régisseur général
 Cochet Zita, Technicienne vidéo
@@ -3304,16 +3979,21 @@ Degrange Michel, Régisseur général cinéma
 Dekonink Jeanne, Régisseuse d&
 Delachaume Antoine, régisseur
 De Lardemelle Stanislas, régisseur adjoint
+Di Sturco Laureen, Régisseuse
 Djellouli Angela, Régisseuse
 Ducrocq Axel, Régisseur
 Dumay Mel, Regisseuse
 Durand Yannis, Régisseur
 Eckert Edouard, Régisseur général
 Estampe Nicolas, régisseur adjoint
+Fanget Agnes, Régisseuse d’extérieurs
+Faucheux Mathias, Régisseur
 Faurel Natanael, Régisseur Lumière et technicien son
 Félix Reboul, régisseur
 Ferrenq Emilie, Ensemblière - régisseuse d&
 Fichelle Louis, Assistant son / Assistant régie
+Fiognon Kodjo, Régisseur
+Fracchiolla Kevin, Régisseur adjoint
 Gamaz Olivier, Régisseur Adjoint
 Ganachaud Aurélie, régisseuse copies et projectionniste en festival de cinéma
 Garrone Fred, Régisseur d’extérieurs
@@ -3325,6 +4005,7 @@ Gimenez-Frontin Oscar, Régisseur cinéma
 Giraud Luis, Régisseur
 Got Nathan, régisseur général
 Gougeon Denis, Régisseur Général
+Guibert Clément, Regisseur
 Guillaume Anne, Ensemblière et régisseuse d&
 Henry Samuel, régisseur
 Houguet Thomas, régisseur
@@ -3416,6 +4097,7 @@ Andraud Antoine, Électricien / scénariste
 Aptekman Jeanne, scénariste
 Balekdjian Anton, Réalisateur et scénariste
 Bararuzunza Hélène, Scénariste
+Baraud Anthony, Réalisateur / Assistant mise en scène
 Baron Tommy, Scénariste - réalisateur
 Bayiha Astrid Comédienne, autrice et metteuse en scène
 Beaudoin Arthur, scénariste
@@ -3435,6 +4117,9 @@ Brody Cyril, réalisateur et scénariste
 Broudic Maïa, Assistante de production / Scénariste
 Brouillet Anne, scénariste
 Calame Timothée, Scénariste, cinéaste, photographe
+Cardot Floriane, Réalisatrice, scénariste, photographe
+Carpentier Alice, Scénariste
+Carpintieri Aude Comédienne, Metteuse en scène
 Chapelle Thomas, scripte et scénariste
 Chapelle Thomas, scripte, scénariste
 Chaton Félicité, Comédienne et metteuse en scène
@@ -3453,7 +4138,10 @@ Contre Jean, mise en scène
 Cousin Orsa, Assistante mise en scène
 Cuau Emmanuelle, réalisatrice, scénariste
 Dahmani Valentin, Assistant mise en scène
+Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 Dang-Thaï Duong, Scénariste
+de Banville Marie, Scénariste
+De Catalogne Isabelle, Scénariste
 Defer Marion, Scénariste
 de Givry Charlotte, scénariste
 de Hillerin Marguerite, Scénariste et réalisatrice
@@ -3472,8 +4160,10 @@ Durac Karine, Scénariste
 Eminenti Licia, scénariste
 Ernest Maya, metteuse en scène
 Escalante Tadeo, scénariste
+Espagno Claire, Scénariste
 Espi Frédéric, Écrivain, scénariste
 Evin Léo, Scénariste
+Fasse Samuel, Metteur en scène
 Faucheux-Thurion Quentin, scénariste
 Fazendeiro Maureen, scénariste, réalisatrice
 Feinsilber Anne, scénariste
@@ -3481,11 +4171,13 @@ Fiard-Cherifi Mickaël, Scénariste
 Finkielstein Morgane, assistante à la mise en scène
 Focsa Elena, Réalisatrice / scénariste
 Fontaine Chloé, comédienne, scénariste, réalisatrice
+Foulatier Amélie, Scénariste et lectrice
 Fraisse-Bareille Cécile, metteuse en scène, autrice
 Franco Sonia, Réalisatrice, scénariste
 Gaudier Céline, assistante à la mise en scène
 Gau Laetitia, Scénariste
 George Camio, Régisseur et metteur en scène
+Gerin Loïs, Scénariste
 Germaneau Sophie, scénariste
 Gibier Orane, Scénariste
 Gilles Thibault, Scénariste et réalisateur
@@ -3508,7 +4200,9 @@ Hertzberg Nathalie, Scénariste
 Hiet Sophie, scénariste.
 Hill-Chouaki Florent, comédien, scénariste
 Hirel Antoine, assistant mise en scène
+Hoinard Céline, Metteuse en scène
 Ivasco Tina, Monteureuse, réalisateurice et scénariste
+Jaburek Lucien, Assistant mise en scène
 Jaffré lena, assistante à la mise en scène
 Jaillet Manon, assistante mise en scène
 Jeammet Matthieu, Scénariste
@@ -3522,6 +4216,7 @@ Lacomblez Antoine, scénariste
 Laporal-Trésor Jimmy, scénariste et réalisateur
 Lavalle Oum Maxime, Scénariste
 Laverty Paul, scénariste
+Lecerf Diane, Scénariste
 Léridon Pablo, scénariste
 Le Roux Arthur, metteur en scène
 Likiernik Anton, scénariste
@@ -3542,11 +4237,14 @@ Martineau Jacques, scénariste, réalisateur et enseignant
 Martin Nicolas, auteur, scénariste, réalisateur et critique
 Masson Lucile, Scénariste
 Maugendre Claire, scénariste et réalisatrice
+Meteau Mathis, Comédien - auteur - metteur en scène
 Moja Rosalie, Scénariste, assistante mise en scène
 Moshonas Loukianos, réalisateur, scénariste
 Ntambwe Berry, Scénariste
 Olivier Felix, Réalisateur scénariste
+Ortega Leyna, scénariste
 Pages Louise, Assistante mise en scène
+Pagès Lucie Scénariste, réalisatrice
 Paillé Catherine, Scénariste
 Peleyrol Anais, Réalisatrice scénariste Actrice
 Perrier Jean-Christophe, Graphiste, critique, scénariste
@@ -3557,11 +4255,13 @@ Pieretti Frédéric, réalisateur et scénariste
 Plassard Hugo, Acteur / metteur en scène
 Pontois-Blachère Arnaud, Comédien, auteur, metteur en scène
 Ramier Max, Scénariste
+Rammant Isa, Comédienne, Metteuse en scène
 Regales Marie, scénariste, réalisatrice
 Regnaud Jean, scénariste
 Regol Alexandre, Assistant mise-en-scène
 Richard Franck, Réalisateur Scénariste
 Robert Pawula Maëlle, Assistante mise en scène
+Rossini Axelle, Assistante mise en scène
 Rouaix Paul réalisateur, scénariste
 Roullier Cécile, assistante mise en scène
 Rousst Émilie, metteuse en scène
@@ -3569,7 +4269,10 @@ Salinger Emmanuel, comédien et scénariste
 Sandt Alix, metteuse en scène
 Schulmann Tristan, Scénariste
 Sctrick Ariel Scripte, assistante mise en scène
+Serre Vladimir, Metteur en scène
 Servignat Camille, 1ère assistante mise en scène
+Simard Alexandre, Scénariste
+Sobel Bernard, Metteur en scène
 Sorel Ysé, Réalisatrice, scénariste
 Stanculescu Timothée, scénariste
 Tadount Lyna Scénariste, réalisatrice
@@ -3578,6 +4281,7 @@ Trinques Gilles, cinéaste, scénariste
 Trividic Anne-Louise, scénariste
 Vandeginste Louise, Assistante mise en scène
 Van de Putte Christine, réalisatrice scénariste romancière
+Verchain Sofi, Metteur en scène
 Verhagen Sara, actrice scénariste réalisatrice
 Vexler Stéphane, Comédien et metteur en scène
 Villar Thibaut Villar, scénariste
@@ -3596,6 +4300,7 @@ Zebboudj Idir, Journaliste, scénariste
 Abdelnour François, preneur de son
 Aïchoun Samuel, Mixeur son
 Albert Elisha, Perchwoman
+Albrespy Barnabé, Technicien Son
 Alisinani Sonja, Musicienne
 Alloing Clara, ingénieure son  
 André Etienne, Mixeur son
@@ -3614,11 +4319,14 @@ Bariaud Pierre, monteur son
 Bari Thomas, Ingénieur du son
 Beillevaire Fabien, monteur Son
 Bensoussan Jérôme, Musicien
+Béreau-Baumann Naéva, Réalisatrice et monteuse son
 Berger Cédric, Chef operateur du son
 Berliner Thomas, Son
 Bernot Loris, Ingénieur du son
 Berthou Clément, Monteur son
+Beruel Arnaud Chef, opérateur son
 Billot Samuel, Prise de son
+Bochard Lucas, Perchman
 Boghossian Lazare, compositeur
 Boissau Martin, ingénieur du son
 Boisteau Eric, chef opérateur du son
@@ -3629,6 +4337,7 @@ Bouchateau Guillaume, chef monteur son
 Bouchez Vincent, musicien
 Bourdain Antoine, ingénieur du son
 Bourdon Lucie, Ingénieure du son
+Bourget Augustin, Assistant son
 Bourgin Kevin, premier assistant son
 Brisa Laure, Musicienne
 Brouillard Erwan, Chef opérateur du son
@@ -3649,6 +4358,7 @@ Cantin Nicolas, chef opérateur du son
 Cartigny France, Musicienne
 Carval Jules, technicien son
 Casang Michel, Chef operateur du son
+Casassus Olivier, Compositeur
 Cassignol Jules, musicien
 Cercleux Laurent, Chef opérateur du son
 Chabauty Amaury, Compositeur
@@ -3658,7 +4368,8 @@ Chapelle Boris, monteur son
 Charuel Clémentine, Compositrice
 Chasles Justine, Autrice compositrice interprète
 Chauchat Théophile, assistant son
-Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
+Chu Arno, Perchman
+Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
 Collignon Médéric, Artiste musicien compositeur
 Collot Jean, Chef opérateur du son
 Comte Charlotte, ingénieure du son
@@ -3676,7 +4387,9 @@ Dechaut Benoît, Ingénieur du son
 De la Hautemaisn Julien, Chef Opérateur Son
 Delasalle Patricia, chef opératrice son
 Delaunay Margot, Assistante son
+Delobel Adrien, Ingénieur du son
 De Loof Valérie, Monteuse son
+Delplanque David, Musicien
 Delvecchio Camille, Compositrice
 Demoor Thibaut, Perchman
 Depret Tiphaine, Monteuse son
@@ -3715,6 +4428,7 @@ Fleurant Léo, Ingénieur du son
 Fournier Nicolas, premier assistant opérateur du son
 Fresneau Pierréloi, ingénieur du Son
 Fustec Sophie, Musicienne compositrice pianiste chanteuse
+Gallice Clément, Ingénieur du son, monteur son
 Gastinel Thomas, chef opérateur son
 Gessat Stéphane, Chef opérateur du son
 Gigliotti Julien, perchman
@@ -3725,6 +4439,7 @@ Gorans Yann-Elie, opérateur du son
 Gouret Sarah, Réalisatrice/ingénieur du son
 Greda Sylvie, technicienne son
 Grémiit Christophe, Mixeur
+Griette Xavier, chef opérateur du son
 Guerineau Benoit, ingénieur du son
 Guerlot-Kourouklis, Alice artiste sonore, compositrice
 Guilloteau Paul, ingénieur du son
@@ -3737,7 +4452,9 @@ Héraud Christophe, Monteur son, Bruiteur, Sound-Designer, Compositeur
 Hergott Louann, Compositrice
 Herve-Mignucci Lancelot, Chef-opérateur du son
 Hespel Olivier, Homme de son
+Hidalgo Ruiz Arturo, Ingénieur du son/ Perchman
 Hubert Ange, Mixeur
+Hubert Juliette, Compositrice
 Huby Kaewsiri Valentin, technicien son
 Imbault Edgar, ingénieur du son
 Insel Utku, ingénieur du son
@@ -3752,6 +4469,7 @@ Jouvenet Elliot, Technicien son
 Juillet Alexandre, Preneur son
 Juniot Barbara, Cheffe opératrice du Son, Perchewoman
 Kartmann Brice, ingénieur du son, musicien et compositeur
+Kerouanton Tom, technicien Son
 Kharitonnoff Dimitri, Monteur son
 Kreutzer Lucie, Assistante prise de son
 Krzyzanowski Fabien, chef opérateur du son
@@ -3760,6 +4478,7 @@ Ladeveze Frédéric, Ingénieur du son
 Laforce Clément, mixeur
 Lagabbe Louise, Ingénieure du son
 Languille Plume Assistant son, musicien
+Laporte Olivier, Chef opérateur son
 Lardiere Audrey, assistante son
 Larivet Karine, Musicienne
 Launay Aloyse, monteuse son
@@ -3771,6 +4490,7 @@ Lefranc Thibault, Compositeur, monteur son
 Legrand Chloé, Musicienne
 Lelu Sarah, Monteuse son
 Lenoir Quentin, perchman
+Lestien Thierry, Musicien
 Le Vacon Olivier, Chef Op Son
 List Kevin, Régisseur / Assistant Son
 Loizeau Emily, artiste auteure compositrice interprète
@@ -3784,12 +4504,15 @@ Malbrant Sylvain, Monteur Son
 Mantran Nicolas, Opérateur son
 Marciszewer Sodi, compositeur, ingénieur son
 Marguerit Olivier, compositeur
+Marlet Morgan, Musicien
+Martens Noé, Ingénieur du son
 Massiot Corentin,  perchman
 Mathieu Goudier Mariette, Preneuse de son
 Mauvezin Olivier, preneur de son
 Mayniel Marylou, musicienne
 Mercier Antoine-Basile, chef opérateur du son
 Mergot Vivien, ingénieur du son
+Merlaud Delphine, Technicienne son
 Mikoff Sacha, Ingénieur du son
 Moltet Pauline, compositrice
 Momenceau Julien, Chef Opérateur du Son
@@ -3837,8 +4560,10 @@ Renet Jean Francois, régisseur son
 Richardson Lucien, Mixeur
 Rigaut André, Chef opérateur du son
 Rit David, Chef Opérateur Son
+Robert Etienne, Mixeur son
 Robert Julia, Musicienne
 Rolland Arnaud, Monteur-son
+Roth Félix, Musicien
 Roué Julie, compositrice
 Roy Maxime, mixeur
 Sadoux Martin, preneur de son
@@ -3864,6 +4589,7 @@ Thépault Avran, Compositeur
 Tijou Clément, Chef opérateur du son
 Trahard Clément, Assistant son
 Tronchot Damien, Monteur son &amp; compositeur
+Trullier Léna, Ingénieure du son
 Tucat Pierre, Preneur de son
 Turpin Damien, Ingenieur du son
 Umansky Jean, Ingénieur du son
@@ -3900,8 +4626,10 @@ Alix Sophie, Directrice de la communication
 Alizée Romy, artiste
 Allouche Claire, enseignante-chercheuse et critique
 Andalian Kaloust, enseignant cinéma
+Andriani Viviana, Attachée de presse
 Arriaga Karine, Adjointe culture
 Arrivé Guezengar Clémence, Sélectionneuse en festival
+Arto Laure, Mixeuse
 Attal Frederic, sound Designer retraité
 Auclaire Philippe, chef constructeur
 Audétat Gabriel, Artiste
@@ -3927,6 +4655,7 @@ Bertocchi Davide, Artiste
 Bertrand Camille, responsable éducation dans un cinéma
 Bescond Matthieu, Journaliste
 Besse Caroline, journaliste
+Bille Valérien, Ensemblière
 Bitoun Olivier, indépendant de la diffusion
 Blache Caroline, documentaliste recherchiste
 Blain Etoile, ensemblière
@@ -3940,6 +4669,7 @@ Bockel Sarah, Administratrice de prod
 Bocquet Lila, Technicienne
 Boiteux Chloé, technicienne
 Boiteux Remi Critique, auteur, modérateur, enseignant
+Bonnafous Théo, Plaquiste
 Bonnaud Julien, Assistant vidéo
 Bonnefoi Stéphane, Documentariste
 Bonnot Jules, Plasticien
@@ -3947,6 +4677,7 @@ Borca Cécile, Artiste
 Bories Benoit, artiste sonore
 Borne Cécile, artiste
 Boschet Raphaël, Technicien de ciné
+Bouffier Frédéric, Projection à Utopia
 Boulanger Louann, assistante de développement
 Boulenouar Philippe, Chef constructeur
 Bouquet Léa, Coordinatrice cinéma
@@ -3958,14 +4689,20 @@ Brunel Camille, Auteur
 Bucher Quentin, Chargé de projets audiovisuels
 Bui Camille, chercheuse et critique de cinéma
 Bulin Marie Nadia, artiste chorégraphe
+Burgy Xavier, Directeur Technique
 Buron Isabelle, Attachée de presse
+Calpe Solène, Salariée à Tënk
 Canu Jean-Charles, attaché de presse
 Cardin Aurélie, directrice de festival
+Carpentier Muriel, Traductrice interprète
+Carretero Alexandre, Agent polyvalent de cinéma
 Carrier jean Pierre, Critique de cinéma
 Carteau Mathilde, membre du collectif Sous les écrans la dèche
 Cassagnau Pascale, historienne de l&
+Castells Frederic, Auteur
 Cattoni Pierre, agent artistique
 Caye Chloé, journaliste
+Chabot Eric, Cascadeur
 Chamblay Lucile, chargée de mission pour des festivals de cinéma
 Chaouih Dounia, Music Supervisor
 Chapellier Maxime, Chargé de Projets
@@ -3973,7 +4710,10 @@ Charlet Mathilde, coordinatrice de projets
 Charrier Fanette, Chargée de communication
 Chatelard Aurélie, membre du collectif Sous les écrans la dèche
 Châtelet Caroline, Journaliste, critique
+Chatenet Alexandra, Plasticienne
+Chauprade-Ricard Emma, Conceptrice éditoriale
 Chauvet Romain, Ingénieur
+Chavance Pascale, Montage Films
 Chavanon Valérie, Coordinatrice animalière cinema
 Chessel Luc, critique de cinéma
 Chevalier Camille, membre du collectif Sous les écrans la dèche
@@ -3986,7 +4726,9 @@ Clapeau Jean-Baptiste, Cofondateur festival Les Docs de Noirmoutier
 Clémenceau Adrien, Artiste auteur
 Cohen Almog, Festival de cinéma
 Cohen Michaël, graphiste
+Collard Gérald, Technicien de maintenance
 Collette Jérôme, Narrative Designer
+Colou François, Graphiste, designer d&
 Cooper-Hadjian Olivia, critique de cinéma
 Coquille-Chambel Marie, Doctorante, intermittente du spectacle
 Costes Olivia, Technicienne
@@ -4009,7 +4751,9 @@ Delassis Nathalie, Artiste chorégraphique
 Deledicq Jeanne-sarah, Chanteuse
 Deleu Cécile, Ensemblière
 Delilez Manuel, Auteur/Adaptateur
+Delvigne Nathalie, Graphiste
 Derouard Ninon, responsable administrative et financière
+Deruisseau Bruno, Critique de cinéma
 Deschamps Nathalie, ensemblière
 Devos Zelie, Artiste plasticienne
 Di Bennardo Salvatore, humoriste-auteur
@@ -4019,11 +4763,13 @@ Dorville Romain, Assistant directeur
 Douarche Fanny, Documentariste
 Doury Simon, développeur
 Doze Matthieu, danseur
+Droeven Lily, Chercheuse, essayiste et critíque de cinéma
 Drot Nathan, Ensemblier
 Drouard Elodie, Responsable éditorial
 Drouin Maeva, D.I.T
 Dubois Yannis, documentaliste recherchiste
 Dugénie Céline, Artiste graphiste et illustratrice
+Dumeilleur Theo, employé de cinema
 Duponchel Marilou, journaliste
 Duprez Nicolas, responsable technique de cinéma
 Durance Karine, attachée de presse
@@ -4043,7 +4789,10 @@ Fernández Ferrer Nicole, archiviste audiovisuel
 Filho Eugénie, administratrice
 Filleul de Brohy Isabelle, Ensemblière
 Fivel Marc, Chef constructeur
+Flodrops Morgane, Graphiste
 Folens Chloé, traductrice
+Follmer Camille, Montage
+Fonck Nicolas, Designer
 Fontaine Gabin, critique cinéma
 Foucard Anne-Thaïse, responsable RSE
 Franbourg Juliette, Danseuse
@@ -4063,6 +4812,7 @@ Gauthier Fabienne, Artiste
 Gauthier Ghislain, SG CGT Spectacle
 Gavelle Francis, Critique de cinéma
 Gay Eurydice, Autrice
+Gelas Laureline, chorégraphe
 Gely Lucas, Juriste
 Georjin Laurent, Auteur
 Gerbelle Louise, chargée de diffusion
@@ -4070,12 +4820,15 @@ Ghazi Stéphanie, Assistante administratif
 Gillet Colombe, Ensemblière
 Ginot Pauline, déléguée générale
 Giraud Catherine, attachée de presse
+Giraud Nina, Assistante déco cinéma
 Girola Nina, Infographiste
 Gobin Gautier, enseignant
 Gomes de Almeida Natasha, Superviseure de la continuité
+Gonay Cléa, Directrice Technique
 Gourdin Sophie, artiste
 Grand Mahi, ensemblier
 Grassin Corentin, membre du collectif Sous les écrans la dèche
+Gréban Milo, Cinéma
 Gresard Victor, administrateur
 Grimault Florette, chargée de communication
 Gros Nathanaël, Critique cinéma
@@ -4088,6 +4841,7 @@ Guichard Juliette , architecte
 Guichard Manon, chargée de figuration
 Guiguer Lotte, Autrice
 Guilbaud Elise, Graphiste
+Guilbaud Séverine, Ensemblière
 Guirec Alex, Auteur
 Guthmann Léo, membre du collectif Sous les écrans la dèche
 Haëtty Cléo, responsable technique
@@ -4111,6 +4865,7 @@ Jammot Florence, Journaliste retraitée
 Janjic Victor, Vidéaste
 Jarret Alexis, Graphiste
 Jean Axelle, ventes internationales
+Jean Diane, Journaliste
 Jeangirard Louise, Chargée de mission en festival de cinéma
 Jeanjeau Sarah, journaliste
 Jeannet Christine, édition  
@@ -4134,9 +4889,11 @@ Koenig Frédéric, gérant  
 Konsler Clément, étudiant, assistant acquisition
 Kovacic Katia, documentariste
 Krgovic Tiago, artiste
+Kupperman Jessy, Ensemblière
 Lacarra Jean-Louis, Chef-constructeur
 Lacurie Occitane, critique
 Lafaye Louna, Serrurier
+Lafond Melodie, Dessinatrice
 Lagrange Aimée, Artiste chorégraphique
 Laraison Katya, membre du collectif Sous les écrans la dèche
 Larue Amandine, déléguée générale
@@ -4161,6 +4918,7 @@ Leroyer Théo, chargé des activités éducatives
 Le Saux Mickaël, directeur associatif
 Lesny Magali, flûtiste
 Lestage Diane, journaliste
+Levacher alias Slem Stéphane, Artiste auteur
 Levacher Stéphane Slem, Artiste auteur
 Levy Alain, Post-synchronisation
 Liébard Xavier, Documentariste
@@ -4172,6 +4930,7 @@ Loiret Emma, Travailleuse de festivals de cinéma
 Lorenzi Chloé, attachée de presse
 Louboutin François, Directeur centres culturels
 Lucas Samuel, adjoint en communication
+Lumbi Marie, Graphiste
 Luques Estelle, responsable administrative et financière
 Lyon-Caen Gilles, attaché de presse
 Maggio Luna, community manager
@@ -4198,6 +4957,7 @@ Maurette Annie, attachée de presse
 Mayeur Christian, Artiste auteur
 Melaragni Margaux, Historienne du cinéma
 Ménager Camille, documentariste
+Mercier Aude, Graphiste
 Meyer Cindy, Trafic manager
 Mfaddel Soumia, Coordinateur
 Michon Victor, responsable technique  
@@ -4205,6 +4965,7 @@ Mignot Elodie, danseuse
 Miranda das Neves Robin, membre du collectif Sous les écrans la dèche
 Mis Marina, Chargée de développement éditorial
 Moglioa Cédric , technicien du spectacle
+Moissonnier Laurent, salarié d’une école de cinéma
 Mongour Marion, coordinatrice
 Monin Alice, chargée de projet
 Montet Pierre, documentaliste audiovisuel
@@ -4224,6 +4985,7 @@ Oger Irène, Chargée de communication
 Ollé Emmanuelle, Ensemblière
 Outin Adèle, 2eme assistante MES
 Pain Céline, Directrice du festival Hors Cadres
+Pain Jean-Baptiste, Assistant technique (service informatique)
 Paquelier Armand, Modeliste
 Paquin Cesar, Médiateur Cinéma
 Parai Marjolaine, Assistante ensemblière
@@ -4238,6 +5000,8 @@ Perrin Vladimir, artiste
 Petisoff Nicolas, Artiste dramatique / auteur
 Petit Matthieu, Graphiste
 Pierre dit Lemarquand Maud, médiatrice culturelle
+Pigeron-Fargeau, Hugo Etudiant
+Pilorge Jules, Journaliste
 Piras Silvia, Bénévole festival documentaire
 Plumecocq Dominique, président d&
 Poënces Saoirse, administratrice
@@ -4260,14 +5024,17 @@ Reiffers Pauline, secrétaire générale
 Renaudeau Mily, chargée de communication
 Reot Amaury, Artiste chorégraphe
 Ribaut Onenn, 3eme assistante vidéo
+Richier Pascal, Figurant
 Rieunier Loïc, délégué général
 Ringoot Pauline, Graphiste
 Rio Nicolas, Graphiste
 Ripoll Mahé, artiste
 Rivière Arthur, stagiaire exploitation
+Robert Emma, Chorégraphe
 Robles Amanda, enseignante à l&
 Rocabert Louise, Co-déléguée générale du SPIAC-CGT
 Rochdi Sifaoui Mohamed, directeur général chez Tënk
+Roche Céline, Festival
 Rocher Mona, artiste
 Rodrigues Lola, salariée de festivals de cinéma
 Rolland Quentin, créateur de contenu cinéma
@@ -4284,12 +5051,14 @@ Salvignol Claire, Coordinatrice d&
 Samour Nadège, exploitation cinématographique
 Santander Corvalan Marcela, artiste chorégraphique
 Sanz Camille, déléguée générale de festival
+Sapin Yacine, Directeur de programmes IT
 Saubole Mathilde, coach d’acteur, coordinatrice d’intimité
 Savdié Joël, Artiste auteur
 Schaeffer Marion, Architecte
 Scherer Raphaël, Administrateur
 Schnitzler Pauline, Architecte
 Schramm Elisa, Autrice
+Sébillet Clémentine, Graphiste
 Segard Xiral, journaliste
 Sénécal Pierre, chargé d’activité éducative
 Sénéchal Yasmine, agent de cinéma
@@ -4336,13 +5105,14 @@ Van Der Gucht Flora, salariée de festivals de cinéma
 Vaxelaire Hugo, Auteur
 Veille Alexis, Affichiste de cinéma
 Venissac Clara, ouvreuse
-Villa Vieille Pascal, ancien journaliste et attaché de presse cinéma
 Viretto Lea, artiste auteure
 Viroulaud Claire, attachée de presse
 Voisin Ann-Lise, Artiste
 Walle Sophie, chargée de diffusion et communication
+Wartel Nathalie, ensemblière
 Wessel Carole, Graphiste
 Willem Jacob, Constructeur
+Wood Anouchka, Ensemblière
 Woshe Thomas, Graffiti Writer
 Yaacoub Sarah, Critique de cinéma
 Yann Nathan, danseur
