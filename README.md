@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 22:07:17
+Dernière mis à jour : 2026-05-26 22:37:25
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,11 +11,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4228**|**+577**|**+350**|**+0**|
+|**Tous les signataires**|**4224**|**+577**|**+350**|**+0**|
 |Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+63](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+4](#casting)|||
-|Décor|[289](#décor-1)|[+52](#décor)|||
+|Décor|[287](#décor-1)|[+52](#décor)|||
 |Distribution|[24](#distribution-1)|[+1](#distribution)|||
 |Électricien.ne|[150](#Électricienne-1)|[+26](#Électricienne)|||
 |Exploitation|[216](#exploitation-1)|[+14](#exploitation)|||
@@ -24,10 +24,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
 |Post production|[299](#post-production-1)|[+44](#post-production)|||
 |Production|[314](#production-1)|[+32](#production)|||
-|Réalisation|[1052](#réalisation-1)|[+135](#réalisation)|||
+|Réalisation|[1051](#réalisation-1)|[+135](#réalisation)|||
 |Régie|[154](#régie-1)|[+27](#régie)|||
 |Scénariste|[210](#scénariste-1)|[+31](#scénariste)|||
-|Son|[325](#son-1)|[+51](#son)|||
+|Son|[324](#son-1)|[+51](#son)|||
 |Autres|[531](#autres-1)|[+74](#autres)|||
 
 ## Derniers signataires 
@@ -1494,7 +1494,6 @@ Journo Norbert, Chef décorateur
 Jullien Corinne, peintre déco
 Kubler Morgane, Accessoiriste plateau
 Laading Camille, Décoratrice
-Lacoue-Labarthe Izaac, chef décorateur
 Lamy Camille, Assistante accessoiriste
 Lancian Frederic, Rippeur
 Langelin Clément, menuisier, traceur de décors
@@ -1553,7 +1552,6 @@ Pezet Camille, assistante décoratrice
 Phojo Alakija, Rippeur cinéma
 Phojo Fémi, Peintre
 Phojo Soukaïna, Première Assistante Décoratrice
-Piffaut Thomas, accessoiriste de plateau
 Pinard Marion 2nd assistante décorateur, graphiste
 Pineau Afonso Christophe, Repéreur de décors
 Pinguet Anne, Cheffe peintre
@@ -3927,7 +3925,6 @@ Maïga Aïssa, réalisatrice
 Mainçon frédéric, réalisateur
 Mak Anaïs, réalisatrice et graphiste générique
 Malandrone Gaëlle, réalisation  
-Mallégol Sarah, réalisatrice
 Mallégol Sarah, réalisatrice  
 Malle Justine, cinéaste
 Malta Chiara, réalisatrice
@@ -4963,7 +4960,6 @@ Peignier Martin, 1er assistant Son
 Peixoto Lucie, preneuse de son
 Pelletier Olivier, preneur de son
 Péquignot Gilles, musicien
-Peron Marco, ingenieur du son
 Peron Marco, Ingénieur du son
 Perret Renaud, ingénieur du son
 Perrier Geoffrey, Monteur Son
