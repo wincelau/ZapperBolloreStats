@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 13:35:10
+Dernière mis à jour : 2026-05-26 14:35:25
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4220**|**+463**|**+350**|**+0**|
-|Acteur.ice, Comédien.ne|[443](#acteurice-comédienne-1)|[+51](#acteurice-comédienne)|||
+|**Tous les signataires**|**4225**|**+525**|**+350**|**+0**|
+|Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+61](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+2](#casting)|||
-|Décor|[289](#décor-1)|[+43](#décor)|||
+|Décor|[289](#décor-1)|[+47](#décor)|||
 |Distribution|[24](#distribution-1)|[+1](#distribution)|||
-|Électricien.ne|[148](#Électricienne-1)|[+18](#Électricienne)|||
-|Exploitation|[216](#exploitation-1)|[+10](#exploitation)|||
-|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+20](#habillage-maquillage-coiffure)|||
-|Image|[389](#image-1)|[+47](#image)|||
-|Machiniste|[79](#machiniste-1)|[+6](#machiniste)|||
-|Post production|[298](#post-production-1)|[+34](#post-production)|||
-|Production|[314](#production-1)|[+22](#production)|||
-|Réalisation|[1055](#réalisation-1)|[+114](#réalisation)|||
+|Électricien.ne|[148](#Électricienne-1)|[+22](#Électricienne)|||
+|Exploitation|[217](#exploitation-1)|[+13](#exploitation)|||
+|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+22](#habillage-maquillage-coiffure)|||
+|Image|[389](#image-1)|[+55](#image)|||
+|Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
+|Post production|[300](#post-production-1)|[+40](#post-production)|||
+|Production|[315](#production-1)|[+31](#production)|||
+|Réalisation|[1054](#réalisation-1)|[+126](#réalisation)|||
 |Régie|[154](#régie-1)|[+23](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+27](#scénariste)|||
-|Son|[321](#son-1)|[+33](#son)|||
-|Autres|[531](#autres-1)|[+64](#autres)|||
+|Scénariste|[211](#scénariste-1)|[+30](#scénariste)|||
+|Son|[322](#son-1)|[+39](#son)|||
+|Autres|[529](#autres-1)|[+66](#autres)|||
 
 ## Derniers signataires 
 
-463 nouveau(x) signataire(s) aujourd'hui
+525 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-51 nouveau(x) signataire(s) aujourd'hui
+61 nouveau(x) signataire(s) aujourd'hui
 
 + Aiffe Ceccaldi Vanessa, comédienne
 + Argée Juliette, comédienne
@@ -68,6 +68,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bossard-Giannesini Adèle, comédienne
 + Bouchard Raphaèle, comédienne
 + Boulanger Armande, actrice
++ Bounioux Célia, comédienne
++ Bourquin Viviane, comédienne et chanteuse
++ Bourquin Zelda, dramaturge, comédienne et metteure en scène
++ Bouteraa Eya, actrice
++ Bozzelli Aurélie, comédienne
++ Bresson Florent, acteur
++ Breurec Ana, actrice
++ Brisson William, acteur &amp; violoniste; violoniste
++ Broche Olivier, comédien
++ Brücher Nathalie, comédienne
 + Charton Hervé, comédien
 + Comte Anne, Comédienne
 + Delwit Étienne, Comédien
@@ -115,7 +125,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-43 nouveau(x) signataire(s) aujourd'hui
+47 nouveau(x) signataire(s) aujourd'hui
 
 + Agorria Sim, menuisier
 + Alek Anouchka, peintre
@@ -151,6 +161,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bossut Sylvain, sculpteur décorateur
 + Bosvieux Lisa, assistante déco
 + Bouillod Laure, accessoiriste
++ Bouteleux Jules, ripeur
++ Brémont Marine, assistante ensemblière, 2e assistante déco
++ Brision Estelle, accessoiriste de cinéma
++ Brisset Nicolas, décorateur
 + Claveries Cécile, Peintre
 + Dury Yann, Décorateur cinéma
 + Grandin Tali, Peintre
@@ -173,7 +187,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-18 nouveau(x) signataire(s) aujourd'hui
+22 nouveau(x) signataire(s) aujourd'hui
 
 + Ader Guillaume, chef électricien
 + Aguenier Ciaran, électricien éclairagiste
@@ -192,13 +206,17 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bouhon Noël Chloé,  électricienne
 + Bouladjat Loic, chef électricien
 + Boulangée Teddy, électricien
++ Bour Antoine, électricien
++ Branquet Nino, électricien
++ Bretagne Benoit, chef électricien
++ Brossard Hugo, chef électricien
 + Eudeline Hubert, Électricien de prise de vue cinema
 ```
 
 ### Exploitation
 
 ```diff
-10 nouveau(x) signataire(s) aujourd'hui
+13 nouveau(x) signataire(s) aujourd'hui
 
 + Aubin Franck, projectionniste
 + Batlle Lou, assistant de programmation
@@ -206,6 +224,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bocobza Reuben, réalisateur, scénariste et projectionniste
 + Bonato Stephen, programmateur cinéma
 + Bouffier Frédéric, projectionniste
++ Bouvard Mathieu, directeur de cinéma
++ Breta Jeremy, exploitant
++ Briot Laurence, programmatrice cinéma
 + Calfond Sarah, Programmatrice
 + Girard Camille, programmateur
 + Neefs Arne, Projectionniste
@@ -215,7 +236,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Habillage, maquillage, coiffure
 
 ```diff
-20 nouveau(x) signataire(s) aujourd'hui
+22 nouveau(x) signataire(s) aujourd'hui
 
 + Allegatiere Sophie, cheffe maquilleuse
 + Aloui Lilou, habilleuse cinéma
@@ -229,6 +250,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Blaudeau Valentin, costumier
 + Boccia Elora, maquilleuse
 + Bottier Clément, chef costumier
++ Braun Malka, maquilleuse
++ Brossard Ghénaelle, costumière
 + Crétault Odile, Costumière
 + Diehl Natacha, Costumière
 + Gaillard Elodie, Costumière
@@ -242,7 +265,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Image
 
 ```diff
-47 nouveau(x) signataire(s) aujourd'hui
+55 nouveau(x) signataire(s) aujourd'hui
 
 + Aeschimann Noémi, 2e assistante caméra
 + Aguenier Ciaran, électricien éclairagiste
@@ -282,6 +305,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Boonjing Olivier, chef opérateur
 + Borel Julien, assistant caméra et chef opérateur
 + Bortolotti Raphaël, assistant opérateur.ice
++ Boulic Nicolas, assistant caméra
++ Bousseau Maïa, assistante caméra
++ Braillon Fiona, directrice de la photographie
++ Brault Guillaume, directeur de la photographie
++ Braun Noé, assistant caméra
++ Brezot Léo, assistant caméra
++ Brouillard Erwan, chef opérateur du son
++ Brousse Juliana, opératrice et réalisatrice
 + Cajou Joshua, Assistant caméra
 + Dujardin Fanny, 1ere assistante operateur.ice
 + Fausset Sasha, Assistante caméra
@@ -296,12 +327,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Machiniste
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 
 + Amouroux Yoan, chef machiniste
 + Ben Sadia Hugo, machiniste de construction
 + Blanchard Agathe, machiniste de prise de vue
 + Bougès Rémi, chef machiniste
++ Brémond Rémi, machiniste
 + Girard Llorca Noé Machiniste, réalisateur de documentaires
 + Sommermeyer Nicolas, Chef machiniste
 ```
@@ -309,7 +341,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-34 nouveau(x) signataire(s) aujourd'hui
+40 nouveau(x) signataire(s) aujourd'hui
 
 + Abeillon Eve, monteuse
 + Ackermann Mahee, monteuse
@@ -339,6 +371,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bonnet Quentin, monteur
 + Bot Catherine, chef monteuse
 + Bouisset Doriane, monteuse et réalisatrice  
++ Bourrel Franck, monteur et étalonneur
++ Boyé Amélie, monteuse
++ Braux Mélanie, monteuse
++ Brenot Bastien, superviseur VFX
++ Broussegoutte Ivan, monteur son
++ Bruckert Agnès, monteuse
 + Conti Doriane, monteuse
 + Decelle Louise, cheffe monteuse
 + Joubrel Valentin, Réalisateur monteur
@@ -350,7 +388,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Production
 
 ```diff
-22 nouveau(x) signataire(s) aujourd'hui
+31 nouveau(x) signataire(s) aujourd'hui
 
 + Aduaka Newton, scénariste, réalisateur et producteur
 + Aït-Sidhoum Naïm, producteur
@@ -372,6 +410,15 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bonnet Jean-Baptiste, producteur
 + Bouanich Yael, assistante de production
 + Boué Valérianne, productrice
++ Bourgeois Albin, producteur
++ Boutault-Caradec Elsa, directrice de production
++ Boyé Adèle, coordinatrice d’éco-production
++ Boyer Victor, réalisateur et producteur
++ Brame Orane, chargée de production
++ Breal Chris, production
++ Brevet Philibert Estelle, administratrice de production
++ Broudic Maïa, assistante de production et scénariste
++ Broutin Johan, producteur exécutif
 + Just Quentin, producteur
 + Lemaire Etienne, Assistant de production
 ```
@@ -379,7 +426,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-114 nouveau(x) signataire(s) aujourd'hui
+126 nouveau(x) signataire(s) aujourd'hui
 
 + Abadia Régine, réalisatrice
 + Abbey Clément, réalisateur
@@ -462,6 +509,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bories Claudine, cinéaste
 + Boudot Hector, réalisateur
 + Bouisset Doriane, monteuse et réalisatrice  
++ Boulanger Nathalie, 1e assistante réalisateur
++ Bourachot Corentin, assistant réalisateur
++ Bourdon Éli, réalisateur et scénariste
++ Bourquin Zelda, dramaturge, comédienne et metteure en scène
++ Bouteiller Sophie, scripte
++ Bouthors Benoit, réalisateur
++ Boyer Angèle, apprentie réalisatrice et technicienne
++ Boyer Victor, réalisateur et producteur
++ Brésard Thomas, réalisateur
++ Bretaudeau Alice, scripte
++ Broch Mathieu, réalisateur
++ Brousse Juliana, opératrice et réalisatrice
 + Chevallier Benjamin, Réalisateur
 + Corno Anaïs, scripte
 + Delafosse Jeanne, réalisatrice
@@ -530,7 +589,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Scénariste
 
 ```diff
-27 nouveau(x) signataire(s) aujourd'hui
+30 nouveau(x) signataire(s) aujourd'hui
 
 + Aduaka Newton, scénariste, réalisateur et producteur
 + Allard Alice, assistante mise en scène
@@ -553,6 +612,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Blanc Isabelle, scénariste et réalisatrice
 + Bocobza Reuben, réalisateur, scénariste et projectionniste
 + Bos Samuel, scénariste
++ Bourdon Éli, réalisateur et scénariste
++ Bourquin Zelda, dramaturge, comédienne et metteure en scène
++ Broudic Maïa, assistante de production et scénariste
 + Creseveur Christian, Scénariste
 + Grelow Remi, Scénariste - réalisateur
 + Guillet Marceau, Scénariste
@@ -564,7 +626,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Son
 
 ```diff
-33 nouveau(x) signataire(s) aujourd'hui
+39 nouveau(x) signataire(s) aujourd'hui
 
 + Aïchoun Samuel, mixeur son
 + Albert Elisha, perchwoman
@@ -594,6 +656,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Boni Raymond, musicien et compositeur
 + Bonnefoy Loryne, 1e assistante son
 + Boublil Boris, compositeur et musicien
++ Bourdon Lucie, ingénieure du son
++ Bourget Augustin, assistant son
++ Bricard Pascal, ingénieur du son
++ Brisa Laure, musicienne
++ Brouillard Erwan, chef opérateur du son
++ Broussegoutte Ivan, monteur son
 + Eymeric Xavier, Compositeur
 + Gastinelli Vincent, Compositing Artist
 + Lebourg Aurélien, ingénieur du son
@@ -604,7 +672,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-64 nouveau(x) signataire(s) aujourd'hui
+66 nouveau(x) signataire(s) aujourd'hui
 
 + Achat Estelle, journaliste cinéma
 + Adam Luc, attaché de presse
@@ -615,7 +683,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Alethia, artiste
 + Alix Sophie, directrice de la communication
 + Allibert Pauline, coordinatrice d&
-+ Alves Karine, infirmière
 + Andrieux Maéva, ccripte
 + Arriaga Karine, adjointe culture
 + Arrivé Guezengar Clémence, sélectionneuse en festival
@@ -633,7 +700,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bécue Florine, chargée de projets culturels européens
 + Bédier Lerays Gaëlle, critique et intervenante cinéma
 + Bérard Emmanuelle, juriste
-+ Berger Séverine, attachée de presse musique
 + Bertocchi Davide, artiste
 + Bertron, sculpteur
 + Bescond Matthieu, journaliste
@@ -652,7 +718,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Bonnot Jules, plasticien
 + Borca Cécile, artiste
 + Boschet Raphaël, technicien
-+ Bourdeau François, Responsable Financier
++ Boulenouar Philippe, chef constructeur
++ Bouquet Léa, coordinatrice cinéma
++ Bourdeau François, responsable Financier
++ Brauman Sacha, documentariste
++ Brochu Samantha, dessinatrice
 + Combastel François, Chef constructeur
 + Daily Romane, Influenceuse ciné/attachée de presse
 + De Benedittis Axelle, Coordinatrice de projet
@@ -729,19 +799,21 @@ Botte Sophie, comédienne
 Bouchard Raphaèle, comédienne
 Boucif Younes, comédien
 Boulanger Armande, actrice
-Bounioux Célia, Comédienne
-Bourquin Viviane, Comédienne Chanteuse
-Bourquin Zelda, Dramaturge, comédienne et metteure en scène
-Bouteraa Eya, Actrice
-Bozzelli Aurélie, Comédienne
+Bounioux Célia, comédienne
+Bourquin Viviane, comédienne et chanteuse
+Bourquin Zelda, dramaturge, comédienne et metteure en scène
+Bouteraa Eya, actrice
+Bozzelli Aurélie, comédienne
 Brakni Rachida, comédienne
 Brenichot Nicolas, comédien
 Bressiant Hélène, actrice
-Breurec Ana, Actrice
+Bresson Florent, acteur
+Breurec Ana, actrice
 Brisavoine Emilie, actrice, autrice et réalisatrice
-Brisson William, Acteur &amp; Violoniste
-Broche Olivier, Comédien
+Brisson William, acteur &amp; violoniste
+Broche Olivier, comédien
 Broussous Delphine, actrice
+Brücher Nathalie, comédienne
 Brunnquell Céleste, actrice
 Caillaud Simon, Comédien
 Calamy Laure, actrice
@@ -1248,11 +1320,11 @@ Bouchon Raphaël, décorateur
 Bouillod Laure, accessoiriste
 Boulous Virginie, artiste peintre
 Bource Camille, peintre de décor
-Bouteleux Jules, Ripeur
-Brémont Marine, Assistante Ensemblière, 2nde assistante déco
-Brision Estelle, Accessoiriste de cinéma
+Bouteleux Jules, ripeur
+Brémont Marine, assistante ensemblière, 2e assistante déco
+Brision Estelle, accessoiriste de cinéma
 Brison Lionel, décorateur
-Brisset Nicolas, Décorateur
+Brisset Nicolas, décorateur
 Camus Sophie, Régisseuse accessoires
 Canat Emmanuel, Ripper
 Caperna Hélène, Cheffe peintre
@@ -1551,10 +1623,10 @@ Bouhier Hugo, électricien de prise de vue
 Bouhon Noël Chloé,  électricienne
 Bouladjat Loic, chef électricien
 Boulangée Teddy, électricien
-Bour Antoine, Électricien
-Branquet Nino, Électricien
-Bretagne Benoit, Chef électricien
-Brossard Hugo, Chef électricien
+Bour Antoine, électricien
+Branquet Nino, électricien
+Bretagne Benoit, chef électricien
+Brossard Hugo, chef électricien
 Brumpter Nathan, Électricien
 Cadot Nicolas, électricien
 Caillat-Grenier Flore, Électricienne
@@ -1708,9 +1780,10 @@ Bouffier Frédéric, projectionniste
 Bourdon Laurent, bénévole projectionniste
 Bournerias Victor, programmateur
 Bouteboul Frédéric, projectionniste
-Bouvard Mathieu, Directeur de cinéma
+Bouvard Mathieu, directeur de cinéma
 Bracq Thibaut, programmateur
-Briot Laurence, Programmatrice cinéma
+Breta Jeremy, exploitant
+Briot Laurence, programmatrice cinéma
 Buscail Sylvie, exploitante
 Cadoux Cécile, programmatrice
 Calfond Sarah, Programmatrice
@@ -1921,9 +1994,9 @@ Blaudeau Valentin, costumier
 Blot Anne-Capucine, habilleuse
 Boccia Elora, maquilleuse
 Bottier Clément, chef costumier
-Braun Malka, Maquilleuse
+Braun Malka, maquilleuse
 Brizard Jane, cheffe coiffeuse cinéma
-Brossard Ghénaelle, Costumière
+Brossard Ghénaelle, costumière
 Caravati Marilou, Costumière
 Charchaude Laurent, Regisseur costume
 Chemtov Bastien, Régisseur costume
@@ -2085,16 +2158,16 @@ Boonjing Olivier, chef opérateur
 Borel Julien, assistant caméra et chef opérateur
 Bortolotti Raphaël, assistant opérateur.ice
 Bouillleret Dominique, Directeur de la Photographie
-Boulic Nicolas, Assistant caméra
+Boulic Nicolas, assistant caméra
 Boulis Valence Clara, régisseuse lumière
-Bousseau Maïa, Assistante caméra
+Bousseau Maïa, assistante caméra
 Bracquemont Lucie, première assistante OPV
-Braillon Fiona, Directrice de la photographie
-Brault Guillaume, Directeur de la Photographie
-Braun Noé, Assistant caméra
-Brezot Léo, Assistant caméra
-Brouillard Erwan, Chef opérateur du son
-Brousse Juliana, Opératrice - réalisatrice
+Braillon Fiona, directrice de la photographie
+Brault Guillaume, directeur de la photographie
+Braun Noé, assistant caméra
+Brezot Léo, assistant caméra
+Brouillard Erwan, chef opérateur du son
+Brousse Juliana, opératrice et réalisatrice
 Brunet Laure, Assistante caméra
 Buchmann Sébastien, chef opérateur image
 Burgess Ned, Chef opérateur
@@ -2434,6 +2507,7 @@ Amouroux Yoan, chef machiniste
 Ben Sadia Hugo, machiniste de construction
 Blanchard Agathe, machiniste de prise de vue
 Bougès Rémi, chef machiniste
+Brémond Rémi, machiniste
 Broyer Edwin, chef machiniste
 Cantier Clément, machiniste de prise de vue
 Chaudagne Benjamin, Machiniste
@@ -2560,10 +2634,12 @@ Bottois Marie, réalisatrice et monteuse
 Bouchateau Guillaume, chef monteur son
 Boudat Charlie, Assistant monteur
 Bouisset Doriane, monteuse et réalisatrice  
-Bourrel Franck, Monteur Etalonneur
-Boyé Amélie, Monteuse
-Brenot Bastien, Superviseur VFX
-Broussegoutte Ivan, Monteur son
+Bourrel Franck, monteur et étalonneur
+Boyé Amélie, monteuse
+Braux Mélanie, monteuse
+Brenot Bastien, superviseur VFX
+Broussegoutte Ivan, monteur son
+Bruckert Agnès, monteuse
 Brux Lucie, Monteuse
 Bultel Margot, Monteuse son
 Buré Jean-Denis, monteur
@@ -2866,16 +2942,17 @@ Bouanich Yael, assistante de production
 Bouchareb Malya, directrice de production
 Boué Valérianne, productrice
 Bouillin-Pacheco Gwladys, coordination d’éco-production
-Bourgeois Albin, Producteur
-Boutault-Caradec, Elsa Directrice de production
+Bourgeois Albin, producteur
+Boutault-Caradec Elsa, directrice de production
 Bouzom Annabelle, productrice
-Boyé Adèle, Coordinatrice d eco-production
-Boyer Victor, Réalisateur, producteur
-Brame Orane, Chargée de production
-Breal Chris, Production
-Brevet Philibert Estelle, Administratrice de production
+Boyé Adèle, coordinatrice d’éco-production
+Boyer Victor, réalisateur et producteur
+Brame Orane, chargée de production
+Breal Chris, production
+Brevet Philibert Estelle, administratrice de production
 Briand Gomez Jérôme, directeur de production
-Broudic Maïa, Assistante de production / Scénariste
+Broudic Maïa, assistante de production et scénariste
+Broutin Johan, producteur exécutif
 Brunswic Louise, Coordinatrice de production
 Buraux Françoise, directrice de production
 Cabut-Péré Damien, producteur
@@ -3275,32 +3352,31 @@ Boudot Hector, réalisateur
 Bougy Hélène, réalisatrice
 Bouhélier Laetitia, réalisateur·ice
 Bouisset Doriane, monteuse et réalisatrice  
-Boulanger Nathalie, 1 ère assistante réalisateur
-Bourachot Corentin, Assistant réalisateur
-Bourdon Éli, réalisateur, scénariste
+Boulanger Nathalie, 1e assistante réalisateur
+Bourachot Corentin, assistant réalisateur
+Bourdon Éli, réalisateur et scénariste
 Bourgon Jeanne, réalisatrice documentaire
-Bourquin Zelda, Dramaturge, comédienne et metteure en scène
+Bourquin Zelda, dramaturge, comédienne et metteure en scène
 Bousquet Hugo, réalisateur
-Bousquet Hugo, Réalisateur
-Bouteiller Sophie, Scripte
+Bouteiller Sophie, scripte
 Boutet Antoine, réalisateur
-Bouthors Benoit, Réalisteur
+Bouthors Benoit, réalisateur
 Bouzgarrou Diane Sara, réalisatrice
-Boyer Angèle, apprentie réalisatrice/technicienne
-Boyer Victor, Réalisateur, producteur
-Brésard Thomas, Réalisateur
+Boyer Angèle, apprentie réalisatrice et technicienne
+Boyer Victor, réalisateur et producteur
+Brésard Thomas, réalisateur
 Bressi Marianne, réalisatrice
 Brêtas Marie-Pierre, réalisatrice
-Bretaudeau, Alice Scripte
+Bretaudeau Alice, scripte
 Breton Pascale, réalisatrice
 Briere Bordier Margo, réalisatrice
 Briet Chantal, réalisatrice
 Brincard Marie-Violaine, réalisatrice
 Brining Anthony, réalisateur
 Brisavoine Emilie, actrice, autrice et réalisatrice
-Broch Mathieu, Réalisateur
+Broch Mathieu, réalisateur
 Brody Cyril, réalisateur et scénariste
-Brousse Juliana, Opératrice - réalisatrice
+Brousse Juliana, opératrice et réalisatrice
 Brügger Mégane, Réalisatrice
 Brun Dorine, réalisatrice
 Brunet Léo, Réalisateur
@@ -4391,10 +4467,10 @@ Blanc Isabelle, scénariste et réalisatrice
 Bocobza Reuben, réalisateur, scénariste et projectionniste
 Bos Samuel, scénariste
 Bourcy Thierry, scénariste
-Bourdon Éli, réalisateur, scénariste
-Bourquin Zelda, Dramaturge, comédienne et metteure en scène
+Bourdon Éli, réalisateur et scénariste
+Bourquin Zelda, dramaturge, comédienne et metteure en scène
 Brody Cyril, réalisateur et scénariste
-Broudic Maïa, Assistante de production / Scénariste
+Broudic Maïa, assistante de production et scénariste
 Brouillet Anne, scénariste
 Calame Timothée, Scénariste, cinéaste, photographe
 Cardot Floriane, Réalisatrice, scénariste, photographe
@@ -4625,12 +4701,13 @@ Boublil Boris, compositeur et musicien
 Bouchateau Guillaume, chef monteur son
 Bouchez Vincent, musicien
 Bourdain Antoine, ingénieur du son
-Bourdon Lucie, Ingénieure du son
-Bourget Augustin, Assistant son
+Bourdon Lucie, ingénieure du son
+Bourget Augustin, assistant son
 Bourgin Kevin, premier assistant son
-Brisa Laure, Musicienne
-Brouillard Erwan, Chef opérateur du son
-Broussegoutte Ivan, Monteur son
+Bricard Pascal, ingénieur du son
+Brisa Laure, musicienne
+Brouillard Erwan, chef opérateur du son
+Broussegoutte Ivan, monteur son
 Brunhes Jean baptiste, ingénieur du son
 Buhl Fred, régisseur son
 Buirette Hervé, Mixeur
@@ -4924,7 +5001,6 @@ Alix Sophie, directrice de la communication
 Alizée Romy, artiste
 Allibert Pauline, coordinatrice d&
 Allouche Claire, enseignante-chercheuse et critique
-Alves Karine, infirmière
 Andalian Kaloust, enseignant cinéma
 Andriani Viviana, Attachée de presse
 Andrieux Maéva, ccripte
@@ -4952,7 +5028,6 @@ Bécue Florine, chargée de projets culturels européens
 Bédier Lerays Gaëlle, critique et intervenante cinéma
 Benzazon Noa, styliste
 Bérard Emmanuelle, juriste
-Berger Séverine, attachée de presse musique
 Bernard Antoine, coordinateur d’un réseau de salles
 Berthelot Margaux, salariée de festivals de cinéma
 Bertocchi Davide, artiste
@@ -4984,13 +5059,13 @@ Bories Benoit, artiste sonore
 Borne Cécile, artiste
 Boschet Raphaël, technicien
 Boulanger Louann, assistante de développement
-Boulenouar Philippe, Chef constructeur
-Bouquet Léa, Coordinatrice cinéma
-Bourdeau François, Responsable Financier
+Boulenouar Philippe, chef constructeur
+Bouquet Léa, coordinatrice cinéma
+Bourdeau François, responsable Financier
 Bourgeois Nicolas, chef d&
-Brauman Sacha, Documentariste
+Brauman Sacha, documentariste
 Bredontiot Julien, directeur de création
-Brochu Samantha, Dessinatrice
+Brochu Samantha, dessinatrice
 Brunel Camille, Auteur
 Bucher Quentin, Chargé de projets audiovisuels
 Bui Camille, chercheuse et critique de cinéma
