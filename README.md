@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 14:12:42
+Dernière mis à jour : 2026-05-27 15:13:00
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,28 +11,28 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4267**|**+444**|**+576**|**+350**|
+|**Tous les signataires**|**4267**|**+449**|**+576**|**+350**|
 |Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+50](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+5](#animation)|||
 |Casting|[38](#casting-1)|[+5](#casting)|||
-|Décor|[288](#décor-1)|[+37](#décor)|||
+|Décor|[288](#décor-1)|[+38](#décor)|||
 |Distribution|[24](#distribution-1)|[+3](#distribution)|||
 |Électricien.ne|[151](#Électricienne-1)|[+9](#Électricienne)|||
 |Exploitation|[220](#exploitation-1)|[+18](#exploitation)|||
 |Habillage, maquillage, coiffure|[122](#habillage-maquillage-coiffure-1)|[+19](#habillage-maquillage-coiffure)|||
 |Image|[395](#image-1)|[+53](#image)|||
 |Machiniste|[80](#machiniste-1)|[+11](#machiniste)|||
-|Post production|[299](#post-production-1)|[+24](#post-production)|||
-|Production|[318](#production-1)|[+30](#production)|||
+|Post production|[299](#post-production-1)|[+25](#post-production)|||
+|Production|[318](#production-1)|[+31](#production)|||
 |Réalisation|[1060](#réalisation-1)|[+95](#réalisation)|||
 |Régie|[159](#régie-1)|[+23](#régie)|||
 |Scénariste|[211](#scénariste-1)|[+25](#scénariste)|||
-|Son|[325](#son-1)|[+34](#son)|||
-|Autres|[534](#autres-1)|[+57](#autres)|||
+|Son|[325](#son-1)|[+36](#son)|||
+|Autres|[534](#autres-1)|[+58](#autres)|||
 
 ## Derniers signataires 
 
-444 nouveau(x) signataire(s) aujourd'hui
+449 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -118,7 +118,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-37 nouveau(x) signataire(s) aujourd'hui
+38 nouveau(x) signataire(s) aujourd'hui
 
 + Caperna Hélène, cheffe peintre
 + Castelain Julie, accessoiriste plateau
@@ -157,6 +157,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + D’ovidio Catherine, cheffe décoratrice
 + Drouhot Vincent, peintre décorateur
 + Ducos Thomas, chef décorateur
++ Dufour Néhémie, décorateur
 ```
 
 ### Distribution
@@ -317,7 +318,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-24 nouveau(x) signataire(s) aujourd'hui
+25 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carteret Marie-Pomme, monteuse
@@ -343,12 +344,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Destrez Zoe, assistante-monteuse
 + Detournay Caroline, monteuse
 + Donnet Antoine, monteur
++ Dufreche Laurent, monteur et post-producteur
 ```
 
 ### Production
 
 ```diff
-30 nouveau(x) signataire(s) aujourd'hui
+31 nouveau(x) signataire(s) aujourd'hui
 
 + Arnaud Dommerc, producteur et distributeur
 + Carré Jean-Michel, auteur, réalisateur et producteur
@@ -380,6 +382,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Djivas Philippe, producteur
 + Doroszlai Edmée, productrice, autrice et réalisatrice
 + Dufour Eric, producteur de documentaires
++ Dufreche Laurent, monteur et post-producteur
 ```
 
 ### Réalisation
@@ -549,7 +552,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Son
 
 ```diff
-34 nouveau(x) signataire(s) aujourd'hui
+36 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carron César, perchman
@@ -584,13 +587,15 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Donati Victor, mixeur
 + Ducourau Anne, chef opératrice son
 + Dufait Thibaut, technicien son
++ Dufour Renaud, ingénieur du son
++ Duguet Robin, préparateur son
 + Esposito Julien, ingénieur du son
 ```
 
 ### Autres
 
 ```diff
-57 nouveau(x) signataire(s) aujourd'hui
+58 nouveau(x) signataire(s) aujourd'hui
 
 + Carpentier Muriel, traductrice interprète
 + Carretero Alexandre, agent polyvalent de cinéma
@@ -649,6 +654,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Droeven Lily, chercheuse, essayiste et critíque de cinéma
 + Drot Nathan, ensemblier
 + Drouard Elodie, responsable éditorial
++ Dugénie Céline, artiste graphiste et illustratrice
 ```
 
 
@@ -1293,7 +1299,7 @@ D’ovidio Catherine, cheffe décoratrice
 Drouhot Vincent, peintre décorateur
 du Bot Louis, rippeur
 Ducos Thomas, chef décorateur
-Dufour Néhémie, Décorateur
+Dufour Néhémie, décorateur
 Dupire-Clément riton, chef décorateur
 Dury Yann, Décorateur cinéma
 Edline Fabrice, Peintre déco
@@ -2620,7 +2626,7 @@ Donnet Antoine, monteur
 Dontenwille Alice, assistante monteuse
 Doucet Corentin, monteur
 Ducreux Céline, chef monteuse
-Dufreche Laurent, Monteur et Postproducteur
+Dufreche Laurent, monteur et post-producteur
 Dumas Bérénice, Cheffe monteuse
 Dumesnil Titouan, Monteur son
 Durning Valentin, Monteur
@@ -2942,7 +2948,7 @@ Dimitch Loic, producteur
 Djivas Philippe, producteur
 Doroszlai Edmée, productrice, autrice et réalisatrice
 Dufour Eric, producteur de documentaires
-Dufreche Laurent, Monteur et Postproducteur
+Dufreche Laurent, monteur et post-producteur
 Dumas Orlane, productrice
 Dumas Raphaèle, productrice
 Dupeyron Léa, productrice
@@ -4721,8 +4727,8 @@ Dru Ji, musicien
 Ducourau Anne, chef opératrice son
 Dufait Thibaut, technicien son
 Duffau Sarah Pearl, musicienne
-Dufour Renaud, Ingénieur du son
-Duguet Robin, Préparateur Son
+Dufour Renaud, ingénieur du son
+Duguet Robin, préparateur son
 Dujardin Jules, Ingénieur du son
 Dumesnil Titouan, Monteur son
 Dupouy Anne, Opératrice son
@@ -5106,7 +5112,7 @@ Drot Nathan, ensemblier
 Drouard Elodie, responsable éditorial
 Drouin Maeva, D.I.T
 Dubois Yannis, documentaliste recherchiste
-Dugénie Céline, Artiste graphiste et illustratrice
+Dugénie Céline, artiste graphiste et illustratrice
 Dumeilleur Theo, employé de cinema
 Duponchel Marilou, journaliste
 Duprez Nicolas, responsable technique de cinéma
