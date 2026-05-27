@@ -230,6 +230,7 @@ Barut Tau, 2e assistant caméra
 Bassibey Stéphanie, comédienne
 Bassin Ingrid, ensemblière décoratrice
 Basso Estela, actrice
+Bastion Jean-Charles, compositeur
 Batlle Lou, assistant de programmation
 Bator Etienne, assistant réalisateur
 Batteault Florence, cheffe maquilleuse
@@ -778,7 +779,6 @@ Castelnot Frédéric, photographe de plateau
 Castelnot Morgan, assistant caméra
 Cathala Maurine, régisseuse
 Catheland Pascal, réalisateur
-Catherine Vinatier, actrice
 Catonné François, directeur de la photo
 Cattinari Damien, réalisateur
 Cattoni Pierre, agent artistique
@@ -1198,6 +1198,7 @@ Delahaye Jean-Baptiste, 1er assistant opérateur
 Delahousse Floriane, comédienne
 Delaisse Else, projectionniste
 Delamarlière Hugues, acteur
+Delamarre Helena, artiste
 Delangle Lucas, réalisateur
 De la Noche Julio, artiste
 De Lardemelle Stanislas, régisseur adjoint
@@ -1339,7 +1340,7 @@ Di Sturco Laureen, régisseuse
 Divoux Didier, chef opérateur son
 Djama Sofia, cinéaste
 Djellouli Angela, régisseuse
-Djellouli Lorenzo, ppérateur de prise de vue
+Djellouli Lorenzo, opérateur de prise de vue
 Djivas Philippe, producteur
 Dobin Adèle, scénariste
 Do Couto Yannis, monteur son
@@ -1362,7 +1363,6 @@ Dorado Olivia, enseignante-chercheuse en cinéma et décoratrice
 Dore Antoine, décorateur
 Dorelli Philippe, cadreur
 Dorey Camille, animatrice 2D
-Doriane Fréreau, décoratrice
 Dorival Clémen, réalisateur
 Dormoy Jules, assistant réalisateur
 Doroszlai Edmée, productrice, autrice et réalisatrice
@@ -1505,7 +1505,6 @@ Elusse Philippe, conseil en distribution cinéma
 Emeriau Chloé, traductrice-adaptatrice (doublage)
 Emeriau Maxime, recorder bruitage
 Emery Jean-Bernard, attaché de presse
-Emilie Debus, graphiste déco
 Eminenti Licia, scénariste
 Emsallem Thelma, menuiserie
 Enderlen Ludovic, ingénieur du son
@@ -1597,7 +1596,6 @@ Feiler Pauline, scripte
 Feinsilber Anne, scénariste
 Fejtö Raphaël, auteur et réalisateur
 Feldman Vincent, exploitant
-Félix Reboul, régisseur
 Feminier Perrine, productrice
 Fennec Sylvie, décoratrice
 Feodoroff Nicolas, programmateur
@@ -1696,6 +1694,7 @@ Fraysse Romane, journaliste
 Frederich Lola, réalisatrice
 Fred Grémeaux, ingénieur du son
 Frenay Simon, auteur-réalisateur
+Fréreau Doriane, décoratrice
 Fréret Margot, technicienne
 Fresneau Pierréloi, ingénieur du Son
 Fresson Robin, directeur de la photographie
@@ -2093,7 +2092,6 @@ Harari Tom, chef opérateur
 Harbonnier Justine, réalisatrice
 Harchin Violaine, distributrice
 Harder Hélène, cinéaste
-Harold Hennequin, chef opérateur son et perchman
 Harrison Blaise, réalisateur
 Hatton Mateo, agent de cinéma
 Hausherr Maikä, machiniste
@@ -2113,6 +2111,7 @@ Hellot Aubin, réalisateur de documentaires
 Hémon Louise, réalisatrice
 Hemon Sofi, artiste plasticienne
 Hénaff Benoît, chef opérateur du son, mixeur et compositeur
+Hennequin Harold, chef opérateur son et perchman
 Henno Laura, réalisatrice
 Henriot Daniel, administrateur de production
 Henriot Matthieu, chef décorateur
@@ -2201,156 +2200,156 @@ Hurni Charlotte, chargée de mission culture
 Hurst Annik, monteuse
 Hurst David, producteur
 Husakovic Edo, menuisier traceur
-Huvig Jules Camille, artiste numérique
-Ibourk Adam, Ventes Internationales
-Ignazi Liza, Monteuse
-Ihne Tristan, Danseur
-Ilhan Cafer, Chef électricien
+Ibourk Adam, ventes Internationales
+Ignazi Liza, monteuse
+Ilhan Cafer, chef électricien
 Imbault Edgar, ingénieur du son
 Imbert Arlaud Hélène, chef peintre
-Ingrand-Consigny Céleste, Chanteuse
-Inno Quentin, Photographe
-Inocencio Tessa, Chargée de production
+Inocencio Tessa, chargée de production
 Insel Utku, ingénieur du son
-Iribarne Maia, Réalisatrice
+Ioos Camille, costumière
+Iribarne Maia, réalisatrice
 Irmer Marc, producteur
-Irribarria Julia, Cheffe decoratrice
+Irribarria Julia, cheffe décoratrice
 Irzenski Martine, comédienne
 Isaac Reno, compositeur
-Isam Baptiste, Assistant son
+Isam Baptiste, assistant son
 Issalene Baptiste, chargé d’accompagnement des activités éducatives
-Issaly Thibault, Machiniste
-Ivanovic Milan, Directeur artistique
-Ivasco Tina, Monteureuse, réalisateurice et scénariste
+Issaly Thibault, machiniste
+Ivanovic Milan, directeur artistique
+Ivasco Tina, monteuse, réalisateurice et scénariste
 Jaafri Yasmina, monteuse
-Jaburek Lucien, Assistant mise en scène
+Jaburek Lucien, assistant mise en scène
 Jacir Anne-Marie, réalisatrice
 Jacobson-Roques Emmanuelle, photographe de plateau
 Jacq Emmanuelle, productrice
 Jacques Valentin, VFX Artist
-Jacquet Florence, Chef monteuse
+Jacquet Florence, chef monteuse
 Jacquier Adèle, technicienne déco
 Jacquin Thibault, cinéaste
 Jaffré lena, assistante à la mise en scène
-Jahan Marylou, Assistant communication
+Jahan Marylou, assistant communication
 Jaillet Manon, assistante mise en scène
 Jakubowicz Sara, réalisatrice et assistante déco
-Jalilyan Ramo, Acteur
-James Thomas, Vidéaste
+Jalilyan Ramo, acteur
+James Thomas, vidéaste
 Jamet Eleonore, assistante scripte  
-Jamet-Rosier Laure, Costumière
+Jamet-Rosier Laure, costumière
+Jamme Matthieu, chef électricien
 Jammes Patrick, ingénieur du son
-Jammot Florence, Journaliste retraitée
-Janjic Victor, Vidéaste
-Jaouen Maeva, Réalisatrice &amp; Directrice de Production
+Jammot Florence, journaliste (retraitée)
+Janjic Victor, vidéaste
+Jaouen Maeva, réalisatrice et Directrice de Production
 Jaouen Marie, productrice
-Jarret Alexis, Graphiste
+Jarret Alexis, graphiste
 Jasko Jules, mixeur
-Javaux Joséphine, Costumière
-Javelle Nikolas, monteur son/mixeur
-Jeammet Matthieu, Scénariste
+Javaux Joséphine, costumière
+Javelle Nikolas, monteur son et mixeur
+Jeammet Matthieu, scénariste
 Jean Axelle, ventes internationales
-Jean-Charles Bastion, compositeur
-Jean Diane, Journaliste
+Jean Diane, journaliste
 Jean-Elie Roman, comédien
-Jeangirard Louise, Chargée de mission en festival de cinéma
+Jeangirard Louise, chargée de mission en festival de cinéma
 Jeanjeau Sarah, journaliste
-Jean luc Lucas, Régisseur
 Jeannet Christine, édition  
-Jeannot Mathis, Comédien
-Jean Pauline, Costumière / Habilleuse
+Jeannot Etienne, comédien·ne
+Jeannot Mathis, comédien
+Jean Pauline, costumière et habilleuse
 Jean Riou, chef électricien
 Jean Stella, chargée de conduite antenne tv
 Jejčic Valentine, chargée de communication
 Jenkoe Thomas, réalisateur
 Jerez Diego, chef constructeur
+Jestin Fabian, réalisateur et scénariste
 Jezequel Nolwenn, comédienne
-Joanny Julien, Régisseur d&
+Joanny Julien, régisseur d&
 Jodorowsky Alma, comédienne et réalisatrice
 Jolivet Benoît, chef éclairagiste
-Jolly Eva, Centre pompidou
-Joly Leo, 1er Assistant opérateur de prises de vue
-Jonathan Palumbo, scénariste, réalisateur
+Jolly Eva, assistante de programmation
+Joly Leo, 1er assistant opérateur de prises de vue
 Jones Gaëlle, productrice
-Jonniaux Elisabeth, Réalisatrice
-Jorrion Céline, Artiste
-Josse Manon, Auxiliaire à la régie cinéma
+Jonniaux Elisabeth, réalisatrice
+Jorrion Céline, artiste
+Josse Manon, auxiliaire à la régie cinéma
 Josserand Thibaut, régisseur d&
-Jouanjan Loïc, régisseur général, directeurTechnique
+Jouan Delphine, coordinatrice accueil de tournages
+Jouanjan Loïc, régisseur général et directeur technique
 Jouannais Joséphine, réalisatrice
-Jouars François, Rippeur, accessoiriste aux meubles
-Joubert Axel, Comédien
+Jouars François, rippeur et accessoiriste aux meubles
+Joubert Axel, comédien
 Joubert-Laurencin Hervé, cinéaste
-Joubrel Valentin, Réalisateur monteur
-Jouet Hélène, Accessoiriste
+Joubrel Valentin, réalisateur et monteur
+Jouet Hélène, accessoiriste
 Jouinot Cerise, responsable de salle de cinéma
-Joujou Gladys, Monteuse
+Joujou Gladys, monteuse
 Jounel Sébastien, auteur-réalisateur
-Journé Phi,l Photographe
-Journo Norbert, Chef décorateur
-Jousselin Damien, Électricien de prise de vue
-Jousselin Paul, Mixeur, réalisateur
+Journé Phil, photographe
+Journo Norbert, chef décorateur
+Jousselin Damien, électricien de prise de vue
+Jousselin Paul, mixeur et réalisateur
 Jouvenaux Zeynep, programmatrice
-Jouvenet Elliot, Technicien son
+Jouvenet Elliot, technicien son
 Jouvin Nicolas, réalisateur
-Jouzeau Esther, Réalisatrice
+Jouzeau Esther, réalisatrice
 Joyeux Laurine, scripte  
-Jrd Ghizlane, Actrice
-Jubert Anne, Exploitante
+Jrd Ghizlane, actrice
+Jubert Anne, exploitante
 Jubin Olivia, actrice
 Juge Nicolas, électricien
-Juillet Alexandre, Preneur son
-Juin Anne, Assistante à la Réalisation
+Juillet Alexandre, preneur son
+Juin Anne, assistante à la Réalisation
 Julier Pauline, cinéaste  
-Jullia Maxime, Acteur
+Jullia Maxime, acteur
 Jullien Corinne, peintre déco
-Jumai Laguna, programmatrice
-Jungman David, Monteur
-Juniot Barbara, Cheffe opératrice du Son, Perchewoman
+Jungman David, monteur
+Juniot Barbara, cheffe opératrice du son et perchewoman
+Juniot Natacha, directrice et programmatrice d’un cinéma
 Just Quentin, producteur
 Kachoutina Tatiana, productrice
 Kaczmarek Olivier, administrateur
 Kadapia Asif, cinéaste
-Kaklea Lenio Metteuse en scène, chorégraphe
+Kaklea Lenio, metteuse en scène et chorégraphe
 Kakou Alice, assistante réalisation
 Kallouchi Ayoub, comédien
 Kamidian Sara, Intimacy coordinator
-Kamilindi Gaël, Acteur / Réalisateur
-Kaminski Flora, 1ere assistante caméra
-Kan Alexandra, Assistante à la réalisation
+Kamilindi Gaël, acteur et réalisateur
+Kaminski Flora, 1e assistante caméra
+Kan Alexandra, assistante à la réalisation
 Kaplan de Macedo Naruna, réalisatrice
-Kaplan Simon, Monteur
-Kapour Julie, Comédienne
+Kaplan Simon, monteur
+Kapour Julie, comédienne
 Karacheva Kseniia, gestionnaire de droits d’auteur
-Karli Max, Producteur
+Karli Max, producteur
 Karpitski Maksim, critique de cinéma
-Karras Audrey, Assistante réalisatrice
+Karras Audrey, assistante réalisatrice
 Kartmann Brice, ingénieur du son, musicien et compositeur
 Kassis Anaëlle, technicienne lumière
-Kauffmann Nina, agente d’accueil chez UGC
+Kauffmann Nina, agente d’accueil dans un cinéma
 Kaurismaki Aki, réalisateur
 Kavyrchine Alexis, chef opérateur image
-Kawczak Clara, Productrice
-Kayadjanian Mathilde, Scénographe
+Kawczak Clara, productrice
+Kayadjanian Mathilde, scénographe
 Kechiouche Salim, comédien
 Keller Benoit, réalisateur
+Kellermann Léo, monteur
 Kellou Luka, réalisateur
 Keltchewsky Marina, actrice
+Kent Mathilde, costumière
 Kerdellant Camille, comédienne
 Kergoat Yannick, monteur et réalisateur
-Kerichard Maude, Technicienne AV
+Kerichard Maude, technicienne AV
 Kerkour Maïa, scripte
-Kern Alice, Régisseuse d&
+Kern Alice, régisseuse d&
 Kerneur Arnaud, coordinateur d&
 Kern Hervé, comédien
 Kerouanton Tom, technicien Son
 Kertekian Laurence, agent d&
 Khalili Romeo Marianne, productrice
-Kharitonnoff Dimitri, Monteur son
-Khatami Sima, Cinéaste, plasticien
+Kharitonnoff Dimitri, monteur son
+Khatami Sima, cinéaste et plasticien
 Khleifi Nael, réalisateur
-Khoshnoudi Bani, scénariste, réalisatrice
-Kidouchim William, Acteur
+Khoshnoudi Bani, scénariste et réalisatrice
+Kidouchim William, acteur
 Kiefer Régis, artiste
 Kieffer Pauline, Costumière
 Kiessling Anna, scénariste
@@ -2425,8 +2424,9 @@ Laglisse Théo, cinéaste
 Lagnié Jean-Baptiste, Acteur
 Lagorce Charles, machiniste de prise de vue
 Lagrange Aimée, Artiste chorégraphique
-Lagriffoul Pascal, Directeur de la photographie
-Lahbabi Caroline, Exploitante
+Lagriffoul Pascal, directeur de la photographie
+Laguna Jumaï, programmatrice
+Lahbabi Caroline, exploitante
 Lahnine Houssame, régisseur
 Lainé Audrey, Animatrice 3D
 Lainé Diodovic Sophie, directrice de casting
@@ -2441,20 +2441,21 @@ Lambert Olivier, réalisateur
 Lambouley Louis-Martin, comédien
 Lamoitier Édouard, Acteur
 Lamothe Daisy, Réalisatrice
-Lamy Camille, Assistante accessoiriste
-Lance Noémie, Régisseuse générale
-Lancial Benoit, Électricien de plateau
-Lancian Frederic, Rippeur
-Lancry Camille, Réalisatrice
+Lamy Camille, assistante accessoiriste
+Lance Noémie, régisseuse générale
+Lancial Benoit, électricien de plateau
+Lancian Frederic, rippeur
+Lancry Camille, réalisatrice
 Landais Anne, photographe
 Landon Barret Léo, actrice et autrice
 Langelin Clément, menuisier, traceur de décors
-Lange Rémi, Réalisateur
+Lange Rémi, réalisateur
 Langlais Martin, Assistant Caméra
 Langlois Alexis, cinéaste
+Langlois Hélène, artiste
 Langlois Solène, projectionniste
 Langmann Claire, directrice de production
-Languille Plume Assistant son, musicien
+Languille Plume, assistant son, musicien
 Lanni Dimitri, programmateur, chercheur indépendant
 Lanthimos Yorgos, réalisateur
 Lapauw Ambre, Électricienne
@@ -2720,6 +2721,7 @@ Louise Victor, Réalisateur
 Loupiac Gildas, comédien et metteur en scène
 Loyer Kassa Leïla, Comédienne
 Lubtchansky Irina, directrice photo
+Lucas Jean-Luc, régisseur
 Lucas Samuel, adjoint en communication
 Luces Simon, monteur son
 Luciani Jean-Baptiste, Acteur
@@ -3191,18 +3193,19 @@ Oustry Mia, réalisatrice
 Outin Adèle, 2eme assistante MES
 Outin Pierre, Infographiste 3D
 Ozanne Romain, mixeur
-Ozenne Romain, Comédien
-Paduch Cécile, Assistante décoration
-Pages Louise, Assistante mise en scène
-Pagès Lucie Scénariste, réalisatrice
-Paget Guilhem, Assistant son
+Ozenne Romain, comédien
+Paduch Cécile, assistante décoration
+Pages Louise, assistante mise en scène
+Pagès Lucie, scénariste, réalisatrice
+Paget Guilhem, assistant son
 Pagnoux David, assistant caméra
 Paijens Eva, réalisatrice
-Paillé Catherine, Scénariste
-Pain Benoit, Directeur de la photographie
-Pain Céline, Directrice du festival Hors Cadres
-Pain Jean-Baptiste, Assistant technique (service informatique)
-Pain Stéphanie, Exploitante
+Paillé Catherine, scénariste
+Pain Benoit, directeur de la photographie
+Pain Céline, directrice de festival
+Pain Jean-Baptiste, assistant technique (service informatique)
+Pain Stéphanie, exploitante
+Palumbo Jonathan, scénariste et réalisateur
 Panayotova Bojina, cinéaste
 Pantin Capucine, régisseuse d’extérieur déco
 Papaphotiou Jérôme, Assistant décorateur
@@ -3509,9 +3512,12 @@ Raufaste Elie, Critique
 Raulin Mathias, Artiste
 Raut-Sieuzac Natalys, Réalisatrice
 Ravel Jeanne, Monteuse
-Ravizé Sébastien, Réalisateur
+Ravizé Sébastien, réalisateur
+Raymond Audrey, chargée de production
 Raymond Lou, régisseuse générale
 Rebetez Alice, Assistante OPV cinéma
+Rebouillat Valerie, rirectrice de production
+Reboul Félix, régisseur
 Reboullet Remy, producteur
 Rebours Valentin, Post-production
 Rebut-Minotti Sylvain, compositeur
@@ -3568,6 +3574,7 @@ Ribaut Onenn, 3eme assistante vidéo
 Ribe Nola, Photographe
 Ribiere Olivier, projectionniste
 Ribot Jean-Christophe, Auteur Réalisateur
+Ribrault Baptiste, monteur
 Ricard Aurélie, Monteuse
 Ricard Colas réalisateur, éditeur
 Riccardi Mylène, régisseuse d’extérieurs
@@ -3586,9 +3593,11 @@ Richard Tristan, Monteur
 Richarth Oliver, Machiniste construction décor cinéma
 Richier Le Moan, César Comédien
 Richier Pascal, Figurant
-Ricol Hadrien, Electricien
+Richoux Lise, médiatrice et coordinatrice cinéma
+Ricol Hadrien, électricien
+Ricome Hélène, réalisatrice
 Ricoux Vincent, chef électricien
-Ridley Victor, Réalisateur
+Ridley Victor, réalisateur
 Riedler Martin, comédien
 Rieger Louison, Comédien
 Riesco Lena, Monteuse vidéo
@@ -3602,9 +3611,9 @@ Rinaldi Louise, programmatrice, Centre Pompidou
 Ringoot Pauline, Graphiste
 Riollet Benjamin, Infographiste en déco
 Rio Nicolas, Graphiste
-Riou Justine, Chargée de production
+Riou Justine, chargée de production
 Riou Marine, directrice de salle de cinéma
-Riou Mikael, Accessoiriste aux meubles
+Riou Mikael, accessoiriste aux meubles
 Ripoll Laurent, Étalonneur
 Ripoll Mahé, artiste
 Rit David, Chef Opérateur Son
@@ -4040,15 +4049,17 @@ Thuret Stan, Cinéaste navigateur
 Tiger Anna, Assistante caméra
 Tijou Brigitte Réalisatrice, monteuse
 Tijou Clément, Chef opérateur du son
-Tilhou Nadejda, Réalisatrice
+Tikanouind Sarah, régisseur
+Tilhou Nadejda, réalisatrice
 Tille François, chef machiniste de prise de vue cinéma
 Tilliard Antoine, programmateur de salle de cinéma
 Timsit Roland, comédien
-Tintané-Ducharme, Milan Réalisateur et monteur
+Tintané-Ducharme Milan, réalisateur et monteur
 Tissot Florence, commissaire d&
 Tissot Léa, artiste
 Tissot Rodolphe, réalisateur
-Tité Florent, Assistant caméra
+Tité Florent, assistant caméra
+Todesco Sébastien, comédien
 Todorov Léa, cinéaste
 Tollu-Polonowski Cécile, productrice
 Tomaszczyk Théo, assistant programmation
@@ -4069,16 +4080,17 @@ Trahard Clément, Assistant son
 Tralci Cloé Critique, programmatrice
 Tramier Torea, Décorateur
 Tran Claire, autrice et comédienne
-Tran-Ras Mélodie, Cheffe maquilleuse
-Tran Tan Ba Louis, Machiniste de construction
+Tran-Ras Mélodie, cheffe maquilleuse
+Tran Tan Ba Louis, machiniste de construction
 Tran Van Lieu Pauline, productrice
-Travers Zoé, Architecte
+Travers Zoé, architecte
 Tréhin-Lalanne Ninon, 2nde assistante à la réalisation
 Treilhou Marie-Claude, Cinéaste
 Tremblin Mathieu, artiste
 Trillo Julie, Monteuse
 Trimaille Louis, Électricien
 Trinca Jasmine, actrice
+Trindade Alexandre, réalisateur / Monteur
 Trinques Gilles, cinéaste, scénariste
 Trinquet Claire, Directrice de production
 Tripod Noam, Réalisateur

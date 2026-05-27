@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 21:35:13
+Dernière mis à jour : 2026-05-27 22:05:21
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4324**|**+102**|**+178**|**+347**|
-|Acteur.ice, Comédien.ne|[455](#acteurice-comédienne-1)|[+10](#acteurice-comédienne)|||
+|**Tous les signataires**|**4336**|**+114**|**+178**|**+347**|
+|Acteur.ice, Comédien.ne|[457](#acteurice-comédienne-1)|[+12](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+1](#animation)|||
 |Casting|[39](#casting-1)|[+1](#casting)|||
-|Décor|[295](#décor-1)|[+8](#décor)|||
+|Décor|[294](#décor-1)|[+7](#décor)|||
 |Distribution|[25](#distribution-1)|[+1](#distribution)|||
-|Électricien.ne|[153](#Électricienne-1)|[+3](#Électricienne)|||
-|Exploitation|[222](#exploitation-1)|[+6](#exploitation)|||
-|Habillage, maquillage, coiffure|[124](#habillage-maquillage-coiffure-1)|[+3](#habillage-maquillage-coiffure)|||
+|Électricien.ne|[154](#Électricienne-1)|[+4](#Électricienne)|||
+|Exploitation|[224](#exploitation-1)|[+8](#exploitation)|||
+|Habillage, maquillage, coiffure|[126](#habillage-maquillage-coiffure-1)|[+5](#habillage-maquillage-coiffure)|||
 |Image|[399](#image-1)|[+11](#image)|||
 |Machiniste|[82](#machiniste-1)|[+2](#machiniste)|||
-|Post production|[303](#post-production-1)|[+4](#post-production)|||
-|Production|[322](#production-1)|[+8](#production)|||
-|Réalisation|[1071](#réalisation-1)|[+21](#réalisation)|||
-|Régie|[159](#régie-1)|[+5](#régie)|||
-|Scénariste|[214](#scénariste-1)|[+4](#scénariste)|||
-|Son|[329](#son-1)|[+5](#son)|||
-|Autres|[547](#autres-1)|[+16](#autres)|||
+|Post production|[306](#post-production-1)|[+7](#post-production)|||
+|Production|[324](#production-1)|[+10](#production)|||
+|Réalisation|[1074](#réalisation-1)|[+24](#réalisation)|||
+|Régie|[160](#régie-1)|[+6](#régie)|||
+|Scénariste|[215](#scénariste-1)|[+5](#scénariste)|||
+|Son|[328](#son-1)|[+4](#son)|||
+|Autres|[546](#autres-1)|[+15](#autres)|||
 
 ## Derniers signataires 
 
-102 nouveau(x) signataire(s) aujourd'hui
+114 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-10 nouveau(x) signataire(s) aujourd'hui
+12 nouveau(x) signataire(s) aujourd'hui
 # 
 + caillaud simon, comédien
 - candore marco, vidéaste, comédien, auteur
@@ -45,7 +45,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + capellier-audat mitia, acteur
 + carpintieri aude, comédienne et metteuse en scène
 - carpintieri aude comédienne, metteuse en scène
-+ catherine vinatier, actrice
 + chesneau julien, comédien
 + chevillotte louise, comédienne et metteuse en scène
 - chevillotte louise, comédienne, metteuse en scène
@@ -83,6 +82,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - herbulot antoine, acteur, scénariste
 + hill-chouaki florent, comédien et scénariste
 - hill-chouaki florent, comédien, scénariste
++ jeannot etienne, comédien·ne
++ kamilindi gaël, acteur et réalisateur
+- kamilindi gaël, acteur / réalisateur
++ ricome hélène, réalisatrice
++ todesco sébastien, comédien
 ```
 
 ### Animation
@@ -110,7 +114,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-8 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + castelain julie, accessoiriste plateau
 - castelain julie, accessoiriste-plateau
@@ -128,11 +132,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - deweppe sarah, 1ère assistante décoratrice
 - dorado olivia, enseignante-chercheuse en cinéma, décoratrice
 + dorado olivia, enseignante-chercheuse en cinéma et décoratrice
+- doriane fréreau, décoratrice
 + dos marie, chef peintre
 - ducos thomas, chef decorateur
 + ducos thomas, chef décorateur
 + elissalt marion, assistante accessoiriste
 - elissalt marion,  assistante accessoiriste
+- emilie debus, graphiste déco
 + fauguet sarah, cheffe peintre
 + fennec sylvie, décoratrice
 - ferrieux anne, peintre deco
@@ -143,6 +149,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + filler charlotte, cheffe décoratrice et ensemblière
 + fillion thibaut, technicien et dessinateur en menuiserie
 + fortat sophie, assistante décoratrice
++ fréreau doriane, décoratrice
 + gauthier valentine, assistante décoration
 - gauthier valentine,  assistante décoration
 + gautier maëlle, peintre
@@ -158,6 +165,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - guyot théry, constructeur de décor
 + guyot théry, constructeur de décors
 + huijbregts margaux, décorateur
+- irribarria julia, cheffe decoratrice
++ irribarria julia, cheffe décoratrice
+- jouars françois, rippeur, accessoiriste aux meubles
++ jouars françois, rippeur et accessoiriste aux meubles
 ```
 
 ### Distribution
@@ -177,7 +188,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
 - chaude jonathan, electricien
 + chaude jonathan, électricien
@@ -208,12 +219,15 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - hiter-benisty elias, assistant electro (junior)
 - hourant timothé, chef électricien, chef opérateur
 + hourant timothé, chef électricien et chef opérateur
++ jamme matthieu, chef électricien
+- ricol hadrien, electricien
++ ricol hadrien, électricien
 ```
 
 ### Exploitation
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+8 nouveau(x) signataire(s) aujourd'hui
 # 
 + cloquet julien, ingénieur du son et mixeurdemarche benoit, programmateur
 - cloquet julien, ingénieur du son, mixeurdemarche benoit, programmateur
@@ -247,12 +261,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + garel sylvain, programmateur et historien du cinéma
 + gouzannet eric, exploitant (retraité)
 - gouzannet eric, retraité exploitant
++ jolly eva, assistante de programmation
+- jumai laguna, programmatrice
++ juniot natacha, directrice et programmatrice d’un cinéma
+- kauffmann nina, agente d’accueil chez ugc
++ kauffmann nina, agente d’accueil dans un cinéma
++ laguna jumaï, programmatrice
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 # 
 - charchaude laurent, regisseur costume
 + charchaude laurent, régisseur costume
@@ -265,6 +285,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - groc emma, auxiliaire costume
 + groc emma, auxiliaire costumes
 + haennel joanne, costumière
++ ioos camille, costumière
++ jean pauline, costumière et habilleuse
+- jean pauline, costumière / habilleuse
++ kent mathilde, costumière
 ```
 
 ### Image
@@ -308,7 +332,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + delsert guillaume, directeur de la photographie
 - dercourt agathe, premiere assistante camera
 + dercourt agathe, première assistante caméra
-- djellouli lorenzo, opérateur de prise de vue
 + dorelli philippe, cadreur
 + drevillon lise, 1e assistante caméra
 - drevillon lise, 1ere assistante caméra
@@ -336,10 +359,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + guerrieri sebastien, assistant caméra
 + guichard eric, directeur de la photographie
 + guichard romain, réalisateur et directeur artistique
-+ harold hennequin, chef opérateur son et perchman
 - harold  hennequin, chef opérateur son, perchman
 - hénaff benoît chef, opérateur du son / mixeur / compositeur
 + hénaff benoît, chef opérateur du son, mixeur et compositeur
++ hennequin harold, chef opérateur son et perchman
 + hogert julien, chef opérateur
 + houles stella, assistante vidéo, opératrice vfx
 - houles stella assistante vidéo, opératrice vfx
@@ -347,6 +370,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + hourant timothé, chef électricien et chef opérateur
 - huisse eléonore, assistante caméra-cinéaste
 + huisse eléonore, assistante caméra et cinéaste
+- inno quentin, photographe
++ journé phil, photographe
+- journé phi,l photographe
++ juniot barbara, cheffe opératrice du son et perchewoman
+- juniot barbara, cheffe opératrice du son, perchewoman
++ kaminski flora, 1e assistante caméra
+- kaminski flora, 1ere assistante caméra
 ```
 
 ### Machiniste
@@ -365,7 +395,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-4 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + cancelli théo, monteur son et mixeur
 - cancelli théo, monteur son, mixeur
@@ -407,12 +437,23 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - houles stella assistante vidéo, opératrice vfx
 + hurst annik, monteuse
 - hurst annik, monteuse film
+- ivasco tina, monteureuse, réalisateurice et scénariste
++ ivasco tina, monteuse, réalisateurice et scénariste
++ javelle nikolas, monteur son et mixeur
+- javelle nikolas, monteur son/mixeur
++ joubrel valentin, réalisateur et monteur
+- joubrel valentin, réalisateur monteur
++ kellermann léo, monteur
++ ribrault baptiste, monteur
++ tintané-ducharme milan, réalisateur et monteur
+- tintané-ducharme, milan réalisateur et monteur
++ trindade alexandre, réalisateur / monteur
 ```
 
 ### Production
 
 ```diff
-8 nouveau(x) signataire(s) aujourd'hui
+10 nouveau(x) signataire(s) aujourd'hui
 # 
 + arnaud dommerc, producteur et distributeur
 + carré jean-michel, auteur, réalisateur et producteur
@@ -454,12 +495,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + guidicelli ambre, critique, productrice et distributrice
 - houard lucie, productrice - directrice de production
 + houard lucie, productrice et directrice de production
+- jaouen maeva, réalisatrice &amp; directrice de production
++ jaouen maeva, réalisatrice et directrice de production
++ raymond audrey, chargée de production
++ rebouillat valerie, rirectrice de production
 ```
 
 ### Réalisation
 
 ```diff
-21 nouveau(x) signataire(s) aujourd'hui
+24 nouveau(x) signataire(s) aujourd'hui
 # 
 + carcedo zazie, 1e assistante à la réalisation
 - carcedo zazie, 1ère assistante à la réalisation
@@ -614,12 +659,37 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - huisse eléonore, assistante caméra-cinéaste
 + huisse eléonore, assistante caméra et cinéaste
 + hureau félix, réalisateur et musicien
+- ivasco tina, monteureuse, réalisateurice et scénariste
++ ivasco tina, monteuse, réalisateurice et scénariste
+- jaouen maeva, réalisatrice &amp; directrice de production
++ jaouen maeva, réalisatrice et directrice de production
++ jestin fabian, réalisateur et scénariste
+- jonathan palumbo, scénariste, réalisateur
++ joubrel valentin, réalisateur et monteur
+- joubrel valentin, réalisateur monteur
++ jousselin paul, mixeur et réalisateur
+- jousselin paul, mixeur, réalisateur
+- kaklea lenio metteuse en scène, chorégraphe
++ kaklea lenio, metteuse en scène et chorégraphe
++ kamilindi gaël, acteur et réalisateur
+- kamilindi gaël, acteur / réalisateur
++ khatami sima, cinéaste et plasticien
+- khatami sima, cinéaste, plasticien
++ khoshnoudi bani, scénariste et réalisatrice
+- khoshnoudi bani, scénariste, réalisatrice
++ pagès lucie, scénariste, réalisatrice
+- pagès lucie scénariste, réalisatrice
++ palumbo jonathan, scénariste et réalisateur
++ ricome hélène, réalisatrice
++ tintané-ducharme milan, réalisateur et monteur
+- tintané-ducharme, milan réalisateur et monteur
++ trindade alexandre, réalisateur / monteur
 ```
 
 ### Régie
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
+6 nouveau(x) signataire(s) aujourd'hui
 # 
 + caillibot stan, régisseur
 + causin joffrey, régisseur général
@@ -638,18 +708,25 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + dumay mel, régisseuse
 + duponchel violette, régisseuse d’extérieurs
 - eckert edouard, régisseur général
+- félix reboul, régisseur
 + ferrenq emilie, ensemblière et régisseuse d&
 - ferrenq emilie, ensemblière - régisseuse d&
 - fichelle louis, assistant son / assistant régie
 + fichelle louis, assistant son et assistant régie
 - guibert clément, regisseur
 + guibert clément, régisseur
+- jean luc lucas, régisseur
+- jouanjan loïc, régisseur général, directeurtechnique
++ jouanjan loïc, régisseur général et directeur technique
++ lucas jean-luc, régisseur
++ reboul félix, régisseur
++ tikanouind sarah, régisseur
 ```
 
 ### Scénariste
 
 ```diff
-4 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 # 
 + cardot floriane, réalisatrice, scénariste et photographe
 - cardot floriane, réalisatrice, scénariste, photographe
@@ -693,13 +770,25 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - hiet sophie, scénariste.
 + hill-chouaki florent, comédien et scénariste
 - hill-chouaki florent, comédien, scénariste
+- ivasco tina, monteureuse, réalisateurice et scénariste
++ ivasco tina, monteuse, réalisateurice et scénariste
++ jestin fabian, réalisateur et scénariste
+- jonathan palumbo, scénariste, réalisateur
+- kaklea lenio metteuse en scène, chorégraphe
++ kaklea lenio, metteuse en scène et chorégraphe
++ khoshnoudi bani, scénariste et réalisatrice
+- khoshnoudi bani, scénariste, réalisatrice
++ pagès lucie, scénariste, réalisatrice
+- pagès lucie scénariste, réalisatrice
++ palumbo jonathan, scénariste et réalisateur
 ```
 
 ### Son
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
++ bastion jean-charles, compositeur
 + cancelli théo, monteur son et mixeur
 - cancelli théo, monteur son, mixeur
 + carron césar, perchman
@@ -728,10 +817,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - gouret sarah, réalisatrice/ingénieur du son
 - guerlot-kourouklis, alice artiste sonore, compositrice
 + guerlot-kourouklis alice, artiste sonore et compositrice
-+ harold hennequin, chef opérateur son et perchman
 - harold  hennequin, chef opérateur son, perchman
 - hénaff benoît chef, opérateur du son / mixeur / compositeur
 + hénaff benoît, chef opérateur du son, mixeur et compositeur
++ hennequin harold, chef opérateur son et perchman
 - héraud christophe, monteur son, bruiteur, sound-designer, compositeur
 + héraud christophe, monteur son, bruiteur, sound designer et compositeur
 + hidalgo ruiz arturo, ingénieur du son et perchman
@@ -739,12 +828,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + hubert juliette,ccompositrice
 - hubert juliette, compositrice
 + hureau félix, réalisateur et musicien
++ javelle nikolas, monteur son et mixeur
+- javelle nikolas, monteur son/mixeur
+- jean-charles bastion, compositeur
++ jousselin paul, mixeur et réalisateur
+- jousselin paul, mixeur, réalisateur
+- juniot barbara, cheffe opératrice du son, perchewoman
++ languille plume, assistant son, musicien
+- languille plume assistant son, musicien
 ```
 
 ### Autres
 
 ```diff
-16 nouveau(x) signataire(s) aujourd'hui
+15 nouveau(x) signataire(s) aujourd'hui
 # 
 - caillaud simon, éomédien
 - caillibot stan, éégisseur
@@ -775,12 +872,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + daily romane, influenceuse cinéma et attachée de presse
 + defouloy mosoni eva, administratrice partenariats festival
 - defouloy mosoni eva, admin partenariats festival
++ delamarre helena, artiste
 + delilez manuel, auteur-adaptateur
 - delilez manuel, auteur/adaptateur
 + destombe colin, médiateur culturel
 - di bennardo salvatore, humoriste-auteur
 + di bennardo salvatore, humoriste et auteur
-+ djellouli lorenzo, ppérateur de prise de vue
 + dulou tom, artiste
 - dumeilleur theo, employé de cinema
 + dumeilleur theo, employé de cinéma
@@ -815,7 +912,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - hericourt dany, coach d’acteurs, auteur
 + huet luc, technicien mécanique
 + hurni charlotte, chargée de mission culture
-+ huvig jules camille, artiste numérique
+- ihne tristan, danseur
+- ingrand-consigny céleste, chanteuse
++ jammot florence, journaliste (retraitée)
+- jammot florence, journaliste retraitée
+- jolly eva, centre pompidou
++ jouan delphine, coordinatrice accueil de tournages
++ langlois hélène, artiste
++ pain céline, directrice de festival
+- pain céline, directrice du festival hors cadres
++ richoux lise, médiatrice et coordinatrice cinéma
 ```
 
 
@@ -905,7 +1011,6 @@ carpintieri aude, comédienne et metteuse en scène
 carrette valentine, réalisatrice et actrice
 cartellier serge, acteur
 cashman natasha, comédienne
-catherine vinatier, actrice
 chaib linda, comédienne
 chalet selena, comédienne
 chalu marie-julie, comédienne et programmatrice
@@ -1045,6 +1150,7 @@ huby laurence, comédienne
 irzenski martine, comédienne
 jalilyan ramo, acteur
 jean-elie roman, comédien
+jeannot etienne, comédien·ne
 jeannot mathis, comédien
 jezequel nolwenn, comédienne
 jodorowsky alma, comédienne et réalisatrice
@@ -1053,7 +1159,7 @@ jrd ghizlane, actrice
 jubin olivia, actrice
 jullia maxime, acteur
 kallouchi ayoub, comédien
-kamilindi gaël, acteur / réalisateur
+kamilindi gaël, acteur et réalisateur
 kapour julie, comédienne
 kechiouche salim, comédien
 keltchewsky marina, actrice
@@ -1201,6 +1307,7 @@ renko serge, comédien
 renucci robin, comédien et réalisateur
 repain alex, comédien
 richier le moan, césar comédien
+ricome hélène, réalisatrice
 riedler martin, comédien
 rieger louison, comédien
 robic xavier, comédien
@@ -1250,6 +1357,7 @@ templier thiery, comédien
 terlin maxime, comédien
 thiam jenna, actrice
 timsit roland, comédien
+todesco sébastien, comédien
 touré manda, actrice
 tran claire, autrice et comédienne
 trinca jasmine, actrice
@@ -1457,7 +1565,6 @@ deweppe sarah, 1e assistante décoratrice
 diaz auguste, chef décorateur
 dorado olivia, enseignante-chercheuse en cinéma et décoratrice
 dore antoine, décorateur
-doriane fréreau, décoratrice
 dos marie, chef peintre
 d’ovidio catherine, cheffe décoratrice
 drouhot vincent, peintre décorateur
@@ -1469,7 +1576,6 @@ dury yann, décorateur cinéma
 edline fabrice, peintre déco
 egle max, menuisier
 elissalt marion, assistante accessoiriste
-emilie debus, graphiste déco
 emsallem thelma, menuiserie
 fauguet sarah, cheffe peintre
 fennec sylvie, décoratrice
@@ -1481,6 +1587,7 @@ fimat julia, accessoiriste
 foort fabia, ripper
 fortat sophie, assistante décoratrice
 fournier gregory, 1er assistant décoration
+fréreau doriane, décoratrice
 frion charles, menuisier de décors
 frizat dominique, repéreuse décors
 fronty marine, décoratrice
@@ -1522,10 +1629,10 @@ hulot bastien, peintre
 huot clement, décorateur
 husakovic edo, menuisier traceur
 imbert arlaud hélène, chef peintre
-irribarria julia, cheffe decoratrice
+irribarria julia, cheffe décoratrice
 jacquier adèle, technicienne déco
 jakubowicz sara, réalisatrice et assistante déco
-jouars françois, rippeur, accessoiriste aux meubles
+jouars françois, rippeur et accessoiriste aux meubles
 jouet hélène, accessoiriste
 journo norbert, chef décorateur
 jullien corinne, peintre déco
@@ -1776,6 +1883,7 @@ haution zéphyr, électricien
 hiter-benisty elias, assistant électro
 hourant timothé, chef électricien et chef opérateur
 ilhan cafer, chef électricien
+jamme matthieu, chef électricien
 jean riou, chef électricien
 jousselin damien, électricien de prise de vue
 juge nicolas, électricien
@@ -1825,7 +1933,7 @@ raimbault pauline, électricienne
 reeman léo, électricien de prise de vue
 renambatz joffrey, chef électricien de prise de vue
 renaudot xavier, chef électricien
-ricol hadrien, electricien
+ricol hadrien, électricien
 ricoux vincent, chef électricien
 rivière bruno, éléctricien
 rodet mel, electricien.ne de prise de vue
@@ -1966,12 +2074,14 @@ hirayama jimmy, projectionniste
 hirgorom rose, programmatrice
 ho eden, projectionniste
 honliasso corinne, exploitante
+jolly eva, assistante de programmation
 jouvenaux zeynep, programmatrice
 jubert anne, exploitante
-jumai laguna, programmatrice
-kauffmann nina, agente d’accueil chez ugc
+juniot natacha, directrice et programmatrice d’un cinéma
+kauffmann nina, agente d’accueil dans un cinéma
 labrusse gautier, directeur de salle de cinéma
 ladet marion, programmatrice
+laguna jumaï, programmatrice
 lahbabi caroline, exploitante
 langlois solène, projectionniste
 lanni dimitri, programmateur, chercheur indépendant
@@ -2143,9 +2253,11 @@ haennel joanne, costumière
 heinz birgitta, costumière
 hochet adeline, coiffeuse perruquière
 huet simon, costumier
+ioos camille, costumière
 jamet-rosier laure, costumière
 javaux joséphine, costumière
-jean pauline, costumière / habilleuse
+jean pauline, costumière et habilleuse
+kent mathilde, costumière
 kieffer pauline, costumière
 kinebanyan alexis, maquilleur, sculpteur
 koch mathilde, habilleuse/costumiere
@@ -2344,6 +2456,7 @@ desnoyelles arthur, assistant caméra
 desprez bertrand, photographe
 dessal mathis, assistant caméra
 divoux didier, chef opérateur son
+djellouli lorenzo, opérateur de prise de vue
 doméjean pauline, directrice de la photographie
 domercq guilhem, chef opérateur de prise de son
 dorelli philippe, cadreur
@@ -2419,9 +2532,9 @@ guilbert philippe, chef opérateur
 gurrieri michele, chef opérateur
 hanclot fabienne, directrice artistique
 harari tom, chef opérateur
-harold hennequin, chef opérateur son et perchman
 heberlé antoine, directeur de la photographie
 hénaff benoît, chef opérateur du son, mixeur et compositeur
+hennequin harold, chef opérateur son et perchman
 hernandez françois, chef opérateur
 herve-mignucci lancelot, chef-opérateur du son
 hervy loïc, gestionnaire stock lumière
@@ -2431,14 +2544,13 @@ houles stella, assistante vidéo, opératrice vfx
 hourant timothé, chef électricien et chef opérateur
 hudelot benjamin, directeur de la photographie
 huisse eléonore, assistante caméra et cinéaste
-inno quentin, photographe
 ivanovic milan, directeur artistique
 jacobson-roques emmanuelle, photographe de plateau
 jolivet benoît, chef éclairagiste
 joly leo, 1er assistant opérateur de prises de vue
-journé phi,l photographe
-juniot barbara, cheffe opératrice du son, perchewoman
-kaminski flora, 1ere assistante caméra
+journé phil, photographe
+juniot barbara, cheffe opératrice du son et perchewoman
+kaminski flora, 1e assistante caméra
 kassis anaëlle, technicienne lumière
 kavyrchine alexis, chef opérateur image
 krzyzanowski fabien, chef opérateur du son
@@ -2854,15 +2966,16 @@ héraud christophe, monteur son, bruiteur, sound designer et compositeur
 houles stella, assistante vidéo, opératrice vfx
 hurst annik, monteuse
 ignazi liza, monteuse
-ivasco tina, monteureuse, réalisateurice et scénariste
+ivasco tina, monteuse, réalisateurice et scénariste
 jaafri yasmina, monteuse
 jacques valentin, vfx artist
 jacquet florence, chef monteuse
-javelle nikolas, monteur son/mixeur
-joubrel valentin, réalisateur monteur
+javelle nikolas, monteur son et mixeur
+joubrel valentin, réalisateur et monteur
 joujou gladys, monteuse
 jungman david, monteur
 kaplan simon, monteur
+kellermann léo, monteur
 kergoat yannick, monteur et réalisateur
 kharitonnoff dimitri, monteur son
 krebs sébastien, monteur  
@@ -2945,6 +3058,7 @@ ravel jeanne, monteuse
 rehm félix, monteur
 reiland bruno, monteur son
 reznik-charvein claude, chef monteur
+ribrault baptiste, monteur
 ricard aurélie, monteuse
 richard léo, monteur et réalisateur
 richard tristan, monteur
@@ -2985,10 +3099,11 @@ tavernier marie réalisatrice, monteuse
 teiger bénédicte, scripte, monteuse
 tellier maxime, étalonneur
 tijou brigitte réalisatrice, monteuse
-tintané-ducharme, milan réalisateur et monteur
+tintané-ducharme milan, réalisateur et monteur
 tourrès charlotte, monteuse
 tourtelier thomas, assistant monteur
 trillo julie, monteuse
+trindade alexandre, réalisateur / monteur
 tristram charles, monteur
 tronchot damien, monteur son &amp; compositeur
 trotel fabien, monteur
@@ -3201,7 +3316,7 @@ hurst david, producteur
 inocencio tessa, chargée de production
 irmer marc, producteur
 jacq emmanuelle, productrice
-jaouen maeva, réalisatrice &amp; directrice de production
+jaouen maeva, réalisatrice et directrice de production
 jaouen marie, productrice
 jones gaëlle, productrice
 just quentin, producteur
@@ -3282,6 +3397,8 @@ raczymow mathilde, productrice
 raevel danaé, directrice de production
 raillard jules, producteur
 raspillere christine, productrice executive av
+raymond audrey, chargée de production
+rebouillat valerie, rirectrice de production
 reboullet remy, producteur
 rebours valentin, post-production
 rego lucie, productrice
@@ -3879,7 +3996,7 @@ huisse eléonore, assistante caméra et cinéaste
 hunzinger robin, réalisateur
 hureau félix, réalisateur et musicien
 iribarne maia, réalisatrice
-ivasco tina, monteureuse, réalisateurice et scénariste
+ivasco tina, monteuse, réalisateurice et scénariste
 jaburek lucien, assistant mise en scène
 jacir anne-marie, réalisatrice
 jacquin thibault, cinéaste
@@ -3887,25 +4004,25 @@ jaffré lena, assistante à la mise en scène
 jaillet manon, assistante mise en scène
 jakubowicz sara, réalisatrice et assistante déco
 jamet eleonore, assistante scripte  
-jaouen maeva, réalisatrice &amp; directrice de production
+jaouen maeva, réalisatrice et directrice de production
 jenkoe thomas, réalisateur
+jestin fabian, réalisateur et scénariste
 jodorowsky alma, comédienne et réalisatrice
-jonathan palumbo, scénariste, réalisateur
 jonniaux elisabeth, réalisatrice
 jouannais joséphine, réalisatrice
 joubert-laurencin hervé, cinéaste
-joubrel valentin, réalisateur monteur
+joubrel valentin, réalisateur et monteur
 jounel sébastien, auteur-réalisateur
-jousselin paul, mixeur, réalisateur
+jousselin paul, mixeur et réalisateur
 jouvin nicolas, réalisateur
 jouzeau esther, réalisatrice
 joyeux laurine, scripte  
 juin anne, assistante à la réalisation
 julier pauline, cinéaste  
 kadapia asif, cinéaste
-kaklea lenio metteuse en scène, chorégraphe
+kaklea lenio, metteuse en scène et chorégraphe
 kakou alice, assistante réalisation
-kamilindi gaël, acteur / réalisateur
+kamilindi gaël, acteur et réalisateur
 kan alexandra, assistante à la réalisation
 kaplan de macedo naruna, réalisatrice
 karras audrey, assistante réalisatrice
@@ -3915,9 +4032,9 @@ keller benoit, réalisateur
 kellou luka, réalisateur
 kergoat yannick, monteur et réalisateur
 kerkour maïa, scripte
-khatami sima, cinéaste, plasticien
+khatami sima, cinéaste et plasticien
 khleifi nael, réalisateur
-khoshnoudi bani, scénariste, réalisatrice
+khoshnoudi bani, scénariste et réalisatrice
 klein astrid s. réalisatrice, artiste
 klingemann sarah, réalisatrice
 klotz jean-christophe, réalisateur
@@ -4131,8 +4248,9 @@ ottogalli marine, réalisatrice et cheffe opératrice
 ouaret karim, réalisateur  
 oustry mia, réalisatrice
 pages louise, assistante mise en scène
-pagès lucie scénariste, réalisatrice
+pagès lucie, scénariste, réalisatrice
 paijens eva, réalisatrice
+palumbo jonathan, scénariste et réalisateur
 panayotova bojina, cinéaste
 papillon ariane, réalisatrice et chercheuse
 parisius moritz, réalisateur et assistant réalisateur
@@ -4232,6 +4350,7 @@ richard franck, réalisateur scénariste
 richard giulia, cinéaste
 richard léo, monteur et réalisateur
 richard-serrano magaly, autrice, réalisatrice
+ricome hélène, réalisatrice
 ridley victor, réalisateur
 rieth simon, réalisateur
 rizzi stéphane, réalisateur
@@ -4338,13 +4457,14 @@ thouet-dauga lola, scripte lsa
 thuret stan, cinéaste navigateur
 tijou brigitte réalisatrice, monteuse
 tilhou nadejda, réalisatrice
-tintané-ducharme, milan réalisateur et monteur
+tintané-ducharme milan, réalisateur et monteur
 tissot rodolphe, réalisateur
 todorov léa, cinéaste
 torun nedim, réalisateur
 toussaint anne, réalisatrice
 tréhin-lalanne ninon, 2nde assistante à la réalisation
 treilhou marie-claude, cinéaste
+trindade alexandre, réalisateur / monteur
 trinques gilles, cinéaste, scénariste
 tripod noam, réalisateur
 trouillet basile, réalisateur et monteur
@@ -4488,7 +4608,6 @@ estampe nicolas, régisseur adjoint
 fanget agnes, régisseuse d’extérieurs
 faucheux mathias, régisseur
 faurel natanael, régisseur lumière et technicien son
-félix reboul, régisseur
 ferrenq emilie, ensemblière et régisseuse d&
 fichelle louis, assistant son et assistant régie
 fiognon kodjo, régisseur
@@ -4509,11 +4628,10 @@ guibert clément, régisseur
 guillaume anne, ensemblière et régisseuse d&
 henry samuel, régisseur
 houguet thomas, régisseur
-jean luc lucas, régisseur
 joanny julien, régisseur d&
 josse manon, auxiliaire à la régie cinéma
 josserand thibaut, régisseur d&
-jouanjan loïc, régisseur général, directeurtechnique
+jouanjan loïc, régisseur général et directeur technique
 kern alice, régisseuse d&
 lahnine houssame, régisseur
 lance noémie, régisseuse générale
@@ -4527,6 +4645,7 @@ liboreau mathilde, régisseuse
 list kevin, régisseur / assistant son
 loevenbruck aurélien, régisseur adjoint
 l’oiseau aurelie, régisseuse
+lucas jean-luc, régisseur
 luneau margot, régisseuse
 majchrzak max, technicien vidéo
 makk elliot, régisseur
@@ -4559,6 +4678,7 @@ protat xavière, régisseur d&
 provost marin, régisseur
 quercy boireaud muriel, régisseur adjoint
 raymond lou, régisseuse générale
+reboul félix, régisseur
 renet jean francois, régisseur son
 riccardi mylène, régisseuse d’extérieurs
 rolland elsa, régisseuse d’extérieurs
@@ -4579,6 +4699,7 @@ sicard aurore, régisseuse
 tanguy florence, régisseur générale
 teillet céline, régisseuse
 thierry-mieg cédric, régisseur
+tikanouind sarah, régisseur
 trotta noam,  régisseur
 trottin tina, régisseuse d’extérieurs
 tsaconas victor, régisseur général
@@ -4715,14 +4836,14 @@ hiet sophie, scénariste
 hill-chouaki florent, comédien et scénariste
 hirel antoine, assistant mise en scène
 hoinard céline, metteuse en scène
-ivasco tina, monteureuse, réalisateurice et scénariste
+ivasco tina, monteuse, réalisateurice et scénariste
 jaburek lucien, assistant mise en scène
 jaffré lena, assistante à la mise en scène
 jaillet manon, assistante mise en scène
 jeammet matthieu, scénariste
-jonathan palumbo, scénariste, réalisateur
-kaklea lenio metteuse en scène, chorégraphe
-khoshnoudi bani, scénariste, réalisatrice
+jestin fabian, réalisateur et scénariste
+kaklea lenio, metteuse en scène et chorégraphe
+khoshnoudi bani, scénariste et réalisatrice
 kiessling anna, scénariste
 kohler marjorie, assistante mise en scène
 labib-lamour pauline, metteuse en scène
@@ -4760,8 +4881,9 @@ ntambwe berry, scénariste
 olivier felix, réalisateur scénariste
 ortega leyna, scénariste
 pages louise, assistante mise en scène
-pagès lucie scénariste, réalisatrice
+pagès lucie, scénariste, réalisatrice
 paillé catherine, scénariste
+palumbo jonathan, scénariste et réalisateur
 peleyrol anais, réalisatrice scénariste actrice
 perrier jean-christophe, graphiste, critique, scénariste
 perrier miliana, scénariste
@@ -4836,6 +4958,7 @@ balibar lucien, ingénieur du son
 ballié harald, chef opérateur son
 bariaud pierre, monteur son
 bari thomas, ingénieur du son
+bastion jean-charles, compositeur
 beillevaire fabien, monteur son
 benamra elias, opérateur son
 bensoussan jérôme, musicien
@@ -4976,8 +5099,8 @@ guilloteau paul, ingénieur du son
 guin cécilie, assistante son
 hache christian, musicien
 hand abadou djezairi, monteur son
-harold hennequin, chef opérateur son et perchman
 hénaff benoît, chef opérateur du son, mixeur et compositeur
+hennequin harold, chef opérateur son et perchman
 héraud christophe, monteur son, bruiteur, sound designer et compositeur
 hergott louann, compositrice
 herve-mignucci lancelot, chef-opérateur du son
@@ -4993,12 +5116,10 @@ isaac reno, compositeur
 isam baptiste, assistant son
 jammes patrick, ingénieur du son
 jasko jules, mixeur
-javelle nikolas, monteur son/mixeur
-jean-charles bastion, compositeur
-jousselin paul, mixeur, réalisateur
+javelle nikolas, monteur son et mixeur
+jousselin paul, mixeur et réalisateur
 jouvenet elliot, technicien son
 juillet alexandre, preneur son
-juniot barbara, cheffe opératrice du son, perchewoman
 kartmann brice, ingénieur du son, musicien et compositeur
 kerouanton tom, technicien son
 kharitonnoff dimitri, monteur son
@@ -5008,7 +5129,7 @@ lacour dominique, chef opérateur son
 ladeveze frédéric, ingénieur du son
 laforce clément, mixeur
 lagabbe louise, ingénieure du son
-languille plume assistant son, musicien
+languille plume, assistant son, musicien
 laporte olivier, chef opérateur son
 lardiere audrey, assistante son
 larivet karine, musicienne
@@ -5296,6 +5417,7 @@ de bortoli gabriel, marketing cinéma
 defouloy mosoni eva, administratrice partenariats festival
 de garidel valentine, ensemblière
 degorce emmanuelle, senior synch licensing manager
+delamarre helena, artiste
 de la noche julio, artiste
 delassis nathalie, artiste chorégraphique
 deledicq jeanne-sarah, chanteuse
@@ -5309,7 +5431,6 @@ destombe colin, médiateur culturel
 devos zelie, artiste plasticienne
 di bennardo salvatore, humoriste et auteur
 dieu babette, salariée de festivals de cinéma
-djellouli lorenzo, ppérateur de prise de vue
 domenet mathis, technicien cinéma
 donné sylvie, journaliste
 donot céline, coordinatrice d&
@@ -5425,14 +5546,11 @@ houdas delphine, cheffe constructrice
 hua lucie, administratrice de festival
 huet luc, technicien mécanique
 hurni charlotte, chargée de mission culture
-huvig jules camille, artiste numérique
 ibourk adam, ventes internationales
-ihne tristan, danseur
-ingrand-consigny céleste, chanteuse
 issalene baptiste, chargé d’accompagnement des activités éducatives
 jahan marylou, assistant communication
 james thomas, vidéaste
-jammot florence, journaliste retraitée
+jammot florence, journaliste (retraitée)
 janjic victor, vidéaste
 jarret alexis, graphiste
 jean axelle, ventes internationales
@@ -5443,8 +5561,8 @@ jeannet christine, édition  
 jean stella, chargée de conduite antenne tv
 jejčic valentine, chargée de communication
 jerez diego, chef constructeur
-jolly eva, centre pompidou
 jorrion céline, artiste
+jouan delphine, coordinatrice accueil de tournages
 jouinot cerise, responsable de salle de cinéma
 kaczmarek olivier, administrateur
 kamidian sara, intimacy coordinator
@@ -5466,6 +5584,7 @@ lacurie occitane, critique
 lafaye louna, serrurier
 lafond melodie, dessinatrice
 lagrange aimée, artiste chorégraphique
+langlois hélène, artiste
 laraison katya, membre du collectif sous les écrans la dèche
 larue amandine, déléguée générale
 lasserre isabelle, chorégraphe
@@ -5557,7 +5676,7 @@ nouailhat frédérique, ensemblière
 oger irène, chargée de communication
 ollé emmanuelle, ensemblière
 outin adèle, 2eme assistante mes
-pain céline, directrice du festival hors cadres
+pain céline, directrice de festival
 pain jean-baptiste, assistant technique (service informatique)
 paquelier armand, modeliste
 paquin cesar, médiateur cinéma
@@ -5600,6 +5719,7 @@ renaudeau mily, chargée de communication
 reot amaury, artiste chorégraphe
 ribaut onenn, 3eme assistante vidéo
 richier pascal, figurant
+richoux lise, médiatrice et coordinatrice cinéma
 rieunier loïc, délégué général
 ringoot pauline, graphiste
 rio nicolas, graphiste
