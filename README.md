@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 15:13:00
+Dernière mis à jour : 2026-05-27 15:48:27
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,7 +11,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4267**|**+449**|**+576**|**+350**|
+|**Tous les signataires**|**4267**|**+44**|**+177**|**+347**|
 |Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+50](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+5](#animation)|||
 |Casting|[38](#casting-1)|[+5](#casting)|||
@@ -37,566 +37,969 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Acteur.ice, Comédien.ne
 
 ```diff
-50 nouveau(x) signataire(s) aujourd'hui
-
+8 nouveau(x) signataire(s) aujourd'hui
+# 
 + Caillaud Simon, comédien
 + Candellier Anthony, comédien
+- Candellier Anthony, Comédien
+- Candore Marco, Vidéaste, comédien, auteur
 + Candore Marco, vidéaste, comédien et auteur
 + Capelle Blanche, comédienne
+- Capelle Blanche, Comédienne
 + Capellier-Audat Mitia, acteur
 + Cargueray Lile, comédienne
+- Cargueray Lile, Comédienne
 + Caron Laurent, comédien
+- Caron Laurent, Comédien
 + Carpintieri Aude, comédienne et metteuse en scène
+- Carpintieri Aude Comédienne, Metteuse en scène
 + Cartellier Serge, acteur
+- Cartellier Serge, Acteur
 + Cashman Natasha, comédienne
+- Cashman Natasha, Comédienne
 + Catherine Vinatier, actrice
 + Chaib Linda, comédienne
+- Chaib Linda, Comédienne
 + Chalet Selena, comédienne
+- Chalet Selena, Comédienne
 + Chapelot Benjamin, comédien
+- Chapelot Benjamin, Comédien
 + Charasson Olivier, acteur
+- Charasson Olivier, Acteur
 + Charretier Eloïse, actrice
+- Charretier Eloïse, Actrice
 + Chartier Maxime, acteur
+- Chartier Maxime, Acteur
 + Chaton Félicité, comédienne et metteuse en scène
+- Chaton Félicité, Comédienne et metteuse en scène
 + Chesneau Julien, comédien
 + Chevillotte Louise, comédienne et metteuse en scène
+- Chevillotte Louise, comédienne, metteuse en scène
 + Chrisp Arthur, comédien
+- Chrisp Arthur, Comédien
 + Christin Thomas, comédien
+- Christin Thomas, Comédien
 + Cizeron George, comédien
 + Claude Coraline, actrice
 + Comby Lemaitre Théo, réalisateur et acteur
+- Comby Lemaitre Théo, Réalisateur et acteur
 + Comte Anne, comédienne
+- Comte Anne, Comédienne
 + Córdova Paola, comédienne
+- Córdova Paola, Comédienne
 + Cornu Solene, comédienne
+- Cornu Solene, Comédienne
 + Crossouard Gabin, comédien
 + Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+- Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 + Daniel Lola, actrice
+- Daniel Lola, Actrice
 + David Clélia, comédienne
+- de beauvais nina, comédienne
 + De beauvais nina, comédienne
 + de Broissia Inès, actrice
+- de Broissia Inès, Actrice
 + De Caro Alexandre, comédien
+- De Caro Alexandre, Comédien
 + de Foucauld Antoine, acteur
+- de Foucauld Antoine, Acteur
 + Delacour Michael, comédien
+- Delacour Michael, Comédien
 + Delahousse Floriane, comédienne
+- Delahousse Floriane, Comédienne
 + Delamarlière Hugues, acteur
+- Delamarlière Hugues, Acteur
 + de La Rochefoucauld Sophie, comédienne
+- de La Rochefoucauld Sophie, Comédienne
 + Delsaut Esteban, comédien
+- Delsaut Esteban, Comédien
 + Delwit Étienne, comédien
+- Delwit Étienne, Comédien
 + de Mezamat Aliénor, comédienne et réalisatrice
+- de Mezamat Aliénor, Comédienne et réalisatrice
 + Depeyre Marine, comédienne et metteuse en scène
+- Depeyre Marine, Comédienne, metteuse en scène
 + D’Erneville Floriane, actrice
+- D’Erneville Floriane, Actrice
 + Diallo Judy, comédien
+- Diallo Judy, Comédien
 + Di Domenico Fabio, comédien
+- Di Domenico Fabio, Comédien
 + Diénis Meulien Salomé, actrice
+- Diénis Meulien, Salomé Actrice
 + Doumenc Waléry, comédien
+- Doumenc Waléry, Comédien
 + Dubois Clément, comédien et figurant
+- Dubois Clément, Comédien / figurant
 ```
 
 ### Animation
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
 + Cortier Marine, animatrice 2D
+- Cortier Marine, Animatrice 2D
 + Créhange Joseph, animateur
+- Créhange Joseph, Animateur
 + Dorey Camille, animatrice 2D
+- Dorey Camille, Animatrice 2d
 + Ducarteron Clément, superviseur 3D
+- Ducarteron Clément, Superviseur 3D
 + Duch Geoffrey, superviseur 3D
 ```
 
 ### Casting
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
-
+0 nouveau(x) signataire(s) aujourd'hui
+# 
 + Calenda Roméo, directeur de casting et coach de comédien·nes
+- Calenda Roméo, directeur de Casting et coach de comédien·nes
 + Cantet Marie, directrice de casting
+- Cantet Marie, Directrice de casting
 + Chaillat Morgane, directrice de casting
+- Chaillat Morgane, Directrice de casting
 + De Becdelievre Mahaut, casting
+- De Becdelievre Mahaut, Casting
 + de Donceel Fanny, directrice de casting
+- de Donceel Fanny, Directrice de casting
 ```
 
 ### Décor
 
 ```diff
-38 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
 + Caperna Hélène, cheffe peintre
+- Caperna Hélène, Cheffe peintre
 + Castelain Julie, accessoiriste plateau
+- Castelain Julie, Accessoiriste-plateau
 + Cavalier Charlotte, peintre
+- Cavalier Charlotte, Peintre
 + Chabrand Gilles, accessoiriste aux meubles
+- Chabrand Gilles, Accessoiriste aux meubles
 + Champel Mathieu, peintre décors
+- Champel Mathieu, Peintre décors
+- Charrié Nina, Peintre deco
 + Charrié Nina, peintre déco
 + Ciavaldini Marjolaine, cheffe décoratrice
+- Ciavaldini Marjolaine, Cheffe décoratrice
 + Clauzier Benjamin, repéreur de décors et régisseur général
+- Clauzier Benjamin, Repéreur de décors et régisseur général
 + Claveries Cécile, peintre
+- Claveries Cécile, Peintre
 + Clercq-Roques Bertrand, assistant décorateur cinéma
+- Clercq-Roques Bertrand, Assistant décorateur Cinéma
 + Coleman Elio, assistant décorateur
+- Coleman Elio, Assistant décorateur
+- Combemale Solène, repéreuse de décor cinéma
 + Combemale Solène, repéreuse de décors cinéma
 + Combémorel-Bluntz Fanny, décoratrice
+- Combémorel-Bluntz Fanny, Décoratrice
 + Courreau Nelly, assistante déco
+- Courreau Nelly, Assistante déco
 + Courtois Edouard, peintre en lettres faux-bois
+- Courtois Edouard, Peintre en lettres faux-bois
 + Couzon Christophe, chef décorateur
+- Couzon Christophe, Chef décorateur
 + Creuzet Valérie, peintre
+- Creuzet Valérie, Peintre
 + Daculsi Estelle, assistante accessoiriste
+- Daculsi Estelle, Assistante Accessoiriste
 + Dagnas Axel, accessoiriste plateau
+- Dagnas Axel,  accessoiriste plateau
 + David Emilie, peintre
+- David Emilie, Peintre
+- Deboaisne Daphné, ensemblière, décoratrice
 + Deboaisne Daphné, ensemblière et décoratrice
 + De Laroche Paul, décorateur
+- De Laroche Paul, Décorateur
 + Delaunay Anne-Sophie, assistante décoratrice
+- Delaunay Anne-Sophie, Assistante décoratrice
 + Delbos Victor, accessoiriste de plateau
+- Delbos Victor, Accessoiriste de plateau
+- Deleu Arthur, chef décorateur, accessoiriste
 + Deleu Arthur, chef décorateur et accessoiriste
 + Delis Emmanuel, ensemblier décorateur
+- Delis Emmanuel, Ensemblier Décorateur
 + Delorme Hugues, machiniste déco
+- Delorme Hugues, Machiniste déco
 + Demarle Yannick, rippeur
+- Demarle Yannick, Rippeur
 + De Stoutz Caroline, peintre patineur
+- De Stoutz Caroline, Peintre Patineur
 + Desvigne Lena, décoration
+- Desvigne Lena, Décoration
 + Deweppe Sarah, 1e assistante décoratrice
+- Deweppe Sarah, 1ère assistante décoratrice
+- Dorado Olivia, Enseignante-chercheuse en cinéma, décoratrice
 + Dorado Olivia, enseignante-chercheuse en cinéma et décoratrice
 + Dore Antoine, décorateur
+- Dore Antoine, Décorateur
 + Dos Marie, chef peintre
 + D’ovidio Catherine, cheffe décoratrice
+- D’ovidio Catherine, Cheffe décoratrice
 + Drouhot Vincent, peintre décorateur
+- Drouhot Vincent, Peintre décorateur
+- Ducos Thomas, Chef decorateur
 + Ducos Thomas, chef décorateur
 + Dufour Néhémie, décorateur
+- Dufour Néhémie, Décorateur
 ```
 
 ### Distribution
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
-
+0 nouveau(x) signataire(s) aujourd'hui
+# 
 + Arnaud Dommerc, producteur et distributeur
 + Choukroun Jacques, distributeur et maître de conférence cinéma
+- Choukroun Jacques, distributeur et Maître de conférence cinéma
+- Crance Philouze Coline, Distributeur
 + Crance Philouze Coline, distributrice
+- Dommerc, producteur et distributeur
 ```
 
 ### Électricien.ne
 
 ```diff
-9 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
+- Chaude Jonathan, Electricien
 + Chaude Jonathan, électricien
 + Chevrier Constance, électricienne
 + Choron Gaspard, électricien prises de vues
+- Choron Gaspard, électricien prises de vues Cinéma
+- Cros Marion, Electricienne
 + Cros Marion, électricienne
 + Curt Nathan, électricien
+- Curt Nathan, Électricien
 + Dabirand Ronan, électricien
+- Dabirand Ronan, électro
 + Dardelet Hugo, électricien
+- Dardelet Hugo,  électricien
 + Delavoipiere Max, électricien
+- Delavoipiere Max, Électricien
 + Destouches Dorine, électricienne de plateau
+- Destouches Dorine, Électricienne de plateau
 ```
 
 ### Exploitation
 
 ```diff
-18 nouveau(x) signataire(s) aujourd'hui
-
+4 nouveau(x) signataire(s) aujourd'hui
+# 
 + Capello Benoît, exploitant de cinéma indépendant
+- Capello Benoît, Exploitant de cinéma indépendant
 + Claret Paul-Marie, exploitant
+- Claret Paul-Marie, Exploitant
 + Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
+- Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 + Cogan Emma, projectionniste
+- Cogan Emma, Projectionniste
 + Coquillaud-Coudreau Philippe, exploitant
+- Coquillaud-Coudreau Philippe, Exploitant
 + Cordier Virginie, programmatrice spectacle
+- Cordier Virginie, Programmatrice spectacle
 + Cossy Laure-Anne, exploitante
 + Czarny Marion, programmatrice
 + Da Cruz Araujo Aniceto, projectionniste
+- Da Cruz Araujo Aniceto, Projectionniste
 + De chaumont Benoît, exploitant
+- De chaumont Benoît, Exploitant
 + de Lacotte Marguerite, directrice de salle de cinéma
+- de Lacotte Marguerite, directrice salle de cinéma
 + de La Forest Violette, programmatrice
 + Delaisse Else, projectionniste
+- Delaisse Else, Projectionniste
 + Denzler Claire, programmation
+- Denzler Claire, Programmation
 + Dethoury Benoît, exploitant et médiateur jeune public et scolaire
+- Dethoury Benoît, Exploitant et médiateur jeune public et scolaire
 + Douard Yvan, projectionniste
+- Douard Yvan, projectionniste cinémas Studio
 + Dreyfus Muriel, programmatrice de films
 + Dufeu Laurent, directeur de réseau de salles de cinéma  
+- Dufeu Laurent, Graines d’Images, Directeur de réseau de salles de cinéma  
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-19 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
 + Caravati Marilou, costumière
+- Caravati Marilou, Costumière
+- Charchaude Laurent, Regisseur costume
 + Charchaude Laurent, régisseur costume
 + Chemtov Bastien, régisseur costume
+- Chemtov Bastien, Régisseur costume
 + Colet Marie, maquilleuse
+- Colet Marie, Maquilleuse
 + Colin Florence, maquilleuse
+- Colin Florence, Maquilleuse
 + Collobert Céline, costumière
+- Collobert Céline, Costumière
 + Crétault Odile, costumière
+- Crétault Odile, Costumière
 + Danglades Maë-Li, costumière
+- Danglades Maë-Li, Costumière
 + De Balthasar Albane, maquilleuse
+- De Balthasar Albane, Maquilleuse
 + De Beco Edith, costumière
+- De Beco Edith, Costumière
 + Dehee Jeanne, maquilleuse
+- Dehee Jeanne, Maquilleuse
 + Delabrière Selma, costumière
+- Delabrière Selma, Costumière
 + Del Frate Téo, coiffeur
+- Del Frate Téo, Coiffeur
 + De Neve Guerrero Wendy, maquilleuse
+- De Neve Guerrero Wendy, Maquilleuse
+- Dian Claire, habilleuse, costumière
 + Dian Claire, habilleuse et costumière
 + Diehl Natacha, costumière
+- Diehl Natacha, Costumière
 + Di Paolo Caroline, costumière
+- Di Paolo Caroline, Costumière
 + Dollon Josepha, habilleuse
+- Dollon Josepha, Habilleuse
 + Dubien Claire, créatrice costumes
 ```
 
 ### Image
 
 ```diff
-53 nouveau(x) signataire(s) aujourd'hui
-
+6 nouveau(x) signataire(s) aujourd'hui
+# 
 + Cancoin Melen, assistant caméra
+- Cancoin Melen, Assistant caméra
+- Caniaux Laure, 1e assistante opv
 + Caniaux Laure, 1e assistante OPV
 + Cantat Xavier, photographe
+- Cantat Xavier, Photographe
 + Cardot Floriane, réalisatrice, scénariste et photographe
+- Cardot Floriane, Réalisatrice, scénariste, photographe
 + Carles Jérôme, directeur de la photographie
+- Carles Jérôme, Directeur de la photographie
 + Carrillo Célia, cheffe opératrice
 + Carrion Benjamin, chef opérateur de prises de vues
+- Carrion Benjamin, Chef opérateur de prises de vues
+- Casang Michel, Chef operateur du son
 + Casang Michel, chef opérateur du son
 + Castelnot Frédéric, photographe de plateau
+- Castelnot Frédéric, Photographe de plateau
 + Castelnot Morgan, assistant caméra
 + Catonné François, directeur de la photo
+- Catonné François, Directeur de la photo
 + Cercleux Laurent, chef opérateur du son
+- Cercleux Laurent, Chef opérateur du son
 + Chambon Olivier, directeur de la photographie et étalonneur
+- Chambon Olivier, Directeur photo, étalonneur
 + Chambras Pauline, directrice artistique
 + Chamerat Guillaume, 1er assistant caméra
+- Chamerat Guillaume, 1er Assistant caméra
 + Chanu Clara, assistante caméra
+- Chanu Clara, Assistante caméra
 + Chareyre Marie, 2e assistante OPV
+- Chareyre Marie, Seconde assistante opv
 + Chauvin Christophe, chef opérateur
+- Chauvin Christophe, Chef opérateur
 + Chauvin Paul, directeur de la photographie
 + Chénieux Louis, assistant caméra
+- Chénieux Louis, Assistant caméra
 + Cherix Pepita, cheffe opératrice et réalisatrice
+- Cherix Pepita, cheffe opératrice/réalisatrice
 + Cognet Paul, assistant-opérateur
+- Cognet Paul, Assistant-opérateur
 + Collot Jean, chef opérateur du son
+- Collot Jean, Chef opérateur du son
 + Colomer Pierre, photographe et éclairagiste
+- Colomer Pierre, Photographe et éclairagiste
 + Conduché Yanis, 3e assistant caméra
+- Conduché Yanis, 3ème assistant caméra
 + Crapoulet Thierry, régisseur lumière
 + Cravatte Muriel, directrice de la photo et réalisatrice
+- Cravatte Muriel, directrice de la photo, réalisatrice
 + Crinquette-Yonnet Thomas, cadreur et réalisateur
+- Crinquette-Yonnet Thomas, Cadreur / réalisateur
 + Dabry Claire, 1e assistante opérateur prises de vues
+- Dabry Claire, 1ère assistante opérateur prises de vues
+- Darnet Muriel, Operateur de prises de vues
 + Darnet Muriel, opérateur de prises de vues
 + Dean Erwan, directeur de la photographie
+- Dean Erwan, Directeur de la Photographie
 + Deblonde Nicolas, cadreur
+- Deblonde Nicolas, Cadreur
+- de Canson Cyrille Mixeur, Chef opérateur son
 + de Canson Cyrille, Mixeur et chef opérateur son
 + Decarsin Yolande, cheffe opératrice du son
+- Decarsin Yolande, Cheffe opératrice du son
+- Decerle Mehdi, chef opérateur, assistant caméra
 + Decerle Mehdi, chef opérateur et assistant caméra
 + Degrandcourt Hélène, 1e assistante caméra
+- Degrandcourt Hélène, 1ere assistante caméra
 + De la Hautemaisn Julien, chef opérateur son
+- De la Hautemaisn Julien, Chef Opérateur Son
 + Delasalle Patricia, cheffe opératrice son
+- Delasalle Patricia, chef opératrice son
 + Delavigne Thibault, chef opérateur
+- Delavigne Thibault, Chef opérateur
 + Delbonnel Bruno, directeur de la photographie
+- Delbonnel Bruno, Directeur de la photographie
 + Delsert Guillaume, directeur de la Photographie
 + Demaison Marie, directrice de la photographie
+- Demaison Marie, Directrice de la Photographie
+- Dercourt Agathe, Premiere assistante camera
 + Dercourt Agathe, première assistante caméra
 + Desnoyelles Arthur, assistant Caméra
+- Desnoyelles Arthur, Assistant Caméra
 + Desprez Bertrand, photographe
+- Desprez Bertrand, Photographe
 + Dessal Mathis, assistant caméra
+- Dessal Mathis, Assistant caméra
+- Djellouli Lorenzo, Opérateur de prise de vue
 + Dorelli Philippe, cadreur
 + Dralliag Mathilde, cheffe opératrice
+- Dralliag Mathilde, Cheffe opératrice
 + Dreujou Jean-Marie, directeur de la photographie
+- Dreujou Jean-Marie, Directeur de la photographie
 + Drevillon Lise, 1e assistante caméra
+- Drevillon Lise, 1ere assistante caméra
 + Drouot Olivier, réalisateur et chef opérateur
 + Ducourau Anne, chef opératrice son
+- Ducourau Anne, Chef opératrice son
+- Dufeu Laurent, Graines d’Images, Directeur de réseau de salles de cinéma  
 + du Parc Ava, photographe
+- du Parc Ava, Photographe
 ```
 
 ### Machiniste
 
 ```diff
-11 nouveau(x) signataire(s) aujourd'hui
-
+0 nouveau(x) signataire(s) aujourd'hui
+# 
 + Chaudagne Benjamin, machiniste
+- Chaudagne Benjamin, Machiniste
 + Cointre Charlie, machiniste
+- Cointre Charlie, Machiniste
 + Darvogne Margot, machiniste de construction
+- Darvogne Margot, Machiniste de construction
 + David Thibault, machiniste
+- David Thibault, Machiniste
 + de Gramont Guilhem, machiniste
+- de Gramont Guilhem, Machiniste
 + Delmotte Morgane, machiniste prise de vue
+- Delmotte Morgane, Machiniste prise de vue
 + Delorme Hugues, machiniste déco
+- Delorme Hugues, Machiniste déco
 + Demaille Carl, chef machiniste
+- Demaille Carl, Chef-machiniste
 + Dépée Johanne, machiniste de prise de vue
+- Dépée Johanne, Machiniste de prise de vue
 + Derriks Fleur, machiniste
+- Derriks Fleur, Machiniste
 + Dhorne Wilfried, machiniste
+- Dhorne Wilfried, Machiniste
 ```
 
 ### Post production
 
 ```diff
-25 nouveau(x) signataire(s) aujourd'hui
-
+0 nouveau(x) signataire(s) aujourd'hui
+# 
 + Cancelli Théo, monteur son et mixeur
+- Cancelli Théo, Monteur son, mixeur
 + Carteret Marie-Pomme, monteuse
+- Carteret Marie-Pomme, Monteuse
 + Casamian Vivien, monteur
+- Casamian Vivien, Monteur
 + Chagnaud Cécile, monteuse
+- Chagnaud Cécile, Monteuse
 + Chambon Olivier, directeur de la photographie et étalonneur
+- Chambon Olivier, Directeur photo, étalonneur
 + Chambrun Arthur, monteur et ingénieur du son
+- Chambrun Arthur, monteur, ingénieur du son
 + Chantraine Timéon, monteur
+- Chantraine Timéon, Monteur
+- Charrier Maxime, Etalonneur
 + Charrier Maxime, étalonneur
 + Chavance Pascale, monteur
 + Chigot Julien, monteur
+- Chigot Julien, Monteur
 + Comiot Laurence, cheffe monteuse
+- Comiot Laurence, Cheffe monteuse
 + Conort Antoine, monteur
+- Conort Antoine, Monteur
 + Corroler Marius, assistant monteur
+- Corroler Marius, Assistant monteur
 + Cotte Camille, monteuse
+- Cotte Camille, Monteuse
 + Dario Isabelle, réalisatrice et monteuse
+- Dario Isabelle, Réalisatrice - Monteuse
 + Delaage Sofi, monteuse et réalisatrice
+- Delaage Sofi, monteuse, réalisatrice
 + De Loof Valérie, monteuse son
+- De Loof Valérie, Monteuse son
 + Denis Emilien, monteur
+- Denis Emilien, Monteur
 + Depret Tiphaine, monteuse son
+- Depret Tiphaine, Monteuse son
 + Derail Jean-Philippe, cinéaste et monteur
+- Derail Jean-Philippe, Cinéaste et Monteur
+- Descannevelle Adrien, Chargé•e de Post Production
 + Dessertine Cécille, monteuse
+- Dessertine Cécille, Monteuse
 + Destrez Zoe, assistante-monteuse
+- Destrez Zoe, Assistante-monteuse
 + Detournay Caroline, monteuse
+- Detournay Caroline, Monteuse
 + Donnet Antoine, monteur
+- Donnet Antoine, Monteur
 + Dufreche Laurent, monteur et post-producteur
+- Dufreche Laurent, Monteur et Postproducteur
 ```
 
 ### Production
 
 ```diff
-31 nouveau(x) signataire(s) aujourd'hui
-
+4 nouveau(x) signataire(s) aujourd'hui
+# 
 + Arnaud Dommerc, producteur et distributeur
 + Carré Jean-Michel, auteur, réalisateur et producteur
+- Carré Jean-Michel, auteur, réalisateur, producteur
 + Cavalier Laurent, producteur exécutif cinéma et audiovisuel
+- Cavalier Laurent, Producteur exécutif Ciné, TV
 + Chabot Eric, directeur de production
+- Chabot Eric, Directeur de Production
 + Chappedelaine Moïra, productrice
+- Chaussel Stephane, assistant de production
 + Chaussel Stéphane, assistant de production
 + Chevrier Agathe, productrice
 + Chretien Maitena, directrice de production
+- Chretien Maitena, Directrice de production
 + Clairet Sara, directrice de production
+- Clairet Sara, Directrice de production
 + Claisse Ilya, directeur de Production
+- Claisse Ilya, Directeur de Production
 + Clément Vanessa, productrice
+- Clément Vanessa, Productrice
 + Cohen Fiona, productrice
+- Cohen Fiona, Productrice
 + Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
+- Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
 + Coulibaly Souleymane, journaliste et producteur radio
+- Coulibaly Souleymane, Journaliste Producteur Radio
 + Coulon Quentin, producteur
 + Courtin Christophe, directeur de production
+- Courtin Christophe, Directeur de production
 + Cpuzis Tatiana, chargée de production
+- Cpuzis Tatiana, chargée de Production
 + Cretagne Thierry, directeur de production
+- Cretagne Thierry, Directeur de production
 + Csinidis Jean-Laurent, producteur
+- Csinidis Jean-Laurent, Producteur
 + Daguerre Fabien, directeur de post-production
+- Daguerre Fabien, Directeur de postproduction
 + Daguerre Sarah, chargée de production
+- Daguerre Sarah, Chargée de production
 + Dedet Antonin, producteur
+- Dedet Antonin, Producteur
 + Defossez Nathalie, productrice
+- Defossez Nathalie ,Productrice
 + Delluc Noélène, directrice de production
+- Delluc Noélène, Directrice de production
 + Descannevelle Adrien, chargé·e de post-production
 + Deschamps de Lepine Jeanne, assistante de production
+- Deschamps de Lepine Jeanne, Assistante de production
 + Deschamps Jean, producteur
+- Deschamps Jean, Producteur
 + Djivas Philippe, producteur
+- Djivas Philippe, Producteur
+- Dommerc, producteur et distributeur
 + Doroszlai Edmée, productrice, autrice et réalisatrice
+- Doroszlai Edmée, productrice, autrice, réalisatrice
 + Dufour Eric, producteur de documentaires
+- Dufour Eric, Producteur documentaire
 + Dufreche Laurent, monteur et post-producteur
+- Dufreche Laurent, Monteur et Postproducteur
 ```
 
 ### Réalisation
 
 ```diff
-95 nouveau(x) signataire(s) aujourd'hui
-
+10 nouveau(x) signataire(s) aujourd'hui
+# 
 + Capeĺle Aline, réalisatrice
+- Capeĺle Aline, Réalisatrice
 + Carcedo Zazie, 1e assistante à la réalisation
+- Carcedo Zazie, 1ère assistante à la réalisation
 + Cardot Floriane, réalisatrice, scénariste et photographe
+- Cardot Floriane, Réalisatrice, scénariste, photographe
 + Carpintieri Aude, comédienne et metteuse en scène
+- Carpintieri Aude Comédienne, Metteuse en scène
 + Carquille Emmanuel, cinéaste
+- Carquille Emmanuel, Cinéaste
 + Carré Alexandre, cinéaste
+- Carré Alexandre, Cinéaste
 + Carré Jean-Michel, auteur, réalisateur et producteur
+- Carré Jean-Michel, auteur, réalisateur, producteur
 + Cattinari Damien, réalisateur
+- Cattinari Damien, Réalisateur
 + Celesia Alessandra, réalisateur
 + Chadeau Zoé, réalisatrice
+- Chadeau Zoé, Réalisatrice
 + Chagnard Patrice, cinéaste
+- Chagnard Patrice, Cinéaste
 + Champagnac Xavier, réalisateur
+- Champagnac Xavier, Réalisateur
 + Chapoulie Jean-Marc, réalisateur
 + Chatard Philippe, réalisateur
+- Chatard Philippe, Réalisateur
 + Chaton Félicité, comédienne et metteuse en scène
+- Chaton Félicité, Comédienne et metteuse en scène
 + Chausse David, réalisateur
+- Chausse David, Réalisateur
 + Chazot Rémi, travailleur de festivals et cinéaste
+- Chazot Rémi, travailleur festivals, cinéaste
 + Chêne Marie, assistante mise en scène
 + Cherix Pepita, cheffe opératrice et réalisatrice
+- Cherix Pepita, cheffe opératrice/réalisatrice
 + Chevallier Benjamin, réalisateur
+- Chevallier Benjamin, Réalisateur
 + Cheval Virginie, scripte
+- Cheval Virginie, Scripte
+- Chevet Brigitte, Réalisatrice
 + Chevillotte Louise, comédienne et metteuse en scène
+- Chevillotte Louise, comédienne, metteuse en scène
 + Chour David, assistant-réalisateur
+- Chour David, Assistant-réalisateur
 + Chrétien Lou, réalisatrice
 + Ciccolella Claude, réalisateur
+- Ciccolella Claude, Réalisateur
 + Civeyrac Jean-Paul, réalisateur
+- Civeyrac Jean Paul, réalisateur
 + Claret Boris, réalisateur
+- Claret Boris, Réalisateur
 + Coché Adrien, assistant mise en scène
+- Coché Adrien, Assistant mise en scène
 + Cochinaire Célia, scripte
+- Cochinaire Célia, Scripte
 + Coda Lucile, réalisatrice
 + Cohen Cleo, réalisatrice
+- Cohen Cleo, Réalisatrice
 + Cohendet Paul, scripte
+- Cohendet Paul, Scripte
 + Cohen Grégory, réalisateur
+- Cohen Grégory, Réalisateur
 + Cohen Hervé, réalisateur
+- Cohen Hervé, Réalisateur
 + Coillard Mael, réalisateur
+- Coillard Mael, Réalisateur
 + Coloma Tristan, auteur-Réalisateur
+- Coloma Tristan, Auteur-Réalisateur
 + Comby Lemaitre Théo, réalisateur et acteur
+- Comby Lemaitre Théo, Réalisateur et acteur
 + Connor Eric, réalisateur
+- Connor Eric, Réalisateur
 + Connor Keri, assistante mise en scène
+- Connor Keri, Assistante mise en scène
 + Correa Stéphane, réalisateur de documentaire
+- Correa Stéphane, Réalisateur de documentaire
 + Coss Simon, auteur et réalisateur
+- Coss Simon, Auteur, Réalisateur
 + Cotard Daniel, cinéaste
 + Couette Anaïs, assistante réalisatrice
+- Couette Anaïs, Assistante réalisatrice
 + Coulon Lorris, réalisateur
+- Coulon Lorris, Réalisateur
 + Courcier Emeline, réalisatrice
+- Courcier Emeline, Réalisatrice
 + Cousin Orsa, assistante mise en scène
+- Cousin Orsa, Assistante mise en scène
 + Couture Léo, réalisateur
+- Couture Léo, Réalisateur
 + Cravatte Muriel, directrice de la photo et réalisatrice
+- Cravatte Muriel, directrice de la photo, réalisatrice
 + Creutz Barbara, scénographe et réalisatrice
+- Creutz Barbara, Scénographe, realisatrice
 + Crinquette-Yonnet Thomas, cadreur et réalisateur
+- Crinquette-Yonnet Thomas, Cadreur / réalisateur
 + Cristiani Jean-Noël, réalisateur de films
+- Cristiani Jean-Noël, Réalisateur de films
 + Cuau Emmanuelle, réalisatrice et scénariste
+- Cuau Emmanuelle, réalisatrice, scénariste
 + Da costa David, auteur et réalisateur
+- Da costa David, auteur, réalisateur
 + Dahmani Valentin, assistant mise en scène
+- Dahmani Valentin, Assistant mise en scène
 + Daigné Nadine, assistante de réalisation
+- Daigné Nadine, Assistante de réalisation
 + Dampierre Sylvaine, réalisatrice
+- Dampierre Sylvaine, Réalisatrice
 + Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+- Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 + Darfeuil Julie, scripte
+- Darfeuil Julie, Scripte
 + Dario Isabelle, réalisatrice et monteuse
+- Dario Isabelle, Réalisatrice - Monteuse
 + Dartigue Maylis, auteure-réalisatrice
+- Dartigue Maylis, Auteure-réalisatrice
 + Dauger Sonia, autrice-réalisatrice
+- Dauger Sonia, Autrice Réalisatrice
 + Dauget Emma, scripte
+- Dauget Emma, Scripte
 + Daurier David, réalisateur et sound designer
+- Daurier David, Réalisateur, sound designer
 + Davis Judith, cinéaste
+- Davis Judith, Cinéaste
 + Debaty Martine, réalisatrice
+- Debaty Martine, Réalisatrice
 + de Clerck Alix, autrice-réalisatrice
 + Defert Cédric, réalisateur
+- Defert Cédric, Réalisateur
+- Degen Théo, Cineaste
 + Degen Théo, cinéaste
 + de Hillerin Marguerite, scénariste et réalisatrice
+- de Hillerin Marguerite, Scénariste et réalisatrice
 + Delaage Sofi, monteuse et réalisatrice
+- Delaage Sofi, monteuse, réalisatrice
 + Delvaux Ellie, réalisatrice
+- Delvaux Ellie, Réalisatrice
 + Dementhon Clémence, assistante mise en scène
+- Dementhon Clémence, Assistante mise en scène
 + de Mezamat Aliénor, comédienne et réalisatrice
+- de Mezamat Aliénor, Comédienne et réalisatrice
 + Démoris Emmanuelle, réalisatrice
+- Démoris Emmanuelle, Réalisatrice
 + Denolly Margot, assistante réalisatrice
+- Denolly Margot, Assistante réalisatrice
 + Depeyre Marine, comédienne et metteuse en scène
+- Depeyre Marine, Comédienne, metteuse en scène
 + Derail Jean-Philippe, cinéaste et monteur
+- Derail Jean-Philippe, Cinéaste et Monteur
 + de Sagazan Lorraine, metteuse en scène
+- de Sagazan Lorraine, Metteuse en scène
 + Desaint-Acheul Mayliss, scripte
+- Desaint-Acheul Mayliss, Scripte
 + de Saint-Blanquat Romain, réalisateur
+- de Saint-Blanquat Romain, Réalisateur
 + Desmettre Victor, réalisateur
+- Desmettre Victor, Réalisateur
 + Despaux Wendt Lorraine, assistante réalisatrice
 + Desplanques Hélène, réalisatrice
+- Desplanques Hélène, Réalisatrice
 + Deutsch Pauline, réalisatrice et scénariste
+- Deutsch Pauline, Réalisatrice et scénariste
 + Dhalli Marie, assistant à la réalisation
+- Dhalli Marie, Assistant à la réalisation
 + Dietrich Claire, réalisatrice
 + Dion Cyril, auteur et réalisateur
+- Dion Cyril Auteur, réalisateur
 + Dogan Hasan, réalisateur
+- Dogan Hasan, Réalisateur
 + Domeignoz Horta Pedro, auteur et réalisateur  
+- Domeignoz Horta Pedro, auteur, réalisateur  
 + Dorival Clémen, réalisateur
 + Doroszlai Edmée, productrice, autrice et réalisatrice
+- Doroszlai Edmée, productrice, autrice, réalisatrice
 + Dozières Judith, scripte
+- Dozières Judith, Scripte
 + Dréan Céline, autrice réalisatrice
+- Dréan Céline, Autrice réalisatrice
 + Drouot Olivier, réalisateur et chef opérateur
 + Dudoignon-Valade Charles, cinéaste
+- Dudoignon-Valade Charles, Cinéaste
 ```
 
 ### Régie
 
 ```diff
-23 nouveau(x) signataire(s) aujourd'hui
-
+5 nouveau(x) signataire(s) aujourd'hui
+# 
 + Caillibot Stan, régisseur
 + Carlat Chloé, régisseuse
+- Carlat Chloé, Régisseuse
 + Carteron Coline, régisseuse d’extérieurs
+- Carteron Coline, Régisseuse d’extérieurs
 + Causin Joffrey, régisseur général
+- Charchaude Laurent, Regisseur costume
 + Charchaude Laurent, régisseur costume
 + Chemtov Bastien, régisseur costume
+- Chemtov Bastien, Régisseur costume
 + Cherdo Titi, régisseur d&
+- Cherdo Titi, Régisseur d&
+- Chotard Antoine, Régisseur
 + Cittone Claire, auxiliaire régie cinéma
+- Cittone Claire , auxiliaire Régie Cinéma
 + Clauzier Benjamin, repéreur de décors et régisseur général
+- Clauzier Benjamin, Repéreur de décors et régisseur général
 + Cochet Zita, technicienne vidéo
+- Cochet Zita, Technicienne vidéo
 + Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
+- Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
 + Cramesnil de Laleu Maëla, régisseuse d’extérieur
+- Cramesnil de Laleu Maëla, Régisseuse d’extérieur
 + Crapoulet Thierry, régisseur lumière
 + Dancourt Killian, régisseur adjoint
 + Dau Anaëlle, assistante régisseuse
 + David Eloïse, régisseuse
+- David Eloïse, Régisseuse
 + Degrange Michel, régisseur général cinéma
+- Degrange Michel, Régisseur général cinéma
 + Dekonink Jeanne, régisseuse d&
+- Dekonink Jeanne, Régisseuse d&
 + Descubes Caroline, régisseur d’extérieur
 + Didelot Sébastien, régisseur général
+- Didelot Sébastien, Régisseur général
 + Di Sturco Laureen, régisseuse
+- Di Sturco Laureen, Régisseuse
 + Djellouli Angela, régisseuse
+- Djellouli Angela, Régisseuse
 + Ducrocq Axel, régisseur
+- Ducrocq Axel, Régisseur
 ```
 
 ### Scénariste
 
 ```diff
-25 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
 + Cardot Floriane, réalisatrice, scénariste et photographe
+- Cardot Floriane, Réalisatrice, scénariste, photographe
 + Carpentier Alice, scénariste
+- Carpentier Alice, Scénariste
 + Carpintieri Aude, comédienne et metteuse en scène
+- Carpintieri Aude Comédienne, Metteuse en scène
 + Chaton Félicité, comédienne et metteuse en scène
+- Chaton Félicité, Comédienne et metteuse en scène
 + Chêne Marie, assistante mise en scène
 + Chevillotte Louise, comédienne et metteuse en scène
+- Chevillotte Louise, comédienne, metteuse en scène
 + Coché Adrien, assistant mise en scène
+- Coché Adrien, Assistant mise en scène
 + Compagnon Lisa, autrice de documentaire / scénariste
+- Compagnon Lisa, Autrice de documentaire / scénariste
 + Connor Keri, assistante mise en scène
+- Connor Keri, Assistante mise en scène
 + Cousin Orsa, assistante mise en scène
+- Cousin Orsa, Assistante mise en scène
 + Creseveur Christian, scénariste
+- Creseveur Christian, Scénariste
 + Cuau Emmanuelle, réalisatrice et scénariste
+- Cuau Emmanuelle, réalisatrice, scénariste
 + Dahmani Valentin, assistant mise en scène
+- Dahmani Valentin, Assistant mise en scène
 + Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+- Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 + Dang-Thaï Duong, scénariste
+- Dang-Thaï Duong, Scénariste
+- de Banville Marie, Scénariste
 + De Banville Marie, scénariste
 + De Catalogne Isabelle, scénariste
+- De Catalogne Isabelle, Scénariste
 + Defer Marion, scénariste
+- Defer Marion, Scénariste
 + de Hillerin Marguerite, scénariste et réalisatrice
+- de Hillerin Marguerite, Scénariste et réalisatrice
 + Dementhon Clémence, assistante mise en scène
+- Dementhon Clémence, Assistante mise en scène
 + Depeyre Marine, comédienne et metteuse en scène
+- Depeyre Marine, Comédienne, metteuse en scène
 + de Sagazan Lorraine, metteuse en scène
+- de Sagazan Lorraine, Metteuse en scène
 + Descamps Mathis, scénariste
+- Descamps Mathis, Scénariste
 + Destrez Isabelle, scénariste
+- Destrez Isabelle, Scénariste
 + Deutsch Pauline, réalisatrice et scénariste
+- Deutsch Pauline, Réalisatrice et scénariste
 ```
 
 ### Son
 
 ```diff
-36 nouveau(x) signataire(s) aujourd'hui
-
+1 nouveau(x) signataire(s) aujourd'hui
+# 
 + Cancelli Théo, monteur son et mixeur
+- Cancelli Théo, Monteur son, mixeur
 + Carron César, perchman
 + Cartigny France, musicienne
+- Cartigny France, Musicienne
+- Casang Michel, Chef operateur du son
 + Casang Michel, chef opérateur du son
 + Casassus Olivier, compositeur
+- Casassus Olivier, Compositeur
 + Cercleux Laurent, chef opérateur du son
+- Cercleux Laurent, Chef opérateur du son
 + Chabauty Amaury, compositeur
+- Chabauty Amaury, Compositeur
 + Chambrun Arthur, monteur et ingénieur du son
+- Chambrun Arthur, monteur, ingénieur du son
 + Chandon Pénélope, ingénieur du son
+- Chandon Pénélope, Ingénieur du son
 + Charuel Clémentine, compositrice
+- Charuel Clémentine, Compositrice
 + Chasles Justine, autrice compositrice interprète
+- Chasles Justine, Autrice compositrice interprète
 + Chu Arno, perchman
+- Chu Arno, Perchman
 + Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
+- Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 + Collignon Médéric, artiste musicien compositeur
+- Collignon Médéric, Artiste musicien compositeur
 + Collot Jean, chef opérateur du son
+- Collot Jean, Chef opérateur du son
 + Dancausse Christine, ingénieure du son
+- Dancausse Christine, Ingénieure du son
+- Darscotte Thibaut, Ingenieur du son
 + Darscotte Thibaut, ingénieur du son
+- de Canson Cyrille Mixeur, Chef opérateur son
 + de Canson Cyrille, Mixeur et chef opérateur son
 + Decarsin Yolande, cheffe opératrice du son
+- Decarsin Yolande, Cheffe opératrice du son
 + Dechaut Benoît, ingénieur du son
+- Dechaut Benoît, Ingénieur du son
 + De la Hautemaisn Julien, chef opérateur son
+- De la Hautemaisn Julien, Chef Opérateur Son
 + Delasalle Patricia, cheffe opératrice son
+- Delasalle Patricia, chef opératrice son
 + Delaunay Margot, assistante son
+- Delaunay Margot, Assistante son
 + Delobel Adrien, ingénieur du son
+- Delobel Adrien, Ingénieur du son
 + De Loof Valérie, monteuse son
+- De Loof Valérie, Monteuse son
 + Delplanque David, musicien
+- Delplanque David, Musicien
 + Delvecchio Camille, compositrice
+- Delvecchio Camille, Compositrice
 + Demoor Thibaut, perchman
+- Demoor Thibaut, Perchman
 + Depret Tiphaine, monteuse son
+- Depret Tiphaine, Monteuse son
 + de Sagey Jean, mixeur
+- de Sagey Jean, Mixeur
 + Donati Victor, mixeur
+- Donati Victor, Mixeur
 + Ducourau Anne, chef opératrice son
+- Ducourau Anne, Chef opératrice son
 + Dufait Thibaut, technicien son
+- Dufait Thibaut, Technicien son
 + Dufour Renaud, ingénieur du son
+- Dufour Renaud, Ingénieur du son
 + Duguet Robin, préparateur son
+- Duguet Robin, Préparateur Son
 + Esposito Julien, ingénieur du son
+- Esposito Julien, Ingénieur du son
 ```
 
 ### Autres
 
 ```diff
 58 nouveau(x) signataire(s) aujourd'hui
-
+# 
 + Carpentier Muriel, traductrice interprète
 + Carretero Alexandre, agent polyvalent de cinéma
 + Carrier Jean-Pierre, critique de cinéma
