@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 10:41:48
+Dernière mis à jour : 2026-05-27 11:11:57
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4250**|**+238**|**+576**|**+350**|
-|Acteur.ice, Comédien.ne|[452](#acteurice-comédienne-1)|[+30](#acteurice-comédienne)|||
+|**Tous les signataires**|**4255**|**+334**|**+576**|**+350**|
+|Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+42](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+2](#animation)|||
-|Casting|[38](#casting-1)|[+3](#casting)|||
-|Décor|[287](#décor-1)|[+20](#décor)|||
+|Casting|[38](#casting-1)|[+5](#casting)|||
+|Décor|[287](#décor-1)|[+27](#décor)|||
 |Distribution|[24](#distribution-1)|[+2](#distribution)|||
-|Électricien.ne|[151](#Électricienne-1)|[+6](#Électricienne)|||
-|Exploitation|[218](#exploitation-1)|[+9](#exploitation)|||
-|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+7](#habillage-maquillage-coiffure)|||
-|Image|[394](#image-1)|[+29](#image)|||
-|Machiniste|[80](#machiniste-1)|[+2](#machiniste)|||
-|Post production|[300](#post-production-1)|[+14](#post-production)|||
-|Production|[317](#production-1)|[+19](#production)|||
-|Réalisation|[1055](#réalisation-1)|[+53](#réalisation)|||
-|Régie|[156](#régie-1)|[+13](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+12](#scénariste)|||
-|Son|[325](#son-1)|[+16](#son)|||
-|Autres|[532](#autres-1)|[+31](#autres)|||
+|Électricien.ne|[151](#Électricienne-1)|[+8](#Électricienne)|||
+|Exploitation|[219](#exploitation-1)|[+13](#exploitation)|||
+|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+14](#habillage-maquillage-coiffure)|||
+|Image|[394](#image-1)|[+40](#image)|||
+|Machiniste|[80](#machiniste-1)|[+5](#machiniste)|||
+|Post production|[300](#post-production-1)|[+17](#post-production)|||
+|Production|[317](#production-1)|[+22](#production)|||
+|Réalisation|[1056](#réalisation-1)|[+73](#réalisation)|||
+|Régie|[158](#régie-1)|[+18](#régie)|||
+|Scénariste|[211](#scénariste-1)|[+20](#scénariste)|||
+|Son|[325](#son-1)|[+26](#son)|||
+|Autres|[532](#autres-1)|[+43](#autres)|||
 
 ## Derniers signataires 
 
-238 nouveau(x) signataire(s) aujourd'hui
+334 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-30 nouveau(x) signataire(s) aujourd'hui
+42 nouveau(x) signataire(s) aujourd'hui
 
 + Caillaud Simon, comédien
 + Candellier Anthony, comédien
@@ -68,6 +68,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Córdova Paola, comédienne
 + Cornu Solene, comédienne
 + Crossouard Gabin, comédien
++ Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
++ Daniel Lola, actrice
++ David Clélia, comédienne
++ De beauvais nina, comédienne
++ de Broissia Inès, actrice
++ De Caro Alexandre, comédien
++ de Foucauld Antoine, acteur
++ Delacour Michael, comédien
++ Delahousse Floriane, comédienne
++ Delamarlière Hugues, acteur
++ de La Rochefoucauld Sophie, comédienne
++ de Mezamat Aliénor, comédienne et réalisatrice
 + D’Erneville Floriane, actrice
 ```
 
@@ -83,17 +95,19 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Casting
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 
 + Calenda Roméo, directeur de casting et coach de comédien·nes
 + Cantet Marie, directrice de casting
 + Chaillat Morgane, directrice de casting
++ De Becdelievre Mahaut, casting
++ de Donceel Fanny, directrice de casting
 ```
 
 ### Décor
 
 ```diff
-20 nouveau(x) signataire(s) aujourd'hui
+27 nouveau(x) signataire(s) aujourd'hui
 
 + Caperna Hélène, cheffe peintre
 + Castelain Julie, accessoiriste plateau
@@ -114,6 +128,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Creuzet Valérie, peintre
 + Daculsi Estelle, assistante accessoiriste
 + Dagnas Axel, accessoiriste plateau
++ David Emilie, peintre
++ Deboaisne Daphné, ensemblière et décoratrice
++ De Laroche Paul, décorateur
++ Delaunay Anne-Sophie, assistante décoratrice
++ Delbos Victor, accessoiriste de plateau
++ Deleu Arthur, chef décorateur et accessoiriste
++ De Stoutz Caroline, peintre patineur
 + D’ovidio Catherine, cheffe décoratrice
 ```
 
@@ -129,7 +150,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+8 nouveau(x) signataire(s) aujourd'hui
 
 + Chaude Jonathan, électricien
 + Chevrier Constance, électricienne
@@ -137,12 +158,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cros Marion, électricienne
 + Curt Nathan, électricien
 + Dabirand Ronan, électricien
++ Dardelet Hugo, électricien
++ Delavoipiere Max, électricien
 ```
 
 ### Exploitation
 
 ```diff
-9 nouveau(x) signataire(s) aujourd'hui
+13 nouveau(x) signataire(s) aujourd'hui
 
 + Capello Benoît, exploitant de cinéma indépendant
 + Claret Paul-Marie, exploitant
@@ -153,12 +176,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cossy Laure-Anne, exploitante
 + Czarny Marion, programmatrice
 + Da Cruz Araujo Aniceto, projectionniste
++ De chaumont Benoît, exploitant
++ de Lacotte Marguerite, directrice de salle de cinéma
++ de La Forest Violette, programmatrice
++ Delaisse Else, projectionniste
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+14 nouveau(x) signataire(s) aujourd'hui
 
 + Caravati Marilou, costumière
 + Charchaude Laurent, régisseur costume
@@ -167,12 +194,19 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Colin Florence, maquilleuse
 + Collobert Céline, costumière
 + Crétault Odile, costumière
++ Danglades Maë-Li, costumière
++ De Balthasar Albane, maquilleuse
++ De Beco Edith, costumière
++ Dehee Jeanne, maquilleuse
++ Delabrière Selma, costumière
++ Del Frate Téo, coiffeur
++ De Neve Guerrero Wendy, maquilleuse
 ```
 
 ### Image
 
 ```diff
-29 nouveau(x) signataire(s) aujourd'hui
+40 nouveau(x) signataire(s) aujourd'hui
 
 + Cancoin Melen, assistant caméra
 + Caniaux Laure, 1e assistante OPV
@@ -203,21 +237,35 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cravatte Muriel, directrice de la photo et réalisatrice
 + Crinquette-Yonnet Thomas, cadreur et réalisateur
 + Dabry Claire, 1e assistante opérateur prises de vues
++ Darnet Muriel, opérateur de prises de vues
++ Dean Erwan, directeur de la photographie
++ Deblonde Nicolas, cadreur
++ de Canson Cyrille, Mixeur et chef opérateur son
++ Decarsin Yolande, cheffe opératrice du son
++ Decerle Mehdi, chef opérateur et assistant caméra
++ Degrandcourt Hélène, 1e assistante caméra
++ De la Hautemaisn Julien, chef opérateur son
++ Delasalle Patricia, cheffe opératrice son
++ Delavigne Thibault, chef opérateur
++ Delbonnel Bruno, directeur de la photographie
 ```
 
 ### Machiniste
 
 ```diff
-2 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 
 + Chaudagne Benjamin, machiniste
 + Cointre Charlie, machiniste
++ Darvogne Margot, machiniste de construction
++ David Thibault, machiniste
++ de Gramont Guilhem, machiniste
 ```
 
 ### Post production
 
 ```diff
-14 nouveau(x) signataire(s) aujourd'hui
+17 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carteret Marie-Pomme, monteuse
@@ -233,12 +281,15 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Conort Antoine, monteur
 + Corroler Marius, assistant monteur
 + Cotte Camille, monteuse
++ Dario Isabelle, réalisatrice et monteuse
++ Delaage Sofi, monteuse et réalisatrice
++ De Loof Valérie, monteuse son
 ```
 
 ### Production
 
 ```diff
-19 nouveau(x) signataire(s) aujourd'hui
+22 nouveau(x) signataire(s) aujourd'hui
 
 + Carré Jean-Michel, auteur, réalisateur et producteur
 + Cavalier Laurent, producteur exécutif cinéma et audiovisuel
@@ -258,13 +309,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cpuzis Tatiana, chargée de production
 + Cretagne Thierry, directeur de production
 + Csinidis Jean-Laurent, producteur
-+ Daguerre Fabien, directeur de postproduction
++ Daguerre Fabien, directeur de post-production
++ Daguerre Sarah, chargée de production
++ Dedet Antonin, producteur
++ Defossez Nathalie, productrice
 ```
 
 ### Réalisation
 
 ```diff
-53 nouveau(x) signataire(s) aujourd'hui
+73 nouveau(x) signataire(s) aujourd'hui
 
 + Capeĺle Aline, réalisatrice
 + Carcedo Zazie, 1e assistante à la réalisation
@@ -319,12 +373,32 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cristiani Jean-Noël, réalisateur de films
 + Cuau Emmanuelle, réalisatrice et scénariste
 + Da costa David, auteur et réalisateur
++ Dahmani Valentin, assistant mise en scène
++ Daigné Nadine, assistante de réalisation
++ Dampierre Sylvaine, réalisatrice
++ Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
++ Darfeuil Julie, scripte
++ Dario Isabelle, réalisatrice et monteuse
++ Dartigue Maylis, auteure-réalisatrice
++ Dauger Sonia, autrice-réalisatrice
++ Dauget Emma, scripte
++ Daurier David, réalisateur et sound designer
++ Davis Judith, cinéaste
++ Debaty Martine, réalisatrice
++ de Clerck Alix, autrice-réalisatrice
++ Defert Cédric, réalisateur
++ Degen Théo, cinéaste
++ de Hillerin Marguerite, scénariste et réalisatrice
++ Delaage Sofi, monteuse et réalisatrice
++ de Mezamat Aliénor, comédienne et réalisatrice
++ de Sagazan Lorraine, metteuse en scène
++ de Saint-Blanquat Romain, réalisateur
 ```
 
 ### Régie
 
 ```diff
-13 nouveau(x) signataire(s) aujourd'hui
+18 nouveau(x) signataire(s) aujourd'hui
 
 + Caillibot Stan, régisseur
 + Carlat Chloé, régisseuse
@@ -339,12 +413,17 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
 + Cramesnil de Laleu Maëla, régisseuse d’extérieur
 + Crapoulet Thierry, régisseur lumière
++ Dancourt Killian, régisseur adjoint
++ Dau Anaëlle, assistante régisseuse
++ David Eloïse, régisseuse
++ Degrange Michel, régisseur général cinéma
++ Dekonink Jeanne, régisseuse d&
 ```
 
 ### Scénariste
 
 ```diff
-12 nouveau(x) signataire(s) aujourd'hui
+20 nouveau(x) signataire(s) aujourd'hui
 
 + Cardot Floriane, réalisatrice, scénariste et photographe
 + Carpentier Alice, scénariste
@@ -358,12 +437,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cousin Orsa, assistante mise en scène
 + Creseveur Christian, scénariste
 + Cuau Emmanuelle, réalisatrice et scénariste
++ Dahmani Valentin, assistant mise en scène
++ Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
++ Dang-Thaï Duong, scénariste
++ De Banville Marie, scénariste
++ De Catalogne Isabelle, scénariste
++ Defer Marion, scénariste
++ de Hillerin Marguerite, scénariste et réalisatrice
++ de Sagazan Lorraine, metteuse en scène
 ```
 
 ### Son
 
 ```diff
-16 nouveau(x) signataire(s) aujourd'hui
+26 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carron César, perchman
@@ -380,13 +467,23 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
 + Collignon Médéric, artiste musicien compositeur
 + Collot Jean, chef opérateur du son
++ Dancausse Christine, ingénieure du son
++ Darscotte Thibaut, ingénieur du son
++ de Canson Cyrille, Mixeur et chef opérateur son
++ Decarsin Yolande, cheffe opératrice du son
++ Dechaut Benoît, ingénieur du son
++ De la Hautemaisn Julien, chef opérateur son
++ Delasalle Patricia, cheffe opératrice son
++ Delaunay Margot, assistante son
++ De Loof Valérie, monteuse son
++ de Sagey Jean, mixeur
 + Esposito Julien, ingénieur du son
 ```
 
 ### Autres
 
 ```diff
-31 nouveau(x) signataire(s) aujourd'hui
+43 nouveau(x) signataire(s) aujourd'hui
 
 + Carpentier Muriel, traductrice interprète
 + Carretero Alexandre, agent polyvalent de cinéma
@@ -419,6 +516,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Costes Olivia, technicienne
 + Cotinat Vincent, journaliste
 + Coué Maud, ensemblière cinéma
++ Daily Romane, influenceuse cinéma et attachée de presse
++ Dard Aurélie, attachée de presse
++ Dartois Christophe, agent de cinéma
++ De Bandt Benjamin, auteur
++ De Benedittis Axelle, coordinatrice de projet
++ De Bortoli Gabriel, marketing cinéma
++ Defouloy Mosoni Eva, administratrice partenariats festival
++ De Garidel Valentine, ensemblière
++ Delassis Nathalie, artiste chorégraphique
++ Deledicq Jeanne-Sarah, chanteuse
++ Deleu Cécile, ensemblière
++ Delilez Manuel, auteur-adaptateur
 ```
 
 
@@ -536,22 +645,23 @@ Cornu Solene, comédienne
 Cottu Delphine, comédienne
 Crossouard Gabin, comédien
 Dalric Olivia, actrice
-Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
-Daniel Lola, Actrice
+Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+Daniel Lola, actrice
+David Clélia, comédienne
 Dazi Slimane, comédien
-de beauvais nina, comédienne
+De beauvais nina, comédienne
 Deblock Francois, comédien  
-de Broissia Inès, Actrice
-De Caro Alexandre, Comédien
-de Foucauld Antoine, Acteur
-Delacour Michael, Comédien
-Delahousse Floriane, Comédienne
-Delamarlière Hugues, Acteur
-de La Rochefoucauld Sophie, Comédienne
+de Broissia Inès, actrice
+De Caro Alexandre, comédien
+de Foucauld Antoine, acteur
+Delacour Michael, comédien
+Delahousse Floriane, comédienne
+Delamarlière Hugues, acteur
+de La Rochefoucauld Sophie, comédienne
 de Lencquesaing Alice, comédienne
 Delsaut Esteban, Comédien
 Delwit Étienne, Comédien
-de Mezamat Aliénor, Comédienne et réalisatrice
+de Mezamat Aliénor, comédienne et réalisatrice
 Denarnaud Marie, comédienne
 Depeyre Marine, Comédienne, metteuse en scène
 D’Erneville Floriane, actrice
@@ -925,8 +1035,8 @@ Calenda Roméo, directeur de casting et coach de comédien·nes
 Cantet Marie, directrice de casting
 Chaillat Morgane, directrice de casting
 Cheron Nathalie, directrice de casting
-De Becdelievre Mahaut, Casting
-de Donceel Fanny, Directrice de casting
+De Becdelievre Mahaut, casting
+de Donceel Fanny, directrice de casting
 de Laubier Marie, réalisatrice - directrice de casting
 Escribano Durand Florence, Assistante de casting
 Fournier Leila, Directrice de casting
@@ -1037,19 +1147,19 @@ Creuzet Valérie, peintre
 Daculsi Estelle, assistante accessoiriste
 Dagnas Axel, accessoiriste plateau
 Dallera Axele, ripper
-David Emilie, Peintre
-Deboaisne Daphné, ensemblière, décoratrice
+David Emilie, peintre
+Deboaisne Daphné, ensemblière et décoratrice
 Debus Émilie, graphiste décoration
-De Laroche Paul, Décorateur
-Delaunay Anne-Sophie, Assistante décoratrice
+De Laroche Paul, décorateur
+Delaunay Anne-Sophie, assistante décoratrice
 Delbos Gomez Léa, décoratrice
-Delbos Victor, Accessoiriste de plateau
-Deleu Arthur, chef décorateur, accessoiriste
+Delbos Victor, accessoiriste de plateau
+Deleu Arthur, chef décorateur et accessoiriste
 De Leu Françoise, chef décoratrice
 Delis Emmanuel, Ensemblier Décorateur
 Delorme Hugues, Machiniste déco
 Demarle Yannick, Rippeur
-De Stoutz Caroline, Peintre Patineur
+De Stoutz Caroline, peintre patineur
 Desvigne Lena, Décoration
 Deweppe Sarah, 1ère assistante décoratrice
 Diaz Auguste, chef décorateur
@@ -1324,10 +1434,10 @@ Cros Marion, électricienne
 Curt Nathan, électricien
 Dabirand Ronan, électricien
 Da Costa pais Lucilio, chef électricien
-Dardelet Hugo,  électricien
+Dardelet Hugo, électricien
 Davy Charlotte, électricienne de prises de vue
 De Gonneville Colombe, électricienne
-Delavoipiere Max, Électricien
+Delavoipiere Max, électricien
 Dereuder Ronan, électricien
 Destouches Dorine, Électricienne de plateau
 Dolado Pablo, électricien de prise de vues cinéma
@@ -1494,9 +1604,10 @@ Czarny Marion, programmatrice
 Da Cruz Araujo Aniceto, projectionniste
 Debruyère Nasser, projectionniste
 de Calan Louise, programmatrice
-De chaumont Benoît, Exploitant
-de Lacotte Marguerite, directrice salle de cinéma
-Delaisse Else, Projectionniste
+De chaumont Benoît, exploitant
+de Lacotte Marguerite, directrice de salle de cinéma
+de La Forest Violette, programmatrice
+Delaisse Else, projectionniste
 Denzler Claire, Programmation
 Depardon Amélie, programmatrice
 Dethoury Benoît, Exploitant et médiateur jeune public et scolaire
@@ -1693,13 +1804,13 @@ Colin Florence, maquilleuse
 Collobert Céline, costumière
 Constantinides Michelle, chef maquilleuse
 Crétault Odile, costumière
-Danglades Maë-Li, Costumière
-De Balthasar Albane, Maquilleuse
-De Beco Edith, Costumière
-Dehee Jeanne, Maquilleuse
-Delabrière Selma, Costumière
-Del Frate Téo, Coiffeur
-De Neve Guerrero Wendy, Maquilleuse
+Danglades Maë-Li, costumière
+De Balthasar Albane, maquilleuse
+De Beco Edith, costumière
+Dehee Jeanne, maquilleuse
+Delabrière Selma, costumière
+Del Frate Téo, coiffeur
+De Neve Guerrero Wendy, maquilleuse
 Dian Claire, habilleuse, costumière
 Diehl Natacha, Costumière
 Diene Mossane, costumière
@@ -1902,19 +2013,19 @@ Crapoulet Thierry, régisseur lumière
 Cravatte Muriel, directrice de la photo et réalisatrice
 Crinquette-Yonnet Thomas, cadreur et réalisateur
 Dabry Claire, 1e assistante opérateur prises de vues
-Darnet Muriel, Operateur de prises de vues
-Dean Erwan, Directeur de la Photographie
-Deblonde Nicolas, Cadreur
-de Canson Cyrille Mixeur, Chef opérateur son
-Decarsin Yolande, Cheffe opératrice du son
-Decerle Mehdi, chef opérateur, assistant caméra
-Degrandcourt Hélène, 1ere assistante caméra
+Darnet Muriel, opérateur de prises de vues
+Dean Erwan, directeur de la photographie
+Deblonde Nicolas, cadreur
+de Canson Cyrille, Mixeur et chef opérateur son
+Decarsin Yolande, cheffe opératrice du son
+Decerle Mehdi, chef opérateur et assistant caméra
+Degrandcourt Hélène, 1e assistante caméra
 De gromard Paul, 1er assistant opérateur
-De la Hautemaisn Julien, Chef Opérateur Son
+De la Hautemaisn Julien, chef opérateur son
 Delahaye Jean-Baptiste, 1er assistant opérateur
-Delasalle Patricia, chef opératrice son
-Delavigne Thibault, Chef opérateur
-Delbonnel Bruno, Directeur de la photographie
+Delasalle Patricia, cheffe opératrice son
+Delavigne Thibault, chef opérateur
+Delbonnel Bruno, directeur de la photographie
 Demaison Marie, Directrice de la Photographie
 Dercourt Agathe, Premiere assistante camera
 Desaunay Henri, chef opérateur
@@ -2205,10 +2316,10 @@ Broyer Edwin, chef machiniste
 Cantier Clément, machiniste de prise de vue
 Chaudagne Benjamin, machiniste
 Cointre Charlie, machiniste
-Darvogne Margot, Machiniste de construction
-David Thibault, Machiniste
+Darvogne Margot, machiniste de construction
+David Thibault, machiniste
 Defline Hélène, machiniste
-de Gramont Guilhem, Machiniste
+de Gramont Guilhem, machiniste
 Delmotte Morgane, Machiniste prise de vue
 Delorme Hugues, Machiniste déco
 Demaille Carl, Chef-machiniste
@@ -2360,16 +2471,16 @@ Conti Doriane, monteuse
 Corroler Marius, assistant monteur
 Cotte Camille, monteuse
 Curtis Emily, monteuse
-Dario Isabelle, Réalisatrice - Monteuse
+Dario Isabelle, réalisatrice et monteuse
 Darras Laure-Anne, monteuse son
 Dartonne Monique, monteuse
 Darul Dimitri, chef-monteur et étalonneur
 David Amrita, monteuse
 Decelle Louise, cheffe monteuse
-Delaage Sofi, monteuse, réalisatrice
+Delaage Sofi, monteuse et réalisatrice
 de Lescure Jean-Baptiste, chef-monteur
 Delom Laureline, monteuse
-De Loof Valérie, Monteuse son
+De Loof Valérie, monteuse son
 Denis Emilien, Monteur
 Depret Tiphaine, Monteuse son
 Derail Jean-Philippe, Cinéaste et Monteur
@@ -2682,15 +2793,15 @@ Courtin Christophe, directeur de production
 Cpuzis Tatiana, chargée de production
 Cretagne Thierry, directeur de production
 Csinidis Jean-Laurent, producteur
-Daguerre Fabien, directeur de postproduction
-Daguerre Sarah, Chargée de production
+Daguerre Fabien, directeur de post-production
+Daguerre Sarah, chargée de production
 Dahout Laure, productrice
 Daïen Dasi Inès, productrice
 David Jules, producteur
-Dedet Antonin, Producteur
+Dedet Antonin, producteur
 de Fonseca Sébastien, secrétaire général de festival et producteur
 Defosse Noémie, chargée de production
-Defossez Nathalie ,Productrice
+Defossez Nathalie, productrice
 de Givry Félix, réalisateur et producteur
 Delluc Noélène, Directrice de production
 Deschambres Maud, productrice  
@@ -3187,35 +3298,36 @@ Cristiani Jean-Noël, réalisateur de films
 Cuau Emmanuelle, réalisatrice et scénariste
 Dacheux Michaël, réalisateur
 Da costa David, auteur et réalisateur
-Dahmani Valentin, Assistant mise en scène
-Daigné Nadine, Assistante de réalisation
-Dampierre Sylvaine, Réalisatrice
-Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
-Darfeuil Julie, Scripte
-Dario Isabelle, Réalisatrice - Monteuse
-Dartigue Maylis, Auteure-réalisatrice
-Dauger Sonia, Autrice Réalisatrice
-Dauget Emma, Scripte
-Daurier David, Réalisateur, sound designer
+Dahmani Valentin, assistant mise en scène
+Daigné Nadine, assistante de réalisation
+Dampierre Sylvaine, réalisatrice
+Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+Darfeuil Julie, scripte
+Dario Isabelle, réalisatrice et monteuse
+Dartigue Maylis, auteure-réalisatrice
+Dauger Sonia, autrice-réalisatrice
+Dauget Emma, scripte
+Daurier David, réalisateur et sound designer
 Dautrey Marianne, réalisatrice
 David Marie,  assistante réalisatrice
 David Pascal, auteur-réalisateur
-Davis Judith, Cinéaste
+Davis Judith, cinéaste
 Davisse Françoise, réalisatrice
 Deak Marina, réalisatrice
-Debaty Martine, Réalisatrice
+Debaty Martine, réalisatrice
 De Butler Laure, réalisatrice
 Decaster Laïs, réalisatrice
 De Chassey Marie, scripte
+de Clerck Alix, autrice-réalisatrice
 de Cointet Vincent, auteur-réalisateur
-Defert Cédric, Réalisateur
+Defert Cédric, réalisateur
 Défossé Nicolas, réalisateur
-Degen Théo, Cineaste
+Degen Théo, cinéaste
 Degeye Camille, réalisatrice
 de Givry Félix, réalisateur et producteur
 de Hasque Jean-Frédéric, réalisateur
-de Hillerin Marguerite, Scénariste et réalisatrice
-Delaage Sofi, monteuse, réalisatrice
+de Hillerin Marguerite, scénariste et réalisatrice
+Delaage Sofi, monteuse et réalisatrice
 Delafosse Jeanne, réalisatrice
 Delage Hélène, réalisatrice
 Delangle Lucas, réalisateur
@@ -3225,7 +3337,7 @@ Delesti Thomas, 1er assistant réalisateur
 Del Pino Sarah, réalisatrice
 Delvaux Ellie, Réalisatrice
 Dementhon Clémence, Assistante mise en scène
-de Mezamat Aliénor, Comédienne et réalisatrice
+de Mezamat Aliénor, comédienne et réalisatrice
 Démoris Emmanuelle, Réalisatrice
 Denolly Margot, Assistante réalisatrice
 Depardon Raymond, réalisateur
@@ -3235,9 +3347,9 @@ Derail Jean-Philippe, Cinéaste et Monteur
 Derdoukh Amandine, scripte
 Deruas Peano Caroline, réalisatrice
 Dervieux Coline, scripte
-de Sagazan Lorraine, Metteuse en scène
+de Sagazan Lorraine, metteuse en scène
 Desaint-Acheul Mayliss, Scripte
-de Saint-Blanquat Romain, Réalisateur
+de Saint-Blanquat Romain, réalisateur
 Deschamps Fabianny, réalisatrice
 Desmettre Victor, Réalisateur
 Desplanques Hélène, Réalisatrice
@@ -4018,9 +4130,11 @@ Cochet Zita, technicienne vidéo
 Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
 Cramesnil de Laleu Maëla, régisseuse d’extérieur
 Crapoulet Thierry, régisseur lumière
-David Eloïse, Régisseuse
-Degrange Michel, Régisseur général cinéma
-Dekonink Jeanne, Régisseuse d&
+Dancourt Killian, régisseur adjoint
+Dau Anaëlle, assistante régisseuse
+David Eloïse, régisseuse
+Degrange Michel, régisseur général cinéma
+Dekonink Jeanne, régisseuse d&
 Delachaume Antoine, régisseur
 De Lardemelle Stanislas, régisseur adjoint
 Didelot Sébastien, Régisseur général
@@ -4192,18 +4306,18 @@ Contre Jean, mise en scène
 Cousin Orsa, assistante mise en scène
 Creseveur Christian, scénariste
 Cuau Emmanuelle, réalisatrice et scénariste
-Dahmani Valentin, Assistant mise en scène
-Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
-Dang-Thaï Duong, Scénariste
-de Banville Marie, Scénariste
-De Catalogne Isabelle, Scénariste
-Defer Marion, Scénariste
+Dahmani Valentin, assistant mise en scène
+Dandoy Elisabeth, autrice, comédienne, metteuse en scène et réalisatrice
+Dang-Thaï Duong, scénariste
+De Banville Marie, scénariste
+De Catalogne Isabelle, scénariste
+Defer Marion, scénariste
 de Givry Charlotte, scénariste
-de Hillerin Marguerite, Scénariste et réalisatrice
+de Hillerin Marguerite, scénariste et réalisatrice
 Delachair Joanne, scénariste
 Dementhon Clémence, Assistante mise en scène
 Depeyre Marine, Comédienne, metteuse en scène
-de Sagazan Lorraine, Metteuse en scène
+de Sagazan Lorraine, metteuse en scène
 Descamps Mathis, Scénariste
 Destrez Isabelle, Scénariste
 Deutsch Pauline, Réalisatrice et scénariste
@@ -4444,25 +4558,25 @@ Comte Charlotte, ingénieure du son
 Costes Lauréna, assistante son
 Couillard François Xavier, chef opérateur son
 Danais Clément, perchman
-Dancausse Christine, Ingénieure du son
+Dancausse Christine, ingénieure du son
 Darras Laure-Anne, monteuse son
-Darscotte Thibaut, Ingenieur du son
+Darscotte Thibaut, ingénieur du son
 Daviaud Olivier, compositeur
-de Canson Cyrille Mixeur, Chef opérateur son
-Decarsin Yolande, Cheffe opératrice du son
+de Canson Cyrille, Mixeur et chef opérateur son
+Decarsin Yolande, cheffe opératrice du son
 December, musicien
-Dechaut Benoît, Ingénieur du son
-De la Hautemaisn Julien, Chef Opérateur Son
-Delasalle Patricia, chef opératrice son
-Delaunay Margot, Assistante son
+Dechaut Benoît, ingénieur du son
+De la Hautemaisn Julien, chef opérateur son
+Delasalle Patricia, cheffe opératrice son
+Delaunay Margot, assistante son
 Delobel Adrien, Ingénieur du son
-De Loof Valérie, Monteuse son
+De Loof Valérie, monteuse son
 Delplanque David, Musicien
 Delvecchio Camille, Compositrice
 Demoor Thibaut, Perchman
 Depret Tiphaine, Monteuse son
 De Ravignan Frédéric, ingénieur du son
-de Sagey Jean, Mixeur
+de Sagey Jean, mixeur
 Deschamps Louis-Marie, perchman
 Deshays Daniel, technicien son
 Desprats Pierre, compositeur
@@ -4823,23 +4937,23 @@ Cotinat Vincent, journaliste
 Coué Maud, ensemblière cinéma
 Cousi Sandrine, artiste
 Coutant Alexia, attachée de presse
-Daily Romane, Influenceuse ciné/attachée de presse
+Daily Romane, influenceuse cinéma et attachée de presse
 Danel Isabelle, journaliste et critique de cinéma
-Dard Aurélie, Attachée de presse
-Dartois Christophe, Agent de cinéma
-De Bandt Benjamin, Auteur
-De Benedittis Axelle, Coordinatrice de projet
+Dard Aurélie, attachée de presse
+Dartois Christophe, agent de cinéma
+De Bandt Benjamin, auteur
+De Benedittis Axelle, coordinatrice de projet
 Deboaisne Axel, chef constructeur
 Debordes Clara, travailleuse en festivals de cinéma
-De Bortoli Gabriel, Marketing Cinéma
-Defouloy Mosoni Eva, Admin partenariats festival
-De Garidel Valentine, Ensemblière
+De Bortoli Gabriel, marketing cinéma
+Defouloy Mosoni Eva, administratrice partenariats festival
+De Garidel Valentine, ensemblière
 Degorce Emmanuelle, senior synch licensing manager
 De la Noche Julio, artiste
-Delassis Nathalie, Artiste chorégraphique
-Deledicq Jeanne-sarah, Chanteuse
-Deleu Cécile, Ensemblière
-Delilez Manuel, Auteur/Adaptateur
+Delassis Nathalie, artiste chorégraphique
+Deledicq Jeanne-Sarah, chanteuse
+Deleu Cécile, ensemblière
+Delilez Manuel, auteur-adaptateur
 Delvigne Nathalie, Graphiste
 Derouard Ninon, responsable administrative et financière
 Deruisseau Bruno, Critique de cinéma
