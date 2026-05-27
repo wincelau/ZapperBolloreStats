@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 18:02:14
+Dernière mis à jour : 2026-05-27 18:32:24
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,16 +11,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4292**|**+69**|**+177**|**+347**|
+|**Tous les signataires**|**4293**|**+70**|**+177**|**+347**|
 |Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+8](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+1](#animation)|||
 |Casting|[39](#casting-1)|[+1](#casting)|||
-|Décor|[289](#décor-1)|[+2](#décor)|||
+|Décor|[290](#décor-1)|[+3](#décor)|||
 |Distribution|[24](#distribution-1)|[+0](#distribution)|||
 |Électricien.ne|[151](#Électricienne-1)|[+1](#Électricienne)|||
 |Exploitation|[223](#exploitation-1)|[+7](#exploitation)|||
 |Habillage, maquillage, coiffure|[123](#habillage-maquillage-coiffure-1)|[+2](#habillage-maquillage-coiffure)|||
-|Image|[397](#image-1)|[+8](#image)|||
+|Image|[396](#image-1)|[+7](#image)|||
 |Machiniste|[81](#machiniste-1)|[+1](#machiniste)|||
 |Post production|[301](#post-production-1)|[+2](#post-production)|||
 |Production|[320](#production-1)|[+6](#production)|||
@@ -32,7 +32,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-576 nouveau(x) signataire(s) aujourd'hui
+593 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -198,7 +198,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-2 nouveau(x) signataire(s) aujourd'hui
+3 nouveau(x) signataire(s) aujourd'hui
 # 
 + Caperna Hélène, cheffe peintre
 - Caperna Hélène, Cheffe peintre
@@ -288,6 +288,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Emsallem Thelma, menuiserie
 - Emsallem Thelma, Menuiserie
 + Fauguet Sarah, cheffe peintre
++ Fennec Sylvie, décoratrice
+- Ferrieux Anne, peintre deco
++ Ferrieux Anne, peintre déco
++ Festa Anaïs, 1e assistante déco
+- Festa Anaïs, 1ere assistante deco
 ```
 
 ### Distribution
@@ -341,6 +346,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Fauquembergue Louis, Électricien
 + Favrel Raphaelle, cheffe électricienne
 - Favrel Raphaelle, Cheffe électricienne
++ Fernandez Arman, électricien
+- Fernandez Arman, Électricien, Préparateur boîte de location Lumière
 ```
 
 ### Exploitation
@@ -393,6 +400,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Faucher-Derocles Aymerick, Programmateur
 + Faucon Anne, exploitante
 - Faucon Anne, Exploitante Cinéma Utopia Pont-Sainte-Marie
++ Feldman Vincent, exploitant
+- Feldman Vincent, Exploitant
++ Feodoroff Nicolas, programmateur
+- Feodoroff Nicolas, Programmateur
 ```
 
 ### Habillage, maquillage, coiffure
@@ -440,12 +451,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Durand Karelle, Assistante costume
 + Durand Karelle, assistante costumes
 + Evrard Melodie, maquilleuse
++ Ferron Antoine, costumier
+- Ferron Antoine, Costumier
 ```
 
 ### Image
 
 ```diff
-8 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + Cancoin Melen, assistant caméra
 - Cancoin Melen, Assistant caméra
@@ -579,6 +592,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Fausset Sasha, Assistante caméra
 + Fauvel Mélanie, assistante caméra
 - Fauvel Mélanie, Assistante caméra
+- Fernandez Arman, Électricien, Préparateur boîte de location Lumière
 ```
 
 ### Machiniste
@@ -686,6 +700,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Fauthoux Sylvie, Monteuse
 + Fayard Francois, chef monteur son
 - Fayard Francois, Chef Monteur Son
++ Feytis Pierre, réalisateur et monteur
+- Feytis Pierre Réalisateur, monteur
 ```
 
 ### Production
@@ -761,6 +777,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Farine Edith, Autrice et productrice de documentaires
 + Faugeras Grégoire, chargé de production
 + Faye Marc, producteur
++ Feminier Perrine, productrice
+- Feminier Perrine, Productrice
++ Ferali Laurence, administratrice de production
+- Ferali Laurence, Administratrice de production
++ Ferdinand Jeanette, productrice
+- Ferdinand Jeanette, Productrice
++ Féry Robin, chargé de production
+- Féry Robin, Chargé de production
++ Fessol Marie, directrice de production
+- Fessol Marie, Directrice de production
++ Festaz Alexandre, chargé de production
+- Festaz Alexandre, Chargé de production
++ Fialon Estelle, productrice
+- Fialon Estelle, Productrice
 ```
 
 ### Réalisation
@@ -993,8 +1023,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Fave Anne, Cinéaste
 + Fazendeiro Maureen, scénariste et réalisatrice
 - Fazendeiro Maureen, scénariste, réalisatrice
-+ Fejtö Raphaël, auteur eRéalisateur
++ Fejtö Raphaël, auteur et réalisateur
 - Fejtö Raphaël, Auteur Réalisateur
++ Feytis Pierre, réalisateur et monteur
+- Feytis Pierre Réalisateur, monteur
 ```
 
 ### Régie
@@ -1055,6 +1087,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Faucheux Mathias, Régisseur
 + Faurel Natanael, régisseur lumière et technicien son
 - Faurel Natanael, Régisseur Lumière et technicien son
++ Ferrenq Emilie, ensemblière et régisseuse d&
+- Ferrenq Emilie, Ensemblière - régisseuse d&
 ```
 
 ### Scénariste
@@ -1228,6 +1262,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Faurel Natanael, Régisseur Lumière et technicien son
 + Fayard Francois, chef monteur son
 - Fayard Francois, Chef Monteur Son
++ Ferran Guillaume, compositeur
+- Ferran Guillaume, Compositeur
 ```
 
 ### Autres
@@ -2024,8 +2060,9 @@ Elissalt Marion, assistante accessoiriste
 Emilie Debus, graphiste déco
 Emsallem Thelma, menuiserie
 Fauguet Sarah, cheffe peintre
-Ferrieux Anne, peintre deco
-Festa Anaïs, 1ere assistante deco
+Fennec Sylvie, décoratrice
+Ferrieux Anne, peintre déco
+Festa Anaïs, 1e assistante déco
 Filler Charlotte, cheffe décoratrice, ensemblière
 Fimat Julia, Accessoiriste
 Foort Fabia, ripper
@@ -2295,7 +2332,7 @@ Erat Antonin, électricien
 Eudeline Hubert, électricien de prise de vue cinema
 Fauquembergue Louis, électricien
 Favrel Raphaelle, cheffe électricienne
-Fernandez Arman, Électricien, Préparateur boîte de location Lumière
+Fernandez Arman, électricien
 Fischer Alexandra, Électricienne
 Fouant Mathilde, électricienne
 Foubert Maxence,  alternant, projeteur DAO, électricien
@@ -2470,8 +2507,8 @@ Euzen Gwenael, projectionniste
 Fabre Anne, programmatrice
 Faucher-Derocles Aymerick, programmateur
 Faucon Anne, exploitante
-Feldman Vincent, Exploitant
-Feodoroff Nicolas, Programmateur
+Feldman Vincent, exploitant
+Feodoroff Nicolas, programmateur
 Fernandez Jean-Manuel, projectionniste
 Firoaguer-Pelc Norah, programmatrice (artiste-auteur)
 Flavier Thomas, Médiateur culturel, programmateur de films pour le jeune public
@@ -2671,7 +2708,7 @@ Durand Anais, costumière
 Durand Karelle, assistante costumes
 Evrard Melodie, maquilleuse
 Faget Patricia, costumière
-Ferron Antoine, Costumier
+Ferron Antoine, costumier
 Fontaine Madeline, Créatrice de costumes
 Gaillard Elodie, Costumière
 Garcia Ines, Habilleuse
@@ -2916,7 +2953,6 @@ Fauré Hadrien, assistant caméra
 Faurel Natanael, régisseur lumière et technicien son
 Fausset Sasha, assistante caméra
 Fauvel Mélanie, assistante caméra
-Fernandez Arman, Électricien, Préparateur boîte de location Lumière
 Filleux Camille, Assistante caméra
 Fontaine Nora, assistante caméra
 Forde Jessica, actrice et photographe
@@ -3365,7 +3401,7 @@ Falise Manon, monteuse
 Fassio Litsa, chef monteuse
 Fauthoux Sylvie, monteuse
 Fayard Francois, chef monteur son
-Feytis Pierre Réalisateur, monteur
+Feytis Pierre, réalisateur et monteur
 Fonda Adrien, Réalisateur et Monteur
 Fougere Camille, Monteuse
 Fy Ciesielski Noémie, Monteuse
@@ -3687,14 +3723,14 @@ Farine Edith, autrice et productrice de documentaires
 Faugeras Grégoire, chargé de production
 Favillier Kévin, producteur
 Faye Marc, producteur
-Feminier Perrine, Productrice
-Ferali Laurence, Administratrice de production
-Ferdinand Jeanette, Productrice
+Feminier Perrine, productrice
+Ferali Laurence, administratrice de production
+Ferdinand Jeanette, productrice
 Ferreira Virginie, productrice
-Féry Robin, Chargé de production
-Fessol Marie, Directrice de production
-Festaz Alexandre, Chargé de production
-Fialon Estelle, Productrice
+Féry Robin, chargé de production
+Fessol Marie, directrice de production
+Festaz Alexandre, chargé de production
+Fialon Estelle, productrice
 Fleisher Heidi, productrice
 Fogiel Yaël, productrice
 Fribourg Jean-Baptiste, producteur
@@ -4280,10 +4316,10 @@ Faure Maxime, réalisateur
 Fave Anne, cinéaste
 Fazendeiro Maureen, scénariste et réalisatrice
 Feiler Pauline, scripte
-Fejtö Raphaël, auteur eRéalisateur
+Fejtö Raphaël, auteur et réalisateur
 Ferhani Hassen, réalisateur
 Fernandez Philippe, réalisateur
-Feytis Pierre Réalisateur, monteur
+Feytis Pierre, réalisateur et monteur
 Finkielstein Morgane, assistante à la mise en scène
 Fischer Aline, réalisatrice
 Fischer Fabien, Réalisateur
@@ -5019,7 +5055,7 @@ Fanget Agnes, régisseuse d’extérieurs
 Faucheux Mathias, régisseur
 Faurel Natanael, régisseur lumière et technicien son
 Félix Reboul, régisseur
-Ferrenq Emilie, Ensemblière - régisseuse d&
+Ferrenq Emilie, ensemblière et régisseuse d&
 Fichelle Louis, Assistant son / Assistant régie
 Fiognon Kodjo, Régisseur
 Fracchiolla Kevin, Régisseur adjoint
@@ -5479,7 +5515,7 @@ Fabbri Philippe, chef opérateur son
 Farkas Guillaume, chef opérateur son
 Faurel Natanael, régisseur lumière et technicien son
 Fayard Francois, chef monteur son
-Ferran Guillaume, Compositeur
+Ferran Guillaume, compositeur
 Fleurant Léo, Ingénieur du son
 Fournier Nicolas, premier assistant opérateur du son
 Fresneau Pierréloi, ingénieur du Son
