@@ -28,7 +28,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Régie|[159](#régie-1)|[+5](#régie)|||
 |Scénariste|[211](#scénariste-1)|[+1](#scénariste)|||
 |Son|[325](#son-1)|[+1](#son)|||
-|Autres|[534](#autres-1)|[+58](#autres)|||
+|Autres|[534](#autres-1)|[+3](#autres)|||
 
 ## Derniers signataires 
 
@@ -998,66 +998,121 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-58 nouveau(x) signataire(s) aujourd'hui
+3 nouveau(x) signataire(s) aujourd'hui
 # 
+- Caillaud Simon, éomédien
+- Caillibot Stan, éégisseur
 + Carpentier Muriel, traductrice interprète
+- Carpentier Muriel, Traductrice interprète
 + Carretero Alexandre, agent polyvalent de cinéma
+- Carretero Alexandre, Agent polyvalent de cinéma
+- Carrier jean Pierre, Critique de cinéma
 + Carrier Jean-Pierre, critique de cinéma
+- Cassagnau Pascale, historienne de l&
 + Castells Frederic, auteur
+- Castells Frederic, Auteur
 + Chabot Eric, cascadeur
+- Chabot Eric, Cascadeur
 + Chalom Samuel, journaliste
 + Chaouih Dounia, music supervisor
+- Chaouih Dounia, Music Supervisor
 + Chapellier Maxime, chargé de Projets
+- Chapellier Maxime, Chargé de Projets
 + Charrier Fanette, chargée de communication
+- Charrier Fanette, Chargée de communication
+- Châtelet Caroline, Journaliste, critique
 + Châtelet Caroline, journaliste et critique
 + Chat Emmanuelle, coordinatrice d&
 + Chatenet Alexandra, plasticienne
+- Chatenet Alexandra, Plasticienne
 + Chauprade-Ricard Emma, conceptrice éditoriale
+- Chauprade-Ricard Emma, Conceptrice éditoriale
 + Chauvet Romain, ingénieur
+- Chauvet Romain, Ingénieur
+- Chavance Pascale, Montage Films
+- Chavanon Valérie, Coordinatrice animalière cinema
 + Chavanon Valérie, coordinatrice animalière cinéma
 + Chotard Antoine, eégisseur
 + Chrétien Benoit, chargé de mission en festival
 + Cichereau Isabelle, artiste
+- Cichereau Isabelle, Artiste
 + Ciment Gilles, critique
+- Ciment Gilles, Critique
+- Clapeau Jean-Baptiste, Cofondateur festival Les Docs de Noirmoutier
 + Clapeau Jean-Baptiste, délégué général de festival
 + Clémenceau Adrien, artiste-auteur
+- Clémenceau Adrien, Artiste auteur
 + Coatanea William, doctorant en cinéma
+- Cohen Almog, Festival de cinéma
 + Cohen Almog, travailleuse de festival de cinéma
 + Collard Gérald, technicien de maintenance
+- Collard Gérald, Technicien de maintenance
 + Collette Jérôme, narrative designer
+- Collette Jérôme, Narrative Designer
+- Colou François, Graphiste, designer d&
 + Colou François, graphiste et designer d&
 + Combastel François, chef constructeur
+- Combastel François, Chef constructeur
 + Coquille-Chambel Marie, doctorante et intermittente du spectacle
+- Coquille-Chambel Marie, Doctorante, intermittente du spectacle
 + Costes Olivia, technicienne
+- Costes Olivia, Technicienne
 + Cotinat Vincent, journaliste
+- Cotinat Vincent, Journaliste
 + Coué Maud, ensemblière cinéma
+- Coué Maud, Ensemblière cinéma
+- Daily Romane, Influenceuse ciné/attachée de presse
 + Daily Romane, influenceuse cinéma et attachée de presse
 + Dard Aurélie, attachée de presse
+- Dard Aurélie, Attachée de presse
 + Dartois Christophe, agent de cinéma
+- Dartois Christophe, Agent de cinéma
 + De Bandt Benjamin, auteur
+- De Bandt Benjamin, Auteur
 + De Benedittis Axelle, coordinatrice de projet
+- De Benedittis Axelle, Coordinatrice de projet
 + De Bortoli Gabriel, marketing cinéma
+- De Bortoli Gabriel, Marketing Cinéma
 + Defouloy Mosoni Eva, administratrice partenariats festival
+- Defouloy Mosoni Eva, Admin partenariats festival
 + De Garidel Valentine, ensemblière
+- De Garidel Valentine, Ensemblière
 + Delassis Nathalie, artiste chorégraphique
+- Delassis Nathalie, Artiste chorégraphique
+- Deledicq Jeanne-sarah, Chanteuse
 + Deledicq Jeanne-Sarah, chanteuse
 + Deleu Cécile, ensemblière
+- Deleu Cécile, Ensemblière
 + Delilez Manuel, auteur-adaptateur
+- Delilez Manuel, Auteur/Adaptateur
 + Delvigne Nathalie, graphiste
+- Delvigne Nathalie, Graphiste
 + Deruisseau Bruno, critique de cinéma
+- Deruisseau Bruno, Critique de cinéma
 + Destombe Colin, médiateur culturel
 + Devos Zelie, artiste plasticienne
+- Devos Zelie, Artiste plasticienne
+- Di Bennardo Salvatore, humoriste-auteur
 + Di Bennardo Salvatore, humoriste et auteur
 + Djellouli Lorenzo, ppérateur de prise de vue
 + Domenet Mathis, technicien cinéma
+- Domenet Mathis, Technicien cinéma
 + Donné Sylvie, journaliste
+- Donné Sylvie, Journaliste
 + Donot Céline, coordinatrice d&
+- Donot Céline, Coordinatrice d&
 + Dorville Romain, assistant directeur
+- Dorville Romain, Assistant directeur
 + Douarche Fanny, documentariste
+- Douarche Fanny, Documentariste
 + Droeven Lily, chercheuse, essayiste et critíque de cinéma
+- Droeven Lily, Chercheuse, essayiste et critíque de cinéma
 + Drot Nathan, ensemblier
+- Drot Nathan, Ensemblier
 + Drouard Elodie, responsable éditorial
+- Drouard Elodie, Responsable éditorial
 + Dugénie Céline, artiste graphiste et illustratrice
+- Dugénie Céline, Artiste graphiste et illustratrice
 ```
 
 
