@@ -17,14 +17,14 @@ echo >> README.md
 rm /tmp/zapperbollore_*
 rm /tmp/oldsignataires_*
 
-cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
+cat liste_complete.txt | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/zapperbollore
 
 # Récupére les nouveaux signataires du jour
 
 PREVIOUSCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 PREVIOUSHASH=$(git cat-file -p $(git cat-file -p $PREVIOUSCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
 
-git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
+git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 2 > /tmp/oldsignataires
@@ -35,7 +35,7 @@ NBNEWSIGNATAIRE=$(echo "$(cat /tmp/newsignataires | wc -l) - $(cat /tmp/oldsigna
 YESTERDAYFIRSTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date=yesterday) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 YESTERDAYFIRSTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYFIRSTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
 
-git cat-file -p $YESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/yesterdayfirstzapperbollore
+git cat-file -p $YESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/yesterdayfirstzapperbollore
 
 YESTERDAYLASTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date=yesterday) 23:59:59" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 YESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYLASTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
@@ -51,7 +51,7 @@ YESTERDAYNBNEWSIGNATAIRE=$(echo "$(cat /tmp/yesterday_newsignataires | wc -l) - 
 BEFOREYESTERDAYFIRSTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date="- 2 day") 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 BEFOREYESTERDAYFIRSTHASH=$(git cat-file -p $(git cat-file -p $BEFOREYESTERDAYFIRSTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
 
-git cat-file -p $BEFOREYESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/beforeyesterdayfirstzapperbollore
+git cat-file -p $BEFOREYESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/beforeyesterdayfirstzapperbollore
 
 BEFOREYESTERDAYLASTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date="- 2 day") 23:59:59" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 BEFOREYESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $BEFOREYESTERDAYLASTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
@@ -98,7 +98,7 @@ done
 echo >> README.md
 echo "## Derniers signataires " >> README.md
 echo >> README.md
-echo "$(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
+echo "$NBNEWSIGNATAIRE nouveau(x) signataire(s) aujourd'hui" >> README.md
 echo >> README.md
 
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
