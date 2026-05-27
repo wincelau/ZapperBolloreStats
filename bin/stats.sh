@@ -85,7 +85,11 @@ echo "||Total|Aujourd'hui|Hier|Avant-hier|" >> README.md
 echo "|:-|-:|-:|-:|-:|" >> README.md
 echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$NBNEWSIGNATAIRE**|**+$YESTERDAYNBNEWSIGNATAIRE**|**+$BEFOREYESTERDAYNBNEWSIGNATAIRE**|" >> README.md
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
-  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))|||" >> README.md
+  join -t ";" -j 1 "$file" /tmp/newsignataires > /tmp/newsignatairescategorie.tmp
+  OLDFILE="$(echo $file | sed 's/zapperbollore_/oldsignataires_/')"
+  NBNEW=$(echo "$(cat /tmp/newsignatairescategorie.tmp | wc -l) - $(cat "$OLDFILE" | wc -l)" | bc)
+  CATEGORIESLUG=$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )
+  echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$CATEGORIESLUG-1)|[+$NBNEW](#$CATEGORIESLUG)|||" >> README.md
 done
 
 echo >> README.md
