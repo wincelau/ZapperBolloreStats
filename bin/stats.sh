@@ -15,6 +15,7 @@ echo "Dernière mis à jour : $(stat liste_complete.txt | grep Modif | cut -d " 
 echo >> README.md
 
 rm /tmp/zapperbollore_*
+rm /tmp/oldsignataires_*
 
 cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
 
@@ -71,7 +72,9 @@ cat bin/filtres | while read ligne; do
   cat /tmp/oldsignataires | grep -Ei "$REGEXP" | grep -Eiv "$REGEXPEXCLUDE" | sort | uniq > "/tmp/oldsignataires_$TITRE"
 done
 cat /tmp/zapperbollore_* | sort > /tmp/zapperbollore_tous
+cat /tmp/oldsignataires_* | sort > /tmp/oldsignataires_tous
 join -t ";" -v 1 /tmp/zapperbollore /tmp/zapperbollore_tous > /tmp/zapperbollore_ZZZZAutres
+join -t ";" -v 1 /tmp/oldsignataires /tmp/oldsignataires_tous > /tmp/oldsignataires_ZZZZAutres
 
 echo "## Regroument des signataires par catégorie de métiers" >> README.md
 
