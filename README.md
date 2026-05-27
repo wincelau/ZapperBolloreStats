@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 18:51:58
+Dernière mis à jour : 2026-05-27 19:04:04
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4292**|**+70**|**+178**|**+347**|
-|Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+8](#acteurice-comédienne)|||
+|**Tous les signataires**|**4300**|**+78**|**+178**|**+347**|
+|Acteur.ice, Comédien.ne|[455](#acteurice-comédienne-1)|[+10](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+1](#animation)|||
 |Casting|[39](#casting-1)|[+1](#casting)|||
-|Décor|[290](#décor-1)|[+3](#décor)|||
+|Décor|[292](#décor-1)|[+5](#décor)|||
 |Distribution|[24](#distribution-1)|[+0](#distribution)|||
-|Électricien.ne|[151](#Électricienne-1)|[+1](#Électricienne)|||
+|Électricien.ne|[152](#Électricienne-1)|[+2](#Électricienne)|||
 |Exploitation|[223](#exploitation-1)|[+7](#exploitation)|||
 |Habillage, maquillage, coiffure|[123](#habillage-maquillage-coiffure-1)|[+2](#habillage-maquillage-coiffure)|||
 |Image|[395](#image-1)|[+7](#image)|||
-|Machiniste|[81](#machiniste-1)|[+1](#machiniste)|||
+|Machiniste|[82](#machiniste-1)|[+2](#machiniste)|||
 |Post production|[301](#post-production-1)|[+2](#post-production)|||
-|Production|[320](#production-1)|[+6](#production)|||
+|Production|[321](#production-1)|[+7](#production)|||
 |Réalisation|[1065](#réalisation-1)|[+15](#réalisation)|||
 |Régie|[159](#régie-1)|[+5](#régie)|||
 |Scénariste|[212](#scénariste-1)|[+2](#scénariste)|||
 |Son|[327](#son-1)|[+3](#son)|||
-|Autres|[540](#autres-1)|[+9](#autres)|||
+|Autres|[541](#autres-1)|[+10](#autres)|||
 
 ## Derniers signataires 
 
-70 nouveau(x) signataire(s) aujourd'hui
+78 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-8 nouveau(x) signataire(s) aujourd'hui
+10 nouveau(x) signataire(s) aujourd'hui
 # 
 + caillaud simon, comédien
 - candore marco, vidéaste, comédien, auteur
@@ -67,6 +67,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - dupuis robin, comédien, technicien
 - durand keriako amelie, musicienne comédienne
 + durand keriako amelie, musicienne et comédienne
++ foco mafalda, comédienne
++ foly bertrand, comédien
++ fontaine chloé, comédienne, scénariste et réalisatrice
+- fontaine chloé, comédienne, scénariste, réalisatrice
 ```
 
 ### Animation
@@ -88,7 +92,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 # 
 + castelain julie, accessoiriste plateau
 - castelain julie, accessoiriste-plateau
@@ -117,6 +121,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + ferrieux anne, peintre déco
 + festa anaïs, 1e assistante déco
 - festa anaïs, 1ere assistante deco
+- filler charlotte, cheffe décoratrice, ensemblière
++ filler charlotte, cheffe décoratrice et ensemblière
++ fillion thibaut, technicien et dessinateur en menuiserie
++ fortat sophie, assistante décoratrice
 ```
 
 ### Distribution
@@ -133,7 +141,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 - chaude jonathan, electricien
 + chaude jonathan, électricien
@@ -152,6 +160,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + erat antonin, électricien
 + fernandez arman, électricien
 - fernandez arman, électricien, préparateur boîte de location lumière
++ flogny victor, électricien
+- foubert maxence,  alternant, projeteur dao, électricien
++ foubert maxence, alternant, projeteur dao et électricien
 ```
 
 ### Exploitation
@@ -178,6 +189,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + fabre anne, programmatrice
 + faucon anne, exploitante
 - faucon anne, exploitante cinéma utopia pont-sainte-marie
++ firoaguer-pelc norah, programmatrice
+- firoaguer-pelc norah, programmatrice (artiste-auteur)
++ flavier thomas, médiateur culturel et programmateur de films pour le jeune public
+- flavier thomas, médiateur culturel, programmateur de films pour le jeune public
 ```
 
 ### Habillage, maquillage, coiffure
@@ -256,11 +271,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Machiniste
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 + demaille carl, chef machiniste
 - demaille carl, chef-machiniste
 + dumarcher samuel, chef-machiniste
++ fodera eric, chef machiniste
 ```
 
 ### Post production
@@ -295,7 +311,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Production
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + arnaud dommerc, producteur et distributeur
 + carré jean-michel, auteur, réalisateur et producteur
@@ -327,6 +343,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - engel nina, productrice, autrice, réalisatrice
 + faugeras grégoire, chargé de production
 + faye marc, producteur
++ fougeray julia, productrice
 ```
 
 ### Réalisation
@@ -415,6 +432,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - fejtö raphaël, auteur réalisateur
 + feytis pierre, réalisateur et monteur
 - feytis pierre réalisateur, monteur
++ focsa elena, réalisatrice et scénariste
+- focsa elena, réalisatrice / scénariste
++ fontaine chloé, comédienne, scénariste et réalisatrice
+- fontaine chloé, comédienne, scénariste, réalisatrice
 ```
 
 ### Régie
@@ -441,6 +462,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - eckert edouard, régisseur général
 + ferrenq emilie, ensemblière et régisseuse d&
 - ferrenq emilie, ensemblière - régisseuse d&
+- fichelle louis, assistant son / assistant régie
++ fichelle louis, assistant son et assistant régie
 ```
 
 ### Scénariste
@@ -466,6 +489,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + fassio sandra, scénariste
 + fazendeiro maureen, scénariste et réalisatrice
 - fazendeiro maureen, scénariste, réalisatrice
++ focsa elena, réalisatrice et scénariste
+- focsa elena, réalisatrice / scénariste
++ fontaine chloé, comédienne, scénariste et réalisatrice
+- fontaine chloé, comédienne, scénariste, réalisatrice
 ```
 
 ### Son
@@ -497,7 +524,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-9 nouveau(x) signataire(s) aujourd'hui
+10 nouveau(x) signataire(s) aujourd'hui
 # 
 - caillaud simon, éomédien
 - caillibot stan, éégisseur
@@ -546,6 +573,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + emery jean-bernard, attaché de presse
 - faure julia, cheffe d’entreprise
 + fave pierre-yves, truquiste
+- fontaine gabin, critique cinéma
++ fontaine gabin, critique de cinéma
++ forsans liv, chargée d&
 ```
 
 
@@ -713,7 +743,9 @@ ferri catherine, comédienne
 ferrus caroline, actrice
 fieschi marthe, actrice
 fisera cécile, comédienne
-fontaine chloé, comédienne, scénariste, réalisatrice
+foco mafalda, comédienne
+foly bertrand, comédien
+fontaine chloé, comédienne, scénariste et réalisatrice
 forde jessica, actrice et photographe
 fouque dimitri, comédien
 fourneau elise, comédienne
@@ -1203,9 +1235,11 @@ fauguet sarah, cheffe peintre
 fennec sylvie, décoratrice
 ferrieux anne, peintre déco
 festa anaïs, 1e assistante déco
-filler charlotte, cheffe décoratrice, ensemblière
+filler charlotte, cheffe décoratrice et ensemblière
+fillion thibaut, technicien et dessinateur en menuiserie
 fimat julia, accessoiriste
 foort fabia, ripper
+fortat sophie, assistante décoratrice
 fournier gregory, 1er assistant décoration
 frion charles, menuisier de décors
 frizat dominique, repéreuse décors
@@ -1474,8 +1508,9 @@ fauquembergue louis, électricien
 favrel raphaelle, cheffe électricienne
 fernandez arman, électricien
 fischer alexandra, électricienne
+flogny victor, électricien
 fouant mathilde, électricienne
-foubert maxence,  alternant, projeteur dao, électricien
+foubert maxence, alternant, projeteur dao et électricien
 fromage papazian nilda, électricien
 garin olivier, chef électricien
 garnier maylis, électricienne de prises de vues
@@ -1650,8 +1685,8 @@ faucon anne, exploitante
 feldman vincent, exploitant
 feodoroff nicolas, programmateur
 fernandez jean-manuel, projectionniste
-firoaguer-pelc norah, programmatrice (artiste-auteur)
-flavier thomas, médiateur culturel, programmateur de films pour le jeune public
+firoaguer-pelc norah, programmatrice
+flavier thomas, médiateur culturel et programmateur de films pour le jeune public
 fras mathilde, programmatrice cinéma
 fras sophie, directrice de cinéma
 friceau tara, agent d’accueil de cinéma ugc
@@ -2362,6 +2397,7 @@ dumasy axel, chef machiniste
 dupuis françois, chef machiniste
 el amraoui rita, machiniste
 erais rojas sébastien, machiniste
+fodera eric, chef machiniste
 foliard typhaine, machiniste de prise de vue
 frontin valentin, machiniste
 gaillard robin, chef machiniste
@@ -2872,6 +2908,7 @@ festaz alexandre, chargé de production
 fialon estelle, productrice
 fleisher heidi, productrice
 fogiel yaël, productrice
+fougeray julia, productrice
 fribourg jean-baptiste, producteur
 fuentes marc, directeur de production
 gagnaire max, producteur
@@ -3463,12 +3500,12 @@ finkielstein morgane, assistante à la mise en scène
 fischer aline, réalisatrice
 fischer fabien, réalisateur
 flaux adèle, réalisatrice de documentaires
-focsa elena, réalisatrice / scénariste
+focsa elena, réalisatrice et scénariste
 foligné laëtitia, cinéaste
 follet jules, réalisateur
 folliet heidi, scénographe
 fonda adrien, réalisateur et monteur
-fontaine chloé, comédienne, scénariste, réalisatrice
+fontaine chloé, comédienne, scénariste et réalisatrice
 fontaine jeanne, scripte
 fontan fanny, réalisatrice
 fontenille tom, réalisateur
@@ -4195,7 +4232,7 @@ faucheux mathias, régisseur
 faurel natanael, régisseur lumière et technicien son
 félix reboul, régisseur
 ferrenq emilie, ensemblière et régisseuse d&
-fichelle louis, assistant son / assistant régie
+fichelle louis, assistant son et assistant régie
 fiognon kodjo, régisseur
 fracchiolla kevin, régisseur adjoint
 gamaz olivier, régisseur adjoint
@@ -4384,8 +4421,8 @@ fazendeiro maureen, scénariste et réalisatrice
 feinsilber anne, scénariste
 fiard-cherifi mickaël, scénariste
 finkielstein morgane, assistante à la mise en scène
-focsa elena, réalisatrice / scénariste
-fontaine chloé, comédienne, scénariste, réalisatrice
+focsa elena, réalisatrice et scénariste
+fontaine chloé, comédienne, scénariste et réalisatrice
 foulatier amélie, scénariste et lectrice
 fraisse-bareille cécile, metteuse en scène, autrice
 franco sonia, réalisatrice, scénariste
@@ -5054,7 +5091,8 @@ flodrops morgane, graphiste
 folens chloé, traductrice
 follmer camille, montage
 fonck nicolas, designer
-fontaine gabin, critique cinéma
+fontaine gabin, critique de cinéma
+forsans liv, chargée d&
 foucard anne-thaïse, responsable rse
 franbourg juliette, danseuse
 fraysse romane, journaliste
