@@ -17,7 +17,7 @@ echo >> README.md
 rm /tmp/zapperbollore_*
 rm /tmp/oldsignataires_*
 
-cat liste_complete.txt | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/zapperbollore
+cat liste_complete.txt | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/zapperbollore
 
 # Récupére les nouveaux signataires du jour
 
@@ -39,7 +39,7 @@ git cat-file -p $YESTERDAYFIRSTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g'
 
 YESTERDAYLASTCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d --date=yesterday) 23:59:59" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 YESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYLASTCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
-git cat-file -p $YESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/yesterdaylastzapperbollore
+git cat-file -p $YESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | tr '[:upper:]' '[:lower:]' | sed 's/É/é/g' | sort | uniq > /tmp/yesterdaylastzapperbollore
 
 join -t ";" -j 1 /tmp/yesterdaylastzapperbollore /tmp/yesterdayfirstzapperbollore -v 1 > /tmp/yesterday_newsignataires
 join -t ";" -j 1 /tmp/yesterdaylastzapperbollore /tmp/yesterdayfirstzapperbollore -v 2 > /tmp/yesterday_oldsignataires
