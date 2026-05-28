@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-28 13:08:21
+Dernière mis à jour : 2026-05-28 13:38:29
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4463**|**+127**|**+114**|**+179**|
-|Acteur.ice, Comédien.ne|[471](#acteurice-comédienne-1)|[+14](#acteurice-comédienne)|||
-|Animation|[21](#animation-1)|[+0](#animation)|||
+|**Tous les signataires**|**4477**|**+141**|**+114**|**+179**|
+|Acteur.ice, Comédien.ne|[473](#acteurice-comédienne-1)|[+16](#acteurice-comédienne)|||
+|Animation|[22](#animation-1)|[+1](#animation)|||
 |Casting|[42](#casting-1)|[+3](#casting)|||
-|Décor|[309](#décor-1)|[+15](#décor)|||
+|Décor|[311](#décor-1)|[+17](#décor)|||
 |Distribution|[25](#distribution-1)|[+0](#distribution)|||
-|Électricien.ne|[160](#Électricienne-1)|[+6](#Électricienne)|||
+|Électricien.ne|[161](#Électricienne-1)|[+7](#Électricienne)|||
 |Exploitation|[231](#exploitation-1)|[+7](#exploitation)|||
 |Habillage, maquillage, coiffure|[127](#habillage-maquillage-coiffure-1)|[+2](#habillage-maquillage-coiffure)|||
-|Image|[417](#image-1)|[+18](#image)|||
-|Machiniste|[85](#machiniste-1)|[+3](#machiniste)|||
+|Image|[419](#image-1)|[+20](#image)|||
+|Machiniste|[86](#machiniste-1)|[+4](#machiniste)|||
 |Post production|[314](#post-production-1)|[+8](#post-production)|||
 |Production|[329](#production-1)|[+5](#production)|||
-|Réalisation|[1102](#réalisation-1)|[+28](#réalisation)|||
+|Réalisation|[1104](#réalisation-1)|[+30](#réalisation)|||
 |Régie|[164](#régie-1)|[+4](#régie)|||
 |Scénariste|[221](#scénariste-1)|[+6](#scénariste)|||
 |Son|[334](#son-1)|[+6](#son)|||
-|Autres|[562](#autres-1)|[+15](#autres)|||
+|Autres|[566](#autres-1)|[+19](#autres)|||
 
 ## Derniers signataires 
 
-127 nouveau(x) signataire(s) aujourd'hui
+141 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-14 nouveau(x) signataire(s) aujourd'hui
+16 nouveau(x) signataire(s) aujourd'hui
 # 
 + bonnot simon, comédien
 + canard-volland alexandre, comédien
@@ -49,6 +49,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - lecoq catherine, comédienne, cinéaste
 + lecoq catherine, comédienne et cinéaste
 + lehoux lisa, comédienne
++ maciel adelino, acteur et réalisateur
++ mann nathalie, comédienne
++ marthouret françois, comédien, metteur en scène et réalisateur
+- marthouret françois, comédien, metteur en scène, réalisateur
 + monedero victoria, comédienne
 + poinsard laurence, comédienne
 + poulet stéphane, comédien
@@ -60,8 +64,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Animation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
++ marotta gaetan, graphiste 3d
 ```
 
 ### Casting
@@ -77,7 +82,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-15 nouveau(x) signataire(s) aujourd'hui
+17 nouveau(x) signataire(s) aujourd'hui
 # 
 + briec marion, décoratrice
 + colin louise, graphiste de décor
@@ -93,6 +98,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + lavedrine berengere, 1er assistant décorateur·rice
 - lavedrine berengere, 1er assistant décorateur.rice
 + lhotelier augustin, rippeur
++ machado susana, décorateur
++ madeline amélie, constructrice décors
++ maire gabrielle, assistante déco
+- maire gabrielle, assitante déco
 + milan gilles, constructeur de décor
 + poulain samuel, riper (machiniste décor)
 + rouge françoise, cheffe peintre
@@ -110,13 +119,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + branquet nino, électricien
 - branquet nino, électricien
 + cortade juliette, cheffe électricienne
 + lauras perrine, électricienne
 + laurent antonin, électricien
++ maillard thibault, électricien prise de vues
++ marlin axel, électricien
+- marlin axel, éléctricien
 + mauvezin-razavet yaël, électricien
 + vanard fred, chef electro
 + vassallo telma, électricienne
@@ -138,6 +150,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - lanni dimitri, programmateur, chercheur indépendant
 + lanni dimitri, programmateur et chercheur indépendant
 + laurichesse rémi, projectionniste
++ markovits eva, chargée de programmation
+- markovits eva, chargée de programmation, centre pompidou
 ```
 
 ### Habillage, maquillage, coiffure
@@ -160,7 +174,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Image
 
 ```diff
-18 nouveau(x) signataire(s) aujourd'hui
+20 nouveau(x) signataire(s) aujourd'hui
 # 
 + avedissian kevin, directeur de la photographie
 + bataille thomas, directeur de la photo
@@ -177,6 +191,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + legaye louise, 1ere assistante caméra
 + legrand julien, opérateur caméra
 + le vacon olivier, chef opérateur son
++ lodé hervé, directeur photo
+- louis denis, éclairagiste / directeur de la photo / cadreur
++ louis denis, éclairagiste, directeur de la photo et cadreur
+- mancel neto margot, assistante caméra / cheffe opératrice
++ mancel neto margot, assistante caméra et cheffe opératrice
++ marmorat felix, 1er assistant opv et cadreur
 + mignon clotilde, 1ère assistante caméra
 + piippo ville, chef opérateur
 + quéhec yvan, chef éclairagiste
@@ -187,9 +207,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Machiniste
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
 + boulestreau elouan, machiniste
++ malaper clarence, machiniste
 + poulain samuel, riper (machiniste décor)
 + reynaud thaïs, machiniste
 ```
@@ -232,7 +253,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-28 nouveau(x) signataire(s) aujourd'hui
+30 nouveau(x) signataire(s) aujourd'hui
 # 
 + castillo hilda, réalisatrice
 + cuevas antoine, réalisateur
@@ -264,8 +285,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - lemetayer le brize, corentin réalisateur
 + ley ombline, cinéaste
 + liebert alexe, réalisatrice
++ maciel adelino, acteur et réalisateur
++ mahieu chloé, réalisatrice
 + marc pascal, scénariste et réalisateur
+- mardon regis, réalisateur, coach d’acteurs
++ mardon regis, réalisateur et coach d’acteurs
++ marmiesse anna, scénariste, réalisatrice et journaliste
+- marmiesse anna, scénariste, réalisatrice, journaliste
 + marre-cast victor, scripte
++ marrel charlotte, 1e assistante mise en scène
+- marrel charlotte, 1ère assistante mise en scène
++ marthouret françois, comédien, metteur en scène et réalisateur
+- marthouret françois, comédien, metteur en scène, réalisateur
++ martin cédric, auteur-réalisateur  
+- martin cédric, auteur réalisateur  
 + maurel terry, assistant réalisateur
 + momcilovic milan, réalisateur
 + pamart catherine, cinéaste
@@ -302,7 +335,15 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 # 
 + berantelli doriane, scénariste
 + juniere charlotte, comédienne scénariste réalisatrice
+- manning harold, scénariste, traducteur, enseignant
++ manning harold, scénariste, traducteur et enseignant
 + marc pascal, scénariste et réalisateur
++ marmiesse anna, scénariste, réalisatrice et journaliste
+- marmiesse anna, scénariste, réalisatrice, journaliste
++ marrel charlotte, 1e assistante mise en scène
+- marrel charlotte, 1ère assistante mise en scène
++ marthouret françois, comédien, metteur en scène et réalisateur
+- marthouret françois, comédien, metteur en scène, réalisateur
 + pereira correia diogo, scénariste
 + pratx alicia, scénariste réalisatrice
 + verrier thierry, assistant mise en scène
@@ -331,12 +372,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - le vacon olivier, chef op son
 - list kevin, régisseur / assistant son
 + list kevin, régisseur et assistant son
++ loizeau emily, artiste, auteure, compositrice et interprète
+- loizeau emily, artiste auteure compositrice interprète
++ marciszewer sodi, compositeur et ingénieur son
+- marciszewer sodi, compositeur, ingénieur son
 ```
 
 ### Autres
 
 ```diff
-15 nouveau(x) signataire(s) aujourd'hui
+19 nouveau(x) signataire(s) aujourd'hui
 # 
 + batt lola, employée de cinéma
 + christides mary, graphiste cinéma
@@ -361,6 +406,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - levacher stéphane slem, artiste auteur
 + liner sophie, documentaliste audiovisuel
 + lion sylvain, coordinateur de projets
++ lobera dominik, artiste visuelle
++ loiret emma, rravailleuse de festivals de cinéma
+- loiret emma, travailleuse de festivals de cinéma
++ lopez luna anna, artiste
+- louboutin françois, directeur centres culturels
++ louboutin françois, directeur de centres culturels
++ machado josé, journaliste
+- manach kenza, académie des césar
++ manach kenza, responsable du département courts métrages et du pôle éducation
++ marchet florent, artiste
+- martin gaël, fondateur du site cìnematraque
++ martin gaël, journaliste
 + ménoret delphine, cheffe-op, enseignante
 + monfort isabelle, auteure
 + pépin antoine, graphiste
@@ -666,14 +723,16 @@ loyer kassa leïla, comédienne
 luciani jean-baptiste, acteur
 machado-graner solan, comédien
 machard thierry, acteur et réalisateur
+maciel adelino, acteur et réalisateur
 madec blandine, comédienne
 maîtreau clément, acteur
 malanda guslagie, comédienne
 mallen thomas, acteur
 maly xavier, acteur
+mann nathalie, comédienne
 marcorelles wladys, comédienne
 marillier garance, comédienne
-marthouret françois, comédien, metteur en scène, réalisateur
+marthouret françois, comédien, metteur en scène et réalisateur
 martinaud olivier, comédien  
 martine anthony, comédien
 martot pierre, acteur
@@ -869,6 +928,7 @@ lainé audrey, animatrice 3d
 leclerc maxime, animateur 3d
 longuet emma, dessinatrice d’animation
 mariet arthus, cinéma d’animation
+marotta gaetan, graphiste 3d
 outin pierre, infographiste 3d
 roguier guillaume, animateur 3d
 rostagnat thibaut, artiste 3d
@@ -1133,8 +1193,10 @@ levarlet amandine, assistante accessoiriste
 lhotelier augustin, rippeur
 litou thierry, assistant décorateur
 longcourty pandou, accessoiriste plateau
+machado susana, décorateur
+madeline amélie, constructrice décors
 maillé aurélien, chef décorateur
-maire gabrielle, assitante déco
+maire gabrielle, assistante déco
 manseau juliann, machiniste de décors
 martin alice, assistant déco
 martinez jean manuel, sculpteur déco
@@ -1389,8 +1451,9 @@ lorient milan, électricien
 lossy paul, électricien
 lyonnet lucas, électricien de prise de vue
 maffioletti elise, électricienne
+maillard thibault, électricien prise de vues
 mandin guillaume, électricien de prise de vue
-marlin axel, éléctricien
+marlin axel, électricien
 mathon gabrie,l électricien
 maus yann-alexis, électricien
 mauvezin-razavet yaël, électricien
@@ -1591,7 +1654,7 @@ libs stéphane, gérant de cinéma
 louette suzanne, programmatrice
 maleville caroline, programmatrice
 mandereau alizée, technicienne son et programmatrice
-markovits eva, chargée de programmation, centre pompidou
+markovits eva, chargée de programmation
 marsais aurélien, programmateur et producteur
 martinez pérez susana, exploitante cinéma
 martin papasian louise, programmatrice et réalisatrice
@@ -2086,18 +2149,20 @@ le vacon olivier, chef opérateur son
 leveque colin, chef opérateur
 lévêque sacha, cheffe opératrice
 lévy adrien, assistant caméra
+lodé hervé, directeur photo
 loisy dorian, assistant caméra
 lorrain pierre, chef opérateur du son
-louis denis, éclairagiste / directeur de la photo / cadreur
+louis denis, éclairagiste, directeur de la photo et cadreur
 lubtchansky irina, directrice photo
 luyssen oksana, assistante caméra
 maintigneux sophie, directrice de la photographie
 mallet-jemming lucy, assistante caméra
-mancel neto margot, assistante caméra / cheffe opératrice
+mancel neto margot, assistante caméra et cheffe opératrice
 manriquez flavio, assistant caméra
 mantran nicolas, opérateur son
 marie nicolas, créateur lumière
 marini livio, cadreur
+marmorat felix, 1er assistant opv et cadreur
 martin olivier, assistant caméra
 marti pascal, directeur de la photo
 martorell etienne , éclairagiste
@@ -2298,6 +2363,7 @@ lembrez françois, chef machiniste
 le mée pierre-yves, chef machiniste
 leqoc damien, chef machiniste
 levallet julien, machiniste de construction
+malaper clarence, machiniste
 manseau juliann, machiniste de décors
 manuelli hugo, chef machiniste
 maria octave, machiniste de prise de vue
@@ -3672,8 +3738,10 @@ louise victor, réalisateur
 loupiac gildas, comédien et metteur en scène
 luong karen, cinéaste
 machard thierry, acteur et réalisateur
+maciel adelino, acteur et réalisateur
 mahenc isabelle, réalisatrice
 mahé yves-marie, cinéaste
+mahieu chloé, réalisatrice
 maïga aïssa, réalisatrice
 mainçon frédéric, réalisateur
 mak anaïs, réalisatrice et graphiste générique
@@ -3686,20 +3754,20 @@ mandico bertrand, réalisateur
 mangiante bernard, réalisateur
 marc pascal, scénariste et réalisateur
 mardi léna, scénariste et réalisatrice
-mardon regis, réalisateur, coach d’acteurs
+mardon regis, réalisateur et coach d’acteurs
 marié félix, assistant réalisateur
 marie garance, scripte
 marini hélène, réalisatrice
 marion truchaud, réalisatrice
-marmiesse anna, scénariste, réalisatrice, journaliste
+marmiesse anna, scénariste, réalisatrice et journaliste
 marramaque marjorie, assistante réalisation
 marre-cast victor, scripte
 marrécau juliette, réalisatrice
 marre emmanuel, réalisateur
-marrel charlotte, 1ère assistante mise en scène
-marthouret françois, comédien, metteur en scène, réalisateur
+marrel charlotte, 1e assistante mise en scène
+marthouret françois, comédien, metteur en scène et réalisateur
 marthouret rebecca, réalisatrice
-martin cédric, auteur réalisateur  
+martin cédric, auteur-réalisateur  
 martin coralie, réalisatrice
 martineau jacques, scénariste, réalisateur et enseignant
 martin nicolas, auteur, scénariste, réalisateur et critique
@@ -4426,12 +4494,12 @@ lopez jane-gail, comédienne et metteuse en scène
 loupiac gildas, comédien et metteur en scène
 maille marie-julie, scénariste et monteuse
 mangeot philippe, professeur et scénariste
-manning harold, scénariste, traducteur, enseignant
+manning harold, scénariste, traducteur et enseignant
 marc pascal, scénariste et réalisateur
 mardi léna, scénariste et réalisatrice
-marmiesse anna, scénariste, réalisatrice, journaliste
-marrel charlotte, 1ère assistante mise en scène
-marthouret françois, comédien, metteur en scène, réalisateur
+marmiesse anna, scénariste, réalisatrice et journaliste
+marrel charlotte, 1e assistante mise en scène
+marthouret françois, comédien, metteur en scène et réalisateur
 martineau jacques, scénariste, réalisateur et enseignant
 martin nicolas, auteur, scénariste, réalisateur et critique
 masson lucile, scénariste
@@ -4717,7 +4785,7 @@ lenoir quentin, perchman
 lestien thierry, musicien
 le vacon olivier, chef opérateur son
 list kevin, régisseur et assistant son
-loizeau emily, artiste auteure compositrice interprète
+loizeau emily, artiste, auteure, compositrice et interprète
 lorrain pierre, chef opérateur du son
 loubat tristan, perchman
 luces simon, monteur son
@@ -4726,7 +4794,7 @@ mahé antonin, musicien
 mahieu martin, musicien
 malbrant sylvain, monteur son
 mantran nicolas, opérateur son
-marciszewer sodi, compositeur, ingénieur son
+marciszewer sodi, compositeur et ingénieur son
 marguerit olivier, compositeur
 marlet morgan, musicien
 martens noé, ingénieur du son
@@ -5196,26 +5264,30 @@ liner sophie, documentaliste audiovisuel
 linh maï, membre du collectif sous les écrans la dèche
 lion sylvain, coordinateur de projets
 lizot delphine, déléguée générale
+lobera dominik, artiste visuelle
 loez jules, architecte
-loiret emma, travailleuse de festivals de cinéma
+loiret emma, rravailleuse de festivals de cinéma
+lopez luna anna, artiste
 lorenzi chloé, attachée de presse
-louboutin françois, directeur centres culturels
+louboutin françois, directeur de centres culturels
 lucas samuel, adjoint en communication
 lumbi marie, graphiste
 luques estelle, responsable administrative et financière
 lyon-caen gilles, attaché de presse
+machado josé, journaliste
 maggio luna, community manager
 magrit caroline, administratrice cgt spectacle
 maindon laurent, auteur
 maino sylvain, documentariste
 malherbe louise, déléguée générale
-manach kenza, académie des césar
+manach kenza, responsable du département courts métrages et du pôle éducation
 marca alistair, graphiste
 marcadé coralie, chargée de communication digitale dans le cinéma
+marchet florent, artiste
 mariotat antoine, technicien audiovisuel
 marques michael, chargé de développement
 martine cyprien, assistant ensemblier
-martin gaël, fondateur du site cìnematraque
+martin gaël, journaliste
 marzolf hélène, journaliste
 masson louise, salariée de festivals de cinéma
 mathieu gildas, consultant à l&
