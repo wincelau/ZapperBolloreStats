@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-28 17:09:13
+Dernière mis à jour : 2026-05-28 17:39:22
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,8 +11,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4589**|**+253**|**+114**|**+179**|
-|Acteur.ice, Comédien.ne|[488](#acteurice-comédienne-1)|[+31](#acteurice-comédienne)|||
+|**Tous les signataires**|**4593**|**+257**|**+114**|**+179**|
+|Acteur.ice, Comédien.ne|[489](#acteurice-comédienne-1)|[+32](#acteurice-comédienne)|||
 |Animation|[23](#animation-1)|[+2](#animation)|||
 |Casting|[41](#casting-1)|[+2](#casting)|||
 |Décor|[319](#décor-1)|[+25](#décor)|||
@@ -23,8 +23,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Image|[434](#image-1)|[+35](#image)|||
 |Machiniste|[88](#machiniste-1)|[+6](#machiniste)|||
 |Post production|[324](#post-production-1)|[+18](#post-production)|||
-|Production|[339](#production-1)|[+15](#production)|||
-|Réalisation|[1120](#réalisation-1)|[+46](#réalisation)|||
+|Production|[341](#production-1)|[+17](#production)|||
+|Réalisation|[1121](#réalisation-1)|[+47](#réalisation)|||
 |Régie|[167](#régie-1)|[+7](#régie)|||
 |Scénariste|[226](#scénariste-1)|[+11](#scénariste)|||
 |Son|[339](#son-1)|[+11](#son)|||
@@ -32,12 +32,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-253 nouveau(x) signataire(s) aujourd'hui
+257 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-31 nouveau(x) signataire(s) aujourd'hui
+32 nouveau(x) signataire(s) aujourd'hui
 # 
 + bonnot simon, comédien
 + canard-volland alexandre, comédien
@@ -116,6 +116,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + wahl esther, comédienne
 + watkins gérard, acteur, auteur et metteur en scène
 - watkins gérard, acteur auteur metteur en scène
++ williquet judith, actrice et chanteuse
++ yermak aleksandra, comédienne, scénariste et réalisatrice
+- yermak aleksandra, comédienne, scénariste, réalisatrice
++ zimmer yoann, acteur et réalisateur
+- zimmer yoann, acteur/ réalisateur
 ```
 
 ### Animation
@@ -516,7 +521,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Production
 
 ```diff
-15 nouveau(x) signataire(s) aujourd'hui
+17 nouveau(x) signataire(s) aujourd'hui
 # 
 + delorme constance, directrice de production
 + du teilleul mario, assistante de production
@@ -565,12 +570,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + vilarem léo, administrateur de production
 - willink joram, filmproducer
 + willink joram, producteur
++ wlodarczyk olivier, producteur
++ wuhrmann daniel, producteur
 ```
 
 ### Réalisation
 
 ```diff
-46 nouveau(x) signataire(s) aujourd'hui
+47 nouveau(x) signataire(s) aujourd'hui
 # 
 + castillo hilda, réalisatrice
 + cuevas antoine, réalisateur
@@ -769,7 +776,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + watkins gérard, acteur, auteur et metteur en scène
 - watkins gérard, acteur auteur metteur en scène
 + willaume marie, 1e assistante mise en scène
++ yermak aleksandra, comédienne, scénariste et réalisatrice
+- yermak aleksandra, comédienne, scénariste, réalisatrice
++ zbynovsky samuel, auteur et réalisateur
 + zen anaïs, réalisatrice
++ zharaya aleksandre, artiste et réalisateur
+- zharaya aleksandre artiste, réalisateur
++ zimmer yoann, acteur et réalisateur
+- zimmer yoann, acteur/ réalisateur
++ zinzius quentin, auteur et réalisateur
+- zinzius quentin, auteur réalisateur
 ```
 
 ### Régie
@@ -802,6 +818,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - trotta noam,  régisseur
 + valette colombe, régisseuse
 + wester haydée, régisseuse
+- zuber véronique, régisseuse d’extérieur / ensemblière
++ zuber véronique, régisseuse d’extérieur et ensemblière
 ```
 
 ### Scénariste
@@ -868,6 +886,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + watkins gérard, acteur, auteur et metteur en scène
 - watkins gérard, acteur auteur metteur en scène
 + willaume marie, 1e assistante mise en scène
++ yermak aleksandra, comédienne, scénariste et réalisatrice
+- yermak aleksandra, comédienne, scénariste, réalisatrice
++ zebboudj idir, journaliste et scénariste
+- zebboudj idir, journaliste, scénariste
 ```
 
 ### Son
@@ -1062,6 +1084,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + vidal nathalie, montage son et mixage
 + village rodolphe, employé de cinéma
 + walker calvin, consultant
+- yen tracy, assistant des festivals
++ yen tracy, assistant en festivals
++ zamichiei sophie, employée de cinéma
+- zamichiei sophie, utopia
 ```
 
 
@@ -1552,12 +1578,13 @@ wahl esther, comédienne
 watkins gérard, acteur, auteur et metteur en scène
 weil mathilde, comédienne
 werner olivier, comédien  
+williquet judith, actrice et chanteuse
 worthalter arieh, acteur
 wyler maud, comédienne
-yermak aleksandra, comédienne, scénariste, réalisatrice
+yermak aleksandra, comédienne, scénariste et réalisatrice
 zadi jean-pascal, réalisateur et comédien
 zahonero coraly, comédienne
-zimmer yoann, acteur/ réalisateur
+zimmer yoann, acteur et réalisateur
 zumkeller louis, comédien
 ```
 
@@ -3757,6 +3784,8 @@ weeger marion, directrice de production
 welinski dominique, productrice
 willink joram, producteur
 wisniewski léa, productrice
+wlodarczyk olivier, producteur
+wuhrmann daniel, producteur
 zaiti ruelle naël, producteur et réalisateur
 zimmermann patricia, directrice de production
 ```
@@ -4871,7 +4900,7 @@ worms philippe, réalisateur
 worthington quentin, réalisateur
 wouters luc, réalisateur
 yates christopher, réalisateur et scénariste
-yermak aleksandra, comédienne, scénariste, réalisatrice
+yermak aleksandra, comédienne, scénariste et réalisatrice
 yon david, réalisateur
 yoon sung-a, réalisation
 zadi jean-pascal, réalisateur et comédien
@@ -4879,10 +4908,11 @@ zagurovska aliona, réalisatrice
 zahar julia, réalisatrice
 zaiti ruelle naël, producteur et réalisateur
 zajdermann jérôme, 1er assistant réalisateur
+zbynovsky samuel, auteur et réalisateur
 zen anaïs, réalisatrice
-zharaya aleksandre artiste, réalisateur
-zimmer yoann, acteur/ réalisateur
-zinzius quentin, auteur réalisateur
+zharaya aleksandre, artiste et réalisateur
+zimmer yoann, acteur et réalisateur
+zinzius quentin, auteur et réalisateur
 zoubian marie, assistant·e réalisateur·rice
 zuchuat olivier, cinéaste
 zylberman ruth, réalisatrice
@@ -5059,7 +5089,7 @@ vattier margaux, régisseuse
 verdeaux virginie, régisseuse d’extérieur
 vigliano anatole, régisseur
 wester haydée, régisseuse
-zuber véronique, régisseuse d’extérieur / ensemblière
+zuber véronique, régisseuse d’extérieur et ensemblière
 ```
 
 [Retourner au début de la page](#haut)
@@ -5291,8 +5321,8 @@ watkins gérard, acteur, auteur et metteur en scène
 willaume marie, 1e assistante mise en scène
 wind mathilde, metteure en scène
 yates christopher, réalisateur et scénariste
-yermak aleksandra, comédienne, scénariste, réalisatrice
-zebboudj idir, journaliste, scénariste
+yermak aleksandra, comédienne, scénariste et réalisatrice
+zebboudj idir, journaliste et scénariste
 ```
 
 [Retourner au début de la page](#haut)
@@ -6229,9 +6259,9 @@ woshe thomas, graffiti writer
 yaacoub sarah, critique de cinéma
 yann nathan, danseur
 yassinski nicolas, co-délégué général du spiac-cgt
-yen tracy, assistant des festivals
+yen tracy, assistant en festivals
 zabunyan dork, critique
-zamichiei sophie, utopia
+zamichiei sophie, employée de cinéma
 ```
 
 [Retourner au début de la page](#haut)
