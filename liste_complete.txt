@@ -2354,7 +2354,6 @@ Kieffer Pauline, costumière
 Kiessling Anna, scénariste
 Killian Bouthemy, chargé de médiation culturelle
 Kinebanyan Alexis, maquilleur et sculpteur
-Kira Simon-Kennedy, productrice
 Kircher Samuel, comédien
 Klein Astrid S., réalisatrice et artiste
 Klein Pierre, artiste
@@ -2527,18 +2526,18 @@ Lebouq Léa, responsable des actions culturelles en festival
 Lebourg Aurélien, ingénieur du son
 Lebourgeois Charlotte, Cheffe costumière
 Le boursicot Ghita Laora, réalisatrice
-Le Bris Tanguy, Régisseur
+Le Bris Tanguy, régisseur
 Lebrun Kathy, Ensemblière
-Le Bruno Maeva, Figurante
+Le Bruno Maeva, figurante
 Lebrun Pierre-François, réalisateur
 Lebrun Vincent, Journaliste de cinéma
-Le Caisne Matthieu, Régisseur adjoint
+Le Caisne Matthieu, régisseur adjoint
 Lecas Jean-Claude, Comédien
 Lecat Denis, consultant culturel et enseignant à l’Université d’Avignon
 Lecci-Lopez Chloé, réalisatrice
 Lecerf Diane, Scénariste
 Lechaptois George, directeur de la photographie
-Le Chevallier Martin, Réalisateur
+Le Chevallier Martin, réalisateur
 Leclerc du Sablon Luc, cinéaste
 Leclerc Jonathan, Ripper
 Leclerc Maxime, Animateur 3D
@@ -2549,7 +2548,7 @@ Lecomte Thierry, Assistant réalisateur.ice
 Leconte Janick, directeur artistique
 Leconte Lucas, Directeur de la photographie
 Lecoq Catherine, comédienne, cinéaste
-Le Cossec Elvire, Réalisatrice
+Le Cossec Elvire, réalisatrice
 Lecoustre Julie, réalisatrice
 Lécurier Inès, Graphiste
 Le Dantec Adeline, productrice
@@ -2565,30 +2564,30 @@ Leffray Julien, électricien plateau
 Leflahi Radouan, acteur
 Lefranc Héloïse, Ingé son
 Lefranc Thibault, Compositeur, monteur son
-Le Fur Mikael, Régisseur
+Le Fur Mikael, régisseur
 Le Gal Arthur, projectionniste
 Legal Christophe, Directeur de la photographie
 Le Gall Jeanne, programmatrice (distribution)
 Le Gall Nils, chef machiniste
 Le Gall Pierre, réalisateur
-Le Gal Rémi, Étalonneur de rushes
+Le Gal Rémi, étalonneur de rushes
 Le Garrec Marie, cheffe décoratrice
 Legaye Brajtman Louise, 1ère assistante caméra
 Legay Louise, salariée de festivals de cinéma
 Leger Cédric, Rippeur
 Leger Thomas, Costumier et Architecte
-Le Goué Irène, Comédienne
+Le Goué Irène, comédienne
 Le Gourrierec Hugo, auteur réalisateur
 Legrand Chloé, Musicienne
 Legros Lola, film commission
 Legros Lucie, Assistante opérateur·ice
 Legrou Garance, comédienne
 Le Guen Emeline, 2nde assistante réalisatrice
-Le Guern Bruno, Directeur de casting
+Le Guern Bruno, directeur de casting
 Le Guidec Lizzie, projectionniste
-Le Guillerm Katell, Infographiste
+Le Guillerm Katell, infographiste
 Leguillette Louis, 1er Assistant Caméra
-Le Hingrat Marc, Assistant décorateur
+Le Hingrat Marc, assistant décorateur
 Leiros-Brochard Gaël, électricien de prise de vue
 Lejosne Damien, Chef opérateur image
 Leloup Thomas, Chef opérateur
@@ -2616,7 +2615,7 @@ Lenoir Quentin, perchman
 Lenotte Alix, projectionniste
 Léo Charlotte, comédienne
 Léon Vladimir, réalisateur
-Le Peutrec Françoise, chef monteuse.
+Le Peutrec Françoise, chef monteuse
 Lépine Cédric, critique de cinéma
 Lépingle Gaël, Réalisateur
 Leplay Francis, comédien
@@ -3905,6 +3904,7 @@ Silvestre Benjamin, chef opérateur du son
 Simard Alexandre, Scénariste
 Simkine Antoine, producteur
 Simonet Sylviane, Comédienne
+Simon-Kennedy Kira, productrice
 Simon Laure Lucile, comédienne
 Simon Maïa, Directrice de cinéma
 Simon Maxime, Realisateur

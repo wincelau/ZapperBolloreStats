@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-28 11:38:00
+Dernière mis à jour : 2026-05-28 12:08:07
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -128,6 +128,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 1 nouveau(x) signataire(s) aujourd'hui
 # 
 + langlade nathalie, cheffe monteuse
++ le peutrec françoise, chef monteuse
+- le peutrec françoise, chef monteuse.
 ```
 
 ### Production
@@ -135,7 +137,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ```diff
 1 nouveau(x) signataire(s) aujourd'hui
 # 
+- kira simon-kennedy, productrice
 + lavayssière hervé, producteur et réalisateur
++ simon-kennedy kira, productrice
 ```
 
 ### Réalisation
@@ -2262,7 +2266,7 @@ lefèvre raphaël, monteur, réalisateur
 lefranc thibault, compositeur, monteur son
 le gal rémi, étalonneur de rushes
 lelu sarah, monteuse son
-le peutrec françoise, chef monteuse.
+le peutrec françoise, chef monteuse
 leroux-gipouloux, joran monteur
 leskovec lucka, directrice de post production
 longinotti nicolas, monteur
@@ -2598,7 +2602,6 @@ kachoutina tatiana, productrice
 karli max, producteur
 kawczak clara, productrice
 khalili romeo marianne, productrice
-kira simon-kennedy, productrice
 kohen igal, producteur
 koothan clélia, directrice de production
 kuroda yuki, directrice de production
@@ -2704,6 +2707,7 @@ sebile maxime, technicien de post-production / réalisateur
 servigne alexandra, administratrice de production
 sichov dounia, comédienne, réalisatrice et productrice
 simkine antoine, producteur
+simon-kennedy kira, productrice
 slovo robyn, productrice
 soulignac michèle, productrice
 subramaniyam virginia, productrice
