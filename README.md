@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-28 11:07:51
+Dernière mis à jour : 2026-05-28 11:38:00
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,34 +11,35 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4336**|**+0**|**+114**|**+179**|
-|Acteur.ice, Comédien.ne|[457](#acteurice-comédienne-1)|[+0](#acteurice-comédienne)|||
+|**Tous les signataires**|**4344**|**+8**|**+114**|**+179**|
+|Acteur.ice, Comédien.ne|[458](#acteurice-comédienne-1)|[+1](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+0](#animation)|||
 |Casting|[39](#casting-1)|[+0](#casting)|||
-|Décor|[294](#décor-1)|[+0](#décor)|||
+|Décor|[295](#décor-1)|[+1](#décor)|||
 |Distribution|[25](#distribution-1)|[+0](#distribution)|||
-|Électricien.ne|[154](#Électricienne-1)|[+0](#Électricienne)|||
-|Exploitation|[224](#exploitation-1)|[+0](#exploitation)|||
+|Électricien.ne|[156](#Électricienne-1)|[+2](#Électricienne)|||
+|Exploitation|[225](#exploitation-1)|[+1](#exploitation)|||
 |Habillage, maquillage, coiffure|[126](#habillage-maquillage-coiffure-1)|[+1](#habillage-maquillage-coiffure)|||
 |Image|[399](#image-1)|[+0](#image)|||
 |Machiniste|[82](#machiniste-1)|[+0](#machiniste)|||
-|Post production|[306](#post-production-1)|[+0](#post-production)|||
-|Production|[324](#production-1)|[+0](#production)|||
-|Réalisation|[1075](#réalisation-1)|[+1](#réalisation)|||
+|Post production|[307](#post-production-1)|[+1](#post-production)|||
+|Production|[325](#production-1)|[+1](#production)|||
+|Réalisation|[1078](#réalisation-1)|[+4](#réalisation)|||
 |Régie|[160](#régie-1)|[+0](#régie)|||
 |Scénariste|[215](#scénariste-1)|[+0](#scénariste)|||
 |Son|[328](#son-1)|[+0](#son)|||
-|Autres|[545](#autres-1)|[+-2](#autres)|||
+|Autres|[544](#autres-1)|[+-3](#autres)|||
 
 ## Derniers signataires 
 
-0 nouveau(x) signataire(s) aujourd'hui
+8 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
++ larcher laurent, comédien
 ```
 
 ### Animation
@@ -58,8 +59,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
++ lacoue-labarthe izaac, chef décorateur
++ langelin clément, menuisier et traceur de décors
+- langelin clément, menuisier, traceur de décors
++ lavedrine berengere, 1er assistant décorateur·rice
+- lavedrine berengere, 1er assistant décorateur.rice
 ```
 
 ### Distribution
@@ -72,15 +78,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
++ lauras perrine, électricienne
++ laurent antonin, électricien
 ```
 
 ### Exploitation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
+- lanni dimitri, programmateur, chercheur indépendant
++ lanni dimitri, programmateur et chercheur indépendant
++ laurichesse rémi, projectionniste
 ```
 
 ### Habillage, maquillage, coiffure
@@ -93,6 +104,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - kinebanyan alexis, maquilleur, sculpteur
 - koch mathilde, habilleuse/costumiere
 + koch mathilde, habilleuse et costumière
++ lamazère perrine, costumière et styliste
+- lamazère perrine, costumière, styliste
 ```
 
 ### Image
@@ -112,27 +125,34 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
++ langlade nathalie, cheffe monteuse
 ```
 
 ### Production
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+1 nouveau(x) signataire(s) aujourd'hui
 # 
++ lavayssière hervé, producteur et réalisateur
 ```
 
 ### Réalisation
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
 - guillin clemence, réalisatrice et diffusion
 + guillin clémence, réalisatrice et diffusion
 - klein astrid s., réalisatrice, artiste
 + klein astrid s., réalisatrice et artiste
 + lachaise joris, réalisateur
++ lacince auriane, 1e assistante à la réalisation
+- lacince auriane, 1ère assistante à la réalisation
++ lagier leslie, cinéaste
++ laloui julie, assistante réalisatrice
++ lavayssière hervé, producteur et réalisateur
 ```
 
 ### Régie
@@ -156,17 +176,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ```diff
 0 nouveau(x) signataire(s) aujourd'hui
 # 
++ languille plume, assistant son et musicien
+- languille plume, assistant son, musicien
 ```
 
 ### Autres
 
 ```diff
--2 nouveau(x) signataire(s) aujourd'hui
+-3 nouveau(x) signataire(s) aujourd'hui
 # 
 - gréban milo, cinéma
 - kieffer pauline, ostumière
 - konsler clément, étudiant, assistant acquisition
 + konsler clément, étudiant et assistant acquisition
+- lagrange aimée, artiste chorégraphique
 ```
 
 
@@ -424,6 +447,7 @@ lama schmit clara, comédienne
 lambouley louis-martin, comédien
 lamoitier édouard, acteur
 landon barret léo, actrice et autrice
+larcher laurent, comédien
 lavalou virginie, comédienne
 lazic manuela, comédienne
 le bars alain, comédien
@@ -883,12 +907,13 @@ journo norbert, chef décorateur
 jullien corinne, peintre déco
 kubler morgane, accessoiriste plateau
 laading camille, décoratrice
+lacoue-labarthe izaac, chef décorateur
 lamy camille, assistante accessoiriste
 lancian frederic, rippeur
-langelin clément, menuisier, traceur de décors
+langelin clément, menuisier et traceur de décors
 larroque ninon, accessoiriste
 lautout thierry, chef décorateur
-lavedrine berengere, 1er assistant décorateur.rice
+lavedrine berengere, 1er assistant décorateur·rice
 le bacquer adèle, peintre déco
 leclerc jonathan, ripper
 lecomte célia, peintre
@@ -1138,6 +1163,8 @@ lapauw ambre, électricienne
 lardeux ambre, électro
 laroche angèle, électricienne de prise de vues cinéma
 laroche loïc, chef électricien
+lauras perrine, électricienne
+laurent antonin, électricien
 lauvergne diego, électricien
 laville julien, électricien
 leffray julien, électricien plateau
@@ -1329,8 +1356,9 @@ ladet marion, programmatrice
 laguna jumaï, programmatrice
 lahbabi caroline, exploitante
 langlois solène, projectionniste
-lanni dimitri, programmateur, chercheur indépendant
+lanni dimitri, programmateur et chercheur indépendant
 lassole claire, programmatrice
+laurichesse rémi, projectionniste
 le gal arthur, projectionniste
 le gall jeanne, programmatrice (distribution)
 le guidec lizzie, projectionniste
@@ -1509,7 +1537,7 @@ koch mathilde, habilleuse et costumière
 lacroix lucie, habilleuse
 laffargue ségolène, costumière
 lainé frédéric, maquilleur
-lamazère perrine, costumière, styliste
+lamazère perrine, costumière et styliste
 laskar sylvie, chef costumière
 le boeuf nolwenn, cheffe costumière
 lebourgeois charlotte, cheffe costumière
@@ -2225,6 +2253,7 @@ kergoat yannick, monteur et réalisateur
 kharitonnoff dimitri, monteur son
 krebs sébastien, monteur  
 lacheray julien, monteur
+langlade nathalie, cheffe monteuse
 lapergue cécile, monteuse
 lary alice, monteuse
 launay aloyse, monteuse son
@@ -2580,6 +2609,7 @@ laemlé camille, productrice
 lafont christophe, producteur
 lajoumard claire-agnès, productrice
 langmann claire, directrice de production
+lavayssière hervé, producteur et réalisateur
 lebecque nicolas, producteur
 le dantec adeline, productrice
 lemaire etienne, assistant de production
@@ -3299,12 +3329,14 @@ laboury william, réalisateur
 lacaille xavier, auteur, acteur et réalisateur
 lacaze jean-marc, réalisateur
 lachaise joris, réalisateur
-lacince auriane, 1ère assistante à la réalisation
+lacince auriane, 1e assistante à la réalisation
 lacombe gilles, producteur spécialisé réalisateur
 lacoste thomas, réalisateur
 lada camille, scripte
+lagier leslie, cinéaste
 laglisse théo, cinéaste
 lallet philippe, réalisateur et documentariste
+laloui julie, assistante réalisatrice
 lambert duluc, réalisateur
 lambert olivier, réalisateur
 lamothe daisy, réalisatrice
@@ -3322,6 +3354,7 @@ latouche bertrand, réalisateur
 laudenbach sébastien, réalisateur
 laurent gabriel, réalisateur
 laut camille, scripte
+lavayssière hervé, producteur et réalisateur
 lazarevski georgi, réalisateur
 lazar florence, réalisatrice
 lazarus lazare, artiste et cinéaste
@@ -4375,7 +4408,7 @@ lacour dominique, chef opérateur son
 ladeveze frédéric, ingénieur du son
 laforce clément, mixeur
 lagabbe louise, ingénieure du son
-languille plume, assistant son, musicien
+languille plume, assistant son et musicien
 laporte olivier, chef opérateur son
 lardiere audrey, assistante son
 larivet karine, musicienne
@@ -4828,7 +4861,6 @@ lacarra jean-louis, chef-constructeur
 lacurie occitane, critique
 lafaye louna, serrurier
 lafond melodie, dessinatrice
-lagrange aimée, artiste chorégraphique
 langlois hélène, artiste
 laraison katya, membre du collectif sous les écrans la dèche
 larue amandine, déléguée générale
